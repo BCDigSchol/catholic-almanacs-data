@@ -83,31 +83,33 @@
 ﻿whe.va.0002_02,﻿school,﻿St. Alphonsus' Boys' Schools,English,,﻿German church,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿student,﻿150 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0002_03,﻿school,﻿St. Alphonsus' Girls' Schools,English,,,,,,,,,,40.0610267,-80.7237172,,,,,,,,,,﻿student,﻿180 pupils,﻿under Sisters of St. Joseph,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086_02,﻿seminary,﻿St. Vincent's Seminary,English,,﻿connected with the College,,,,,,,,40.0780503,-80.7270944,,,,,,,,,,﻿young man,"﻿now counts 14 young men, of whom 6 are students of theology, 3 of philosophy. The rest, with several younger pupils, are making their preparatory studies for the sacred ministry",,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿aug_p_louage_001,﻿Rev.,﻿A. Louage,,﻿President,,﻿assistant,﻿several of the ecclesiastical students,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿joh_curly_001,﻿Rev.,﻿John Curly,,﻿Professor,,﻿student,﻿110 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿schnurrer_001,﻿Mr.,﻿Schnurrer,,﻿Professor,,﻿boarder,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿amb_martin_001,﻿Rev.,﻿Amb. Martin,,﻿Professor,,﻿boarder,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿rob_keleher_001,﻿Rev.,﻿Robt. Keleher,,﻿Professor,,﻿boarder,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,,,,40.069444,-80.693889,,,,,﻿Mother,﻿Mary Michaella Jenkins,,﻿Superior,,﻿religious,﻿numbering upward of 30 professed sisters,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,,,,40.069444,-80.693889,,,,,,,,,,﻿religious,﻿10 novices,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,,,,40.078681,-80.6789839,,,,,﻿Mother,﻿Jane Frances de Chantal,,﻿Superior,,﻿religious,﻿9 professed sisters,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿aug_p_louage_001,﻿Rev.,﻿A. Louage,,﻿President,,﻿young man,﻿several of the ecclesiastical students,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿joh_curly_001,﻿Rev.,﻿John Curly,,﻿Professor,,﻿young man,﻿110 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿schnurrer_001,﻿Mr.,﻿Schnurrer,,﻿Professor,,﻿young man,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿amb_martin_001,﻿Rev.,﻿Amb. Martin,,﻿Professor,,﻿assistant,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,﻿The College has just been opened,,,,,,,,,40.0780503,-80.7270944,,,,﻿rob_keleher_001,﻿Rev.,﻿Robt. Keleher,,﻿Professor,,﻿student,﻿about 20 of pupils are boarders,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,,,,40.069444,-80.693889,,,,,﻿Mother,﻿Mary Michaella Jenkins,,﻿Superior,,﻿boarder,﻿numbering upward of 30 professed sisters,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,,,,40.069444,-80.693889,,,,,,,,,,﻿boarder,﻿10 novices,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,,,,40.078681,-80.6789839,,,,,﻿Mother,﻿Jane Frances de Chantal,,﻿Superior,,,﻿9 professed sisters,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,,,,40.078681,-80.6789839,,,,,,,,,,﻿religious,﻿10 novices,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,,,,40.078681,-80.6789839,,,,,,,,,,﻿religious,﻿9 postulants,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,﻿Mother,﻿Apollonia Digges,,﻿Superior,,﻿religious,﻿8 professed sisters,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿2 novices,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿1 postulant,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0089_02,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿student,"﻿numbering about 80 pupils, some of whom are boarders",,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0091,﻿academy,﻿Classical Academy,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,﻿Professor Burke,,﻿Professor,﻿in charge of,﻿student,﻿upward of 70 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0092,﻿school,﻿parish school for boys,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿child,﻿about 90 boys,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0093,﻿school,﻿parish school for girls,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿child,﻿about 90 girls,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0108,"﻿academy, school",﻿Academy for Young Ladies and parish school,English,﻿just opened,,,﻿Kanawha County,,﻿Charleston,,,,,,,,,,,,,,,,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0095,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Grafton,,,,,,,,,,,,,,,﻿student,﻿100 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0096,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Mason City,,,,,,,,,,,,,,,﻿student,﻿50 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0089_02,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,"﻿numbering about 80 pupils, some of whom are boarders",,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0091,﻿academy,﻿Classical Academy,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,﻿Professor Burke,,﻿Professor,﻿in charge of,﻿religious,﻿upward of 70 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0092,﻿school,﻿parish school for boys,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿about 90 boys,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0093,﻿school,﻿parish school for girls,English,,,,,,﻿Parkersburgh,,,,39.2667418,-81.5615135,,,,,,,,,,﻿student,﻿about 90 girls,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0108,"﻿academy, school",﻿Academy for Young Ladies and parish school,English,﻿just opened,,,﻿Kanawha County,,﻿Charleston,,,,,,,,,,,,,,,﻿student,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0095,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Grafton,,,,,,,,,,,,,,,﻿child,﻿100 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0096,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Mason City,,,,,,,,,,,,,,,﻿child,﻿50 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0097,﻿school,﻿Catholic Boys' and Girls' School,English,,﻿Marshall County Settlement,,﻿Marshall,,,,,,,,,,,,,,,,,,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0098,﻿school,﻿Catholic Boys' and Girls' School,English,,﻿near Wheeling,,,,﻿Benwood,,,,,,,,,,,,,,,,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0098,﻿school,﻿Catholic Boys' and Girls' School,English,,﻿near Wheeling,,,,﻿Benwood,,,,,,,,,,,,,,,﻿student,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0099,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Weston,,,,,,,,,,,,,,,﻿student,﻿60 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0100,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Eaton's Tunnel,,,,,,,,,,,,,,,﻿student,﻿about 100 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0101,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Walker's Station,,,,,,,,,,,,,,,﻿student,﻿about 35 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0100,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Eaton's Tunnel,,,,,,,,,,,,,,,,﻿about 100 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0101,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Walker's Station,,,,,,,,,,,,,,,,﻿about 35 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0102,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Pennsborough,,,,,,,,,,,,,,,﻿student,﻿45 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0104,﻿school,﻿Catholic Boys' and Girls' School,English,,,,,,﻿Newburgh,,,,,,,,,,,,,,,﻿student,﻿35 pupils,,,1867,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0105,﻿school,﻿Catholic Boys' and Girls' School,English,,,,﻿Doddridge,,,,,,,,,,,,,,,,,,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0105,﻿school,﻿Catholic Boys' and Girls' School,English,,,,﻿Doddridge,,,,,,,,,,,,,,,,,﻿student,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0105,﻿school,﻿Catholic Boys' and Girls' School,English,,,,﻿Doddridge,,,,,,,,,,,,,,,,,﻿student,,,,1867,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0105,﻿school,﻿Catholic Boys' and Girls' School,English,,,,﻿Doddridge,,,,,,,,,,,,,,,,,﻿student,,,,1867,﻿,﻿,﻿Wheeling,Wheeling

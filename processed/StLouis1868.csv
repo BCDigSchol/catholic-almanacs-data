@@ -279,8 +279,9 @@
 ﻿stl.mo.0014_02,﻿school,﻿St. Liborius',English,,,,,,,,﻿MO,,38.6494069,-90.2176862,,,,,,,,,,﻿student,﻿300 pupils,﻿conducted by secular teachers and Sisters of Notre Dame,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006_02,﻿school,﻿Holy Trinity,English,,,,,,,,﻿MO,,38.6630835,-90.2013781,,,,,,,,,,﻿student,﻿400 pupils,﻿conducted by secular teachers and Sisters of St. Francis,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0018_02,﻿school,﻿Assumption Schools,English,,,,,,,,﻿MO,,38.6040286,-90.2190133,,,,,,,,,,﻿undefined (presumably pupils?),﻿350,﻿conducted by secular teachers and Sisters of St. Joseph,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0016_02,﻿school,﻿St. Malachy Schools,English,,,,,,,,﻿MO,,38.7120004,-90.2479784,,,,,,,,,,﻿child,﻿100 boys,﻿conducted by secular teachers,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0017_02,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,,﻿MO,,38.6237125,-90.2257213,,,,,,,,,,﻿child,﻿100,﻿Sisters of Sacred Heart,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0016_02,﻿school,﻿St. Malachy Schools,English,,,,,,,,﻿MO,,38.7120004,-90.2479784,,,,,,,,,,﻿undefined (presumably pupils?),﻿100 boys,﻿conducted by secular teachers,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0017_02,﻿school,﻿Annunciation School,English,﻿for girls,,,,,,,﻿MO,,38.6237125,-90.2257213,,,,,,,,,,﻿undefined (presumably pupils?),﻿100,﻿Sisters of Sacred Heart,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0017_03,﻿school,﻿Annunciation School,English,﻿for boys,,,,,,,﻿MO,,38.6237125,-90.2257213,,,,,,,,,,﻿child,﻿200,﻿Christian Brothers,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.3109674,,,,,,,,,,﻿student,﻿300 pupils,﻿Christian Brothers,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.3109674,,,,,,,,,,﻿child,﻿300 pupils,﻿Christian Brothers,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.3109674,,,,,,,,,,﻿child,﻿300 pupils,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0048_02,﻿school,﻿St. Mary's School,English,,,,,,﻿Carondelet,﻿St. Louis,﻿MO,,38.6321029,-90.3109674,,,,,,,,,,﻿student,﻿300 pupils,﻿Sisters of St. Joseph,,1868,﻿,﻿,﻿St. Louis,StLouis
