@@ -167,13 +167,13 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_martin_001,﻿Rev.,﻿E. Martin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿f_quin_001,﻿Rev.,﻿F. Quin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001_02,﻿cathedral,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001_02,﻿cathedral,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿cathedral,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0004_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0004_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_02,﻿free school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿pupil,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0308_02,﻿free school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0330,﻿school,﻿St. Joseph's School,English,,,,,,,,,,,,,,,,,,,,,,,﻿directed by a pious gentleman,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,﻿Mother of the Annunciation,,﻿Superior,,﻿religious,"﻿religious, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -183,10 +183,10 @@
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿free school,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0007_02,﻿free school,not recorded,English,,﻿Immaculate Conception,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.514753,-81.66101,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0006_02,﻿free school,not recorded,English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.408659,-81.759543,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0003_02,﻿free school,not recorded,English,,﻿St. Mary's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,,,,,,,﻿children,"﻿children, 300",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0002_02,﻿free school,not recorded,English,,﻿St. Patrick's,,,,,﻿Cleveland,,,41.483426,-81.711512,,,,,,,,,,﻿children,"﻿children, 350",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0004_03,﻿female school,﻿St. Peter's Female School,English,,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿pupil,"﻿pupils, 200",﻿directed by a pious lady,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0005_02,﻿school,not recorded,English,,﻿St. Joseph's,,,,,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,,,,,,,﻿pupil,"﻿pupils, 300",﻿directed by a pious lady,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0003_02,﻿free school,not recorded,English,,﻿St. Mary's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,,,,,,,﻿child,"﻿children, 300",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002_02,﻿free school,not recorded,English,,﻿St. Patrick's,,,,,﻿Cleveland,,,41.483426,-81.711512,,,,,,,,,,﻿child,"﻿children, 350",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0004_03,﻿female school,﻿St. Peter's Female School,English,,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿student,"﻿pupils, 200",﻿directed by a pious lady,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0005_02,﻿school,not recorded,English,,﻿St. Joseph's,,,,,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,,,,,,,﻿student,"﻿pupils, 300",﻿directed by a pious lady,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,﻿Mother,﻿Alphonse,,﻿Superioress,,﻿religious,"﻿religious, 14",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿religious,"﻿novices, 6",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿student,"﻿pupils, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland

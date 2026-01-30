@@ -170,10 +170,10 @@
 ﻿bos.ma.0211,﻿asylum,﻿Orphan Asylum,English,,﻿Camden street,,,,﻿Boston,﻿Boston,﻿MA,,42.33834,-71.081867,,,,,,,,,,﻿religious,﻿11 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.278064,-71.065935,,,,,,,,,,﻿religious,﻿7 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0217,﻿hospital,﻿Carney Hospital,English,,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.278064,-71.065935,,,,,,,,,,﻿patient,﻿25 patients,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿sister (select school),﻿6 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿pupil (select school),﻿64 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿sister (night school),﻿11 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿pupil (night school),﻿227 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿religious,﻿6 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿student,﻿64 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿religious,﻿11 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0200,﻿academy,﻿Academy,English,,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿student,﻿227 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿school,﻿Academy,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿teacher,﻿9 teachers,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿school,﻿Academy,English,,﻿Lancaster Street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,﻿student,﻿592 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010_02,﻿school,not recorded,English,﻿2 schools,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,,,,,,﻿religious,﻿26 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -183,7 +183,7 @@
 ﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,not recorded,English,,﻿Church of the Holy Trinity (German),,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿student,﻿213 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿boarder,﻿40 boarders,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿pupil (free school),﻿100 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿student,﻿100 pupils,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,﻿school,not recorded,English,,,,,,﻿Roxbury,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿religious,﻿7 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,42.520512,-70.905132,,,,,,,,,,﻿religious,﻿5 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151_03,﻿school,not recorded,English,,﻿St. James' Church (2 free schools),,,,,﻿Salem,﻿MA,,42.520512,-70.905132,,,,,,,,,,﻿student,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -203,6 +203,6 @@
 ﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,,,,,,﻿layperson,﻿1 lay sister,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿religious,﻿8 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿student,﻿560 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿pupil (at evening school for girls),﻿110 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿student,﻿110 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿Church of the Immaculate Conception,,,,,,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿teacher,﻿4 teachers,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿Church of the Immaculate Conception,,,,,,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿student,﻿260 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

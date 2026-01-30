@@ -250,7 +250,7 @@
 ﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Female,English,,,,﻿Rochester,,,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Under the charge of the Sisters of Charity,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0207,﻿school,﻿St. Mary's Female,English,,,,﻿Rochester,,,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the charge of the Sisters of Mercy,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002_02,﻿school,﻿St. Joseph's Female,English,,,,﻿Rochester,,,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿pupils, 440",﻿Under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Male,English,,,,﻿Rochester,,,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿brother of mercy,﻿4 Brothers of Mercy,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Male,English,,,,﻿Rochester,,,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿religious,﻿4 Brothers of Mercy,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Male,English,,,,﻿Rochester,,,,﻿NY,,43.15950691,-77.60659865,,,,,,,,,,﻿student,"﻿pupils, 473",,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0208_02,﻿school,﻿St. Peter's Female,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0208_03,﻿school,﻿St. Peter's Male,English,﻿under secular teachers,,,,,,,,,,,,,,,,,,,,﻿student,"﻿pupils, 200",,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -268,7 +268,7 @@
 ﻿buf.ny.0162_02,﻿asylum,"﻿St. Mary's Asylum for Widows, Foundlings, and Infants",English,﻿Orphans,,,,,﻿Buffalo,,﻿NY,,42.89599044,-78.87686985,,,,,,,,,,﻿religious,﻿9 Sisters of Charity,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0162_02,﻿asylum,"﻿St. Mary's Asylum for Widows, Foundlings, and Infants",English,﻿Orphans,,,,,﻿Buffalo,,﻿NY,,42.89599044,-78.87686985,,,,,,,,,,﻿widow or patient,"﻿widows and patients, 35",,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿Buffalo,,﻿NY,,42.89576277,-78.87497557,,,,,﻿Sister,﻿Magdalen,﻿Superior,,,﻿religious,"﻿sisters, 18",﻿under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0163,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿Buffalo,,﻿NY,,42.89576277,-78.87497557,,,,,,,,,,﻿postulant and novice,"﻿postulants and novices, 9",﻿under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0163,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿Buffalo,,﻿NY,,42.89576277,-78.87497557,,,,,,,,,,﻿religious,"﻿postulants and novices, 9",﻿under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿Buffalo,,﻿NY,,42.89576277,-78.87497557,,,,,,,,,,﻿student,"﻿deaf and dumb pupils, 12",﻿under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163,﻿asylum,﻿Deaf and Dumb Asylum,English,,,,,,﻿Buffalo,,﻿NY,,42.89576277,-78.87497557,,,,,,,,,,﻿student,"﻿other pupils, 60",﻿under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0069,﻿asylum,﻿St. Mary's Orphan Boys' Asylum,English,,,,,,,﻿Rochester,﻿NY,,43.14927278,-77.63696056,,,,,﻿Sister,﻿Stanislaus Leary,,﻿Superior,,﻿child,﻿100 Orphans,﻿Under the charge of the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -291,7 +291,7 @@
 ﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿religious,﻿12 novices,﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿religious,"﻿postulants, 2",﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿patient,﻿50 during the year,﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿patient average,﻿average 35 or 40,﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿patient,﻿average 35 or 40,﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0169_01,﻿hospital,"﻿St. Francis' Hospital, or Home for the Destitute and Infirm",English,,﻿Pine street,,,,﻿Buffalo,,﻿NY,,42.88708771,-78.86417354,,,,,,,,,,﻿accomodated,﻿the hospital can accomodate about 150,﻿under charge of the Sisters of St. Francis of Assisium,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0169_02,﻿convent,﻿Convent of St. Francis Assisium,English,,﻿Batavia Street,,,,﻿Buffalo,,﻿NY,,,,,,,,﻿Sister,﻿Mary Margaret,,﻿Superioress,,﻿religious,﻿6 professed,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0169_02,﻿convent,﻿Convent of St. Francis Assisium,English,,﻿Batavia Street,,,,﻿Buffalo,,﻿NY,,,,,,,,,,,,,﻿religious,﻿12 novices,,,1866,﻿,﻿,﻿Buffalo,Buffalo
