@@ -39,7 +39,7 @@
 ﻿stl.mo.0014,﻿church,﻿St. Liborius',﻿German,﻿residence adjoining,﻿Seventhteenth and North Market streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.64737359,﻿-90.19841424,,,,﻿e_hoeynck_001,﻿Rev.,﻿E. Hoeynck,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0015,﻿church,﻿St. John Nepomuk,﻿Bohemian,﻿residence adjoining,﻿Rosati and Soulard streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6104333,﻿-90.204319,,,,﻿j_hessoun_001,﻿Rev.,﻿J. Hessoun,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62960152,﻿-90.22180164,,,,﻿ch_ziegler_001,﻿Rev.,﻿Ch. Ziegler,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62960152,﻿#REF!,,,,,﻿Rev.,﻿— Dunn,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0016,﻿church,﻿St. Malachy's,English,﻿residence adjoining,﻿Clark and Summit avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.62960152,﻿#REF!,,,,﻿dunn_01,﻿Rev.,﻿— Dunn,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,﻿-90.19499772,,,,﻿d_phelan_001,﻿Rev.,﻿D. Phelan,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0017,﻿church,﻿Annunciation,English,﻿residence adjoining,"﻿Sixth street, near Chouteau avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.6237125,﻿-90.19499772,,,,﻿e_kelly_001,﻿Rev.,﻿E. Kelly,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0018,﻿church,﻿Assumption,English,﻿residence adjoining,"﻿Sydney street, near Seventh street",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.60141904,﻿-90.20862377,,,,﻿j_fox_001,﻿Rev.,﻿J. Fox,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
@@ -180,13 +180,13 @@
 ﻿stl.mo.0136,﻿church,﻿St. Genevieve's,English,,,,﻿St. Genevieve County,,,,﻿MO,,37.9786618,﻿-90.0475582,,,,﻿f_x_weiss_001,﻿Rev.,﻿F. X. Weiss,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0137,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,,,,﻿MO,,40.2644884,﻿-91.6276604,,,,﻿j_gleason_001,﻿Rev.,﻿J. Gleason,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0138,﻿church,"﻿St. Mary's, Help of Christians",English,,﻿near Loose Creek Station,,﻿,,,,﻿MO,,38.5080888,﻿-91.957391,﻿stl.mo.0090,﻿Attended from Loose Creek,,,,,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0139,﻿church,﻿St. Thomas,English,,,,﻿Cole County,,﻿St. Thomas,﻿St. Thomas,﻿MO,,38.3683685,﻿-92.2168456,,,,﻿a_meyer_001,﻿Rev.,﻿A. Meyer,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0139,﻿church,﻿St. Thomas,English,,,,﻿Cole County,,﻿St. Thomas,﻿St. Thomas,﻿MO,,38.3683685,﻿-92.2168456,,,,﻿a_meyer_002,﻿Rev.,﻿A. Meyer,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0140,﻿church,﻿Station,English,,,,﻿Morgan County,,﻿Syracuse,﻿Syracuse,﻿MO,,38.6700209,﻿-92.8732509,﻿stl.mo.0123,﻿Attended occasionally from Sedalia,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0141,﻿church,﻿St. Andrew's,English,,,,﻿Moniteau County,,﻿Tipton,﻿Tipton,﻿MO,,38.6539924,﻿-92.78032,,,,﻿b_killner_001,﻿Rev.,﻿B. Killner,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0142,﻿church,not recorded,English,,,,﻿Scott County,,﻿Tywappity Bottom,﻿Mississippi County,﻿MO,,37.9642529,﻿-91.8318334,﻿stl.mo.0103,﻿Attended from New Madrid,,,,,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0143,﻿church,﻿St. Mary's,English,,,,﻿Johnson County,,﻿Warrensburgh,﻿Warrensburg,﻿MO,,38.7627893,﻿-93.7360498,,,,﻿h_murray_001,﻿Rev.,﻿H. Murray,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,﻿-91.0120878,,,,﻿m_seisl_001,﻿Rev.,﻿M. Seisl,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,﻿-91.0120878,,,,﻿ale_mathauschek_001,﻿Rev.,﻿Alexander Mathauschek,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,﻿-91.0120878,,,,﻿a_mathausheck_001,﻿Rev.,﻿Alexander Mathauschek,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,﻿-91.0120878,,,,﻿j_a_bauhaus_001,﻿Rev.,﻿J. A. Bauhaus,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.5581072,﻿-91.0120878,,,,﻿pet_grietens_001,﻿Rev.,﻿P. M. Grietens,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0145,﻿church,not recorded,English,,,,﻿Warren County,,﻿Warrentown,﻿Warrentown,﻿MO,,38.8211845,﻿-91.1391977,﻿stl.mo.0101,﻿Attended from Montgomery City,,,,,,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
@@ -223,7 +223,7 @@
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.8015231,﻿-90.36481759,,,,﻿j_f_tehan_001,﻿Rev.,﻿J. F. X. Tehan,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.8015231,﻿-90.36481759,,,,﻿m_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.8015231,﻿-90.36481759,,,,﻿ph_roas_001,﻿Rev.,﻿Ph. Roas,﻿S.J.,,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.615628,﻿-90.194069,,,,,﻿Madame,﻿M. J. Gallwey,,﻿Superior,,﻿student,"﻿Number of pupils, 140",,,1870,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.615628,﻿-90.194069,,,,﻿m_j_gallway_001,﻿Madame,﻿M. J. Gallwey,,﻿Superior,,﻿student,"﻿Number of pupils, 140",,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.615628,﻿-90.194069,,,,,,,,,,﻿student,"﻿Community, 52",,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0150,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.615628,﻿-90.194069,,,,,,,,,,﻿student,"﻿Pupils in the parish school, 140",,,1870,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0151,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿St. Charles,﻿St. Charles,﻿MO,,38.78676633,﻿-90.48145169,,,,,﻿Madame,﻿Miller,,﻿Superior,,,,,,1870,﻿,﻿,﻿St. Louis,StLouis
