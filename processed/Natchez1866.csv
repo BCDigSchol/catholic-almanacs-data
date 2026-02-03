@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,﻿V.G.,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿cha_van-quekelberge_001,﻿Rev.,﻿Charles L. Vanqueckelberge,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,,,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,,,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,﻿V.G.,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,,,,,,﻿cha_van-quekelberge_001,﻿Rev.,﻿Charles L. Vanqueckelberge,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0002,﻿church,not recorded,English,﻿new church,,,﻿Monroe County,,﻿Aberdeen,﻿Aberdeen,﻿MS,,33.825114,-88.543655,﻿nat.ms.0019,﻿Visited from Colombus,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0005,﻿church,not recorded,English,,,,﻿Copiah County,,﻿Bahala,﻿Wesson,﻿MS,,31.699167,-90.396944,﻿nat.ms.0013,﻿Visited from Brookhaven,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0006,﻿church,not recorded,English,,,,﻿Choctaw County,,﻿Bankston,﻿French Camp,﻿MS,,33.397222,-89.366667,﻿nat.ms.0019,﻿Visited from Columbus,﻿Occasionally,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
@@ -20,7 +20,7 @@
 ﻿nat.ms.0021,﻿church,not recorded,English,,,,﻿Kemper County,,﻿De Kalb,﻿De Kalb,﻿MS,,32.767633,-88.650878,﻿nat.ms.0019,﻿Visited from Columbus,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0022,﻿church,not recorded,English,,,,,﻿Yazoo County,﻿Dover,﻿Bentonia,﻿MS,,32.693944,-90.3245,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0023,﻿church,not recorded,English,,,,﻿Holmes County,,﻿Ebenezer,﻿Ebenezer,﻿MS,,32.970556,-90.090833,﻿nat.ms.0087,﻿Visited from Yazoo City,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0112,﻿church,not recorded,English,,,,﻿Clark County,﻿Clarke County,﻿Enterprise,﻿Enterprise,﻿MS,,30.308808,-89.330046,﻿nat.ms.0060,﻿attended from Paulding,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0112,﻿church,not recorded,English,,,,﻿Clark County,﻿Clarke County,﻿Enterprise,﻿Enterprise,﻿MS,,,,﻿nat.ms.0060,﻿attended from Paulding,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0025,﻿church,not recorded,English,,,,﻿Warren County,,﻿Fairfield Plantation,﻿Vicksburg,﻿MS,,32.3023,-90.8751,﻿nat.ms.0060,﻿attended from Paulding,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0026,﻿church,not recorded,English,,,,﻿Jefferson County,,﻿Fayette,﻿Fayette,﻿MS,,31.711553,-91.060661,﻿nat.ms.0079,﻿Vicksburgh,﻿once in two months,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0027,﻿church,not recorded,English,,,,﻿Wilkinson County,,﻿Fort Adams,﻿Fort Adams,﻿MS,,31.086389,-91.548056,﻿nat.ms.0001,﻿visited from Natchez,,,,,,,,,,,,1866,﻿,﻿,﻿Natchez,Natchez
