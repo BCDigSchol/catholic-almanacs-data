@@ -19,7 +19,7 @@
 ﻿nyc.ny.0044,﻿church,﻿St. James',English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿mic_farrell_901,﻿Rev.,﻿Michael Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9004,﻿church,﻿St. Nicholas,English,﻿German,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James',English,"﻿""L.I.""",,,,﻿Kings County,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,40.697056,-73.986667,,,,﻿joh_walsh_901,﻿Rev.,﻿John Walsh,,,,,,,,1839,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._James_(Brooklyn) ; https://brooklyncathedral.org/history,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0001,﻿church,﻿St. James',English,"﻿""L.I.""",,,,﻿Kings County,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.697056,-73.986667,,,,﻿phi_gillick_902,﻿Rev.,﻿Philip Gillick,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0001,﻿church,﻿St. James',English,"﻿""L.I.""",,,,﻿Kings County,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.697056,-73.986667,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0002,﻿church,﻿St. Paul's,English,,,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,,,,,,﻿ric_waters_902,﻿Rev.,﻿Richard Waters,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿jos_b_schneller_901,﻿Rev.,﻿Joseph Schneller,,,,,,,,1839,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿pat_bradley_901,﻿Rev.,﻿P. Bradley,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -89,11 +89,11 @@
 ﻿alb.ny.0143,﻿church,not recorded,English,,,,,,﻿Hoosicksfalls,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0143,﻿church,not recorded,English,,,,,,﻿Shahaticoque,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0295,﻿church,﻿St. John's,English,,,,,,﻿Utica,,﻿NY,,,,,,﻿every Sunday,﻿wal_j_quarters_901,﻿Rev.,﻿Walter Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0039,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Binghampton,,﻿NY,,,,,,﻿occasionally,﻿w_quarter_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0166,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Little Falls,,﻿NY,,,,,,﻿occasionally,﻿w_quarter_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0166,﻿chapel,not recorded,English,﻿private chapel,,,,,﻿Newport,,﻿NY,,,,,,﻿occasionally,﻿w_quarter_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0166,﻿chapel,not recorded,English,﻿private chapel,,,,,﻿Shiler,,﻿NY,,,,,,﻿occasionally,﻿w_quarter_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0095,﻿church,not recorded,English,,,,,,﻿Deerfield,,﻿NY,,,,,,﻿occasionally,﻿w_quarter_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0039,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Binghampton,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0166,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Little Falls,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0166,﻿chapel,not recorded,English,﻿private chapel,,,,,﻿Newport,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0166,﻿chapel,not recorded,English,﻿private chapel,,,,,﻿Shiler,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0095,﻿church,not recorded,English,,,,,,﻿Deerfield,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,not recorded,English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,,﻿maguire_901,﻿Rev. Mr.,﻿Maguire,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0007,﻿church,not recorded,English,,,,,,﻿Williamsburg,﻿Brooklyn,﻿NY,,40.70964783,-73.93966508,,,,,,,,,﻿Vacant,,,,,1839,﻿https://www.trinity-stmary.org/our-historic-church,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0007,﻿church,not recorded,English,,,,,,﻿Flushing,﻿Brooklyn,﻿NY,,40.76013678,-73.83251739,,,,,,,,,﻿Vacant,,,,,1839,﻿https://stmichaelsflushing.org/about/history,﻿,﻿,﻿New York,NewYorkCity
