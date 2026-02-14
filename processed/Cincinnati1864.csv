@@ -45,7 +45,7 @@
 ﻿cin.oh.0296,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿b_gelss_001,﻿Rev.,﻿B. Gelss,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0016,﻿church,﻿Holy Angels',English,,,,,,﻿Cincinnati,,﻿OH,,39.118694,-84.491934,,,,﻿o_p_corcoran_001,﻿Rev.,﻿E. P. Corcoran,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0297,﻿church,﻿St. Francis of Sales',English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_j_menge_001,﻿Rev.,﻿J. J. Menge,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0297,﻿church,﻿St. Peter's,English,,﻿Lickrun,,,,﻿Cincinnati,,﻿OH,,,,,"﻿Attended from St. John's, Cincinnati",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0042,﻿church,﻿St. Peter's,English,,﻿Lickrun,,﻿Scioto County,,﻿Cincinnati,,﻿OH,,,,﻿cin.oh.0007,"﻿Attended from St. John's, Cincinnati",,,﻿Rev.,﻿J. Schreiber,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard,,﻿OH,,39.165988,-84.500267,,,,﻿nic_wachter_002,﻿Rev.,﻿Nicholas Wachter,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027,﻿church,﻿St. Aloysius',English,,,﻿Cincinnati,,,﻿Ludlow,﻿Cincinnati,﻿OH,,39.161291,-84.543496,,,,,﻿Rev.,﻿Joseph Witler,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0029,﻿church,﻿St. James',English,,,﻿Cincinnati,,,﻿Mt. Airy,,﻿OH,,39.205131,-84.601679,,,,﻿j_c_krämer_001,﻿Rev.,﻿J. C. Kraemer,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -114,3 +114,113 @@
 ﻿cin.oh.0093,﻿church,﻿St. Mary's,English,,﻿near Minster,,﻿Darke County,,﻿Greenwood,,﻿OH,,40.105657,-84.689749,,,,,﻿Rev.,﻿H. Drees,﻿C.PP.S.,,﻿who also attend St. Mary's Chapel and St. Francis Assisium's,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0032,﻿religious institution,not recorded,English,,,,﻿Franklin County,,﻿Groveport,,﻿OH,,39.853206,-82.888276,,"﻿Attended from St. Patrick's, Columbus",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿f_d_kolb_001,﻿Rev.,﻿Fr. da Paula Kolb,﻿O.S.F.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿a_o_walker_003,﻿Rev.,﻿A. O. Walker,,,﻿who also attends Eaton and Somerville,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0034,﻿religious institution,not recorded,English,,,,,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,,﻿Attended from Ironton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0097,﻿church,﻿St. John's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,,"﻿Attended from St. John's, Cincinnati",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0302,﻿church,not recorded,English,,﻿Heckla Furnaces,,,,,,﻿OH,,,,,﻿Attended from Ironton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0302,﻿church,﻿St. Joseph's and Mary's,English,,﻿Heckla Furnaces,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,,,,,,﻿jos_albrecht_001,﻿Rev.,﻿J. M. Albrecht,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0302,﻿church,﻿St. Joseph's and Mary's,English,,﻿Heckla Furnaces,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,,,,,,,﻿Rev.,﻿Ethard Glueck,﻿C.PP.S.,,"﻿who also attend St. Joseph's, St. Henry's, and St. Wendelin's",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Mary's,English,,,,﻿Highland County,,﻿Hillsborough,,﻿OH,,39.202287,-83.611587,,,,﻿mic_odonoghue_001,﻿Rev.,﻿M. O'Donoghoe,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Remi's,English,,,,﻿Darke County,,﻿Jacksonville,,﻿OH,,39.202287,-83.611587,,,,﻿c_brisard_001,﻿Rev.,﻿C. Brisard,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0035,﻿church,﻿Church of the Holy Name,English,,,,﻿Jackson County,,﻿Jacksonville,,﻿OH,,39.052017,-82.636554,,﻿Attended from Wilkesville,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,,,﻿Perry County,,﻿Jackson Township,,﻿OH,,39.764135,-82.25833,,﻿Attended by the Dominicans,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0036,﻿church,﻿St. Lawrence's,English,,,,﻿Lawrence County,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿ph_odonoghoo_001,﻿Rev.,﻿Phil. J. O'Donogho,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0103,﻿church,not recorded,English,,,,﻿Hardin County,,﻿Kenton,,﻿OH,,40.646998,-83.609652,,,,,﻿Rev.,﻿P. Hennebery,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0039,﻿church,﻿SS. Mary and Elizabeth's,English,,,,﻿Coshocton County,,﻿Kilbuck,,﻿OH,,40.495065,-81.984591,,﻿Attended from Coshocton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0040,﻿church,﻿St. Mary's,English,,,,﻿Fairfield County,,﻿Lancaster,,﻿OH,,39.712928,-82.598869,,,,,﻿Rev.,﻿Henry Lange,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0104,﻿church,not recorded,English,,,,﻿Marion County,,﻿Larne,,﻿OH,,40.576446,-83.384644,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0104,﻿church,not recorded,English,,,,﻿Warren County,,﻿Lebanon,,﻿OH,,40.576446,-83.384644,,﻿Attended from Milford,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0106,﻿church,not recorded,English,,,,﻿Madison County,,﻿Liverpool,,﻿OH,,40.07787,-83.45994,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0044,﻿church,﻿St. Francis',English,,,,﻿Carroll County,,﻿Lodi,,﻿OH,,40.688105,-81.172938,﻿col.oh.0047,﻿Attended from Margus,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0045,﻿church,﻿St. John Baptist's,English,,,,﻿Hocking County,,﻿Logan,,﻿OH,,39.540067,-82.407099,,,,﻿cha_f_hone_001,﻿Rev.,﻿Ch. F. Hone,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0107,﻿church,﻿St. John Evangelist's,English,,,,﻿Madison County,,﻿London,,﻿OH,,39.885708,-83.446371,,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0046,﻿religious institution,not recorded,English,,,,﻿Meigs County,,﻿Long Bottom,,﻿OH,,39.086189,-81.803744,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0109,﻿church,not recorded,English,,,,﻿Clermont County,,﻿Loveland,,﻿OH,,39.268948,-84.263826,﻿cin.oh.0119,﻿Attended from Milford,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0111,﻿church,﻿St. Michael's,English,,,,﻿Hamilton County,,﻿Madisonville,,﻿OH,,39.160616,-84.393133,,,,,﻿Rev.,﻿— Gangloff,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0111,﻿church,﻿Immaculate Conception,English,,,,﻿Carroll County,,﻿Marges,,﻿OH,,40.532833,-81.075466,,,,,﻿Rev.,﻿Peter Januarius Weissenberger,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,﻿Priests PP.S.,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0049,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Marietta,,﻿OH,,39.415352,-81.454844,,,,﻿m_j_ryan_001,﻿Rev.,﻿M. J. D. Ryan,,,﻿who also attends several stations on the H. & C. R. R.,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0112,﻿church,not recorded,English,﻿a brick church building,,,﻿Marion County,,﻿Marion,,﻿OH,,40.58867,-83.128524,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0050,﻿religious institution,﻿St. Clement's,English,,﻿Mattingley's Settlement,,,,,,﻿OH,,40.040556,-82.069444,,"﻿Attended from St. James's, Newark",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0051,﻿church,not recorded,English,,,,﻿Morgan County,,﻿Meigs Creek,,﻿OH,,39.633281,-81.677799,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0116,﻿church,﻿St. Michael's,English,,,,,,﻿Miamisburgh,,﻿OH,,39.642836,-84.286608,,,,﻿x_mauclerc_001,﻿Rev.,﻿M. Mauclere,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0116,﻿church,﻿St. Mary's,English,,,,,,﻿Middletown,,﻿OH,,39.515058,-84.398276,,,,﻿tho_j_boulger_001,﻿Rev.,﻿Thos. J. Boulger,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0118,﻿church,not recorded,English,,,,﻿Madison County,,﻿Midway,,﻿OH,,39.733393,-83.477697,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0119,﻿church,﻿St. Andrew's,English,,,,﻿Clermont County,,﻿Milford,,﻿OH,,39.175338,-84.294382,,,,﻿j_b_odonoghue_001,﻿Rev.,﻿J. B. O'Donohoe,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0305,﻿church,not recorded,English,,,,﻿Holmes County,,﻿Millersburg,,﻿OH,,,,﻿col.oh.0054,﻿Attended from Mt. Eaton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0306,﻿church,﻿St. John's,English,,,,﻿Monroe County,,﻿Miltonsburg,,﻿OH,,,,,﻿Attended from Enoch,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0121,﻿church,﻿St. Augustine's,English,,,,﻿Auglaize County,,﻿Minster,,﻿OH,,40.393103,-84.376061,,,,﻿and_kunkler_001,﻿Very Rev.,﻿Andrew Kunkler,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0121,﻿church,﻿St. Augustine's,English,,,,﻿Auglaize County,,﻿Minster,,﻿OH,,40.393103,-84.376061,,,,﻿and_stiefvater_001,﻿Rev.,﻿Andrew Stiefvater,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0307,﻿church,﻿St. Peter's,English,,,,﻿Perry County,,﻿Monday Creek,,﻿OH,,,,,,,,,,,,﻿vacant,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0123,﻿church,﻿St. Malachy's,English,,,,﻿Warren County,,﻿Morrow,,﻿OH,,39.354505,-84.127157,﻿cin.oh.0119,﻿Attended from Milford,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0054,﻿church,﻿St. Genevieve's,English,,,,﻿Holmes County,,﻿Mt. Eaton,,﻿OH,,40.694502,-81.703185,,,,,﻿Rev.,﻿J. M. Guy,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0055,﻿church,﻿St. Vincent's,English,,,,﻿Knox County,,﻿Mt. Vernon,,﻿OH,,40.393228,-82.485436,,,,﻿j_a_brent_001,﻿Rev.,﻿Julius Brent,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0126,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿Mt. Washington,,﻿OH,,39.738703,-84.179108,﻿cin.oh.0015,"﻿Attended from All Saints, Cincinnati",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0308,﻿church,not recorded,English,,,,﻿Holmes County,,﻿Napoleon,,﻿OH,,,,﻿col.oh.0054,﻿Attended from Mt. Eaton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0127,﻿church,not recorded,English,,,﻿Near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿fr_courtes_001,﻿Rev.,﻿— Courtes,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0127,﻿church,not recorded,English,,,﻿Near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿x_mauclerc_001,﻿Rev.,﻿M. Mauclere,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0056,﻿church,﻿St. Francis Sales',English,,,,﻿Licking County,,﻿Newark,,﻿OH,,40.060329,-82.408992,,,,,﻿Rev.,﻿Fred. Bender,,,﻿who also attends other stations,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0128,﻿church,﻿St. Louis',English,,,,﻿Clermont County,,﻿New Boston,,﻿OH,,39.124062,-84.135161,,"﻿Attended from St. Philomena, Clermont Co.",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0129,﻿church,not recorded,English,,,,,,﻿New Paris,,﻿OH,,39.855486,-84.790321,﻿cin.oh.0117,﻿Attended from Middletown,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0130,﻿church,﻿SS. Peter and Paul's,English,,,,﻿Shelby County,,﻿Newport,,﻿OH,,40.296312,-84.36901,,﻿Attended from Sidney,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0131,﻿church,﻿St. Peter's,English,,,,﻿Clermont County,,﻿New Richmond,,﻿OH,,38.948676,-84.279937,,,,﻿c_wiese_001,﻿Rev.,﻿C. Wiese,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0134,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿Newtown,,﻿OH,,39.124505,-84.361606,﻿cin.oh.0015,"﻿Attended from All Saints, Cincinnati",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0137,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Oxford,,﻿OH,,39.506997,-84.745231,,﻿Attended from Middletown,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0136,﻿church,not recorded,English,,,,,,﻿Osborne,,﻿OH,,39.697399,-83.889706,,﻿Attended from Dayton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0138,﻿church,﻿SS. Peter's and Paul's,English,,,,,,﻿Petersburg,,﻿OH,,40.497197,-84.162994,﻿cin.oh.0090,﻿Attended from Fryburg,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0058,﻿religious institution,﻿St. Mary's,English,,,,﻿Lawrence County,,﻿Pine Grove Furnace,,﻿OH,,38.611847,-82.683604,,,,,﻿Rev.,﻿D. H. Wienands,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0140,﻿church,﻿St. Mary's,English,,,,﻿Miami County,,﻿Piqua,,﻿OH,,40.151355,-84.245746,,,,,﻿Rev.,﻿J. N. Thisse,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0140,﻿church,﻿St. Joseph's,English,,,,﻿Miami County,,﻿Piqua,,﻿OH,,40.151355,-84.245746,,,,﻿m_a_meyer_001,﻿Rev.,﻿M. A. Meyer,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0141,﻿church,﻿St. Boniface's,English,,,,﻿Miami County,,﻿Piqua,,﻿OH,,40.144773,-84.242445,,,,,﻿Rev.,﻿— Behman,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0142,﻿church,not recorded,English,,,,,,﻿Plattsburg,,﻿OH,,39.896171,-83.61159,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0143,﻿church,not recorded,English,,,,﻿Madison County,,﻿Pleasant Valley,,﻿OH,,40.105527,-83.271173,,﻿Attended from Columbus,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0059,﻿church,﻿Church of the S. Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,﻿joh_kalenberg_001,﻿Rev.,﻿J. F. Kalenberg,,,"﻿who also attends St. John Baptist's, and other stations",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0060,﻿church,﻿Holy Trinity's,English,,,,﻿Scioto County,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,,﻿Attended from Portsmouth,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Karge,﻿O.S.F.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0062,﻿church,﻿Church of the Redeemer,English,,,,,,﻿Portsmouth,,﻿OH,,38.7358,-82.986369,,,,,﻿Rev.,﻿James J. O'Donoghoe,,,"﻿who also attends Washington, Junior Furnaces, Buena Vista and McCulloch",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,,﻿Attended from New Richmond,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0149,﻿church,not recorded,English,,,,﻿Clark County,,﻿Selma,,﻿OH,,39.786727,-83.708535,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0151,﻿church,﻿Holy Angels',English,,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,,,﻿fr_darcy_001,﻿Rev.,﻿L. F. D'Arcy,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0152,﻿church,not recorded,English,,,,﻿Madison County,,﻿Sommerford,,﻿OH,,39.933394,-83.491588,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0153,﻿church,﻿St. Raphael's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.922896,-83.806463,,,,,﻿Rev.,﻿M. Howard,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0153,﻿church,﻿St. Raphael's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.922896,-83.806463,,,,,﻿Rev.,﻿B. Keleher,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0154,﻿church,﻿St. Bernard's,﻿German,,,,,,﻿Springfield,,﻿OH,,39.924227,-83.808817,,﻿Attended from Nazareth,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0154,﻿church,﻿St. Boniface,﻿German,,,,,,﻿Springfield,,﻿OH,,39.924227,-83.808817,,,,,﻿Rev.,﻿Wm. Deiters,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0155,﻿church,not recorded,English,,,,﻿Greene County,,﻿Spring Valley,,﻿OH,,39.608949,-84.00771,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0064,﻿church,﻿St. Peter's,English,,,,﻿Jefferson County,,﻿Steubenville,,﻿OH,,40.365511,-80.61279,,,,﻿e_thienpont_002,﻿Rev.,﻿E. Thienpont,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0064,﻿church,﻿Holy Trinity's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,40.365511,-80.61279,,,,,﻿Rev.,﻿J. F. Jarboe,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0069,﻿church,not recorded,English,,,,﻿Clark County,,﻿South Charleston,,﻿OH,,39.825338,-83.634367,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0065,﻿church,﻿St. James',English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0309,﻿church,﻿St. Philomena's,English,,,,﻿Clermont County,,﻿Stone Lick,,﻿OH,,,,,,,﻿lou_navaron_001,﻿Rev.,﻿Louis Navaron,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0309,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Stone Lick,,﻿OH,,,,,,,,﻿Rev.,﻿B. Ansterman,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0309,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Stone Lick,,﻿OH,,,,,,,,﻿Rev.,﻿Anthony Capedar,﻿C.PP.S.,,﻿who also attend St. Sebastian's,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿m_d_lilly_002,﻿Rev.,﻿M. D. Lilly,﻿O.S.D.,﻿Prior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿S. Byrne,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿G. A. Wilson,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. N. Edelen,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿d_h_noon_002,﻿Rev.,﻿D. H. Noon,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Noble County,,,,﻿OH,,39.764135,-82.25833,,,,﻿i_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Noble County,,,,﻿OH,,39.764135,-82.25833,,,,﻿f_x_dutton_001,﻿Rev.,﻿Francis X. Dutton,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0170,﻿church,﻿St. Martin's,English,,,,﻿Brown County,,,,﻿OH,,39.212409,-83.893162,,,,﻿c_gacon_001,﻿Rev.,﻿C. Gacon,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0170,﻿church,﻿St. Martin's,English,,,,﻿Brown County,,,,﻿OH,,39.212409,-83.893162,,,,﻿wm_cheymol_001,﻿Rev.,﻿W. Cheymol,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0162,﻿church,﻿St. Peter's,English,,,,﻿Mercer County,,,,﻿OH,,40.45093,-84.746617,,"﻿Attended from Maryshome, Ind.",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0157,﻿church,﻿St. Anthony's,English,,,,﻿Mercer County,,,,﻿OH,,40.508938,-84.785251,,"﻿Attended from Maryshome, Ind.",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310,﻿church,﻿St. Xavier's,English,,,﻿Eight miles from Chillicothe,,,,,,,,,,﻿Attended from Chillicothe,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0071,﻿religious institution,not recorded,English,,,,﻿Meigs County,,﻿Syracuse,,﻿OH,,38.997579,-81.974027,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0171,﻿church,﻿St. John Baptist's,English,,,,﻿Miami County,,﻿Tippecanoe,,﻿OH,,39.951143,-84.176091,,﻿Attended from Piqua,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0073,﻿religious institution,not recorded,English,,,,﻿Franklin County,,﻿Taylorstown,,﻿OH,,40.015475,-82.993161,,﻿Attended from Columbus,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0072,﻿church,﻿St. Anne's,English,,,,﻿Muskingum County,,﻿Taylorsville,,﻿OH,,39.861181,-81.906801,,﻿Attended from Zanesville,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0172,﻿church,not recorded,English,,,,﻿Clark County,,﻿Tremont,,﻿OH,,40.011171,-83.836041,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0173,﻿church,﻿St. Patrick's,English,,,,﻿Miami County,,﻿Troy,,﻿OH,,40.038278,-84.199018,,﻿Attended from Piqua,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0173,﻿church,﻿St. Patrick's,English,,,,﻿Darke County,,﻿Union City,,﻿OH,,40.038278,-84.199018,,﻿Attended from Piqua,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0173,﻿church,﻿St. Joseph's,English,,﻿Union Township,,﻿Washington County,,﻿Union City,,﻿OH,,39.469444,-81.607778,,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0174,﻿church,﻿St. Mary's,English,,,,﻿Champaign County,,﻿Urbana,,﻿OH,,40.112182,-83.749833,,,,﻿jam_f_kearney_001,﻿Rev.,﻿Jas F. Kearney,,,"﻿who also attends Mechanicsburgh, Woodstock, Milford Centre, Marysville, Paris, West Liberty, Mac-a-cheeck",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0176,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Brown County,,﻿Vera Cruz,,﻿OH,,38.909209,-83.847301,,,,﻿b_schmitz_001,﻿Rev.,﻿Barthol'w Schmidt,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿jos_dwenger_001,﻿Rev.,﻿Jos. Dwenger,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿a_herbstrit_002,﻿Rev.,﻿Andrew Herbstrit,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,,﻿Rev.,﻿Engb. Ruff,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,,﻿Rev.,﻿— Volm,,,"﻿who also attend St. Mary's, Freiburg, New Rhine, and several other stations",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0178,﻿church,not recorded,English,,,,﻿Fayette County,,﻿Washington,,﻿OH,,39.537369,-83.437579,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0180,﻿church,not recorded,English,,,,﻿Warren County,,﻿Waynesburg,,﻿OH,,39.424142,-84.185711,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0180,﻿church,not recorded,English,,,,﻿Brown County,,﻿West Union,,﻿OH,,39.424142,-84.185711,,﻿Attended from Fayetteville,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
