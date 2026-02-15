@@ -20,16 +20,24 @@
 ﻿det.mi.9003,﻿church,﻿St. Francis,English,,﻿Riviére aux Signes,,,,,,,,,,,,,﻿bowens_901,﻿Rev. Mr.,﻿Bowens,,﻿gen. missionary,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9003,﻿church,﻿St. Francis,English,,﻿Riviére aux Ecorces,,,,,,,,,,,,,﻿bowens_901,﻿Rev. Mr.,﻿Bowens,,﻿gen. missionary,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.9003,﻿church,﻿St. Francis,English,,﻿Riviére aux Ecorces,,,,﻿Northfield,,﻿MI,,,,,,,﻿morrissey_901,﻿Rev. Mr.,﻿Morrissey,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9005,﻿church,not recorded,English,﻿Instructions in the English language,﻿Grand River,,,,,,﻿MI,﻿MI,,,,,,﻿vizoskey_901,﻿Rev. Mr.,﻿Vizoskey,,,,,,,,1840,﻿https://en.wikipedia.org/wiki/Grand_River_(Michigan),﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9005,﻿church,not recorded,English,﻿German congregation,﻿Grand River (vicinity of),,,,,,﻿MI,,,,,,,﻿kopp_901,﻿Rev. Mr.,﻿Kopp,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9005,﻿church,not recorded,English,﻿Instructions in the English language,﻿Grand River,,,,,,﻿MI,﻿MI,,,,,,﻿vizosky_901,﻿Rev. Mr.,﻿Vizoskey,,,,,,,,1840,﻿https://en.wikipedia.org/wiki/Grand_River_(Michigan),﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9005,﻿church,not recorded,English,﻿German congregation,﻿Grand River (vicinity of),,,,,,﻿MI,,,,,,,﻿ant_kopp_901,﻿Rev. Mr.,﻿Kopp,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0011,﻿church,not recorded,English,,,,,,﻿Machinac,,,,,,,,,﻿santilli_901,﻿Rev. Mr.,﻿Santilli,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿mar.mi.0017,﻿church,not recorded,English,,﻿Pointe St. Ignace,,,,,,,,45.86151838,-84.72623843,,,,﻿santilli_901,﻿Rev. Mr.,﻿Santilli,,,,,,,,1840,﻿https://stigchurch.org/history-st-ignatius-loyola/,﻿,﻿,﻿Detroit,Detroit
-﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault St. Marie,,﻿MI,,,,,,,﻿pierz_901,﻿Rev. Mr.,﻿Pierz,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿mar.mi.0082,﻿church,not recorded,English,,,,,,﻿Sault St. Marie,,﻿MI,,,,,,,﻿fra_x_pierz_001,﻿Rev. Mr.,﻿Pierz,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿gre.wi.0002,﻿church,not recorded,English,,,,,﻿Brown County,﻿Green Bay,﻿Green Bay,,﻿WI,44.50854102,-88.01525685,,,,﻿flo_bonduel_901,﻿Rev.,﻿Floriment Bonduel,,,,,,"﻿Served by a Seminary of Liguorists, 5 in No.",,1840,﻿https://www.gbdioc.org/history/,﻿,﻿,﻿Detroit,Detroit
-﻿gre.wi.0017,﻿church,not recorded,English,,﻿Little Shoot Cockalin,,,,,﻿Little Chute,,﻿WI,44.284167,-88.313611,,,,﻿the_vandenbroeck_901,﻿Rev.,﻿Theodore Vandenbroeck,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
-﻿gre.wi.9002,﻿church,not recorded,English,,,,,,﻿Fort Winebago,﻿Portage,,﻿WI,43.55720176,-89.42657475,,,﻿once in two months,﻿the_vandenbroeck_901,﻿Rev.,﻿Theodore Vandenbroeck,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.9009,﻿church,not recorded,English,,﻿Bay Settlement,,,,,,﻿MI,,,,,,,﻿warlop_901,﻿Rev. Mr.,﻿Warlop,,,,,,,,1840,﻿https://www.hmdb.org/results.asp?Search=County&state=Michigan&county=Monroe%20County,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0027,﻿church,not recorded,English,,,,,,﻿Bertrand,,﻿MI,,41.77847548,-86.26541801,,,,,﻿Rev. Mr.,﻿Bernier,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
-﻿mil.wi.9000,﻿church,not recorded,English,,﻿Fond du lac,,,,,,,,,,,,,﻿baraga_901,﻿Rev. Mr.,﻿Baraga,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0051,﻿church,not recorded,English,,﻿A la Croix,,,,,﻿Cross Village,,﻿MI,45.64618872,-85.02891012,,,,﻿baraga_901,﻿Rev. Mr.,﻿Baraga,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.0017,﻿church,not recorded,English,,﻿Little Shoot Cockalin,,,,,﻿Little Chute,,﻿WI,44.284167,-88.313611,,,,﻿the_j_vandenbroeck_901,﻿Rev.,﻿Theodore Vandenbroeck,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.9002,﻿church,not recorded,English,,,,,,﻿Fort Winebago,﻿Portage,,﻿WI,43.55720176,-89.42657475,,,﻿once in two months,﻿the_j_vandenbroeck_901,﻿Rev.,﻿Theodore Vandenbroeck,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9009,﻿church,not recorded,English,,﻿Bay Settlement,,,,,,﻿MI,,,,,,,﻿pet_warlop_901,﻿Rev. Mr.,﻿Warlop,,,,,,,,1840,﻿https://www.hmdb.org/results.asp?Search=County&state=Michigan&county=Monroe%20County,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0027,﻿church,not recorded,English,,,,,,﻿Bertrand,,﻿MI,,41.77847548,-86.26541801,,,,﻿s_a_bernier_901,﻿Rev. Mr.,﻿Bernier,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿mil.wi.9000,﻿church,not recorded,English,,﻿Fond du lac,,,,,,,,,,,,,﻿ire_f_baraga_001,﻿Rev. Mr.,﻿Baraga,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0051,﻿church,not recorded,English,,﻿A la Croix,,,,,﻿Cross Village,,﻿MI,45.64618872,-85.02891012,,,,﻿ire_f_baraga_001,﻿Rev. Mr.,﻿Baraga,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
 ﻿lac.wi.0019,﻿church,not recorded,English,,,,,,﻿Prairie du Chien,,﻿WI,,,,,,,,,,,,"﻿of Galena, Ill.",,,,,1840,﻿https://www.prairieduchien.org/history/,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9011,﻿college,﻿St. Philip's University,English,,﻿Near Detroit,,,,﻿Detroit,,﻿MI,,,,,,,,,,,,,,,,,1840,"﻿The course of instruction pursued in this college will embrace the Latin, Greek, French, and English, languages, Poetry, Rhetoric and Oratory-Reading, Writing, Geography, Mathematics and Book-keeping",﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9011,﻿day school,﻿St. Philip's University,"﻿French, English, and German",﻿in the basement of the Cathedral,﻿Near Detroit,,,,﻿Detroit,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9011,﻿school,﻿St. Philip's University,"﻿French, English, and German",﻿in the basement of the Cathedral,﻿Near Detroit,,,,﻿Detroit,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9001_02,﻿school,﻿Indian School,English,,﻿St. Joseph's,,,,,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.9005_02,﻿school,﻿Indian School,English,,,,,,﻿Grand River,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿mar.mi.9000_02,﻿school,﻿Indian School,English,,﻿Arbre Croche,,,,,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.0002_02,﻿school,﻿Indian School,English,,,,,,﻿Green Bay,,﻿MI,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
+﻿gre.wi.0017_02,﻿school,﻿Indian School,English,,﻿Little Shoot Cockalin,,,,,,,,,,,,,,,,,,,,,,,1840,,﻿,﻿,﻿Detroit,Detroit
