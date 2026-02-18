@@ -124,7 +124,7 @@
 ﻿cin.oh.0098,﻿church,﻿St. Remi's,English,,,,﻿Darke County,,﻿Jacksonville,,﻿OH,,39.202287,-83.611587,,,,﻿c_brisard_001,﻿Rev.,﻿C. Brisard,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0035,﻿church,﻿Church of the Holy Name,English,,,,﻿Jackson County,,﻿Jacksonville,,﻿OH,,39.052017,-82.636554,,﻿Attended from Wilkesville,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,,,﻿Perry County,,﻿Jackson Township,,﻿OH,,39.764135,-82.25833,,﻿Attended by the Dominicans,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0036,﻿church,﻿St. Lawrence's,English,,,,﻿Lawrence County,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿ph_odonoghoo_001,﻿Rev.,﻿Phil. J. O'Donogho,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0037,﻿church,﻿St. Lawrence's,English,,,,﻿Lawrence County,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿ph_odonoghoo_001,﻿Rev.,﻿Phil. J. O'Donogho,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0103,﻿church,not recorded,English,,,,﻿Hardin County,,﻿Kenton,,﻿OH,,40.646998,-83.609652,,,,,﻿Rev.,﻿P. Hennebery,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0039,﻿church,﻿SS. Mary and Elizabeth's,English,,,,﻿Coshocton County,,﻿Kilbuck,,﻿OH,,40.495065,-81.984591,,﻿Attended from Coshocton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0040,﻿church,﻿St. Mary's,English,,,,﻿Fairfield County,,﻿Lancaster,,﻿OH,,39.712928,-82.598869,,,,,﻿Rev.,﻿Henry Lange,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -246,16 +246,16 @@
 ﻿cin.oh.0189_02,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿j_a_fastré_001,﻿Rev.,﻿Jos. Fastre,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189_02,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿p_j_arnoudt_001,﻿Rev.,﻿P. J.  Arnoudt,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189_02,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿F. X. Weninger,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿m_d_lilly_002,﻿Rev.,﻿M. D. Lilly,,﻿Prior,,﻿novices,﻿with 3 professed novices,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿Stephen Byrne,﻿O.P.,﻿Sub-prior,,﻿postulants,﻿5 postulants,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,﻿O.P.,﻿Novice-Master,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿d_h_noon_002,﻿Rev.,﻿H. D. Noon,﻿O.P.,﻿Procurator,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. M. P. Heaney,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. A. Rotchford,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿h_p_ralph_001,﻿Rev.,﻿H. P. Ralph,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. H. Slinger,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿T. R. Fallon,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_t_cady_001,﻿Rev.,﻿T. Cady,﻿O.P.,,,﻿brothers,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿m_d_lilly_002,﻿Rev.,﻿M. D. Lilly,,﻿Prior,,﻿religious,﻿with 3 professed novices,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿Stephen Byrne,﻿O.P.,﻿Sub-prior,,﻿religious,﻿5 postulants,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,﻿O.P.,﻿Novice-Master,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿d_h_noon_002,﻿Rev.,﻿H. D. Noon,﻿O.P.,﻿Procurator,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. M. P. Heaney,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. A. Rotchford,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿h_p_ralph_001,﻿Rev.,﻿H. P. Ralph,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. H. Slinger,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿T. R. Fallon,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,﻿P.O. St. Joseph's,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_t_cady_001,﻿Rev.,﻿T. Cady,﻿O.P.,,,﻿layperson,﻿9 lay brothers,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,,,,,,,,﻿Directed by the Franciscan Fathers in Cincinnati,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012_02,﻿educational institution,﻿Commercial College of the Catholic Institute,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Professor,﻿B. H. Entrup,,﻿Principal,,,,﻿Directed by the Franciscan Fathers in Cincinnati,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boys Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,,﻿Rev.,﻿Louis Meyer,,﻿Superior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
