@@ -202,7 +202,7 @@
 ﻿cin.oh.0153,﻿church,﻿St. Raphael's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.922896,-83.806463,,,,﻿j_n_thisse_001,﻿Rev.,﻿J. N. Thisse,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0154,﻿church,﻿St. Bernard's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.924227,-83.808817,,,,﻿w_deiters_002,﻿Rev.,﻿William Deiters,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0155,﻿church,not recorded,English,,,,﻿Greene County,,﻿Spring Valley,,﻿OH,,39.608949,-84.00771,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0155,﻿church,﻿Holy Trinity's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.608949,-84.00771,,,,﻿c_d_bowling_002,﻿Rev.,﻿C. D. Bowling,﻿O.P.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0063,﻿church,﻿Holy Trinity's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,,,,,,﻿c_d_bowling_002,﻿Rev.,﻿C. D. Bowling,﻿O.P.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0069,﻿church,not recorded,English,,,,﻿Clark County,,﻿South-Charleston,,﻿OH,,39.825338,-83.634367,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0069,﻿church,﻿St. Pius',English,,,,﻿Perry County,,﻿South Fork,,﻿OH,,39.825338,-83.634367,,﻿Attended from St. Joseph's,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0064,﻿church,﻿St. Peter's,English,,,,﻿Jefferson County,,﻿Steubenville,,﻿OH,,40.365511,-80.61279,,,,﻿e_thienpont_002,﻿Rev.,﻿E. Thienpont,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -360,23 +360,23 @@
 ﻿cin.oh.0140_02,﻿school,﻿St. Boniface's,English,﻿for Boys and Girls,,,,,﻿Piqua,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 111",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0140_02,﻿school,﻿Sacred Heart School,English,﻿for Boys and Girls,,,,,﻿Pomeroy,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0140_02,﻿school,﻿Nativity School,English,﻿for Boys and Girls,,,,,﻿Portsmouth,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0140_02,﻿school,﻿Holy Redeemer School,English,﻿for Boys and Girls,,,,,﻿Portsmouth,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 70",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0140_02,﻿school,﻿St. Michael's School,English,﻿for Boys and Girls,,,,,﻿Ripley,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0140_02,﻿school,﻿Holy Angels' School,English,﻿for Boys and Girls,,,,,﻿Sidney,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0140_02,﻿school,﻿St. Bernard's School,English,﻿for Boys and Girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 50",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0062_02,﻿school,﻿Holy Redeemer School,English,﻿for Boys and Girls,,,,,﻿Portsmouth,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 70",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0147_02,﻿school,﻿St. Michael's School,English,﻿for Boys and Girls,,,,,﻿Ripley,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0151_02,﻿school,﻿Holy Angels' School,English,﻿for Boys and Girls,,,,,﻿Sidney,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0154_02,﻿school,﻿St. Bernard's School,English,﻿for Boys and Girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 50",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0153_02,﻿school,﻿St. Raphael's School,English,﻿for Boys and Girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0153_02,﻿school,﻿Holy Trinity School,English,﻿for Boys and Girls,,,,,﻿Somerset,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 53",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0153_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Marienstein,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 115",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0153_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Wapakoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0153_02,﻿school,﻿St. Bridget's School,English,﻿for Boys and Girls,,,,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0063_02,﻿school,﻿Holy Trinity School,English,﻿for Boys and Girls,,,,,﻿Somerset,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 53",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Marienstein,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 115",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Wapakoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0185_02,﻿school,﻿St. Bridget's School,English,﻿for Boys and Girls,,,,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for Boys and Girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Pupils, 160",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0084_02,﻿school,﻿St. Nicholas' School,English,﻿for Boys and Girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Pupils, 60",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0085_02,﻿school,﻿St. Nicholas' School,English,﻿for Boys and Girls,,,,,﻿Zanesville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 60",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0164_02,﻿school,﻿St. Sebastian's School,English,﻿for Boys and Girls,,,﻿Mercer County,,,,﻿OH,,40.444916,-84.517101,,,,,,,,,,﻿student,"﻿Pupils, 50",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0163_02,﻿school,﻿St. Rose's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.406339,-84.515268,,,,,,,,,,﻿student,"﻿Pupils, 60",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0063_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.452964,-84.656798,,,,,,,,,,﻿student,"﻿Pupils, 50",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0159_02,﻿school,﻿St. Henry's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.41759,-84.637532,,,,,,,,,,﻿student,"﻿Pupils, 90",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0165_02,﻿school,﻿St. Wendelin's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.399016,-84.690042,,,,,,,,,,﻿student,"﻿Pupils, 30",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0165_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.399016,-84.690042,,,,,,,,,,﻿student,"﻿Pupils, 80",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0161_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 80",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0162_02,﻿school,﻿St. Peter's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,,,﻿OH,,40.45093,-84.746617,,,,,,,,,,﻿student,"﻿Pupils, 40",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0157_02,﻿school,﻿St. Anthony's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,﻿Cincinnati,,﻿OH,,40.508938,-84.785251,,,,,,,,,,﻿student,"﻿Pupils, 30",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0157_02,﻿school,﻿St. Philothea's School,English,﻿for Boys and Girls,,,﻿Mercer County,﻿Mercer County,﻿Cincinnati,,﻿OH,,40.508938,-84.785251,,,,,,,,,,﻿student,"﻿Pupils, 60",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -191,15 +191,15 @@
 ﻿bos.ma.0151_02,﻿school,﻿St. James' Male School,English,,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.520512,-70.905132,,,,,,,,,,﻿student,﻿300 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,,﻿Sister,﻿Mary Felicienne,,﻿Superioress,,﻿teacher,﻿7 teachers,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,,,,,,,﻿student,﻿400 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.365307,-71.057407,,,,,,,,,,﻿attendance,"﻿average attendance, 450",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.365307,-71.057407,,,,,,,,,,﻿student,"﻿average attendance, 450",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,42.365307,-71.057407,,,,,﻿Mr.,﻿John Fitzgerald,,﻿Principal,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,42.365307,-71.057407,,,,,﻿Miss,﻿C. Shaw,,﻿Assistant,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,﻿Parochial School for Boys,,,,,﻿Salem,﻿Boston,﻿MA,,42.365307,-71.057407,,,,,﻿Miss,﻿M. Shaw,,﻿Assistant,,﻿student,"﻿pupils, 250",,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0212,﻿house,﻿House of the Angel Guardian,English,,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿geo_f_haskins_001,﻿Rev.,﻿Geo. F. Haskins,,﻿Rector,,﻿child,﻿350 boys,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245,-71.317762,,,,,,,,,,﻿religious,﻿18 sisters,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245,-71.317762,,,,,,,,,,﻿student,﻿80 borders and select scholars,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245,-71.317762,,,,,,,,,,﻿free school,﻿320,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,,,,,,﻿choir sister,﻿4 choir sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0109_02,﻿academy,﻿St. Patrick's Academy and Boarding-School,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245,-71.317762,,,,,,,,,,﻿student,﻿320,﻿Sisters of Notre Dame,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,,,,,,﻿religious,﻿4 choir sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Church,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,,,,,,﻿layperson,﻿1 lay sister,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿religious,﻿8 sisters,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102_02,﻿school,not recorded,English,,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,,,,,,,﻿student,﻿560 pupils,,,1865,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
