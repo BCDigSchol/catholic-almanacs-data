@@ -43,7 +43,7 @@
 ﻿pit.pa.0040,﻿church,﻿St. Joseph's,English,,,,﻿Butler County,,﻿Donegal,﻿Donegal Township,﻿PA,,﻿40.9036874,-79.7788344,,﻿attended from Murrinsville and Butler,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,﻿Cambria County,,﻿Ebensburg,﻿Ebensburg,﻿PA,,﻿40.5150924,-78.8740236,,,,﻿m_j_mitchell_001,﻿Rev.,﻿M. J. Mitchell,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0041,﻿church,﻿St. Peter and Paul,English,,,,﻿Allegheny County,,﻿East Liberty,﻿East Liberty,﻿PA,,﻿40.4625965,-79.9181296,,,,,﻿Rev.,﻿C. Klocker,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0043,﻿church,﻿St. Michael's,English,,,,﻿Allegheny County,,﻿Elizabeth,﻿Elizabeth,﻿PA,,﻿40.4450813,-80.0087746,,﻿attended from Brownsville,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0043,﻿church,﻿St. Michael's,English,,,,﻿Allegheny County,,﻿Elizabeth,﻿Elizabeth,﻿PA,,﻿40.4450813,-80.0087746,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0044,﻿church,﻿St. Matthew's,English,,﻿P.O. West End,,﻿Somerset County,,﻿Fairfield,,﻿PA,,﻿39.82196238,-79.02112298,,,,,﻿Rev.,﻿F. Seneca,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0045,﻿church,﻿St. Mary's,English,,,,﻿Westmoreland County,,﻿Florence,﻿New Florence,﻿PA,,﻿40.3803492,-79.075308,,,,,﻿Rev.,﻿P. M. Garvey,,,﻿Johnstown,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0046,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Freeport,﻿Freeport,﻿PA,,﻿40.6740899,-79.6833747,,,,﻿r_phelan_001,﻿Rev.,﻿R. Phelan,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -59,7 +59,7 @@
 ﻿pit.pa.0056,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Irwing's Station,﻿Irwin,﻿PA,,﻿40.3245138,-79.7011549,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,﻿40.3252801,-78.9153622,,,,﻿p_m_garvey_001,﻿Rev.,﻿P. M. Garvey,,﻿Rector,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0059,﻿church,﻿St. Joseph's,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,﻿40.295565,-78.8744427,,,,,﻿Rev.,﻿Romanus Hill,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0165,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,,,,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0165,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,,,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0157,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Kilbuck,,﻿PA,,,,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",﻿once a month,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0060,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Kittaning,﻿Kittanning,﻿PA,,﻿40.8272809,-79.5442075,,,,,﻿Rev.,﻿R. Phelan,,,﻿Freeport,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,﻿40.31464,-79.3818073,,,,﻿jer_kearney_001,﻿Rev.,﻿Jer. Kearney,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -83,7 +83,7 @@
 ﻿pit.pa.0089,﻿church,not recorded,English,,,,﻿Huntingdon County,,﻿Shade Valley,,﻿PA,,﻿40.1679738,-77.83752357,,﻿attended from Huntington,﻿once a month,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburg,﻿Sharpsburgh,﻿PA,,﻿40.4945131,-79.9264405,,,,,﻿Rev.,﻿A. P. Gibbs,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,,,,﻿Sharpsburgh,﻿PA,,﻿40.5050851,-79.9363557,﻿pit.pa.0003,"﻿attended from St. Philomena's, Pittsburgh",,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0091,﻿church,﻿St. Bartholomew's,﻿German,,,,﻿Bedford County,,﻿Stonerstown,﻿Sharpsburgh,﻿PA,,﻿40.5050851,-79.9363557,,,,,﻿Rev.,﻿P. M. Doyle,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0166,﻿church,﻿St. Bartholomew's,English,,,,﻿Bedford County,,﻿Stonerstown,,﻿PA,,,,,,,,﻿Rev.,﻿P. M. Doyle,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,﻿Adams P.O.,,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,﻿40.905064,-79.6339365,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0164,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,,,﻿pit.pa.0030,"﻿by Benedictines, Carrolton",,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,﻿40.38951,-79.87532,,,,﻿t_ryan_001,﻿Rev.,﻿Thos. Ryan,,﻿Rector,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -167,7 +167,7 @@
 ﻿pit.pa.0008_03,﻿school,﻿St. Peter's,English,﻿Boys' School,,,,,﻿Allegheny,,﻿PA,,﻿40.4450813,-80.0087746,,,,,,,,,,﻿student,﻿150 pupils,﻿taught by the Franciscan Brothers,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0008_02,﻿school,﻿St. Peter's,English,﻿Girls,,,,,﻿Allegheny,,﻿PA,,﻿40.4450813,-80.0087746,,,,,,,,,,﻿student,﻿168 pupils,﻿under the care of the Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009_02,﻿school,﻿St. Mary's,﻿German,"﻿boys' school, lay teachers; girls', Sisters of Mercy",,,,,﻿Allegheny,,﻿PA,,﻿40.4450813,-80.0087746,,,,,,,,,,﻿pupil,﻿250 pupils,﻿Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0009_02,﻿school,﻿St. John Baptist's,﻿German,"﻿boys' school, lay teachers; girls', Sisters of Mercy",,,,,﻿Birmingham,,﻿PA,,﻿40.4450813,-80.0087746,,,,,,,,,,﻿pupil,﻿140 pupils,﻿Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0167,﻿school,﻿St. John Baptist's,English,,,,,,﻿Birmingham,,﻿PA,,,,,,,,,,,,,﻿pupil,﻿140 pupils,﻿Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0052_03,﻿school,﻿St. Mary's,English,,,,,,﻿Hollidaysburgh,,﻿PA,,﻿40.4298852,-78.3884724,,,,,,,,,,﻿student,﻿120 pupils,﻿Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067_02,﻿school,﻿St. Mary's,English,,,,,,﻿Loretto,,﻿PA,,﻿40.5048834,-78.6332756,,,,,,,,,,﻿student,﻿50 pupils,﻿Sisters of Mercy,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0005_02,﻿school,﻿Holy Trinity,﻿German,﻿school taught by lay teachers,,,,,﻿Pittsburgh,,﻿PA,,﻿40.4406248,-79.9958864,,,,,,,,,,,,,,1861,﻿,﻿,﻿Pittsburgh,Pittsburgh
