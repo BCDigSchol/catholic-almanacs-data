@@ -25,7 +25,7 @@
 ﻿pit.pa.0016,﻿church,﻿St. John Baptist,English,,﻿Buchanan P.O.,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,﻿40.4450813,-80.0087746,,,,﻿w_pollard_001,﻿Rev.,﻿W. Pollard,,﻿Rector,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,﻿40.3877375,-79.8893732,,,,﻿fis_luke_001,﻿Rev.,﻿Fisher Luke,﻿Passionist,﻿Rector,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,﻿40.3877375,-79.8893732,,,,﻿jam_hoffzugott_001,﻿Rev.,﻿James Hoffzugott,﻿Passionist,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0018,﻿church,﻿St. Paul of the Cross,English,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,﻿40.4450813,-80.0087746,﻿?,,,,,,,,,,,﻿Attended by the Passionist Fathers,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0121_02,﻿church,﻿St. Paul of the Cross,English,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,﻿40.4450813,-80.0087746,﻿?,,,,,,,,,,,﻿Attended by the Passionist Fathers,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,﻿Indiana County,,﻿Blairsville,﻿Blairsville,﻿PA,,﻿40.4326286,-79.2583925,,,,﻿j_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,﻿Rector,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0020,﻿church,not recorded,English,,﻿Braddock's Field,,﻿Allegheny County,,﻿Braddock,﻿Braddock,﻿PA,,﻿40.4028788,-79.8633613,,,,﻿p_hughes_001,﻿Rev.,﻿P. Hughes,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0021,﻿church,not recorded,English,,﻿Bakerstown,,﻿Allegheny County,,,﻿Bakerstown,﻿PA,,﻿40.6509,-79.9364443,,﻿attended by a German priest,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -101,14 +101,14 @@
 ﻿pit.pa.0087,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Sewickly,﻿Sewickley,﻿PA,,﻿40.5374069,-80.1842346,﻿pit.pa.0014,﻿attended from Beaver,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107_02,﻿chapel,﻿Seminary Chapel,English,,﻿near Pittsburgh,,,,﻿Greenwood,﻿Logan Township,﻿PA,,﻿40.53482517,-78.35768523,﻿pit.pa.0107,﻿attended by the Clergymen of the Seminary,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0089,﻿church,not recorded,English,,,,﻿Huntingdon County,,﻿Shade Valley,,﻿PA,,﻿40.1679738,-77.83752357,,,,﻿e_gallagher_001,﻿Rev.,﻿E. Gallagher,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,﻿40.4945131,-79.9264405,,,,﻿d_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,﻿40.4945131,-79.9264405,,,,﻿den_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,﻿40.5050851,-79.9363557,,,,﻿j_shell_001,﻿Rev.,﻿J. Shell,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,﻿Foster Mills P.O.,,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,﻿40.905064,-79.6339365,,,,﻿jam_p_tahany_001,﻿Rev.,﻿James P. Tahany,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,﻿Foster Mills P.O.,,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,﻿40.905064,-79.6339365,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0094,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿New-Germany or Summerhill,﻿Summerhill,﻿PA,,﻿40.45730493,-78.57576788,﻿pit.pa.0108,﻿Benedictines from St. Vincent's Abbey,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,﻿40.38951,-79.87532,,,,﻿t_ryan_001,﻿Rev.,﻿T. Ryan,,﻿Rector,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,﻿40.38951,-79.87532,,,,﻿m_murphey_001,﻿Rev.,﻿M. Murphey,,﻿Assistant,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0096,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,﻿40.657222,-79.828611,,,,﻿d_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0096,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,﻿40.657222,-79.828611,,,,﻿den_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0097,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Temperanceville,﻿Tyrone,﻿PA,,﻿40.673393,-78.2425126,,,,﻿m_carroll_001,﻿Rev.,﻿M. Carroll,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0155,﻿church,﻿St. Matthew's,English,,,,﻿Blair County,,﻿Tyrone,,﻿PA,,,,,,,﻿j_c_farran_001,﻿Rev.,﻿J. C. Farran,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0098,﻿church,﻿St. John's,English,,,,﻿Fayette County,,﻿Uniontown,﻿Uniontown,﻿PA,,﻿39.8983979,-79.7211664,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -119,7 +119,7 @@
 ﻿pit.pa.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Allegheny County,,﻿Wexford,﻿Wexford,﻿PA,,﻿40.6274963,-80.0572411,,,,﻿s_j_mollinger_001,﻿Rev.,﻿S. J. Mollinger,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0104,﻿church,﻿St. Bridget's,English,,,,﻿Somerset County,,﻿Wellesburgh,﻿Wellersburgh,﻿PA,,﻿39.72973097,-78.84849912,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,﻿Cameron's Bottom,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0105,﻿church,﻿Immaculate Conception,English,,,,﻿Blair County,,﻿Williamsburgh,﻿Williamsburgh,﻿PA,,﻿40.4620172,-78.199732,,,,﻿joh_walsh_003,﻿Rev.,﻿J. Walsh,,,﻿Hollidaysburgh,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0106,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Youngstown,﻿Youngstown,﻿PA,,﻿40.2797927,-79.3655913,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0106,﻿church,not recorded,English,,,,﻿Westmoreland County,,﻿Youngstown,﻿Youngstown,﻿PA,,﻿40.2797927,-79.3655913,﻿pit.pa.0119,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107,﻿seminary,﻿St. Michael's Theological Seminary,English,,"﻿near Pittsburgh, Pittsburgh P.O.",,,,﻿Glenwood,﻿Pittsburgh,﻿PA,,﻿40.4406248,-79.9958864,,,,﻿j_wall_001,﻿Rev.,﻿J. Wall,,﻿President,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107,﻿seminary,﻿St. Michael's Theological Seminary,English,,"﻿near Pittsburgh, Pittsburgh P.O.",,,,﻿Glenwood,﻿Pittsburgh,﻿PA,,﻿40.4406248,-79.9958864,,,,﻿joh_schmidt_001,﻿Rev.,﻿John Schmidt,,﻿Professor,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107,﻿seminary,﻿St. Michael's Theological Seminary,English,,"﻿near Pittsburgh, Pittsburgh P.O.",,,,﻿Glenwood,﻿Pittsburgh,﻿PA,,﻿40.4406248,-79.9958864,,,,﻿p_ward_001,﻿Rev.,﻿P. Ward,,﻿Professor,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
