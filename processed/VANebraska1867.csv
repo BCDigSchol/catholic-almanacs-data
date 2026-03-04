@@ -17,9 +17,9 @@
 ﻿oma.ne.0014,﻿mission,not recorded,English,﻿german settlement,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,40.69933,-99.081678,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,﻿attended from Columbus occasionally,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0029,﻿mission,not recorded,English,﻿irish settlement,,,,,﻿Wood River,﻿Wood River,﻿NE,﻿NE,40.820569,-98.60007,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0027,﻿mission,not recorded,English,﻿german settlement,,,,,﻿Shell Creek,﻿Shell Creek,﻿NE,﻿NE,41.494166,-97.059061,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0027,﻿church,﻿St. John's,English,﻿german settlement,,,,,﻿St. Patrick's Settlement,﻿Shell Creek,﻿NE,,41.494166,-97.059061,,,,﻿mclaughlin_001,﻿Rev.,﻿McLaughlin,,﻿Pastor,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
-﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,,﻿attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Ponce,﻿Ponca,﻿NE,﻿NE,42.562497,-96.705592,,﻿attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0038,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,,﻿NE,,,,,,,﻿mclaughlin_001,﻿Rev.,﻿McLaughlin,,﻿Pastor,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
+﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Ponce,﻿Ponca,﻿NE,﻿NE,42.562497,-96.705592,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,40.052462,-95.429276,,,,﻿wil_kelly_002,﻿Rev.,﻿William Kelly,,﻿Pastor,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0013,﻿church,not recorded,English,,,,,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,40.397779,-95.658045,﻿oma.ne.0006,﻿Attended from Rulo,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0011,﻿church,not recorded,English,,,,,,﻿Arago,﻿Arago,﻿NE,﻿NE,40.1173,-95.498756,﻿oma.ne.0006,﻿Attended from Rulo,,,,,,,,,,,,1867,﻿,﻿,﻿VANebraska,VANebraska

@@ -8,11 +8,11 @@
 ﻿oma.ne.0010,﻿mission,not recorded,English,,,,,,﻿St. Helena,﻿St. Helena,,﻿NE,42.80972,-97.248942,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0008,﻿mission,not recorded,English,,,,,,﻿West-Point,﻿West Point,﻿NE,﻿NE,41.841666,-96.708643,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0037,﻿mission,not recorded,English,,,,,,﻿Salt Creek,,﻿NE,,,,﻿oma.ne.0025,﻿Attended from Plattsmouth,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0037,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,,﻿NE,,,,,,,,﻿Rev.,﻿R. J. Ryan,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0038,﻿church,﻿St. John's,English,,,,,,﻿St. Patrick's Settlement,,﻿NE,,,,,,,,﻿Rev.,﻿R. J. Ryan,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0014,﻿church,not recorded,English,,,,,,﻿Fort Kearney,﻿Kearney,﻿NE,﻿NE,40.69933,-99.081678,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
-﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0044,﻿church,not recorded,English,,,,,,﻿Sioux City,﻿Sioux City,﻿IA,,,,,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
-﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Punka,﻿Punka,﻿NE,﻿NE,42.562497,-96.705592,,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
+﻿sio.sd.0005,﻿church,not recorded,English,,,,,,﻿Fort Randall,,﻿NE,﻿SD,,,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0044,﻿church,not recorded,English,,,,,,﻿Sioux City,﻿Sioux City,﻿IA,,,,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
+﻿oma.ne.0024,﻿church,not recorded,English,,,,,,﻿Punka,﻿Punka,﻿NE,﻿NE,42.562497,-96.705592,﻿oma.ne.0038,﻿attended from St. John's,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0015,﻿church,not recorded,English,,,,,,﻿Cottonwood Springs,,﻿NE,﻿NE,41.016111,-100.5175,﻿oma.ne.0004,﻿attended from Columbus,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0006,﻿church,not recorded,English,,,,﻿Richardson County,,﻿Rulo,﻿Rulo,﻿NE,﻿NE,40.052462,-95.429276,﻿oma.ne.0003,﻿Attended from Nebraska City,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
 ﻿oma.ne.0013,﻿church,not recorded,English,,,,﻿Nemaha County,,﻿Brownsville,﻿Brownsville,﻿NE,﻿NE,40.397779,-95.658045,﻿oma.ne.0003,﻿Attended from Nebraska City,,,,,,,,,,,,1864,﻿,﻿,﻿VANebraska,VANebraska
