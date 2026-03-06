@@ -4,7 +4,7 @@
 ﻿whe.va.0001,﻿cathedral,﻿St. James' Cathedral,English,"﻿Residence, Hampden street, in rear of cathedral",﻿Fifth street,,,,﻿Wheeling,﻿Wheeling,﻿VA,,40.0780503,-80.7270944,,,,﻿t_ackly_001,﻿Rev.,﻿Thos. J. Ackley,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0001,﻿cathedral,﻿St. James' Cathedral,English,"﻿Residence, Hampden street, in rear of cathedral",﻿Fifth street,,,,﻿Wheeling,﻿Wheeling,﻿VA,,40.0780503,-80.7270944,,,,﻿mic_fitzpatrick_001,﻿Rev.,﻿Michael Fitzpatrick,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0002,﻿church,﻿St. Alphonsus',﻿German,"﻿Residence, in the rear of the church","﻿Market Street, Centre Wheeling",,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.0610267,-80.7237172,,,,﻿pet_kreusch_001,﻿Rev.,﻿Peter Kreusch,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0081_02,﻿chapel,﻿Chapel of St. Joseph,English,,﻿Wheeling Hospital,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.066536,-80.719592,﻿whe.va.0086,﻿Attended from the College,﻿Daily,﻿rob_keleher_001,﻿Rev.,﻿Robert Keleher,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0081_02,﻿chapel,﻿Chapel of St. Joseph,English,,﻿Wheeling Hospital,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.05909019,-80.68482122,﻿whe.va.0086,﻿Attended from the College,﻿Daily,﻿rob_keleher_001,﻿Rev.,﻿Robert Keleher,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0004,﻿chapel,﻿Chapel of St. Joseph's Academy,English,,﻿St. Joseph's Academy,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.0639616,-80.7209149,﻿whe.va.0085,﻿Attended from the Seminary,,﻿aug_p_louage_001,﻿Rev.,﻿Aug. P. Louage,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0005,﻿church,not recorded,English,﻿Residence at present of Rev. Michael Duggan,,,,﻿Washington County,﻿Abingdon,﻿Abingdon,,﻿VA,36.7098335,-81.9773482,,,,﻿mic_duggan_001,﻿Rev.,﻿Michael Duggan,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0006,﻿church,﻿St. John's,English,,,,,,﻿Benwood,﻿Benwood,﻿VA,﻿WV,40.0163702,-80.7346505,﻿whe.va.0001,﻿Visited from Wheeling,﻿monthly,,,,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
@@ -89,31 +89,29 @@
 ﻿whe.va.0001_02,﻿school,﻿St. Vincent's Boys' School,English,,﻿Cathedral,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.0780503,-80.7270944,,,,,,,,,,﻿student,﻿100 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0002_02,﻿school,﻿St. Alphonsus' Boys' Schools,﻿German,,﻿German church,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.0610267,-80.7237172,,,,,,,,,,﻿student,﻿150 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0002_03,﻿school,﻿St. Alphonsus' Girls' Schools,English,,,,,,﻿Wheeling,﻿Wheeling,﻿VA,﻿WV,40.0610267,-80.7237172,,,,,,,,,,﻿student,﻿upward of 200 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086_02,﻿seminary,﻿St. Vincent's Seminary,English,,﻿connected with the College,,,,,﻿Wheeling,,﻿WV,40.0780503,-80.7270944,,,,,,,,,,﻿student,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086_02,﻿seminary,﻿St. Vincent's Seminary,English,,﻿connected with the College,,,,,﻿Wheeling,,﻿WV,40.0780503,-80.7270944,,,,,,,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,﻿WV,40.0780503,-80.7270944,,,,﻿aug_p_louage_001,﻿Rev.,﻿A. P. Louage,,﻿President,,﻿student,﻿125 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,,40.0780503,-80.7270944,,,,﻿h_a_brann_001,﻿Rev.,﻿H. A. Brann,﻿D.D.,﻿Professor,,﻿student,﻿30 of pupils are boarders,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,,40.0780503,-80.7270944,,,,﻿rob_keleher_001,﻿Rev.,﻿Robert Keleher,,﻿Professor,,﻿student,﻿30 of pupils are boarders,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,,40.0780503,-80.7270944,,,,﻿h_a_brann_001,﻿Rev.,﻿H. A. Brann,﻿D.D.,﻿Professor,,﻿boarder,﻿30 of pupils are boarders,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,,40.0780503,-80.7270944,,,,﻿rob_keleher_001,﻿Rev.,﻿Robert Keleher,,﻿Professor,,﻿boarder,﻿30 of pupils are boarders,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0086,﻿college,﻿St. Vincent's Classical and Mercantile College,English,,,,,,,﻿Wheeling,,,40.0780503,-80.7270944,,,,﻿schnurrer_001,﻿Mr.,﻿Schnurrer,,﻿Professor,,﻿boarder,﻿30 of pupils are boarders,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,﻿Wheeling,,﻿WV,40.069444,-80.693889,,,,,﻿Mother,﻿Mary Michaella Jenkins,,﻿Superior,,,﻿numbering upward of — professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,﻿Wheeling,,,40.069444,-80.693889,,,,,,,,,,,﻿— novces,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,﻿Wheeling,,﻿WV,40.069444,-80.693889,,,,,﻿Mother,﻿Mary Michaella Jenkins,,﻿Superior,,﻿religious,﻿numbering upward of — professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0087,﻿convent,﻿Convent of the Visitation,English,,﻿Distant one and a half miles from Wheeling,,,,,﻿Wheeling,,,40.069444,-80.693889,,,,,,,,,,﻿religious,﻿— novces,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,﻿Wheeling,,﻿WV,40.078681,-80.6789839,,,,,﻿Mother,﻿Jane Frances de Chantal,,﻿Superior,,﻿religious,﻿9 professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,﻿Wheeling,,,40.078681,-80.6789839,,,,,,,,,,﻿religious,﻿12 novices,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0088,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,﻿corner of Fifth and Quincy streets,,,,,﻿Wheeling,,,40.078681,-80.6789839,,,,,,,,,,﻿religious,﻿9 postulants,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,﻿Mother,﻿Apollonia Digges,,﻿Superior,,﻿religious,﻿8 professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿2 novices,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0089,﻿convent,﻿Convent of the Visitation,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿1 postulant,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0089_02,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿religious,"﻿numbering about 80 pupils, some of whom are boarders",,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0091,﻿academy,﻿Classical Academy,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿religious,﻿upward of 70 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0092,﻿school,not recorded,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿student,﻿90 boys,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0093,﻿school,not recorded,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿student,﻿90 girls,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0094,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,﻿Washington County,﻿Washington County,﻿Abingdon,﻿Abingdon,,﻿VA,36.7098335,-81.9773482,,,,,﻿Mother,﻿Borgia Tubman,,﻿Superior,,﻿child,﻿6 professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0095,﻿school,not recorded,English,,,,,﻿Lewis County,﻿Weston,﻿Weston,,﻿WV,39.0384274,-80.467313,,,,,,,,,,﻿child,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0096,﻿school,not recorded,English,,,,,,﻿Eton's Tunnel,,,,,,,,,,,,,,,﻿religious,﻿100 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0089_02,﻿academy,﻿Academy of the Visitation,English,,﻿connected with the convent,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿student,"﻿numbering about 80 pupils, some of whom are boarders",,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0091,﻿academy,﻿Classical Academy,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿student,﻿upward of 70 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0092,﻿school,not recorded,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿child,﻿90 boys,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0093,﻿school,not recorded,English,,,,,﻿Wood County,﻿Parkersburgh,﻿Parkersburg,,﻿WV,39.2667418,-81.5615135,,,,,,,,,,﻿child,﻿90 girls,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0094,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,﻿Washington County,﻿Washington County,﻿Abingdon,﻿Abingdon,,﻿VA,36.7098335,-81.9773482,,,,,﻿Mother,﻿Borgia Tubman,,﻿Superior,,﻿religious,﻿6 professed sisters,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0095,﻿school,not recorded,English,,,,,﻿Lewis County,﻿Weston,﻿Weston,,﻿WV,39.0384274,-80.467313,,,,,,,,,,﻿student,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0096,﻿school,not recorded,English,,,,,,﻿Eton's Tunnel,,,,,,,,,,,,,,,﻿student,﻿100 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0097,﻿school,not recorded,English,,,,,﻿Bland County,﻿Walker's Station,,,﻿VA,37.1020628,-81.116202,,,,,,,,,,﻿student,﻿35 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0098,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Pennsborough,﻿Pennsboro,,﻿WV,39.2850799,-80.9684422,,,,,,,,,,﻿student,﻿45 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0099,﻿school,not recorded,English,,,,,﻿Preston County,﻿Newburgh,﻿Newburg,,﻿WV,39.3884168,-79.8528687,,,,,,,,,,﻿student,﻿35 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0100,﻿school,not recorded,English,,,,﻿Doddridge County,﻿Doddridge County,,,,﻿WV,39.2850814,-80.73280124,,,,,,,,,,﻿student,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0100,﻿school,not recorded,English,,,,﻿Doddridge County,﻿Doddridge County,,,,﻿WV,39.2850814,-80.73280124,,,,,,,,,,,,,,1870,﻿,﻿,﻿Wheeling,Wheeling
 ﻿whe.va.0101,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Cornwallis,﻿Cornwallis,,﻿WV,39.2273007,-81.1184451,,,,,,,,,,﻿student,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0102,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Silver Run,﻿Cairo,,﻿WV,39.2086894,-81.1573349,,,,,,,,,,,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0102,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Silver Run,﻿Cairo,,,39.2086894,-81.1573349,,,,,,,,,,﻿student,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
-﻿whe.va.0102,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Silver Run,﻿Cairo,,,39.2086894,-81.1573349,,,,,,,,,,﻿student,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
+﻿whe.va.0102,﻿school,not recorded,English,,,,,﻿Ritchie County,﻿Silver Run,﻿Cairo,,﻿WV,39.2086894,-81.1573349,,,,,,,,,,﻿student,﻿60 pupils,,,1870,﻿,﻿,﻿Wheeling,Wheeling
