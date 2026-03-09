@@ -123,9 +123,9 @@
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿dio_abarth_001,﻿Very Rev.,﻿Dion. Aburth,﻿O.S.F.,﻿Custos,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿acc_beine_001,﻿Rev.,﻿Accurs. Reine,﻿O.S.F.,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿cha_f_hone_001,﻿Rev.,﻿Chas. F. Hone,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0034,﻿religious institution,not recorded,English,,,,﻿Lawrence County,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,,﻿Attended from Ironton,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0034,﻿religious institution,not recorded,English,,,,﻿Lawrence County,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,﻿col.oh.0037,﻿Attended from Ironton,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0097,﻿church,﻿St. John's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,,﻿Attended from Cincinnati,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0302,﻿church,not recorded,English,,﻿Heckla Furnaces,,﻿Lawrence County,,,,﻿OH,,,,,﻿Attended from Ironton,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0302,﻿church,not recorded,English,,﻿Heckla Furnaces,,﻿Lawrence County,,,,﻿OH,,,,﻿col.oh.0037,﻿Attended from Ironton,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0098,﻿church,﻿St. Mary's,English,,,,﻿Highland County,,﻿Hillsborough,,﻿OH,,39.202287,-83.611587,,,,﻿mic_odonoghue_001,﻿Rev.,﻿Mich. O'Donoghue,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0099,﻿church,﻿St. Denis',English,,,,﻿Darke County,,﻿Jacksonville,,﻿OH,,40.221657,-84.483302,,,,﻿c_brisard_001,﻿Rev.,﻿C. Brisard,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0035,﻿religious institution,﻿Holy Name,English,,,,﻿Jackson County,,﻿Jackson,,﻿OH,,39.052017,-82.636554,﻿col.oh.0083,﻿Attended from Zaleski,,,,,,,,,,,,1867,﻿,﻿,﻿Cincinnati,Cincinnati

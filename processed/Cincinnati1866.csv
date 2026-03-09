@@ -128,9 +128,9 @@
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿f_d_kolb_001,﻿Rev.,﻿F. de P. Kolb,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿acc_beine_001,﻿Rev.,﻿A. Beine,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿cha_f_hone_001,﻿Rev.,﻿Ch. F. Hone,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0034,﻿religious institution,not recorded,English,﻿(new church building),,,﻿Lawrence County,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,,﻿Attended from Ironton,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0034,﻿religious institution,not recorded,English,﻿(new church building),,,﻿Lawrence County,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,﻿col.oh.0037,﻿Attended from Ironton,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0097,﻿church,﻿St. John's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,,﻿Attended from Cincinnati,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0302,﻿church,not recorded,English,,﻿Heckla Furnaces,,﻿Lawrence County,,,,﻿OH,,,,,﻿Attended from Ironton,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0302,﻿church,not recorded,English,,﻿Heckla Furnaces,,﻿Lawrence County,,,,﻿OH,,,,﻿col.oh.0037,﻿Attended from Ironton,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0302,﻿church,﻿St. Mary's,English,,﻿Heckla Furnaces,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,,,,,,﻿jos_albrecht_001,﻿Rev.,﻿Jos. Albrecht,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0302,﻿church,﻿St. Mary's,English,,﻿Heckla Furnaces,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,,,,,,﻿r_schülts_001,﻿Rev.,﻿R. Schülts,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0302,﻿church,﻿St. Mary's,English,,﻿Heckla Furnaces,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,,,,,,﻿pau_reuther_001,﻿Rev.,﻿Paul Reuther,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -245,7 +245,7 @@
 ﻿cin.oh.0178,﻿church,not recorded,English,﻿(church building),,,﻿Fayette County,,﻿Washington,,﻿OH,,39.537369,-83.437579,﻿col.oh.0019,﻿Attended from Circleville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0180,﻿church,not recorded,English,,,,﻿Warren County,,﻿Waynesburgh,,﻿OH,,39.424142,-84.185711,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0181,﻿church,not recorded,English,,,,﻿Madison County,,﻿West-Jefferson,,﻿OH,,39.976846,-83.256345,﻿cin.oh.0107,﻿Attended from London,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0181,﻿church,﻿St. —,English,,,,﻿Vinton County,,﻿Wilkesville,,﻿OH,,39.976846,-83.256345,,﻿Attended from Chillicothe,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0081,﻿church,﻿St. —,English,,,,﻿Vinton County,,﻿Wilkesville,,﻿OH,,39.091573,-82.366887,,﻿Attended from Chillicothe,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0077,﻿church,not recorded,English,,,,﻿Coshocton County,,﻿Wills Creek,,﻿OH,,40.20082,-81.763987,﻿col.oh.0021,﻿Attended from Coshocton,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0313,﻿church,﻿St. Joseph's,English,,,,﻿Coshocton County,,﻿Wills Creek,,﻿OH,,,,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0183,﻿church,not recorded,English,,,,﻿Clinton County,,﻿Wilmington,,﻿OH,,39.446455,-83.830338,﻿cin.oh.0098,﻿Attended from Hillsborough,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
