@@ -76,7 +76,7 @@
 ﻿alt.il.0070,﻿church,﻿St. James,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Millstadt,﻿Millstadt,﻿IL,,38.4612076,-90.0964751,,,,﻿f_trojan_001,﻿Rev.,﻿F. Trojan,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0071,﻿church,﻿St. Mary's,English,,,,﻿Pulaski County,﻿Pulaski County,﻿Mound City,﻿Mound City,﻿IL,,37.0834604,-89.1683594,,,,﻿ric_walsh_001,﻿Rev.,﻿Richard Walsh,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0072,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Wabash County,﻿Wabash County,﻿Mount Carmel,﻿Mount Carmel,﻿IL,,38.4108801,-87.7614174,,,,﻿l_quitter_001,﻿Rev.,﻿L. Quitter,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0073,﻿church,﻿St. Mary's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿p_kearney_001,﻿Rev.,﻿P. Kearney,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0073,﻿church,﻿St. Mary's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿pat_kearney_001,﻿Rev.,﻿P. Kearney,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0074,﻿church,﻿St. Joseph's,English,,,,﻿Brown County,﻿Brown County,﻿Mount Sterling,﻿Mount Sterling,﻿IL,,39.9872707,-90.763463,,,,﻿c_hoffmans_001,﻿Rev.,﻿C. Hoffmans,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0075,﻿church,﻿St. Andrew's,English,,,,﻿Jackson County,﻿Jackson County,﻿Murphysboro,﻿Murphysboro,﻿IL,,37.7644952,-89.3350888,﻿alt.il.0004,﻿Attended from Anna,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0076,﻿church,﻿St. Patrick's,English,,,,﻿Cumberland County,﻿Cumberland County,﻿Neoga,﻿Neoga,﻿IL,,39.3194817,-88.4528261,﻿alt.il.0216,"﻿Attended by Rev. F. Mönning, O.S.F.",,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
@@ -133,7 +133,7 @@
 ﻿alt.il.0124,﻿church,﻿St. Joseph's,English,,﻿Stringtown,,﻿Richland County,﻿Richland County,﻿Stringtown,﻿German Township,﻿IL,,38.80573489,-87.98358127,﻿alt.il.0084,﻿Attended from Olney,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0125,﻿church,﻿St. Bernards's,English,,﻿Chatham P.O.,,﻿Sangamon County,﻿Sangamon County,﻿Sugar Creek,﻿Chatham,﻿IL,,39.7337353,-89.6251646,,,﻿Vacant,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0126,﻿church,﻿St. Mary's,English,,,,﻿Christian County,﻿Christian County,﻿Taylorsville,﻿Taylorville,﻿IL,,39.5462867,-89.2950878,﻿alt.il.0007,﻿Attended from Assumption,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0127,﻿church,﻿SS. Peter and Francis',English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.1330967,-88.4719918,,,,﻿m_hiltermann_001,﻿Rev.,﻿M. Hiltermann,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0127,﻿church,﻿SS. Peter and Francis',English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.1330967,-88.4719918,,,,﻿mat_hiltermann_001,﻿Rev.,﻿M. Hiltermann,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0128,﻿church,﻿St. Patrick's,English,,﻿Red Bud P.O.,,﻿Monroe County,﻿Monroe County,﻿Tiptown,﻿Tiptown,﻿IL,,38.2117172,-89.9942741,,,,﻿p_dee_001,﻿Rev.,﻿P. Dee,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0129,﻿church,﻿St. Mary Magdalen's,English,,,,﻿Perry County,﻿Perry County,﻿Todd's Mill,﻿Todds Mill,﻿IL,,38.0612022,-89.3226954,﻿alt.il.0260,﻿Attended from Lively Grove,,,,,,,,,,,,1870,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0130,﻿church,﻿Purification of the Blessed Virgin Mary,English,,,,﻿Clinton County,﻿Clinton County,﻿Trenton,﻿Trenton,﻿IL,,38.605604,-89.6820368,,,,﻿a_brefeld_001,﻿Rev.,﻿A. Brefeld,,,,,,,,1870,﻿,﻿,﻿Alton,Alton

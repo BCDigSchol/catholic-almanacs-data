@@ -114,11 +114,11 @@
 ﻿bos.ma.0171,﻿church,﻿St. Martin's,English,,,,,,﻿Templeton,﻿Templeton,﻿MA,,42.5984507,-72.0524517,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0036,﻿church,﻿St. Catharine's,English,,,,,,﻿Athol,﻿Athol,﻿MA,,42.5601474,-72.245275,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0189,﻿church,﻿St. Edward's,English,,,,,,﻿Winchendon,﻿Winchendon,﻿MA,,42.6871009,-72.0439529,,,,﻿tho_h_bannon_001,﻿Rev.,﻿Thomas H. Bannon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,42.1398577,-71.5163049,,,,﻿p_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,42.1398577,-71.5163049,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,42.1398577,-71.5163049,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,﻿p_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0119,﻿church,not recorded,English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿p_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0119,﻿church,not recorded,English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0119,﻿church,not recorded,English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0168,﻿church,﻿St. George's,English,,,,,,﻿Saxonville,﻿Framingham,﻿MA,,42.3264843,-71.399505,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.2847975,-71.3439518,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -164,11 +164,11 @@
 ﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿m_p_galligher_001,﻿Rev.,﻿M. P. Galligher,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿tho_osullivan_001,﻿Rev.,﻿Thomas O'Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.1245897,-72.7462771,,,,﻿m_x_carroll_001,﻿Rev.,﻿M. X. Carroll,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,﻿jam_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,﻿jam_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0083,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿jam_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0083,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0083,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.4545161,-73.2508765,,,,﻿e_purcell_001,﻿Rev.,﻿Edward H. Purcell,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0249,﻿church,not recorded,English,﻿new church building,,,,,,,﻿MA,,,,,,,﻿m_f_maguire_001,﻿Rev.,﻿M. F. Maguire,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
