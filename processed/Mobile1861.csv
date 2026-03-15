@@ -15,9 +15,9 @@
 ﻿mob.al.0026,﻿convent,﻿St. F. de Sales,English,,,,﻿Mobile County,,﻿Summerville,﻿Mobile,﻿AL,,30.6082227,-88.2461183,,,,,﻿Rev.,﻿D. Whelan,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0028,﻿church,﻿St. John the Baptist's,English,﻿vacant.,,,,﻿Tuscaloosa County,﻿Tuscaloosa,﻿Tuscaloosa,﻿AL,,33.1959079,-87.5505986,,,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Apalachicola,﻿FL,,29.72434839,-84.98446785,,,,,﻿Rev.,﻿Jas. Miller,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,﻿Escambia County,﻿Franklin County,﻿Barrancas,﻿Fort Barrancas,﻿FL,,30.34797173,-87.29834071,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0057,﻿church,not recorded,English,,,,﻿Escambia County,,﻿Barrancas,﻿Fort Barrancas,﻿FL,,30.34797173,-87.29834071,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,30.4142607,-87.2094833,,,,,﻿Rev.,﻿P. F. Coyle,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Perdido,﻿Pensacola,﻿FL,,30.29835914,-87.43031054,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0058,﻿church,not recorded,English,,,,,,﻿Perdido,,﻿FL,,30.29835914,-87.43031054,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0034,﻿church,﻿St. John Evangelist's,English,,,,,﻿Escambia County,﻿Warrington,﻿Warrington,﻿FL,,30.383773,-87.278385,,,,,﻿Rev.,﻿P. F. Coyle,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,﻿f_gautrelet_001,﻿Very Rev.,﻿F. Gautrelet,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.8486236,,,,﻿r_olivier_001,﻿Rev.,﻿Robert Olivier,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
@@ -43,5 +43,9 @@
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.72192518,-88.14120639,,,,,,,,,,﻿student,"﻿day school, about 400",﻿Sisters of Charity,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0049,﻿asylum,﻿Male Orphan Asylum,English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,,,,,,﻿religious,"﻿brothers, 15",﻿under the direction of Brothers of Christian Instruction,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0049,﻿asylum,﻿Male Orphan Asylum,English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,,,,,,﻿child,"﻿orphans, 105",﻿under the direction of Brothers of Christian Instruction,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0049,﻿school,"﻿""Several Day Schools for boys""",English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,,,,,,﻿student,﻿average attendance about 400,﻿under the direction of Brothers of Christian Instruction,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0049,﻿school,"﻿""Boarding School for small boys""",English,,﻿Lafayette street,,,,,,,,30.68833554,-88.07145232,,,,,﻿Brother,﻿Alphonso,,﻿Superior,,﻿student,﻿some fifteen boarders,﻿under the direction of Brothers of Christian Instruction,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0059,﻿school,"﻿""Several Day Schools for boys""",English,,,,,,,,,,,,,,,,,,,,,﻿student,﻿average attendance about 400,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0060,﻿school,"﻿""Boarding School for small boys""",English,,,,,,,,,,,,,,,,﻿Brother,﻿Alphonso,,﻿Superior,,﻿student,﻿some fifteen boarders,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0050,﻿infirmary,﻿Providence Infirmary,English,"﻿A brick building, conveniently adapted to its purposes. Cost of building and grounds, which are ample, $15,000",,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69069441,-88.05519993,,,,,﻿Sister,﻿Hilary Brawner,﻿Superior,,,﻿patient,﻿accomodation for 60 patients,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0050,﻿infirmary,﻿Providence Infirmary,English,"﻿A brick building, conveniently adapted to its purposes. Cost of building and grounds, which are ample, $15,000",,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69069441,-88.05519993,,,,,﻿Sister,﻿Theogene Farrell,﻿Sister-servant,,,﻿patient,﻿accomodation for 60 patients,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0051,﻿hospital,﻿City Hospital,English,﻿for the indigent sick of the city,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69126649,-88.05553228,,,,,﻿Sister,﻿Gabriella Larkins,﻿Superior,,,﻿patient,﻿patients 80 to 100,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0051,﻿hospital,﻿City Hospital,English,﻿for the indigent sick of the city,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69126649,-88.05553228,,,,,,,,,,﻿religious,﻿Six sisters,,,1861,﻿,﻿,﻿Mobile,Mobile
