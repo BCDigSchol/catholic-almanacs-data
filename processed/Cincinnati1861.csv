@@ -35,7 +35,7 @@
 ﻿cin.oh.0296,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0296,﻿church,﻿St. Francis Seraphicus',﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Very Rev.,﻿Otto Jair,﻿O.S.F.,﻿Custos,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0296,﻿church,﻿St. Francis Seraphicus',﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Archangelus Gstir,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0296,﻿church,﻿St. Francis Seraphicus',﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿F. de Hier,﻿O.S.F.,﻿Holzer,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0296,﻿church,﻿St. Francis Seraphicus',﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿fra_holzer_001,﻿Rev.,﻿F. de Hier. Holzer,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0297,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿J. W. Brümmer,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0194_03,﻿chapel,﻿Chapel of the Sisters of Charity,English,,,﻿Cincinnati,,,,,﻿OH,,39.113044,-84.578604,﻿cin.oh.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0040,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,"﻿About 600 girls hear Mass here, and are instructed on Sunday",,﻿Cincinnati,,,,,﻿OH,,39.103335,-84.509335,﻿cin.oh.0001,"﻿Attended by a Jesuit Father, also from the Cathedral",,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -74,7 +74,7 @@
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,﻿Franklin County,,﻿Columbus,﻿Columbus,﻿OH,,39.968885,-82.991711,,,,,﻿Rev.,﻿Jos. Fitzgerald,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0021,﻿church,﻿St. George's,English,,,,﻿Coshocton County,﻿Coshocton County,﻿Coshocton,﻿Coshocton,﻿OH,,40.273582,-81.953481,,,,,﻿Rev.,﻿Serge de Stchoulepnikoff,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0023,﻿church,﻿St. Luke's,English,,,,,﻿Knox County,﻿Danville,﻿Danville,﻿OH,,40.447705,-82.260386,﻿col.oh.0055,﻿Attended from Mount Vernon,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0075,﻿church,﻿Emmanuel's,English,,,,﻿Montgomery County,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,﻿cha_hahne_001,﻿Rev.,﻿I. F. Hahne,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0075,﻿church,﻿Emmanuel's,English,,,,﻿Montgomery County,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,﻿joh_f_hahne_001,﻿Rev.,﻿I. F. Hahne,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076,﻿church,﻿St. Joseph's,English,,,,﻿Montgomery County,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,﻿d_j_kelly_001,﻿Rev.,﻿David Kelly,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076,﻿church,﻿St. Joseph's,English,,,,﻿Montgomery County,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,﻿Rev.,﻿— Keleher,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0078,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,﻿j_schiff_001,﻿Rev.,﻿John Schiff,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -104,9 +104,10 @@
 ﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Baker County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,,﻿Rev.,﻿Eugene Corcoran,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0097,﻿church,﻿St. John Baptist's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,﻿cin.oh.0007,﻿Attended from Cincinnati,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0098,﻿church,﻿St. Mary's,English,,,,﻿Highland County,,﻿Hillsborough,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿F. Marion,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,﻿jos_albrecht_001,﻿Rev.,﻿Joseph H. Albrecht,﻿C.PP.S.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿Engelbert Ruff,﻿C.PP.S.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿Joseph Dwenger,﻿C.PP.S.,,"﻿who also attend St. Henry's, St. Wendelin's, and St. Philothea's. St. Anthony's, Rev. S. Gantes, C.PP.S., from St. Marystown, Ia.",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,﻿jos_albrecht_001,﻿Rev.,﻿Joseph H. Albrecht,﻿C.PP.S.,,"﻿who also attend St. Henry's, St. Wendelin's, and St. Philothea's",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿Engelbert Ruff,﻿C.PP.S.,,"﻿who also attend St. Henry's, St. Wendelin's, and St. Philothea's",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Joseph's and St. Mary's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿Joseph Dwenger,﻿C.PP.S.,,"﻿who also attend St. Henry's, St. Wendelin's, and St. Philothea's",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0098,﻿church,﻿St. Anthony's,English,,,,﻿Mercer County,,﻿Himmelgarten,,﻿OH,,39.202287,-83.611587,,,,,﻿Rev.,﻿S. Gantes,﻿C.PP.S.,,"﻿from St. Marystown, I[N].",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0098,﻿church,﻿St. Remi's,English,,,,﻿Shelby County,,﻿Jacksonville,,﻿OH,,39.202287,-83.611587,,,,﻿c_brisard_001,﻿Rev.,﻿C. Brisard,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0037,﻿church,﻿St. Lawrence's,English,,,,,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿ph_odonoghoo_001,﻿Rev.,﻿Phil. Donaghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,,,,,﻿Jackson Township,,﻿OH,,39.764135,-82.25833,,﻿Attended by the Dominican Fathers,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -155,18 +156,19 @@
 ﻿col.oh.0059,﻿church,﻿Sacred Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,,﻿Rev.,﻿B. Gelss,,,"﻿who also attends the Germans of Marietta, and the Church of St. John the Baptist, twenty miles from Coalport",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Kargé,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,,,,,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donaghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0060,﻿church,﻿Church of the Holy Trinity,English,,,,,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,,﻿Attended by the clergymen of Portsmouth,"﻿who also attend Aberdeen, Buena Vista, and the settlements around the furnaces of Scioto and Lawrence Co.",,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0060,﻿church,﻿Church of the Holy Trinity,English,,,,,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,﻿col.oh.0061,"﻿Attended by the clergymen of Portsmouth who also attend Aberdeen, Buena Vista, and the settlements around the furnaces of Scioto and Lawrence Co.",,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0151,﻿church,﻿Holy Angels,English,,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,﻿Attended from Piqua,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0153,﻿church,﻿St. Raphael's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.922896,-83.806463,,,,﻿m_howard_002,﻿Rev.,﻿M. Howard,,,"﻿who also attends Tremont, Jefferson and other stations",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0064,﻿church,﻿St. Peter's,English,,,,﻿Jefferson County,,﻿Steubenville,,﻿OH,,40.365511,-80.61279,,,,﻿e_thienpont_002,﻿Rev.,﻿Em. Thienpont,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0157,﻿church,﻿St. Anthony's,English,,,,,,,,﻿OH,,40.508938,-84.785251,,"﻿Attended from St. Mary's Home, Indiana",,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿C. D. Bowling,﻿O.S.D.,,﻿and other Dominican Fathers,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿Holy Trinity,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿Holy Trinity,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿D. A. O'Brien,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Very Rev.,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Mercer County,,﻿St. Mary's,,﻿OH,,39.764135,-82.25833,,﻿Attended from Minster,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿St. Mary's,English,﻿Temperanceville P. O.,,,﻿Noble County,,﻿St. Mary's,,﻿OH,,39.764135,-82.25833,,,,﻿i_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿C. D. Bowling,﻿O.S.D.,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿Holy Trinity,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿Holy Trinity,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿D. A. O'Brien,﻿O.S.D.,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿D. A. O'Brien,﻿O.S.D.,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,,,,﻿Mercer County,,﻿St. Mary's,,﻿OH,,39.764135,-82.25833,,﻿Attended from Minster,,,,,,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Mary's,English,﻿Temperanceville P. O.,,,﻿Noble County,,﻿St. Mary's,,﻿OH,,39.764135,-82.25833,,,,﻿i_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,﻿religious,﻿and other Dominican Fathers,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0310,﻿church,﻿St. Xavier's,English,,,﻿8 miles from Chillicothe,,,,,,,,,,﻿Attended from Chillicothe,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0065,﻿church,﻿St. James,English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0065,﻿church,﻿Sunday Creek,English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,,,,,﻿Rev.,﻿— Phew,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -192,3 +194,64 @@
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,﻿Rev.,﻿J. T. Jarboe,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,﻿Rev.,﻿F. Cubero,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085,﻿church,﻿St. Nicholas',English,,,,,,﻿Zanesville,,﻿OH,,39.940112,-82.001087,,,,,﻿Rev.,﻿A. Hechinger,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿W. J. Barry,,﻿Sup.,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿David Walker,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿A. M. Mazean,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿Michael O'Donoghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189_03,﻿college,﻿Mount St. Mary's College,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,﻿Provincial,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. V. Edelen,﻿O.S.D.,﻿Prior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿F. J. Dunn,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. D. Sheehy,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. P. Heamy,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿J. A. Sheuerman,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿college,﻿St. Joseph's College,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿John A. Rotchford,﻿O.S.D.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿college,﻿St. Joseph's College,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿Stephen Byrne,﻿O.S.D.,﻿Vice President and Treasurer,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿college,﻿St. Xavier's College,English,,,,﻿Perry County,,﻿Cincinnati,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿Maurice Oakley,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿college,﻿St. Xavier's College,English,,,,﻿Perry County,,﻿Cincinnati,,﻿OH,,39.764135,-82.25833,,,,,﻿Rev.,﻿Theodore Kuhlmann,﻿S.J.,﻿Vice President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Very Rev.,﻿Otto Jair,﻿O.S.Fr.,﻿Superior,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Archangelus Gatir,﻿O.S.Fr.,,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Francis Holzer,﻿O.S.Fr.,,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Anselm Koch,﻿O.S.Fr.,,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Francis de P. Kolb,﻿O.S.Fr.,,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿educational institution,﻿The Catholic Gymnasium of St. Francis Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Venantius Arnold,﻿O.S.Fr.,,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿convent,﻿Convent of St. Francis Assisium,English,﻿adjoining St. Francis Church,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,﻿Very Rev.,﻿Otto Jair,,﻿Custos,,,,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012_02,﻿seminary,﻿Seminary of the Society of the Precious Blood,English,﻿adjoining St. Francis Church,,,,,﻿Himmelgarten,,﻿OH,,39.113568,-84.516581,,,,,﻿Rev.,﻿Joseph Dwenger,,﻿Director,,﻿student,﻿Number of seminarians 14,﻿Under the Franciscan Fathers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0201,﻿school,﻿Convent School of Mariahelp,English,"﻿Convent School by the same Order at Mariastein, Greenwood, Himmelgarten and New Egypt",,,﻿Auglaize County,,﻿Minister,,﻿OH,,40.395018,-84.379086,,,,,﻿Sister,﻿Kmigunda Wehrle,,﻿Superior,,,,﻿Under the Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿lou_meyer_001,﻿Rev.,﻿L. Meyer,,﻿Superior,,,,﻿under the Christian Brothers of the Society of Mary,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿x_mauclerc_001,﻿Rev.,﻿— Mauclere,,,,,,﻿under the Christian Brothers of the Society of Mary,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192,﻿institute,﻿Young Ladies' Literary Institute,English,,﻿6th street,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Louise,,﻿Superior,,,,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192,﻿convent,﻿Convent of the Divine Will,English,,﻿4th street,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,,,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿^ _02,﻿school,﻿School of the Sisters of Mercy,English,,﻿4th street,,,,,﻿Cincinnati,﻿OH,,,,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿^ _02,﻿convent,﻿Convent of Franciscan Sisters of the Poor,English,,﻿4th street,,,,,﻿Cincinnati,﻿OH,,,,,,,,﻿Sister,﻿Felicitas,,﻿Superior,,,,﻿Franciscan Sisters of the Poor,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿^ _02,﻿convent,﻿Convent of the Sisters of the Good Shepard,English,,﻿4th street,,,,,﻿Cincinnati,﻿OH,,,,,,,,﻿Sister,﻿Mary Joseph,,﻿Mother Superior,,,,﻿Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0196,﻿boarding school,﻿Mt. Notre Dame Young Ladies' Literary Institute and Boarding School,English,,,﻿near Reading,,,,,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Hyacinth,,﻿Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0194,﻿convent,﻿Mount St. Vincent's,English,﻿Mother House of the Sisters of Charity,,﻿near Cincinnati,,,,,﻿OH,,,,,,,,﻿Mother,﻿Josephine Harvey,,﻿Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0194_02,﻿academy,﻿Mount St. Vincent's Academy,English,﻿for young ladies,,,,,,,﻿OH,,39.113044,-84.578604,,,,,,,,,,,,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0195,﻿academy,﻿Young Ladies' Academy,English,,"﻿St. Martin's, near Fayettville",,,,,,﻿OH,,39.214192,-83.891431,,,,,﻿Sister,﻿Julia Chatfield,,﻿Superior,﻿of the Assumption,,,﻿Under the Ursuline Nuns,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0195,﻿boarding school,﻿Young Ladies' Literary Institute and Boarding School,English,,"﻿St. Martin's, near Fayettville",,,,﻿Chillicothe,,﻿OH,,39.214192,-83.891431,,,,,,,,,,,,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0199,"﻿boarding school, day school","﻿St. Joseph's Boarding, Day, and Free Schools",English,,,,,,﻿Dayton,,﻿OH,,39.76181,-84.184806,,,,,﻿Sister,﻿Regina Mattingly,,﻿Sister-servant,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0087,﻿academy,﻿St. Mary's Female Academy,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.961176,-82.998794,,,,,,,,,,,,﻿under the Nuns of St. Dominic,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001_02&_03,﻿school,﻿Cathedral School,English,﻿for boys; and for girls,,,,,﻿Cincinnati,,﻿OH,,39.103509,-84.519506,,,,,,,,,,﻿student,"﻿Average attendance, 500",﻿Under the Christian Brothers,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001_02&_03,﻿school,﻿Cathedral School,English,﻿for boys; and for girls,,,,,﻿Cincinnati,,﻿OH,,39.103509,-84.519506,,,,,,,,,,﻿student,"﻿Average attendance, 500",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005_02,﻿school,﻿Holy Trinity School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.099897,-84.523622,,,,,,,,,,﻿student,"﻿Average attendance, 600",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005_02,﻿school,﻿St. Mary's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.099897,-84.523622,,,,,,,,,,﻿student,"﻿Average attendance, 700",﻿Under the Brothers of St. Mary's Society,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005_02,﻿school,﻿St. Mary's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.099897,-84.523622,,,,,,,,,,﻿student,"﻿Average attendance, 700",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007_02,﻿school,﻿St. John's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.114207,-84.517127,,,,,,,,,,﻿student,"﻿Average attendance, 1,290",﻿Under the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007_02,﻿school,﻿St. John's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.114207,-84.517127,,,,,,,,,,﻿student,"﻿Average attendance, 1,290",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007_02,﻿school,﻿St. Paul's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.114207,-84.517127,,,,,,,,,,﻿student,"﻿Average attendance, 700",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0010_02,﻿school,﻿St. Philomena's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.09651,-84.509308,,,,,,,,,,﻿student,"﻿Average attendance, 380",﻿Under the Brothers of St. Mary's Society,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0010_02,﻿school,﻿St. Philomena's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.09651,-84.509308,,,,,,,,,,﻿student,"﻿Average attendance, 380",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0009_02,﻿school,﻿St. Joseph's School,English,﻿for boys; and for girls,,,,,,,﻿OH,,39.10908,-84.527496,,,,,,,,,,﻿student,"﻿Average attendance, 650",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿St. Augustine's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 500",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿St. Michael's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 180",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿St. Anthony's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 200",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿St. Patrick's Parish School,English,﻿for girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,,,﻿OH,,,,,,,,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,﻿student,"﻿Average attendance, 450",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿School of the Sisters of Notre Dame,English,﻿for boys,﻿at the Convent on Sixth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 650",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿School of the Sisters of Mercy,English,﻿for boys,﻿at the Convent on Fourth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 250",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011_02,﻿school,﻿School of the Sisters of the Good Shepard,English,﻿for boys,﻿at the Convent on Bank street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 50",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0016_02,﻿school,﻿Holy Angels' School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 190",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0015_02,﻿school,﻿All Saints' School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 150",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

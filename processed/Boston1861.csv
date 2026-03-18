@@ -1,0 +1,37 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿hil_tucker_001,﻿Rev.,﻿Hilary Tucker,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿c_lynch_001,﻿Rev.,﻿C. Lynch,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿law_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿j_a_healey_001,﻿Rev.,﻿J. A. Healey,,﻿Chancellor and Sec.,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿chapel,not recorded,English,﻿Temporary Chapel. for children,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿chapel,﻿Chapel of the Guardian Angels,English,﻿Temporary Chapel. for children,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,﻿Rev.,﻿H. Tucker,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0006,﻿church,﻿Church of St. Vincent de Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3676619,-71.0911235,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0006,﻿church,﻿Church of St. Vincent de Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3676619,-71.0911235,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿L. S. McMahon,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James' Church,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3268295,-71.0868117,,,,﻿joh_j_williams_001,﻿Very Rev.,﻿John J. Williams,﻿V.G.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James' Church,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3268295,-71.0868117,,,,﻿joh_mccarthy_001,﻿Rev.,﻿John McCarthy,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0004,﻿church,﻿St. James' Church,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3268295,-71.0868117,,,,﻿p_j_camey_001,﻿Rev.,﻿P. J. Camey,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿joh_barrister_004,﻿Rev.,﻿John Barrister,﻿S.J.,﻿Pastor,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿nic_steinbacher_001,﻿Rev.,﻿Nicholas Steinbacher,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿fra_lachat_001,﻿Rev.,﻿Francis Lachat,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿a_roccofort_002,﻿Rev.,﻿A. Roccofort,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0009,﻿chapel,﻿St. Joseph's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3665655,-71.052568,﻿bos.ma.0002,﻿attended from St. Mary's Church,,,,,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿ern_reiter_001,﻿Rev.,﻿Ernest Reiter,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿church,﻿St. John the Baptist's Church,﻿German,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿church,﻿St. John the Baptist's Church,﻿German,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿joh_w_donahue_001,﻿Rev.,﻿John W. Donahue,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿church,﻿St. John the Baptist's Church,﻿German,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿cha_renoni_001,﻿Rev.,﻿Charles Renoni,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿chapel,﻿Chapel of Our Lady Star of the Sea,﻿German,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,﻿Rev.,﻿George F. Haskins,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿chapel,﻿Chapel of Our Lady Star of the Sea,﻿German,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,﻿Rev.,﻿John W. Donahue,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿chapel,﻿Chapel of Our Lady Star of the Sea,﻿German,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,﻿Rev.,﻿Charles Renoni,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0005,﻿chapel,﻿Chapel in the College,﻿German,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,﻿Rev.,﻿John McElroy,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Church of Immaculate Conception,English,﻿building,,,,,﻿Boston,﻿Boston,﻿MA,,42.3368175,-71.0731746,,,,,,,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul's,English,﻿(S. B.),,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿rev_001,﻿Rev.,﻿Rev.,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul's,English,﻿(S. B.),,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿j_flattely_001,﻿Rev.,﻿J. Flattely,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul's,English,﻿(S. B.),,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿t_mcnulty_001,﻿Rev.,﻿T. McNulty,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿Rev.,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿J. Flattely,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿T. McNulty,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿Church of Immaculate Conception,English,"﻿Stations - Canton, Milton, and Dorchester",﻿Stoughton,,,,﻿Stoughton,﻿Boston,﻿MA,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0013,﻿church,﻿Church of the Most Holy Redeemer,English,"﻿(E. B.), Stations-  Point Shirley, Winthrop, Deer Island",,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿j_fitton_001,﻿Rev.,﻿J. Fitton,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0058,﻿church,﻿St. Rose,English,﻿new church building,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.3944322,-71.0319581,,,,﻿pat_strain_001,﻿Rev.,﻿Patrick Strain,,,,,,,,1861,﻿,﻿,﻿Boston,Boston
