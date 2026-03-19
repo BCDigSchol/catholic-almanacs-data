@@ -176,7 +176,7 @@
 ﻿san.nm.0156,﻿chapel,﻿Sangre de Cristo,English,,,﻿Tome,,,﻿Valencia,﻿Valencia,﻿NM,,34.972731,-105.032363,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0157,﻿chapel,not recorded,English,,,﻿Tome,,,﻿La Ladera,﻿Chimayo,﻿NM,,35.991999,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,not recorded,English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0001,﻿church,﻿Parish Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿V.G.,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0001,﻿church,﻿Parish Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0166,﻿church,not recorded,English,,,,,,﻿Doil's Ranch,﻿Doyle Settlement,﻿CO,﻿CO,,,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0041,﻿chapel,not recorded,English,,,,,,﻿El Badito,﻿Badito,﻿CO,﻿CO,,,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿jb_raverdy_002,﻿Rev.,﻿J.B. Raverdy,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -194,9 +194,9 @@
 ﻿den.co.0032,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿El Cerito,﻿Los Cerritos,﻿CO,﻿CO,,,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0034,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Pinos,﻿Ortiz,﻿CO,﻿CO,37.301718,-107.606332,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,﻿fine old brick church,,,,,,,﻿AZ,,,,,,,﻿j_salpointe_001,﻿Very Rev.,﻿J. Salpointe,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0223,﻿church,﻿Tuscon Parish Church,English,,,,,,,,﻿AZ,,,,,,,﻿f_boucard_001,﻿Rev.,﻿F. Boucard,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0223,﻿church,﻿Tuscon Parish Church,English,,,,,,,,﻿AZ,,,,,,,﻿f_boucard_001,﻿Rev.,﻿F. Boucard,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0224,﻿chapel,﻿Chapel of San Augustin,English,,,,,,,,﻿AZ,,,,,﻿Attended by the same,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,,,,,,,﻿p_bernal_001,﻿Rev.,﻿P. Bernal,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,,,,,,,﻿p_bernal_001,﻿Rev.,﻿P. Bernal,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0002,﻿church,not recorded,English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,,,,,,,,,,,,﻿priest,﻿a few seminarians,,,1868,﻿,﻿,﻿Sante Fé,SantaFe

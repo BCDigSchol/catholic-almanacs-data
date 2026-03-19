@@ -25,7 +25,7 @@
 ﻿buf.ny.0010,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010,﻿church,﻿Holy Cross Cemetery,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿tho_hines_001,﻿Rev.,﻿T. Hackspiel,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0012,﻿church,﻿Chapel at the Hospital,English,,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.909104,-78.866851,,,,﻿a_keck_001,﻿Rev.,﻿A. Keck,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0014,﻿church,﻿Chapel at St. Vincent's Asylum,English,,﻿St. Vincent's Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.950911,-78.848858,,,,﻿hen_feldmann_001,﻿Rev.,﻿Henry Feldmann,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0014,﻿church,﻿Chapel at St. Vincent's Asylum,English,,﻿St. Vincent's Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.950911,-78.848858,,,,﻿hen_feldman_001,﻿Rev.,﻿Henry Feldmann,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0013,﻿church,﻿Chapel at Convent of the Good Shepherd,English,,﻿Convent of the Good Shepherd,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.950911,-78.848858,,,,﻿p_m_mazuret_001,﻿Rev.,﻿P. Mazuret,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿church,﻿Chapel at St. Vincent's Asylum for Widows and Foundlings,English,,﻿St. Vincent's Foundling and Lying-in Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.830412,-78.811363,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0016,﻿chapel,﻿Chapel of the Deaf Mute Asylum,English,,﻿the Deaf Mute Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,,,,﻿c_kottman_001,﻿Rev.,﻿C. Kottman,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -71,7 +71,7 @@
 ﻿buf.ny.0028,﻿church,﻿St. Philip Neri,﻿German,﻿brick church,,,﻿Cattaraugus County,,﻿Ellicottville,﻿Ellicottville,﻿NY,,42.66667,-78.82778,,,,﻿bar_gruber_001,﻿Rev.,﻿Bart. Gruber,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0073,﻿church,﻿St. Joseph's,English,,,,﻿Erie County,,﻿Elysville,,﻿NY,,42.089797,-76.807734,,,,﻿pet_bede_001,﻿Very Rev.,﻿Peter Bede,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0073,﻿church,﻿St. Joseph's,English,,,,﻿Erie County,,﻿Evans,,﻿NY,,42.089797,-76.807734,,,,﻿p_hopkins_001,﻿Rev.,﻿P. Hopkins,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0177,﻿church,not recorded,﻿German,,,,﻿Chemung County,,﻿Factoryville,,﻿NY,,,,,,,﻿ser_de-stchoulipnikoff_001,﻿Rev.,﻿Serge de Stchoulipnikoff,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0177,﻿church,not recorded,﻿German,,,,﻿Chemung County,,﻿Factoryville,,﻿NY,,,,,,,﻿f_s_de-schoulipnikoff_001,﻿Rev.,﻿Serge de Stchoulipnikoff,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0061,﻿church,not recorded,English,,,,﻿Chautauque Country,,﻿Forrestville and Fredonia,﻿Fredonia,﻿NY,,42.275064,-78.672807,,,,﻿jam_rogers_001,﻿Rev.,﻿James Rogers,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0029,﻿church,﻿Church of the Fourteen Holy Helpers,English,,,,﻿Erie County,,﻿Gardenville,﻿Gardenville,﻿NY,,42.464591,-78.932352,﻿buf.ny.0009,﻿Attended from St. Michael's,,﻿chr_wagner_001,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0038,﻿church,not recorded,English,﻿frame church,,,﻿Allegany,,﻿Genesee,,﻿NY,,42.697119,-78.941368,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -85,7 +85,7 @@
 ﻿buf.ny.0045,﻿church,not recorded,English,﻿brick church,,,﻿Steuben County,,﻿Horseheads,﻿Horseheads,﻿NY,,42.908205,-78.678797,,,,﻿fra_s_urich_001,﻿Rev.,﻿Francis S. Urich,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0104,﻿church,﻿St. Stanislaus Kotzka,English,﻿frame church,,,﻿Erie County,,﻿Hubock,,﻿NY,,42.40785,-77.223587,﻿buf.ny.0101,﻿Attended from Bath,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0097,﻿church,not recorded,English,,,,﻿Orleans County,,﻿Hulburton,,﻿NY,,43.226449,-78.026683,﻿buf.ny.0096,﻿Attended from Albion,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0105,﻿church,not recorded,English,﻿brick church,,,﻿Chautauqua County,,﻿Jamestown,﻿Jamestown,﻿NY,,42.322744,-77.65843,,,,﻿m_creedon_001,﻿Rev.,﻿M. Creedon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0105,﻿church,not recorded,English,﻿brick church,,,﻿Chautauqua County,,﻿Jamestown,﻿Jamestown,﻿NY,,42.322744,-77.65843,,,,﻿mic_creedon_001,﻿Rev.,﻿M. Creedon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0076,﻿church,﻿St. Patrick's,English,,,,﻿Wyoming County,,﻿Java,﻿Java,﻿NY,,42.167019,-76.820512,,﻿Attended from Elmira,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0032,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Chemung County,,﻿Jefferson,,﻿NY,,42.887617,-78.839858,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0182,﻿church,﻿Assumption B.V.M.,English,,,,﻿Erie County,,﻿Lancaster,﻿Lancaster,﻿NY,,,,﻿buf.ny.0098,﻿Attended from Medina,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo

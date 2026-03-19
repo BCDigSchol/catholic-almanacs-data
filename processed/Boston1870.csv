@@ -7,7 +7,7 @@
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),﻿(new cathedral building),,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿jam_donegan_001,﻿Rev.,﻿James Donegan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001,﻿cathedral,﻿Cathedral Chapel of the Holy Cross,English,﻿(new cathedral building),﻿(new cathedral building),,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿a_s_healy_001,﻿Rev.,﻿A. Sherwood Healy,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿den_okane_001,﻿Rev.,﻿Dennis O'Kane,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿p_b_mcdermott_001,﻿Rev.,﻿P. B. McDermott,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿pet_b_mcdermott_001,﻿Rev.,﻿P. B. McDermott,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿jam_j_tehan_001,﻿Rev.,﻿James J. Tehan,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0002,﻿church,﻿St. Mary's,English,,﻿Endicott street,,,,﻿Boston,﻿Boston,﻿MA,,42.3653068,-71.0574069,,,,﻿sim_p_dompieri_001,﻿Rev. Fr.,﻿Dompieri,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,﻿tho_lynch_001,﻿Rev.,﻿Thomas Lynch,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
@@ -56,7 +56,7 @@
 ﻿bos.ma.0023,﻿chapel,﻿Chapel of Berkeley Street Academy,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3504407,-71.0726605,﻿bos.ma.0021,﻿Attended from St. Mary's,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0024,﻿chapel,﻿Guardian Angel Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,﻿bos.ma.0007,﻿Attended by Rev. G.F. Haskins,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0025,﻿chapel,﻿Chapel of the Good Shepherd,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,﻿bos.ma.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0026,﻿chapel,﻿St. Mary's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3370961,-71.1705266,﻿bos.ma.0021,﻿Attended from St. Mary's Church,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0026,﻿chapel,﻿St. Mary's Chapel,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.36492429,-71.05745756,﻿bos.ma.0021,﻿Attended from St. Mary's Church,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,42.1163123,-70.9371291,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0028,﻿church,﻿St. Francis,English,,,,,,﻿North Adams,﻿North Adams,﻿MA,,42.700915,-73.1087148,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0028,﻿church,﻿St. Francis,English,,,,,,﻿North Adams,﻿North Adams,﻿MA,,42.700915,-73.1087148,,,,﻿j_keily_001,﻿Rev.,﻿J. Keily,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
@@ -220,7 +220,7 @@
 ﻿bos.ma.0149,﻿church,﻿St. Joachim's,English,,,,,,﻿Rockport,﻿Rockport,﻿MA,,42.6554893,-70.6220368,﻿bos.ma.0080,﻿Attended from Gloucester,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0150,﻿church,﻿(church building),English,﻿(church building),,,,,﻿West Roxbury,﻿West Roxbury,﻿MA,,42.2782373,-71.1599757,,,,﻿t_l_maginness_001,﻿Rev.,﻿T. L. Maginness,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,﻿joh_gray_001,﻿Rev.,﻿John Gray,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,﻿j_j_healy_001,﻿Rev.,﻿J. J. Healy,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,﻿jer_j_healy_001,﻿Rev.,﻿J. J. Healy,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,﻿t_delahunty_001,﻿Rev.,﻿T. Delahunty,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,﻿m_f_higgins_001,﻿Rev.,﻿M. F. Higgins,,,,,,,,1870,﻿,﻿,﻿Boston,Boston

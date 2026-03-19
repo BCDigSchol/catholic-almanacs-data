@@ -128,9 +128,9 @@
 ﻿san.nm.0158,﻿chapel,not recorded,English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,not recorded,English,,,﻿Tome,,,﻿La. Peralta,﻿Peralta,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,,,,,,﻿j_d_taladrid_001,﻿Rev.,﻿J. D. Taladrid,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿V.G.,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿j_b_ravery_001,﻿Rev.,﻿J. B. Ravery,,﻿Assistant,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿j_b_ravery_001,﻿Rev.,﻿J. B. Ravery,﻿Assistant,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0041,﻿chapel,not recorded,English,"﻿Mexican Population, church building on a beautiful farm given to the Church",,,﻿Huerfano County,﻿Huerfano County,,,﻿CO,﻿CO,37.72724,,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0012,﻿chapel,﻿Chapel of St. Joseph,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Golden City,﻿Golden,﻿CO,﻿CO,39.731705,-105.196073,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0037,﻿church,﻿Chapel of the Holy Trinity,English,﻿Mexican Population,,,﻿Animas County,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,﻿CO,37.176802,-104.52102,﻿san.nm.0078,﻿Attended from Mora,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -151,15 +151,15 @@
 ﻿den.co.0066,﻿church,not recorded,English,,,,,,﻿Fort Garland,﻿Fort Garland,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0062,﻿chapel,not recorded,English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0031,﻿church,﻿Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,37.088186,-106.020078,,,,﻿m_vigil_001,﻿Rev.,﻿M. Vigil,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,,,,,,,,﻿AZ,﻿AZ,,,,,,﻿a_brun_001,﻿Rev.,﻿A. Brun,,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,,,,,,﻿p_lassaigne_001,﻿Rev.,﻿P. Lassaigne,,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,﻿AZ,,,,,,﻿fr_birmingham_001,﻿Rev.,﻿Fr. Birmingham,,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,,,,,,,,﻿AZ,﻿AZ,,,,,,﻿a_brun_001,﻿Rev.,﻿A. Brun,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,,,,,,﻿p_lassaigne_001,﻿Rev.,﻿P. Lassaigne,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,﻿AZ,,,,,,﻿fr_birmingham_001,﻿Rev.,﻿Fr. Birmingham,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0002,﻿church,not recorded,English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0003,﻿church,not recorded,English,,,,,,﻿Fort Mojave,﻿Fort Mojave,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,﻿NM,,,,,,﻿m_fleurant_001,﻿Rev.,﻿M. Fleurant,,﻿Pastor,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,﻿mr_h_vincent_001,﻿Rev.,﻿Mr. Henry Vincent,,﻿Assistant Teacher,﻿in minor order,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,﻿mr_m_rousset_001,﻿Rev.,﻿Mr. M. Rousset,,﻿Assistant Teacher,﻿in minor order,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,﻿NM,,,,,,﻿m_fleurant_001,﻿Rev.,﻿M. Fleurant,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,﻿mr_h_vincent_001,﻿Rev.,﻿Mr. Henry Vincent,﻿Assistant Teacher,,﻿in minor order,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,﻿mr_m_rousset_001,﻿Rev.,﻿Mr. M. Rousset,﻿Assistant Teacher,,﻿in minor order,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,,,,,,,﻿layperson,﻿8000 Navajos already gathered in beautiful reservation on the river of Pecos and more are coming in,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0242,﻿mission,﻿Nevajo Mission,English,"﻿A school has been opened, and has been attended by a good number of Indian children",,,,,﻿Bosque Redondo,﻿Bosque Redondo,,,,,,,,,,,,,,﻿apache,﻿400 Mescalero Apaches,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,,,,,,,,,,,,﻿priest,﻿a few seminarians,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
