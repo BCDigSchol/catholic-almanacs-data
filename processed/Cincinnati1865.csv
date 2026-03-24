@@ -35,7 +35,7 @@
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿ant_becker_001,﻿Rev.,﻿A. Becker,﻿O.S.F,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿l_gottbehöde_001,﻿Rev.,﻿L. Gottbehöde,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿jac_menchen_002,﻿Rev.,﻿Jac. Menchen,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿l_haverbeck_001,﻿Rev.,﻿L. Haverbaeck,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿lou_haverbeck_001,﻿Rev.,﻿L. Haverbaeck,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0013,﻿church,﻿St. Anthony's,English,,,,,,﻿Cincinnati,,﻿OH,,39.102976,-84.539515,,,,﻿h_boecker_002,﻿Rev.,﻿H. Boecker,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0013,﻿church,﻿St. Anthony's,English,,,,,,﻿Cincinnati,,﻿OH,,39.102976,-84.539515,,,,﻿her_johanning_001,﻿Rev.,﻿H. Johanning,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0014,﻿church,﻿St. Edward's,English,,,,,,﻿Cincinnati,,﻿OH,,39.106748,-84.525682,,,,﻿fre_bender_001,﻿Rev.,﻿Fred. Bender,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -114,7 +114,7 @@
 ﻿cin.oh.0298,﻿church,﻿St. Killian's,English,,﻿Foster's Crossing,,﻿Highland County,,,,﻿OH,,,,﻿cin.oh.0119,﻿Attended from Milford,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0029,﻿church,not recorded,English,,﻿Fox's Settlement,,﻿Washington County,,,,﻿OH,,39.46264,-81.471839,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0299,﻿church,﻿St. Nicholas',English,,,,﻿Coshocton County,,﻿Franklin,,﻿OH,,,,﻿col.oh.0015,﻿Attended from Canal Dover,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0090,﻿church,﻿St. John's,English,,,,﻿Auglaize County,,﻿Fryburgh,,﻿OH,,40.555908,-84.083664,,,,﻿jos_göbbels_001,﻿Rev.,﻿Jos. Göbbels,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0090,﻿church,﻿St. John's,English,,,,﻿Auglaize County,,﻿Fryburgh,,﻿OH,,40.555908,-84.083664,,,,﻿jos_gobbels_001,﻿Rev.,﻿Jos. Göbbels,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0030,﻿church,﻿St. Louis',English,,,,﻿Gallia County,,﻿Gallipolis,,﻿OH,,38.809803,-82.202369,,﻿Attended from Pomeroy,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0091,﻿church,not recorded,English,,,,﻿Brown County,,﻿Georgetown,,﻿OH,,38.864514,-83.904094,﻿cin.oh.0147,﻿Attended from Ripley,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0031,﻿church,﻿Our Lady of Good Hope,English,,,,﻿Hocking County,,﻿Good Hope,,﻿OH,,39.567825,-82.551047,,,,﻿j_w_brummer_001,﻿Rev.,﻿I. W. Brummer,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -153,7 +153,7 @@
 ﻿cin.oh.0109,﻿church,not recorded,English,,,,﻿Clermont County,,﻿Loveland,,﻿OH,,39.268948,-84.263826,﻿cin.oh.0119,﻿Attended from Milford,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0111,﻿church,﻿St. Michael's,English,,,,﻿Hamilton County,,﻿Madisonville,,﻿OH,,39.160616,-84.393133,,,,﻿a_h_walburg_001,﻿Rev.,﻿Mr. Walburg,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0047,﻿church,﻿St. Mary's,English,,,,﻿Carroll County,,﻿Marges,,﻿OH,,40.532833,-81.075466,,,,﻿j_a_heimo_002,﻿Rev.,﻿J. A. Heimo,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿b_austermann_001,﻿Rev.,﻿B. Anstermann,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿ber_austerman_001,﻿Rev.,﻿B. Anstermann,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿erh_glück_002,﻿Rev.,﻿Erhard Glück,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0049,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Marietta,,﻿OH,,39.415352,-81.454844,,,,﻿m_j_ryan_001,﻿Rev.,﻿M. J. D. Ryan,,,﻿who also attends several stations on the H. & C. R. R.,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0112,﻿church,﻿St. Mary's,English,,,,﻿Marion County,,﻿Marion,,﻿OH,,40.58867,-83.128524,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati

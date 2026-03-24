@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿ste_v_ryan_001,﻿Rt. Rev.,﻿Stephen V. Ryan,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿wm_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,﻿V.G.,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿w_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,﻿V.G.,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿j_mcevoy_001,﻿Rev.,﻿J. McEvoy,,﻿Chancellor,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿wm_j_mcnab_001,﻿Rev.,﻿Wm. J. McNab,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8828026,-78.878283,,,,﻿ed_quigley_001,﻿Rev.,﻿Ed. Quigley,,,,,,,,1870,﻿,﻿,﻿Buffalo,Buffalo

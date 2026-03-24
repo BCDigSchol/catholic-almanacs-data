@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿wm_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,"﻿V.G., Rector",,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿w_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,"﻿V.G., Rector",,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿d_moore_001,﻿Rev.,﻿D. Moore,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿j_mcevoy_001,﻿Rev.,﻿J. McEvoy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.905645,-78.825265,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -77,7 +77,7 @@
 ﻿buf.ny.0038,﻿church,not recorded,English,﻿frame church,,,﻿Allegany,,﻿Genesee,,﻿NY,,42.697119,-78.941368,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0178,﻿church,﻿St. Arbogaste's,English,,,,﻿Erie County,,﻿Grand Island,﻿Grand Island,﻿NY,,,,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0179,﻿church,not recorded,English,,,,,﻿Cattaraugus County,﻿Great Valley,﻿Great Valley,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0030,﻿church,﻿St. Mary's,﻿German,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,42.85861,-78.75472,,,,﻿c_wagner_001,﻿Rev.,﻿C. Wagner,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0030,﻿church,﻿St. Mary's,﻿German,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,42.85861,-78.75472,,,,﻿chr_wagner_001,﻿Rev.,﻿C. Wagner,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0180,﻿church,﻿SS. Peter and Paul,English,,,,﻿Erie County,,﻿White's Corners or Hamburgh,﻿White's Corners,﻿NY,,,,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0031,﻿church,﻿St. Gabriel's,English,,,,﻿Yates County,,﻿Hammondsport,﻿Hammondsport,﻿NY,,43.021628,-78.96573,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0181,﻿church,not recorded,English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,,,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
