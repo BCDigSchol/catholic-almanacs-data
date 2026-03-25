@@ -11,7 +11,7 @@
 ﻿pit.pa.0124_05,﻿chapel,"﻿St. Mary's, Convent Chapel",English,,,,﻿Allegheny County,,﻿Pittsburgh,﻿Pittsburgh,﻿PA,,40.440911,-79.993964,﻿pit.pa.0001,﻿attended from the Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0115_02,﻿chapel,﻿Mercy Hospital,English,,,,﻿Allegheny County,,﻿Pittsburgh,,﻿PA,,40.436521,-79.98601,﻿pit.pa.0001,﻿attended from the Cathedral,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0008,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegheny,﻿PA,,40.449178,-80.000517,,,,﻿tob_mullen_001,﻿Rev.,﻿T. Mullen,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0008,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegheny,﻿PA,,40.449178,-80.000517,,,,﻿p_sheehan_001,﻿Rev.,﻿P. M. Sheehan,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0008,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegheny,﻿PA,,40.449178,-80.000517,,,,﻿p_m_sheehan_001,﻿Rev.,﻿P. M. Sheehan,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Allegheny,﻿Pittsburgh,﻿PA,,40.452287,-79.998134,,,,﻿j_stibiel_001,﻿Rev.,﻿J. Stibiel,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Allegheny,﻿Pittsburgh,﻿PA,,40.452287,-79.998134,,,,﻿j_shell_001,﻿Rev.,﻿J. Shell,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0009,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Allegheny,﻿Pittsburgh,﻿PA,,40.452287,-79.998134,,,,﻿j_rossweg_001,﻿Rev.,﻿J. Rossweg,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -84,7 +84,7 @@
 ﻿pit.pa.0094,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Allegheny County,,﻿New-Germany,,﻿PA,,40.412245,-78.755037,﻿pit.pa.0058,﻿attended from Johnstown,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0078,﻿church,﻿St. Patrick's,English,,,,﻿Blair County,,﻿Newry,,﻿PA,,40.348466,-79.317345,,,,﻿jam_bradley_001,﻿Rev.,﻿James Bradley,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0079,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Pine Creek,,﻿PA,,40.504191,-79.924915,,,,﻿c_kloeker_001,﻿Rev.,﻿C. Kloeker,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0082,﻿church,﻿Our Lady Help of Christians,English,,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.464096,-80.066653,,,,﻿j_schmitt_001,﻿Rev.,﻿J. Schmitt,,,﻿(Pittsburgh P.O.),,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0082,﻿church,﻿Our Lady Help of Christians,English,,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.464096,-80.066653,,,,﻿j_schmidt_001,﻿Rev.,﻿J. Schmitt,,,﻿(Pittsburgh P.O.),,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0083,﻿church,not recorded,English,,,,﻿Beaver County,,﻿Rochester,,﻿PA,,,,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0084,﻿church,﻿St. Augustine's,English,,,,﻿Cambria County,,﻿St. Augustine,,﻿PA,,40.61303,-78.577542,,,,﻿joh_burns_002,﻿Rev.,﻿John Burns,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123_03,﻿convent,﻿St. Xavier's Convent,English,,,,﻿Westmoreland County,,,,﻿PA,,,,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -92,17 +92,17 @@
 ﻿pit.pa.0086,﻿church,not recorded,English,,,,﻿Somerset County,,﻿Sand Patch,,﻿PA,,39.812702,-78.971071,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,"﻿Frostburgh, Md.",,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107_02,﻿chapel,﻿Seminary Chapel,English,,﻿near Pittsburgh,,,,﻿Glenwood,﻿Logan Township,﻿PA,,40.534825,-78.357685,﻿pit.pa.0107,﻿Clergymen of the Seminary,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0089,﻿church,not recorded,English,,,,﻿Huntingdon County,,﻿Shade Valley,,﻿PA,,40.167974,-77.837524,,,,﻿s_wall_001,﻿Rev.,﻿S. Wall,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,,,,,,﻿w_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,,,,,,﻿wil_a_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,40.494513,-79.92644,﻿pit.pa.0003,"﻿attended from St. Philomena's, Pittsburgh",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,"﻿(Adams P.O.,)",,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,40.505085,-79.936356,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0164,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,,,﻿pit.pa.0030,﻿Benedictines from Carrolltown,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿t_ryan_001,﻿Rev.,﻿T. Ryan,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0096,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,40.38951,-79.87532,,,,﻿w_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0096,﻿church,not recorded,English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,40.38951,-79.87532,,,,﻿wil_a_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0097,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Temperanceville,﻿Tyrone,﻿PA,,,,,,,﻿m_carroll_001,﻿Rev.,﻿M. Carroll,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0155,﻿church,﻿St. Matthew's,English,,,,﻿Blair County,,﻿Tyrone,,﻿PA,,40.657222,-79.828611,,,,﻿j_c_farran_001,﻿Rev.,﻿J. C. Farran,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0098,﻿church,﻿St. John's,English,,,,﻿Fayette County,,﻿Uniontown,﻿Uniontown,﻿PA,,40.673393,-78.242513,﻿pit.pa.0026,﻿attended from Brownville,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0158,﻿church,not recorded,English,,,,﻿Washington County,,﻿Upper Columbia,,﻿PA,,,,﻿pit.pa.0043,"﻿attended by Rev. D. Kearney, Elizabeth",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0100,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,,﻿Washington,﻿Washington,﻿PA,,40.506649,-79.835427,,,,﻿jas_tahaney_001,﻿Rev.,﻿J. Tahaney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0100,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,,﻿Washington,﻿Washington,﻿PA,,40.506649,-79.835427,,,,﻿jam_p_tahany,﻿Rev.,﻿J. Tahaney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0101,﻿church,﻿St. Anne's,English,,,,﻿Green County,,﻿Waynesburgh,﻿Waynesburg,﻿PA,,40.17396,-80.246171,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0102,﻿church,﻿St. James',English,,,,﻿Washington County,,﻿West-Alexander,﻿West Alexander,﻿PA,,39.896144,-80.183639,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Allegheny County,,﻿Wexford,﻿Wexford,﻿PA,,40.105073,-80.507847,,,,﻿j_m_brandstaetter_001,﻿Rev.,﻿J. M. Brandstaetter,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
