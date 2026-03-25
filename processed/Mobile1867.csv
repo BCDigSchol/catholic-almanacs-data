@@ -1,11 +1,11 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿joh_quinlan_001,﻿Rt. Rev.,﻿John Quinlan,﻿D.D.,﻿Bishop,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿ad_pellicer_001,﻿Very Rev.,﻿A.D. Pellicer,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿a_d_pellicer_001,﻿Very Rev.,﻿A. D. Pellicer,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿wm_h_duncan_001,﻿Rev.,﻿Wm. H. Duncan,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿ct_ocallaghan_001,﻿Rev.,﻿Cornelius T. O'Callaghan,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿c_t_ocallaghan_001,﻿Rev.,﻿Cornelius T. O'Callaghan,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿mic_duggan_001,﻿Rev.,﻿Michael Duggan,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿p_ismand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿pet_imsand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0004,﻿church,﻿St. Patrick's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,31.08858,-88.228791,,,,﻿tim_j_murphy_001,﻿Rev.,﻿Timothy J. Murphy,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0006,﻿church,not recorded,English,,﻿North Alabama,,,﻿Limestone County,﻿Athens,﻿Athens,﻿AL,,34.799104,-86.987066,﻿mob.al.0018,﻿Attended from Huntsville,,,,,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0007,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bayou le Batre,﻿AL,,30.406952,-88.260719,,,,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,,,,,,1867,﻿,﻿,﻿Mobile,Mobile

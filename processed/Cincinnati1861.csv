@@ -44,7 +44,7 @@
 ﻿cin.oh.0033,﻿church,﻿SS. Peter and Paul's,English,,,﻿Cincinnati,,,﻿Reading,,﻿OH,,39.225979,-84.446061,,,,﻿j_c_albrink_001,﻿Rev.,﻿J. C. Albrink,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0034,﻿church,not recorded,English,,,﻿Cincinnati,,,﻿Glendale,,﻿OH,,39.273328,-84.469951,﻿cin.oh.0033,﻿Attended from Reading,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0029,﻿church,﻿St. James',English,,,﻿Cincinnati,,,﻿Mt. Airy,,﻿OH,,39.205131,-84.601679,,,,﻿j_c_krämer_001,﻿Rev.,﻿J. C. Kraemer,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03.01,﻿chapel,not recorded,English,﻿new church building,,﻿Cincinnati,,,﻿Dry Ridge,,﻿OH,,39.082744,-84.372167,﻿cin.oh.0029,﻿Attended from Mt. Airy,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030,﻿chapel,not recorded,English,﻿new church building,,﻿Cincinnati,,,﻿Dry Ridge,,﻿OH,,39.082744,-84.372167,﻿cin.oh.0029,﻿Attended from Mt. Airy,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042,﻿church,﻿St. Peter's,English,,,﻿Cincinnati,,,﻿Lickrun,,﻿OH,,,,﻿cin.oh.0007,﻿Attended from St. John's,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042,﻿church,﻿Chapel of Convent of Divine Will,English,,,﻿Cincinnati,,,﻿Lickrun,,﻿OH,,,,﻿cin.oh.0310,﻿Attended from St. Xavier's,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard's,,﻿OH,,39.165988,-84.500267,,,,﻿ans_koch_002,﻿Rev.,﻿Anselm Koch,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -194,13 +194,13 @@
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿j_t_jarboe_002,﻿Rev.,﻿J. T. Jarboe,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿f_cubero_002,﻿Rev.,﻿F. Cubero,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085,﻿church,﻿St. Nicholas',English,,,,,,﻿Zanesville,,﻿OH,,39.940112,-82.001087,,,,﻿a_hechinger_003,﻿Rev.,﻿A. Hechinger,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,﻿Sup.,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿dav_walker_001,﻿Rev.,﻿David Walker,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿a_m_mazean_001,﻿Rev.,﻿A. M. Mazean,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿mic_odonoghoe_001,﻿Rev.,﻿Michael O'Donoghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189_03,﻿college,﻿Mount St. Mary's College,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,﻿Sup.,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿dav_walker_001,﻿Rev.,﻿David Walker,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿a_m_mazean_001,﻿Rev.,﻿A. M. Mazean,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿mic_odonoghoe_001,﻿Rev.,﻿Michael O'Donoghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿college,﻿Mount St. Mary's College,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_kelly_002,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,﻿Provincial,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_v_edelen_002,﻿Rev.,﻿J. V. Edelen,﻿O.S.D.,﻿Prior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿f_j_dunn_002,﻿Rev.,﻿F. J. Dunn,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -259,12 +259,12 @@
 ﻿cin.oh.0031_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delhi,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 120",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0031_02,﻿school,﻿St. Clement's School,English,﻿for boys and girls,,,,,﻿St. Bernard's,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0031_02,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿White Oak,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attendance, 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. Joesph School,English,﻿for boys and girls,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. Aloysius' School,English,﻿for boys and girls,,,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. James' School,English,﻿for boys and girls,,﻿near Cumminsville,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,﻿near Cumminsville,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030_02,﻿school,﻿St. Joesph School,English,,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030_03,﻿school,﻿St. John's School,English,,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030_03,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0027_02,﻿school,﻿St. Aloysius' School,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0027_02,﻿school,﻿St. James' School,English,,,﻿near Cumminsville,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0027_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,﻿near Cumminsville,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076_02,﻿school,﻿St. Joseph's School,English,﻿for boys; for girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, —",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Brothers of Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -275,17 +275,17 @@
 ﻿col.oh.0085_02,﻿school,﻿St. Nicholas' School,English,﻿for boys and girls,,,,,﻿Zanesville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delaware,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085_02,﻿school,﻿St. Lawrence's School,English,﻿for boys and girls,,,,,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,,,﻿Freyburg,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿Immaculate Conception School,English,﻿for boys and girls,,,﻿Noble County,,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Vincent's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Mt. Vernon,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,﻿Noble County,,﻿New Richmond,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿Sacred Heart School,English,﻿for boys and girls,,,﻿Noble County,,﻿Pomeroy,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Bineen's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Greenfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Marietta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Raphael's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 150",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Bridget's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. George's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Coshocton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Noble County,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 64",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0090_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,,,﻿Freyburg,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0028_02,﻿school,﻿Immaculate Conception School,English,﻿for boys and girls,,,﻿Noble County,,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0055_02,﻿school,﻿St. Vincent's School,English,﻿for boys and girls,,,,,﻿Mt. Vernon,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0131_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,,,﻿New Richmond,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0059_02,﻿school,﻿Sacred Heart School,English,﻿for boys and girls,,,,,﻿Pomeroy,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0059_02,﻿school,﻿St. Bineen's School,English,﻿for boys and girls,,,,,﻿Greenfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0049_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Marietta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0049_02,﻿school,﻿St. Raphael's School,English,﻿for boys and girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 150",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0185_02,﻿school,﻿St. Bridget's School,English,﻿for boys and girls,,,,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0185_02,﻿school,﻿St. George's School,English,﻿for boys and girls,,,,,﻿Coshocton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0185_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 64",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿St. Augustine's School,English,﻿for boys and girls,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 290",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 75",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -302,10 +302,10 @@
 ﻿cin.oh.0121_02,﻿school,﻿St. Peter's School,English,﻿for boys; and for girls,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 130",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿Commercial School of the Catholic Institute,English,﻿Just opened,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,﻿e_p_scammon_001,﻿Professor,﻿E. P. Scammon,﻿A.M.,﻿Principal,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. John's Hotel for Invalids,English,﻿Just opened,,,﻿Shelby County,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Anthony,,﻿Sister-servant,,﻿teacher,﻿With 100 scholars,﻿Under the charge of the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0121_02,﻿charitable institution,﻿St. John's Hotel for Invalids,English,﻿Just opened,,,﻿Shelby County,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Anthony,,﻿Sister-servant,,﻿teacher,﻿With 100 scholars,﻿Under the charge of the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿hospital,﻿St. Mary's Hospital,English,﻿Just opened,,,﻿Shelby County,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Felicitas,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the charge of the Franciscan Sisters of the Poor,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,﻿Just opened,,,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,﻿Just opened,,,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,English,﻿Just opened,,﻿near Cincinnati,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿asylum,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,﻿on Bank Street,﻿near Cincinnati,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Mother,﻿Mary Joseph,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0121_02,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,﻿on Bank Street,﻿near Cincinnati,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Mother,﻿Mary Joseph,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿asylum,﻿Orphan Asylum,English,﻿for the reformation of penitent women,﻿on Bank Street,﻿near Cincinnati,﻿Shelby County,,﻿Minster,,﻿OH,,,,,,,,,,,,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

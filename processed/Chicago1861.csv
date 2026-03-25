@@ -111,5 +111,23 @@
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿McHenry County,,﻿Woodstock,﻿Wilmington,﻿IL,,41.30407584,-88.14340099,,﻿Attended from Hartland,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,,,,,,,﻿Rev.,﻿James Dillon,,﻿President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,,,,,,,﻿Rev.,﻿P. Cooney,﻿SS.C.,﻿Vice President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.368,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿religious,10.0,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.368,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,740.0,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.368,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿religious,﻿10 religious,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.368,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,,,,,,,,,,,,,,﻿student,﻿740 students,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,﻿religious,﻿20 religious,﻿Under the direction of the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Sister,﻿Isidore,,﻿Directress,,﻿student,﻿80 students,﻿Under the direction of the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,﻿academy,﻿St. Agatha's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Mother,﻿Mary Stanislaus,,﻿Superior,,﻿religious,﻿21 religious,﻿Conducted by the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,﻿academy,﻿St. Agatha's Academy,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,,,,,,﻿student,﻿40 students,﻿Conducted by the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿seminary,﻿Academy of the Sacred Heart,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,﻿Madame,﻿M. J. Gallway,,﻿Superior,,﻿religious,﻿14 religious,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿select school,﻿St. Paul's Select School,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,﻿Sister,﻿Gabriel,,﻿Directress,,﻿religious,﻿3 religious,﻿Conducted by Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿select school,﻿St. Paul's Select School,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,,,,,,﻿student,﻿50 students,﻿Conducted by Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿free school,﻿St. Mary's Free School,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89689282,-87.62704114,,,,,﻿Sister,﻿Regina,,﻿Directress,,﻿student,﻿50 students,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0286,﻿school,﻿St. Patrick's Free School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,﻿Sister,﻿Mary Gonzaga,,﻿Directress,,﻿student,﻿350 students,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0286,﻿select school,﻿St. Angela's Select School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,﻿Sister,﻿Mary Angela,,﻿Directress,,﻿student,﻿50 students,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0286,﻿select school,﻿Select Parochial School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,﻿Sister,﻿Mary Regis,,﻿Directress,,﻿student,﻿90 students,﻿Conducted by the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0286,﻿industrial school,﻿Select Industrial School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,﻿Sister,﻿M. of the Compassion,,﻿Directress,,﻿student,﻿15 students,﻿Conducted by the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0406,﻿school,﻿St. Joseph's Parochial School,English,﻿German,,,,,,,,,,,,,,,﻿Sister,﻿M. Barbara,,﻿Directress,,﻿student,﻿300 students,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0406,﻿school,﻿Cathedral Parochial School,English,﻿German,,,,,,,,,,,,,,,﻿Sister,﻿M. of St. Augusta,,﻿Directress,,﻿student,﻿250 students,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0417,﻿school,﻿Parochial Schools,English,,,,,,﻿Bourbonnais Grove,,,,,,,,,,﻿Sister,﻿Alexis de St. Joseph,,﻿Superioress,,,,"﻿Under direction of the Sisters of Congregation, from Montreal",,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0407,﻿school,﻿Academy for Young Ladies,English,,,,﻿Grundy County,,﻿Morris,,,,,,,,,,,,,,,,,﻿By the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0407,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,﻿Grundy County,,﻿Chicago,,,,,,,,,,﻿Sister,﻿Mary Ursula,,﻿Superioress,,﻿religious,﻿8 religious,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0407,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,﻿Grundy County,,﻿Chicago,,,,,,,,,,,,,,,﻿child,﻿54 orphans,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
