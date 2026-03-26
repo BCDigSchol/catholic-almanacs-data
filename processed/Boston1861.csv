@@ -129,6 +129,39 @@
 ﻿bos.ma.0187,﻿station,﻿St. Francis Xavier's,English,,﻿Abington,,,,﻿Weymouth,﻿Weymouth,﻿MA,,42.218072,-70.941036,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0187,﻿station,﻿St. Francis Xavier's,English,﻿church building,﻿Hingham,,,,﻿Weymouth,﻿Weymouth,﻿MA,,42.218072,-70.941036,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0170,﻿church,﻿St. Mary's,English,,,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,﻿Rev.,﻿Daniel Hearne,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Cohasset,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Cohasset,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Cohasset,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Squawbetty,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Norton,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Middleboro',,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Dighton,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Mansfield,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.698991,-71.157545,,,,,﻿Rev.,﻿Edward Murphy,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,,,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.636215,-70.934205,,,,,﻿Rev.,﻿Joseph P. Tallon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0126,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0126,﻿station,not recorded,English,﻿church not dedicated,﻿Martha's Vineyard,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,﻿Rev.,﻿Wm. Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Wareham,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Plymouth,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿other stations on Cape Cod,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿N. Bridgewater,﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0046,﻿church,﻿Immaculate Conception,English,,,,,,﻿Easton,﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,,,,,,﻿S. Bridgewater,﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,"﻿new church finished, not yet dedicated",,,,,﻿Foxboro',﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,"﻿new church finished, not yet dedicated",,,,,﻿Mansfield,﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,,﻿Rev.,﻿Michael X. Carroll,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0060,﻿church,﻿Church of the Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,,﻿Rev.,﻿W. A. Blenkinsop,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0180,﻿church,﻿St. William's,English,,,,,,﻿Ware,﻿Ware,﻿MA,,42.259846,-72.239857,,,,,﻿Rev.,﻿Patrick Healy,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0174,﻿church,﻿St. Ann's,English,,,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,﻿bos.ma.0180,,,,﻿Rev.,﻿Patrick Healy,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Palmer,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Duckville,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Three Rivers,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0163,﻿church,﻿St. Benedict's,English,﻿new church building,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.12459,-72.746277,,,,,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.209661,-72.608279,,,,,﻿Rev.,﻿James F. Sullivan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,﻿bos.ma.0092,,,,﻿Rev.,﻿James F. Sullivan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0134,﻿station,﻿St. Mary's,English,,﻿Greenfield,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0134,﻿station,﻿St. Mary's,English,,﻿Amherst,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.454516,-73.250876,,,,,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Francis,English,,,,,,﻿North-Adams,,﻿MA,,,,,,,,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Patrick's,English,,,,,,﻿Hindsale,,﻿MA,,,,,,,,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,,﻿Rev.,﻿Peter Egan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0103,﻿station,﻿St. Mary's,English,,﻿North Becket,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0103,﻿station,﻿St. Mary's,English,,﻿Stockbridge,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
