@@ -59,7 +59,7 @@
 ﻿san.nm.0056,﻿chapel,﻿Chapel of San José,English,,,﻿Isleta,,,﻿Padillas,﻿Albuquerque,﻿NM,,35.042073,-106.646815,﻿san.nm.0055,﻿Chapel attended from Isleta,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0057,﻿chapel,﻿Chapel of San Rafael,English,,,﻿Isleta,,,﻿Pajarito,,﻿NM,,34.988268,-106.771023,﻿san.nm.0055,﻿Chapel attended from Isleta,,﻿f_jouvenceau_001,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0058,﻿chapel,not recorded,English,,,﻿Isleta,,,﻿Los Lunas,﻿Los Lunas,﻿NM,,34.766669,-106.618068,﻿san.nm.0055,﻿Chapel attended from Isleta,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0068,﻿church,﻿Asuncion de N. Señora,English,,,﻿Las Vegas,,,﻿Las Vegas,﻿Las Vegas,﻿NM,,35.594214,-105.222798,,,,﻿j_m_coudert_001,﻿Rev.,﻿J. M. Coudert,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0068,﻿church,﻿Asuncion de N. Señora,English,,,﻿Las Vegas,,,﻿Las Vegas,﻿Las Vegas,﻿NM,,35.594214,-105.222798,,,,﻿jos_m_coudert_001,﻿Rev.,﻿J. M. Coudert,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0071,﻿chapel,not recorded,English,,,﻿Las Vegas,,,﻿Tecolote,﻿Tecolote,﻿NM,,35.46028,-105.28,﻿san.nm.0068,﻿attended from Las Vegas,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0126,﻿church,not recorded,English,,,﻿Sapello,,,﻿Sapello,﻿Sapello,﻿NM,,35.77282,-105.253344,,,,﻿m_juvenceau_001,﻿Rev.,﻿M. Juvenceau,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0127,﻿chapel,not recorded,English,,,﻿Sapello,,,﻿Monton de Alamos,﻿Sapello,﻿NM,,35.730842,-105.151253,﻿san.nm.0126,﻿Attended from Sapello,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -146,13 +146,13 @@
 ﻿den.co.0053,﻿church,not recorded,English,,,,,,﻿San Francisco,﻿Los Fuertes,,,37.134462,,﻿den.co.0031,﻿Attended from Los Conejos,,﻿mig_vigil_001,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0086,﻿church,not recorded,English,,,﻿Mora,,,﻿La Cueva,﻿La Cueva,﻿NM,﻿NM,35.591146,-105.733072,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0034,﻿chapel,not recorded,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Pinos,﻿Ortiz,﻿CO,﻿CO,37.301718,-107.606332,﻿den.co.0031,﻿Attended from Los Conejos,,﻿pet_lassaigne_001,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0024,﻿church,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿La Costilla,,﻿CO,﻿CO,37.182517,-105.236122,,,,﻿l_merle_002,﻿Rev.,﻿L. Merle,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0024,﻿church,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿La Costilla,,﻿CO,﻿CO,37.182517,-105.236122,,,,﻿lou_merle_001,﻿Rev.,﻿L. Merle,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0029,﻿church,not recorded,English,,,,﻿Costilla County,﻿Costilla County,﻿La Culebra,﻿San Acasio,﻿CO,﻿CO,37.209662,-105.566525,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0066,﻿church,not recorded,English,,,,,,﻿Fort Garland,﻿Fort Garland,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0062,﻿chapel,not recorded,English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0031,﻿church,﻿Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,37.088186,-106.020078,,,,﻿m_vigil_001,﻿Rev.,﻿M. Vigil,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0031,﻿church,﻿Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,37.088186,-106.020078,,,,﻿mig_vigil_001,﻿Rev.,﻿M. Vigil,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,,,,,,,,﻿AZ,﻿AZ,,,,,,﻿a_brun_001,﻿Rev.,﻿A. Brun,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,,,,,,﻿p_lassaigne_001,﻿Rev.,﻿P. Lassaigne,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,,,,,,﻿pet_lassaigne_001,﻿Rev.,﻿P. Lassaigne,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0225,﻿church,not recorded,English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,﻿AZ,,,,,,﻿fr_birmingham_001,﻿Rev.,﻿Fr. Birmingham,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0001,﻿church,not recorded,English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0002,﻿church,not recorded,English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe

@@ -136,8 +136,8 @@
 ﻿buf.ny.0186,﻿church,not recorded,English,,,,﻿Genesee County,,﻿Oakfield,,﻿NY,,,,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0054,﻿church,﻿St. Mary of the Angels,English,,,,﻿Allegany County,,﻿Olean,﻿Olean,﻿NY,,42.083639,-78.429927,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0047,﻿church,﻿Holy Cross,English,,,,﻿Seneca,,﻿Ovid,,﻿NY,,42.6738286,-76.8230916,﻿roc.ny.0046,﻿Attended from Waterloo,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0111,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,42.105701,-76.257109,,,,﻿fr_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0040,﻿church,﻿St. Ann's,English,,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.2333154,,,,﻿wm_casey_001,﻿Rev.,﻿William Casey,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0111,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,42.105701,-76.257109,,,,﻿fra_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0040,﻿church,﻿St. Ann's,English,,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.2333154,,,,﻿wil_casey_001,﻿Rev.,﻿William Casey,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0082,﻿church,not recorded,English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,42.9975593,-78.4347444,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,43.0784212,-78.7402055,,,,﻿joh_soemer_001,﻿Rev.,﻿John Soemer,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Seneca,,﻿Penn Yan,,﻿NY,,42.6611614,-77.0571732,,,,﻿d_english_001,﻿Rev.,﻿D. English,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -151,14 +151,14 @@
 ﻿buf.ny.0188,﻿church,not recorded,English,,,,﻿Steuben County,,﻿Rexville,,﻿NY,,,,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿jam_m_early_002,﻿Very Rev.,﻿James M. Early,﻿V.G.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿joh_stuart_001,﻿Rev.,﻿John Stuart,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1484359,-77.637175,,,,﻿pet_barker_002,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1484359,-77.637175,,,,﻿pet_barker_001,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1484359,-77.637175,,,,﻿jam_oconnor_003,﻿Rev.,﻿James O'Connor,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,﻿geo_ruland_001,﻿Rev.,﻿George Roland,﻿C.SS.R.,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0006,﻿church,﻿St. Peter's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1521729,-77.6329615,,,,﻿f_sinclair_002,﻿Rev.,﻿F. Sinclair,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0007,﻿church,﻿St. Boniface's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1427357,-77.6031374,,,,﻿j_f_payer_002,﻿Rev.,﻿J. F. Payer,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0008,﻿church,﻿St. Mary's,﻿French,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1590313,-77.6089505,,,,﻿h_de-regge_002,﻿Rev.,﻿H. de Regge,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0004,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1621325,-77.6230577,,,,﻿pat_byrnes_003,﻿Rev.,﻿Patrick Byrnes,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0005,﻿church,﻿St. Bridget's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,,,,﻿nic_byrne_002,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0005,﻿church,﻿St. Bridget's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1662079,-77.6123066,,,,﻿nic_byrne_001,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0009,﻿church,﻿Holy Family,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿leo_hoffschneider_002,﻿Rev.,﻿Leopold Hoffschneider,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0196,﻿chapel,﻿Sacred Heart Chapel,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,﻿roc.ny.0008,﻿Attended from St. Mary's (French),,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0197,﻿chapel,﻿Convent of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,﻿roc.ny.0002,﻿Attended from St. Joseph's,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -192,7 +192,7 @@
 ﻿buf.ny.0112,﻿church,﻿St. James',English,﻿frame church,,,﻿Tioga County,,﻿Waverly,﻿Waverly,﻿NY,,42.0103519,-76.5271659,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0021,﻿church,not recorded,English,,,,﻿Monroe,,﻿Webster,,﻿NY,,43.2122851,-77.4299939,,,,﻿a_hechinger_002,﻿Rev.,﻿A. Hechinger,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0072,﻿church,not recorded,English,,,,﻿Chautauqua County,,﻿Westfield,﻿Westfield,﻿NY,,42.32228,-79.5781027,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.0448219,-76.5643336,,,,﻿nic_byrne_002,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.0448219,-76.5643336,,,,﻿nic_byrne_001,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,﻿stone church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,42.963167,-78.7489323,,,,﻿d_m_winands_001,﻿Rev.,﻿D. M. Winands,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0095,﻿church,﻿St. Bernard's,English,﻿frame church,,,﻿Niagara County,,﻿Youngstown,﻿Youngstown,﻿NY,,43.24935,-79.047503,﻿buf.ny.0084,﻿Attended from Lewiston,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0171,﻿seminary,﻿Diocesan Seminary,English,,﻿at the Rt. Rev. Bishop's house,,,,,,,,,,,,,,,,,,,﻿priest,"﻿whole number of seminarists there and at other seminaries, 35",,,1868,﻿,﻿,﻿Buffalo,Buffalo

@@ -74,14 +74,14 @@
 ﻿cin.oh.0056,﻿church,﻿St. Michael's,English,,,,﻿Shelby County,,﻿Berlin,,﻿OH,,40.351437,-84.373839,,,,﻿mar_meyer_001,﻿Rev.,﻿A. M. Meyer,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0057,﻿religious institution,not recorded,English,,,,﻿Clinton County,,﻿Blanchester,,﻿OH,,39.293117,-83.98882,﻿cin.oh.0170,﻿Attended from St. Martin's,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0012,﻿church,﻿St. Martin's,English,,,,﻿Tuscarawas County,,﻿Bolivar,,﻿OH,,40.397897,-81.427898,﻿col.oh.0047,﻿Attended from Marges,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0013,﻿church,﻿Church of S. Heart,English,,,,﻿Fairfield County,,﻿Bremen,,﻿OH,,39.701733,-82.426822,,﻿Attended by Rev. W. J. Brummer,,﻿j_w_brummer_002,﻿Rev.,﻿W. J. Brummer,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0013,﻿church,﻿Church of S. Heart,English,,,,﻿Fairfield County,,﻿Bremen,,﻿OH,,39.701733,-82.426822,,﻿Attended by Rev. W. J. Brummer,,﻿j_w_brummer_001,﻿Rev.,﻿W. J. Brummer,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0060,﻿religious institution,not recorded,English,,,,﻿Marion County,,﻿Calcedonia,,﻿OH,,40.636448,-82.969074,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0061,﻿church,not recorded,English,,,,﻿Hamilton County,,﻿California,,﻿OH,,39.235545,-84.564147,,﻿Attended by Rev. Mr. Walburg,,﻿a_walburg_001,﻿Rev.,﻿Mr. Walburg,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0062,﻿church,not recorded,English,,,,﻿Madison County,,﻿California,,﻿OH,,39.815223,-83.29359,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0015,﻿church,﻿St. Joseph's,English,,,,﻿Tuscarawas County,,﻿Canal Dover,,﻿OH,,40.523695,-81.483313,,,,﻿fr_andres_001,﻿Rev.,﻿Fr. Andres,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0063,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Capella,,﻿OH,,40.452964,-84.656798,,﻿Attended by the C.PP.S.,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0065,﻿church,not recorded,English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿pat_hennebery_002,﻿Rev.,﻿Patrick Hennebery,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0065,﻿church,not recorded,English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿b_dickmann_001,﻿Rev.,﻿B. Dickmann,﻿C.PP.S,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0065,﻿church,not recorded,English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿ber_dickmann_001,﻿Rev.,﻿B. Dickmann,﻿C.PP.S,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0065,﻿church,not recorded,English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿ant_guggenberger_001,﻿Rev.,﻿Ant. Guggenberger,﻿C.PP.S,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0066,﻿church,not recorded,English,,,,﻿Greene County,,﻿Cedearville,﻿Cedarville,﻿OH,,39.744227,-83.808537,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0067,﻿church,not recorded,English,﻿(church building),,,﻿Auglaize County,,﻿Celina,,﻿OH,,40.548936,-84.570234,,﻿Attended by the C.PP.S.,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -194,7 +194,7 @@
 ﻿col.oh.0059,﻿church,﻿Church of the S. Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,﻿joh_kalenberg_001,﻿Rev.,﻿Jne. Kalenberg,,,"﻿who also attends St. John Baptist's, and other stations",,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0060,﻿church,﻿Holy Trinity's,English,,,,﻿Scioto County,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,,﻿Attended from Portsmouth,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,﻿(new church building),,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿Fr. Karge,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.7358,-82.986369,,,,﻿m_ahearn_001,﻿Rev.,﻿M. Ahern,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.7358,-82.986369,,,,﻿mic_ahern_001,﻿Rev.,﻿M. Ahern,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0147,﻿church,﻿St. Michael's,English,﻿(new church building),,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,,,,﻿j_kress_001,﻿Rev.,﻿— Kress,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0149,﻿church,not recorded,English,,,,﻿Clark County,,﻿Selma,,﻿OH,,39.786727,-83.708535,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0151,﻿church,﻿Holy Angels',English,,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,,,﻿fr_darcy_001,﻿Rev.,﻿Fr. D'Arcy,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati

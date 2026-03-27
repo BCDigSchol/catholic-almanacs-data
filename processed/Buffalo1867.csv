@@ -133,8 +133,8 @@
 ﻿buf.ny.0186,﻿church,not recorded,English,,,,﻿Genesee County,,﻿Oakfield,,﻿NY,,,,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0054,﻿church,﻿St. Mary of the Angels,English,,,,﻿Allegany County,,﻿Olean,﻿Olean,﻿NY,,42.083639,-78.429927,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0047,﻿church,﻿Holy Cross,English,﻿frame church,,,﻿Seneca,,﻿Ovid,,﻿NY,,42.6738286,-76.8230916,﻿roc.ny.0046,﻿Attended from Waterloo,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0111,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,42.105701,-76.257109,,,,﻿fr_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0040,﻿church,﻿St. Ann's,English,﻿brick church,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.2333154,,,,﻿wm_casey_001,﻿Rev.,﻿William Casey,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0111,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,42.105701,-76.257109,,,,﻿fra_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0040,﻿church,﻿St. Ann's,English,﻿brick church,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.2333154,,,,﻿wil_casey_001,﻿Rev.,﻿William Casey,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0082,﻿church,not recorded,English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,42.9975593,-78.4347444,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,43.0784212,-78.7402055,,,,﻿joh_soemer_001,﻿Rev.,﻿John Soemer,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Seneca,,﻿Penn Yan,,﻿NY,,42.6611614,-77.0571732,,,,﻿d_english_001,﻿Rev.,﻿D. English,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
@@ -185,7 +185,7 @@
 ﻿buf.ny.0120,﻿church,not recorded,English,﻿brick church,,,﻿Wyoming County,,﻿Warsaw,﻿Warsaw,﻿NY,,42.740061,-78.1327881,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0112,﻿church,﻿St. James',English,﻿frame church,,,﻿Tioga County,,﻿Waverly,﻿Waverly,﻿NY,,42.0103519,-76.5271659,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0072,﻿church,not recorded,English,,,,﻿Chautauque County,,﻿Westfield,﻿Westfield,﻿NY,,42.32228,-79.5781027,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.0448219,-76.5643336,,,,﻿nic_byrne_002,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.0448219,-76.5643336,,,,﻿nic_byrne_001,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,﻿stone church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,42.963167,-78.7489323,,,,﻿cha_winsierski_001,﻿Rev.,﻿Charles Winsierski,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0095,﻿church,﻿St. Bernard's,English,﻿frame church,,,﻿Niagara County,,﻿Youngstown,﻿Youngstown,﻿NY,,43.24935,-79.047503,﻿buf.ny.0084,﻿Attended from Lewiston,,,,,,,,,,,,1867,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0171,﻿seminary,﻿Diocesan Seminary,English,,﻿at the Rt. Rev. Bishop's house,,,,,,,,,,,,,,,,,,,﻿priest,"﻿whole number of seminarists there and at other seminaries, 35",,,1867,﻿,﻿,﻿Buffalo,Buffalo
