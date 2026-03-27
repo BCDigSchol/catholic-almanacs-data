@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie city,﻿Erie,﻿PA,,42.132666,-80.083745,,,,,﻿The Bishop,,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie city,﻿Erie,﻿PA,,42.132666,-80.083745,,,,﻿joh_d_coady_001,﻿Very Rev.,﻿John D. Coady,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿cas_seitz_002,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿mei_jeggle_001,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿erh_vanino_002,﻿Rev.,﻿Erhard Vanino,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0046,﻿church,﻿St. Francis,English,,"﻿Erie, P. O.",,﻿Erie County,,﻿McKean Township,﻿McKean,﻿PA,,41.996885,-80.143314,,,,﻿f_j_oberhofer_001,﻿Rev.,﻿F. J. Oberhofer,,,,,,,,1864,﻿,﻿,﻿Erie,Erie

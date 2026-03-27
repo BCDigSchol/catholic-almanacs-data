@@ -6,7 +6,7 @@
 ﻿chi.il.0002,﻿church,﻿St. Mary's,English,"﻿Residence corner of Michigan Avenue and Madison street. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Madison street and Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8819264,-87.62655323,,,,,﻿Rev.,﻿Thomas Burke,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, Desplain Street. High Mass at 10 1/2; Vespers, 3.","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,﻿Rev.,﻿Michael Sullivan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, Desplain Street. High Mass at 10 1/2; Vespers, 3.","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,﻿Rev.,﻿B. Lonergan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0003,﻿church,﻿St. Louis,English,"﻿Residence, Bishop's House. High Mass at 10 1/2; Vespers, 3.",﻿Sherman street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,,﻿Rev. John McMullin,,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0014,﻿church,﻿St. Louis,English,"﻿Residence, Bishop's House. High Mass at 10 1/2; Vespers, 3.",﻿Sherman street,,,,,,,,,,,,,,﻿Rev. John McMullin,,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005,﻿church,﻿St. Peter's,English,"﻿Residence, Clark Street. High Mass at 10; Vespers, 2 1/2",﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87223934,-87.63060513,,,,﻿j_b_mâger_001,﻿Rev.,﻿J. B. Mâger,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0008,﻿church,﻿St. Joseph's,English,"﻿Residence at the Church. High Mass at 10; Vespers, 2 1/2",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,,﻿Rev.,﻿William Storr,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,English,"﻿Residence on Church street, adjoining the church. High Mass at 10; Vespers, 3.",﻿North Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,,﻿Very Rev.,﻿J. Müller,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -24,31 +24,31 @@
 ﻿chi.il.0010,﻿church,﻿St. John's,English,"﻿Residence at the church. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Clark and Old streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.85796108,-87.62999524,,,,﻿joh_waldron_001,﻿Rev.,﻿John Waldron,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,41.7132868,-89.32813318,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clarke,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,,,,﻿Rev.,﻿W. A. Power,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0029,﻿church,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,﻿Attended from Elgin,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0123,﻿church,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,,,,,,,﻿Attended from Elgin,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,,,,,,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,﻿t_kennedy_002,﻿Rev.,﻿Thomas Kennedy,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,,,,﻿Rev.,﻿L. Gingras,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Joseph's,English,,,,﻿Boone County,,﻿Belvidere,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Rockford,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Joseph's,English,,,,﻿Boone County,,﻿Batavia,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Mary's,English,,,,﻿Cook County,,﻿Buffalo,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended monthly from Dutchtown,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Cass,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Lockport,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Canton,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Macomb,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Joseph's,English,,,,﻿McHenry County,,﻿Crystal Lake,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from McHenry,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0032,﻿church,﻿St. Joseph's,English,,,,﻿Dewitt County,,﻿Clinton,﻿Bourbonnais,﻿IL,,41.15648863,-87.87627605,,﻿Attended from Bloomington,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0391,﻿church,not recorded,English,,,,﻿Boone County,,﻿Belvidere,,,,,,,﻿Attended from Rockford,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0125,﻿church,not recorded,English,,,,,,﻿Batavia,,,,,,,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0125,﻿church,﻿St. Mary's,English,,,,﻿Cook County,,﻿Buffalo,,,,,,,﻿Attended monthly from Dutchtown,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0135,﻿church,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Cass,,,,,,,﻿Attended from Lockport,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0394,﻿church,not recorded,English,,,,,,﻿Canton,,,,,,,﻿Attended from Macomb,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0141,﻿church,﻿St. Joseph's,English,,,,﻿McHenry County,,﻿Crystal Lake,,,,,,,﻿Attended from McHenry,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0141,﻿church,﻿St. Joseph's,English,,,,﻿Dewitt County,,﻿Clinton,,,,,,,﻿Attended from Bloomington,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,,﻿Dixon,﻿Dixon,﻿IL,,41.83736085,-89.48387765,,,,,﻿Rev.,﻿Michael Forde,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Gundy County,,﻿Dresden,﻿Dixon,﻿IL,,41.83736085,-89.48387765,,﻿Attended from Morris,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Vermillion County,,﻿Danville,﻿Dixon,﻿IL,,41.83736085,-89.48387765,,﻿Attended from Urbana,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0380,﻿church,not recorded,English,,,,﻿Vermillion County,,﻿Danville,,,,,,,﻿Attended from Urbana,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,,,,,,,﻿Attended from Sinsinnawa Mound College,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿McHenry County,,﻿Dutchtown,,,,,,,,,,﻿Rev.,﻿Peter Vogt,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Lake County,,﻿Dwyer's Settlement,,,,,,,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿La Salle County,,﻿Eagletown,,,,,,,﻿Attended from Ottawa,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0145,﻿church,not recorded,English,,,,﻿Lake County,,﻿Dwyer's Settlement,,,,,,,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0145,﻿church,not recorded,English,,,,﻿La Salle County,,﻿Eagletown,,,,,,,﻿Attended from Ottawa,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Kane County,,﻿Elgin,﻿Elgin,﻿IL,,42.03527365,-88.27562783,,,,,﻿Rev.,﻿Michael Carroll,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Joe Daviess County,,﻿Elizabeth,﻿Elgin,﻿IL,,42.03527365,-88.27562783,,﻿Attended from Galena,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Hancock County,,﻿Fountain Green,﻿Elgin,﻿IL,,42.03527365,-88.27562783,,﻿Attended from Nauvoo,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0155,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Fountain Green,,,,,,,﻿Attended from Nauvoo,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,42.29253255,-89.61576885,,,,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,42.29253255,-89.61576885,,,,,﻿Rev.,﻿Peter Fischer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Whiteside County,,﻿Fulton,﻿Freeport,﻿IL,,42.29253255,-89.61576885,,﻿Attended from Dixon,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0395,﻿church,not recorded,English,,,,﻿Whiteside County,,﻿Fulton,,,,,,,﻿Attended from Dixon,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0052,﻿church,﻿St. Michael's,English,,,,﻿Jo Daviess County,,﻿Galena,﻿Galena,﻿IL,,42.41531383,-90.4304371,,,,,﻿Rev.,﻿John Larkin,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0053,﻿church,﻿St. Mary's,﻿German,,,,﻿Jo Daviess County,,﻿Galena,﻿Galena,﻿IL,,42.41950233,-90.42845953,,,,,﻿Rev.,﻿Mr. Herderer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0054,﻿church,﻿St. Patrick's,English,,,,﻿Knox County,﻿Knox County,﻿Galesburgh,﻿Galesburg,﻿IL,,40.93660967,-90.37625778,,,,,﻿Rev.,﻿J. O'Neill,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
