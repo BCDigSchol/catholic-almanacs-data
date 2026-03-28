@@ -53,12 +53,12 @@
 ﻿chi.il.0053,﻿church,﻿St. Mary's,﻿German,,,,﻿Jo Daviess County,,﻿Galena,﻿Galena,﻿IL,,42.41950233,-90.42845953,,,,,﻿Rev.,﻿Mr. Herderer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0054,﻿church,﻿St. Patrick's,English,,,,﻿Knox County,﻿Knox County,﻿Galesburgh,﻿Galesburg,﻿IL,,40.93660967,-90.37625778,,,,,﻿Rev.,﻿J. O'Neill,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cook County,,﻿Gross Point,﻿Wilmette,﻿IL,,42.07935379,-87.72191665,,,,,﻿Rev.,﻿Hartlayb,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,,,﻿Rock Island County,,﻿Hampton,﻿Wilmette,﻿IL,,42.07935379,-87.72191665,,,,,﻿Rev.,﻿J. A. Alleman,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0349,﻿church,not recorded,English,,,,﻿Rock Island County,,﻿Hampton,,,,,,,,,,﻿Rev.,﻿J. A. Alleman,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0058,﻿church,not recorded,English,,,,﻿McHenry County,,﻿Hartland and Woodstock,﻿Hartland,﻿IL,,42.37819326,-88.49035292,,,,﻿ter_fitzsimmons_001,﻿Rev.,﻿Ter. Fitzsimmons,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0058,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Hennepin,﻿Hartland,﻿IL,,42.37819326,-88.49035292,,﻿Attended from Henry,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0381,﻿church,not recorded,English,,,,﻿Putnam County,,﻿Hennepin,,,,,,,﻿Attended from Henry,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,,﻿Henry,﻿Henry,﻿IL,,41.1114249,-89.3564776,,,,,﻿Rev.,﻿Louis Cartyuvels,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿La Salle County,,﻿Homer,﻿Henry,﻿IL,,41.1114249,-89.3564776,,﻿Attended from Mendota,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Stevenson County,,﻿Irish Grove,﻿Henry,﻿IL,,41.1114249,-89.3564776,,﻿Attended from Freeport,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0169,﻿church,not recorded,English,,,,﻿La Salle County,,﻿Homer,,,,,,,﻿Attended from Mendota,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0170,﻿church,not recorded,English,,,,﻿Stevenson County,,﻿Irish Grove,,,,,,,﻿Attended from Freeport,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0063,﻿church,﻿St. George's,English,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.52150743,-88.09907207,,,,﻿pat_farrelly_002,﻿Rev.,﻿Patrick Farrelly,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.53119826,-88.08902764,,,,﻿cha_kumin_001,﻿Rev.,﻿Charles Kumin,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0066,﻿church,﻿St. Rose's,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,41.11951002,-87.87155827,,,,,﻿Very Rev.,﻿A. Mailloux,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -75,15 +75,15 @@
 ﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,,,,,,,,,﻿Rev.,﻿William Herbert,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.1175851,,﻿Attended from Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿Jo Daviess County,﻿La Salle County,﻿Menomena,﻿Mendota,﻿IL,,41.5472547,-89.1175851,,﻿Attended from Sinsinnawa Mound,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0080,﻿church,﻿St. Andrew's,English,,,,﻿Lake County,﻿La Salle County,﻿Mill Creek,﻿Mendota,﻿IL,,41.5472547,-89.1175851,,﻿Attended from Waukeegan,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0080,﻿church,﻿St. Stephen's,English,,,,﻿Dupage County,﻿La Salle County,﻿Milton,﻿Mendota,﻿IL,,41.5472547,-89.1175851,,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0353,﻿church,﻿St. Andrew's,English,,,,﻿Lake County,,﻿Mill Creek,,,,,,,﻿Attended from Waukeegan,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0193,﻿church,﻿St. Stephen's,English,,,,﻿Dupage County,,﻿Milton,,,,,,,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0086,﻿church,﻿St. Patrick's,English,,,,﻿Grundy County,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,41.36046748,-88.41899925,,,,﻿mic_lyons_001,﻿Rev.,﻿Michael Lyons,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0086,﻿church,﻿St. John's,English,,,,﻿Lake County,﻿Grundy County,﻿Murray's Settlement,﻿Morris,﻿IL,,41.36046748,-88.41899925,,﻿Attended from Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0196,﻿church,﻿St. John's,English,,,,﻿Lake County,,﻿Murray's Settlement,,,,,,,﻿Attended from Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0087,﻿church,﻿St. Raphael's,English,,,,﻿Du Page County,,﻿Naperville,﻿Naperville,﻿IL,,41.77527567,-88.14481739,,,,,﻿Rev.,﻿P. J. Carolus,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Hancock County,﻿Hancock County,﻿Nauvoo,﻿Nauvoo,﻿IL,,40.55183391,-91.38472797,,,,﻿cha_schilling_002,﻿Rev.,﻿Charles Schilling,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Stephenson County,﻿Hancock County,﻿New Dublin,﻿Nauvoo,﻿IL,,40.55183391,-91.38472797,,﻿Attended from Freeport,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0090,﻿church,﻿St. Joseph's,English,,,,﻿Cook County,,﻿New Strasburgh,﻿Sauk Village,﻿IL,,41.48812819,-87.57680672,,,,,﻿Rev.,﻿Th. Fraunhofer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0090,﻿church,﻿St. Henry,English,,,,﻿Cook County,,﻿New Trier,﻿Sauk Village,﻿IL,,41.48812819,-87.57680672,,﻿Attended from Gross Point,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0198,﻿church,﻿St. Henry,English,,,,﻿Cook County,,﻿New Trier,,,,,,,﻿Attended from Gross Point,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.8425769,,,,﻿pat_terry_001,﻿Rev.,﻿Patrick Terry,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Columba's,English,,,,﻿La Salle County,﻿La Salle County,﻿Ottawa,﻿Ottawa,﻿IL,,41.3455892,-88.8425769,,,,,﻿Rev.,﻿Delahunty,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0091,﻿church,﻿St. Francis,﻿German,,,,﻿La Salle County,﻿La Salle County,﻿Ottowa,﻿Ottawa,﻿IL,,41.3455892,-88.8425769,,,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
