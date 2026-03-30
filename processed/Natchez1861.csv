@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿wil_h_elder_001,﻿Rt. Rev.,﻿William Henry Elder,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿mat_f_grignon_001,﻿Very Rev.,﻿Mathurin F. Grignon,,"﻿V.G., Rector",,,,,,1861,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,,﻿Rev.,﻿F. Miller,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿f_miller_002,﻿Rev.,﻿F. Miller,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,,﻿Rev.,﻿Basil Elia,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0001,﻿cathedral,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,,﻿Rev.,﻿Louis R. Mulot,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0001,﻿church,"﻿St. Mary's Cathedral, Our Lady of Sorrows",English,,,,,,﻿Abeney,﻿Natchez,﻿MS,,31.55875,-91.401449,﻿nat.ms.0087,﻿Visited occasionally from Yazoo City,,,,,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
@@ -54,7 +54,7 @@
 ﻿nat.ms.0053,﻿church,not recorded,English,,,,﻿Hancock County,,﻿O'Rourke's,,﻿MS,,30.388758,-89.512008,﻿nat.ms.0007,﻿Visited from Bay St. Louis,﻿every six weeks,,,,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0058,﻿church,not recorded,English,﻿New Church,,,﻿Jackson County,,﻿East Pascagoula,﻿Pascagoula,﻿MS,,30.315443,-89.244998,,,,﻿c_vandemore_001,﻿Rev.,﻿C. Vandemore,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0059,﻿church,﻿St. Paul's,English,,,,﻿Harrison County,,﻿Pass Christian,﻿Pass Christian,﻿MS,,32.033333,-89.039547,,,,﻿fra_pont_001,﻿Rev.,﻿Francis Pont,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0060,﻿church,﻿St. Michael's,English,,,,﻿Jasper County,,﻿Paulding,﻿Paulding,﻿MS,,30.246584,-89.611167,,,,,﻿Rev.,﻿Ghislain J. Bobeme,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0060,﻿church,﻿St. Michael's,English,,,,﻿Jasper County,,﻿Paulding,﻿Paulding,﻿MS,,30.246584,-89.611167,,,,﻿ghi_j_bobeme_001,﻿Rev.,﻿Ghislain J. Bobeme,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0061,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Pearlington,﻿Pearlington,﻿MS,,31.956868,-90.983113,﻿new.la.0041,"﻿Visited from Covington, La.",,,,,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0062,﻿church,﻿St. Joseph's,English,,,,﻿Claiborne County,,﻿Port Gibson,﻿Port Gibson,﻿MS,,32.776019,-89.110679,,,,,﻿Rev.,﻿Philip Huber,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0063,﻿church,not recorded,English,,,,﻿Neshoba County,,﻿Philadelphia,﻿Philadelphia,﻿MS,,34.247883,-88.998673,﻿nat.ms.0019,﻿Visited from Sulphur Springs,,,,,,,,,,,,1861,﻿,﻿,﻿Natchez,Natchez
