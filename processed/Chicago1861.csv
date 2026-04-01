@@ -6,7 +6,7 @@
 ﻿chi.il.0002,﻿church,﻿St. Mary's,English,"﻿Residence corner of Michigan Avenue and Madison street. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Madison street and Wabash avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.8819264,-87.62655323,,,,﻿tho_burke_003,﻿Rev.,﻿Thomas Burke,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, Desplain Street. High Mass at 10 1/2; Vespers, 3.","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,﻿mic_sullivan_001,﻿Rev.,﻿Michael Sullivan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0003,﻿church,﻿St. Patrick's,English,"﻿Residence, Desplain Street. High Mass at 10 1/2; Vespers, 3.","﻿Desplain street, corner of Adams",,,,﻿Chicago,﻿Chicago,﻿IL,,41.87951815,-87.64453189,,,,﻿bar_lonergan_001,﻿Rev.,﻿B. Lonergan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0014,﻿church,﻿St. Louis,English,"﻿Residence, Bishop's House. High Mass at 10 1/2; Vespers, 3.",﻿Sherman street,,,,,,,,,,,,,,﻿Rev. John McMullin,,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0014,﻿church,﻿St. Louis,English,"﻿Residence, Bishop's House. High Mass at 10 1/2; Vespers, 3.",﻿Sherman street,,,,,,,,,,,,,,﻿Rev.,﻿John McMullin,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005,﻿church,﻿St. Peter's,English,"﻿Residence, Clark Street. High Mass at 10; Vespers, 2 1/2",﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.87223934,-87.63060513,,,,﻿j_b_mâger_001,﻿Rev.,﻿J. B. Mâger,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0008,﻿church,﻿St. Joseph's,English,"﻿Residence at the Church. High Mass at 10; Vespers, 2 1/2",﻿corner of Cass street and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89671205,-87.62555666,,,,﻿wil_storr_001,﻿Rev.,﻿William Storr,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,English,"﻿Residence on Church street, adjoining the church. High Mass at 10; Vespers, 3.",﻿North Avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214034,-87.6409337,,,,﻿j_müller_001,﻿Very Rev.,﻿J. Müller,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -74,7 +74,7 @@
 ﻿chi.il.0077,﻿church,﻿St. Stephen's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,40.45862934,-90.67556199,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,,,,,,,,﻿wil_herbert_001,﻿Rev.,﻿William Herbert,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.5472547,-89.1175851,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0422,﻿church,not recorded,English,,,,﻿Jo Daviess County,,﻿Menomena,,,,,,,﻿Attended from Sinsinnawa Mound,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0422,﻿church,not recorded,English,,,,﻿Jo Daviess County,,﻿Menomena,,,,,,﻿mil.wi.0195,﻿Attended from Sinsinnawa Mound,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0353,﻿church,﻿St. Andrew's,English,,,,﻿Lake County,,﻿Mill Creek,,,,,,,﻿Attended from Waukeegan,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0193,﻿church,﻿St. Stephen's,English,,,,﻿Dupage County,,﻿Milton,,,,,,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0086,﻿church,﻿St. Patrick's,English,,,,﻿Grundy County,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,41.36046748,-88.41899925,,,,﻿mic_lyons_001,﻿Rev.,﻿Michael Lyons,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -104,7 +104,7 @@
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,41.91407319,-88.31845068,,,,﻿p_odwyer_001,﻿Rev.,﻿P. O'Dwyer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0224,﻿church,not recorded,English,,,,﻿Will County,,﻿Twelve Mile Grove,,,,,,﻿chi.il.0115,﻿Attended from Wilmington,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0428,﻿church,not recorded,English,,,,﻿Champaign County,,﻿Urbana,,,,,,﻿chi.il.0377,﻿Attended from L'Erable,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0226,﻿church,not recorded,English,,,,﻿Joe Daviess County,,﻿Vinegar Hill,,,,,,,﻿Attended from Sinsinnawa Mound College,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0226,﻿church,not recorded,English,,,,﻿Joe Daviess County,,﻿Vinegar Hill,,,,,,﻿mil.wi.0457,﻿Attended from Sinsinnawa Mound College,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0113,﻿church,﻿St. Bernard's,English,,,,﻿Lake County,,﻿Waukegan,﻿Waukegan,﻿IL,,42.35820769,-87.83267301,,,,﻿mic_donahue_001,﻿Rev.,﻿Michael Donahue,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0386,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Warsaw,,,,,,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,41.30407584,-88.14340099,,,,﻿hya_indthout_001,﻿Rev.,﻿Hyacinth Indthout,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago

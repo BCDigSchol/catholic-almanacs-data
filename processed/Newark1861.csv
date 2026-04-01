@@ -1,0 +1,56 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7420973,-74.172314,,,,﻿jam_r_bayley_001,﻿Rt. Rev.,﻿James Roosevelt Bayley,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7420973,-74.172314,,,,,﻿Rev.,﻿B.J. McQuaid,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7420973,-74.172314,,,,,﻿Rev.,﻿G.H. Doane,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7420973,-74.172314,,,,,﻿Rev.,﻿J.M. Gervais,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7380522,-74.165907,,,,﻿p_moran_001,﻿V. Rev.,﻿P. Moran,,﻿V.G.,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7380522,-74.165907,,,,﻿e_mccosker_001,﻿Rev.,﻿E. McCosker,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7470654,-74.2329737,,,,﻿rup_seidenbusch_001,﻿Rev.,﻿Rupert  Seidenbusch,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7470654,-74.2329737,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7470654,-74.2329737,,,,﻿ign_krug_001,﻿Rev.,﻿Ignatius Krug,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0005,﻿church,﻿St. James' Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7285209,-74.1621778,,,,﻿jam_callan_001,﻿Rev.,﻿James Callan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0005,﻿church,﻿St. James' Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7285209,-74.1621778,,,,,﻿Rev.,﻿C. O'Reilly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0006,﻿church,﻿St. Peter's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7397369,-74.2017412,,,,﻿god_preith_001,﻿Rev.,﻿Godfried Preith,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0007,﻿church,﻿St. Joseph's,English,﻿School-house built,"﻿Warren, corner Hudson",,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.735657,-74.1723667,﻿new.nj.0001,,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0010,﻿church,﻿St. Nicholas of Tolentino,English,,,,﻿Atlantic Co.,,﻿Absecom,﻿Absecom,﻿NJ,,39.4284503,-74.4957076,﻿phi.pa.0007,"﻿Attended by the Augustinians, from Philadelphia",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0011,﻿church,not recorded,English,,,,﻿Sussex Co.,,﻿Andover,﻿Andover,﻿NJ,,40.9859311,-74.7421089,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0012,﻿church,﻿St. James',English,,,,﻿Somerset Co.,,﻿Baskinridge,﻿Basking Ridge,﻿NJ,,40.7066174,-74.5493284,﻿new.nj.0117,"﻿Attended by the Chaplain of St. Elizabeth's Academy, Madison",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0013,﻿church,not recorded,English,,,,﻿Essex Co.,,﻿Belleville,﻿Belleville,﻿NJ,,40.7936744,-74.1500469,,,,﻿joh_hogan_001,﻿Rev.,﻿John Hogan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0014,﻿church,not recorded,English,,,,﻿Warren Co.,,﻿Belvidere,﻿Belvidere,﻿NJ,,40.82982,-75.0776747,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0015,﻿church,﻿St. Mary's (Stella Maris),English,,,,﻿Bergen Co.,,﻿Bergen Point,﻿Bayonne,﻿NJ,,40.6687141,-74.1143091,﻿new.nj.0005,"﻿Attended from St. James', Newark",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0016,﻿church,﻿St. Joseph's,English,,,,﻿Burlington Co.,,﻿Beverly,﻿Beverly,﻿NJ,,40.0648332,-74.9232226,﻿new.nj.0021,﻿Attended from Burlington,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0016,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Essex Co.,,﻿Bloomfield,﻿Beverly,﻿NJ,,40.0648332,-74.9232226,﻿new.nj.0013,﻿Attended from Belleville,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0017,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Morris Co.,,﻿Boonton,﻿Boonton,﻿NJ,,40.9076908,-74.4139624,,,,﻿d_castet_001,﻿Rev.,﻿D. Castet,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0018,﻿church,﻿St. Mary's,English,,,,﻿Burlington Co.,,﻿Bordentown,﻿Bordentown,﻿NJ,,40.141508,-74.6979836,,,,﻿jos_biggio_001,﻿Rev.,﻿Joseph Biggio,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0020,﻿church,not recorded,English,,,,﻿Cumberland Co.,,﻿Bridgeton,﻿Bridgeton,﻿NJ,,39.427337,-75.2340768,﻿new.nj.0092,﻿Attended from Salem,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0021,﻿church,﻿St. Paul's,English,,,,﻿Burlington Co.,,﻿Burlington,﻿Burlington,﻿NJ,,40.080134,-74.8539065,,,,﻿jos_d_bowles_001,﻿Rev.,﻿Joseph D. Bowles,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0022,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Camden Co.,,﻿Camden,﻿Camden,﻿NJ,,39.944882,-75.1185572,,,,﻿jam_moran_001,﻿Rev.,﻿James Moran,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0024,﻿church,"﻿St. Mary's, Star of the Sea",English,,,,,,﻿Cape Island,﻿Cape May,﻿NJ,,38.9333443,-74.9219285,﻿new.nj.0092,﻿Attended from Salem,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0025,﻿church,not recorded,English,,,,﻿Hunterdon Co.,,﻿Clinton,﻿Clinton,﻿NJ,,40.6367682,-74.90989,﻿new.nj.0053,﻿Attended from New Lambertville,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0026,﻿church,not recorded,English,,,,﻿Cape May Co.,,﻿Dennis Creek,﻿Dennis,﻿NJ,,39.1958623,-74.8156199,﻿new.nj.0092,﻿Attended from Salem,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0027,﻿church,﻿St. Mary's,English,,,,﻿Morris Co.,,﻿Dover,﻿Dover,﻿NJ,,40.9479587,-74.5521869,,,,﻿joh_callan_001,﻿Rev.,﻿John Callan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0030,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Union County,﻿Elizabeth,﻿Elizabeth,﻿NJ,,40.6639916,-74.2107006,,,,﻿isa_p_howell_001,﻿Rev.,﻿Isaac P. Howell,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0031,﻿church,﻿St. Michael's,﻿German,,,,﻿Essex County,﻿Union County,﻿Elizabeth,﻿Elizabeth,﻿NJ,,40.6612064,-74.2032193,,,,﻿a_wirzfeld_001,﻿Rev.,﻿A. Wirzfeld,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0032,﻿church,﻿St. Patrick's,English,,,,﻿Essex County,﻿Union County,﻿Elizabethport,﻿Elizabeth,﻿NJ,,40.6523154,-74.1867094,,,,﻿a_wirzfeld_001,﻿Rev.,﻿A. Wirzfeld,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0151,﻿church,not recorded,English,,﻿English Neighborhood,,﻿Hudson County,,,,﻿NJ,,,,,﻿Attended from Hoboken,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0033,﻿church,﻿Church of the Madonna,English,,,,﻿Bergen County,,﻿Fort Lee,﻿Fort Lee,﻿NJ,,40.8508461,-73.9750081,,,,﻿fra_anelli_001,﻿Rev.,﻿Francis Anelli,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0034,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Franklin Furnace,﻿Franklin,﻿NJ,,41.1220409,-74.5804378,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0035,﻿church,﻿St. Mary Magdalene de Pazzi,English,,,,﻿Hunterdon County,,﻿Flemington,﻿Flemington,﻿NJ,,40.5123258,-74.8593318,﻿new.nj.0053,﻿Attended from Lambertville,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0036,﻿church,﻿St. Rose of Lima,English,,,,﻿Monmouth County,,﻿Freehold,﻿Freehold,﻿NJ,,40.2580848,-74.2748157,﻿new.nj.0085,﻿Attended from Princeton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0038,﻿church,﻿St. Mary's,English,,,,﻿Camden County,,﻿Gloucester City,﻿Gloucester,﻿NJ,,39.8917799,-75.1162863,,,,﻿jam_daly_001,﻿Rev.,﻿James Daly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0041,﻿church,not recorded,English,,,,﻿Bergen County,,﻿Hackensack,﻿Hackensack,﻿NJ,,40.8859325,-74.0434736,﻿new.nj.0033,﻿Attended from Fort Lee,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0042,﻿church,not recorded,English,,,,﻿Warren County,,﻿Hackettstown,﻿Hackettstown,﻿NJ,,40.8539879,-74.8290555,﻿new.nj.0027,﻿Attended from Dover,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,40.7421804,-74.0334561,,,,﻿ant_canvin_001,﻿Rev.,﻿Anthony Canvin,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0043,﻿church,﻿Our Lady of Grace,English,,,,﻿Hudson County,,﻿Hoboken,﻿Hoboken,﻿NJ,,40.7421804,-74.0334561,,,,﻿j_da-concilio_001,﻿Rev.,﻿J. Da Concilio,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0045,﻿church,﻿St. Joseph's,English,,,,,,﻿Hudson City,﻿Jersey City,﻿NJ,,40.7311602,-74.0582742,,,,﻿alo_venuta_001,﻿Rev.,﻿Aloysius Venuta,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0047,﻿church,﻿St. Peter's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.7159628,-74.0439649,,,,﻿joh_kelly_001,﻿Rev.,﻿John Kelly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0047,﻿church,﻿St. Peter's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.7159628,-74.0439649,,,,﻿p_corrigan_001,﻿Rev.,﻿P. Corrigan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0048,﻿church,﻿St. Mary's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.7225863,-74.0438757,,,,﻿d_senez_001,﻿Rev.,﻿D. Senez,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0048,﻿church,﻿St. Mary's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.7225863,-74.0438757,,,,﻿phi_koch_001,﻿Rev.,﻿Philip Koch,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0053,﻿church,﻿St. John Evangelist,English,,,,﻿Hunterdon County,,﻿Lambertville,﻿Lambertville,﻿NJ,,40.3667156,-74.9434823,,,,﻿flm_jego_001,﻿Rev.,﻿F.L.M Jego,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Long Branch,﻿Long Branch,﻿NJ,,40.3042778,-73.9923596,﻿new.nj.0095,﻿Attended from South Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0055,﻿church,﻿St. Francis of Sales,English,,,,﻿Bergen County,,﻿Lodi,﻿Lodi,﻿NJ,,40.8750765,-74.0803911,﻿new.nj.0033,﻿Attended from Fort Lee,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0056,﻿church,﻿St. Joseph's,English,,,,﻿Passaic County,,﻿Macopin,﻿Macopin,﻿NJ,,40.8577429,-74.1754661,﻿new.nj.0075,﻿Attended from Boonton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0057,﻿church,﻿St. Vincent's,English,,,,﻿Morris County,,﻿Madison,﻿Madison,﻿NJ,,40.7598227,-74.417097,,,,﻿m_a_madden_001,﻿Rev.,﻿M. A. Madden,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0058,﻿church,﻿St. Joseph's,English,,,,﻿Morris County,,﻿Mendham,﻿Mendham,﻿NJ,,40.7747507,-74.6024258,,,,﻿w_mcnulty_001,﻿Rev.,﻿W. McNulty,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0063,﻿church,﻿Assumption B.V.M.,English,,,,﻿Morris County,,﻿Morristown,﻿Morristown,﻿NJ,,40.7967667,-74.4815438,,,,﻿law_hoey_001,﻿Rev.,﻿Lawrence Hoey,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
