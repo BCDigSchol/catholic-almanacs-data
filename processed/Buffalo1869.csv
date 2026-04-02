@@ -2,7 +2,7 @@
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿w_gleeson_001,﻿Very Rev.,﻿Wm. Gleeson,,"﻿V.G., Rector",,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿d_moore_001,﻿Rev.,﻿D. Moore,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿j_mcevoy_001,﻿Rev.,﻿J. McEvoy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.905645,-78.825265,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006,﻿church,﻿St. Louis',﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.89568118,-78.87218644,,,,﻿jos_m_sorg_001,﻿Rev.,﻿Jos. M. Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887483,-78.864468,,,,﻿j_b_hespelein_001,﻿Rev.,﻿J. B. Hespelein,﻿C.SS.R.,﻿Rector,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.915436,-78.769903,,,,﻿nic_sorg_001,﻿Rev.,﻿Nicholas Sorg,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.972121,-78.815475,,,,﻿le-burton_001,﻿Rev.,﻿Le Burton,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -203,8 +203,8 @@
 ﻿buf.ny.0135,﻿academy,not recorded,English,﻿Academy,,,,,﻿Elmira,,﻿NY,,42.089797,-76.807734,,,,,,,,,,,,﻿under the Sisters of St. Mary,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0136,﻿school,﻿St. Joseph's School,English,﻿for boys,﻿Cathedral,,,,,,﻿NY,,42.882821,-78.878202,,,,,,,,,,﻿student,"﻿Pupils, 450",﻿under Christian Brothers,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0137,﻿school,﻿St. Joseph's School for Girls,English,,,,,,﻿Buffalo,,﻿NY,,42.958847,-78.848683,,,,,﻿Sister,﻿Robertina Lenahan,,﻿Sister-servant,,﻿student,"﻿Pupils, 200",﻿under the Sisters of Charity,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,"﻿lay teachers, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.905645,-78.825265,,,,,,,,,,﻿student,"﻿Pupils, 600",﻿under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,"﻿lay teachers, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.905645,-78.825265,,,,,,,,,,﻿religious,﻿5 sisters,﻿under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,"﻿lay teachers, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.89568118,-78.87218644,,,,,,,,,,﻿student,"﻿Pupils, 600",﻿under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,"﻿lay teachers, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.89568118,-78.87218644,,,,,,,,,,﻿religious,﻿5 sisters,﻿under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0008_02,﻿school,﻿St. Mary's,﻿German,"﻿Male, under secular teachers",,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,"﻿Pupils, 550",﻿Sisters of St. Francis,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,"﻿Female, 3 secular teachers",,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,"﻿Pupils, 700 girls",﻿under 7 Sisters of Notre Dame,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,"﻿Female, 3 secular teachers",,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿child,﻿500 boys under secular teachers,﻿under 7 Sisters of Notre Dame,,1869,﻿,﻿,﻿Buffalo,Buffalo
