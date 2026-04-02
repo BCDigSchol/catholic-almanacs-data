@@ -55,18 +55,23 @@
 ﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿wm_quinn_901,﻿Rev.,﻿Wm. Quinn,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿sim_sanderle_901,﻿Rev.,﻿Simon Sanderle,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
 ﻿roc.ny.0014,﻿church,not recorded,English,﻿not dedicated,,,,﻿Monroe County,﻿Greece,﻿Greece,﻿NY,﻿NY,43.25270989,-77.65895257,﻿roc.ny.0001,﻿attended from Rochester,,,,,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿buf.ny.0006,﻿church,﻿St. Louis,English,﻿German and English,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,﻿NY,42.895428,-78.871729,,,,,﻿Rev.,﻿Alexander Pax,,,,,,,,1840,"﻿https://en.wikipedia.org/wiki/St._Louis_Roman_Catholic_Church#:~:text=Saint%20Louis%20Roman%20Catholic%20Church,Roman%20Catholic%20Diocese%20of%20Buffalo%22. ; while St. Joseph's is more notable, and is the main church in the later almanac years of the 1860s/1870s, it appears that this is the only surviving pre-1833 church in the city. For that reason, I am going with this church as opposed to the one that appears first in the diocese later on.",﻿,﻿,﻿New York,NewYork
-﻿buf.ny.0006,﻿church,﻿St. Louis,English,﻿German and English,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,,42.895428,-78.871729,,,,,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.9005,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Oswego,,﻿NY,,,,,,,,﻿Rev.,﻿John Rogers,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.9003,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Auburn,,﻿NY,,,,,,,,﻿Rev.,﻿Wm. Grace,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.9004,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Geneva,,﻿NY,,,,,,,,﻿Rev.,﻿Wm. Grace,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿buf.ny.0053,﻿church,not recorded,English,,,,,,﻿Eden,,﻿NY,,42.64620914,-78.89913455,,,,,﻿Rev.,﻿Nicholas Mertz,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0059,﻿church,﻿St. James',English,,,,,﻿Jefferson County,﻿Carthage,﻿Carthage,﻿NY,﻿NY,43.97826491,-75.60778008,,,,,﻿Rev. Mr.,﻿Gilbride,,,,,,,,1840,﻿http://www.catholicsofcarthagecopenhagen.org/,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0059,﻿church,﻿St. James',English,,,,,﻿Jefferson County,﻿Brownville,﻿Carthage,﻿NY,,43.97826491,-75.60778008,,,﻿occasionally,,﻿Rev. Mr.,﻿Gilbride,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0142,﻿church,﻿St. Patrick's,English,,,,,,﻿Hogansburg,,﻿NY,,,,,,﻿three Sundays,,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0142,﻿church,﻿St. Mary's,English,﻿Not dedicated,,,,,﻿Fort Covington,,﻿NY,,,,,,﻿occasionally,,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0173,﻿church,﻿St. Joseph's,English,﻿Not dedicated,,,,,﻿Malone,,﻿NY,,,,,,﻿occasionally,,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.0173,﻿church,﻿St. Peter's,English,﻿Not dedicated,,,,,﻿Messina,,﻿NY,,,,,,﻿occasionally,,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿buf.ny.0116,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Java,,﻿NY,,,,,,﻿once a month,,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿alb.ny.9007,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿China,,﻿NY,,,,,,﻿once a month,,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0161,﻿chapel,not recorded,English,﻿church unfinished,,,,,﻿Newburg,,﻿NY,,41.50117266,-74.00982805,,,,,﻿Rev.,﻿Patrick Duffy,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿buf.ny.0006,﻿church,﻿St. Louis,English,﻿German and English,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,﻿NY,42.895428,-78.871729,,,,﻿ale_pax_901,﻿Rev.,﻿Alexander Pax,,,,,,,,1840,"﻿https://en.wikipedia.org/wiki/St._Louis_Roman_Catholic_Church#:~:text=Saint%20Louis%20Roman%20Catholic%20Church,Roman%20Catholic%20Diocese%20of%20Buffalo%22. ; while St. Joseph's is more notable, and is the main church in the later almanac years of the 1860s/1870s, it appears that this is the only surviving pre-1833 church in the city. For that reason, I am going with this church as opposed to the one that appears first in the diocese later on.",﻿,﻿,﻿New York,NewYork
+﻿buf.ny.0006,﻿church,﻿St. Louis,English,﻿German and English,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,,42.895428,-78.871729,,,,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.9005,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Oswego,,﻿NY,,,,,,,﻿joh_rogers_901,﻿Rev.,﻿John Rogers,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.9003,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Auburn,,﻿NY,,,,,,,﻿wm_grace_902,﻿Rev.,﻿Wm. Grace,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.9004,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Geneva,,﻿NY,,,,,,,﻿wm_grace_902,﻿Rev.,﻿Wm. Grace,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿buf.ny.0053,﻿church,not recorded,English,,,,,,﻿Eden,,﻿NY,,42.64620914,-78.89913455,,,,﻿nic_mertz_901,﻿Rev.,﻿Nicholas Mertz,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0059,﻿church,﻿St. James',English,,,,,﻿Jefferson County,﻿Carthage,﻿Carthage,﻿NY,﻿NY,43.97826491,-75.60778008,,,,﻿gilbride_901,﻿Rev. Mr.,﻿Gilbride,,,,,,,,1840,﻿http://www.catholicsofcarthagecopenhagen.org/,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0059,﻿church,﻿St. James',English,,,,,﻿Jefferson County,﻿Brownville,﻿Carthage,﻿NY,,43.97826491,-75.60778008,,,﻿occasionally,﻿gilbride_901,﻿Rev. Mr.,﻿Gilbride,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0142,﻿church,﻿St. Patrick's,English,,,,,,﻿Hogansburg,,﻿NY,,,,,,﻿three Sundays,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0142,﻿church,﻿St. Mary's,English,﻿Not dedicated,,,,,﻿Fort Covington,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0173,﻿church,﻿St. Joseph's,English,﻿Not dedicated,,,,,﻿Malone,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0173,﻿church,﻿St. Peter's,English,﻿Not dedicated,,,,,﻿Messina,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿buf.ny.0116,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Java,,﻿NY,,,,,,﻿once a month,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.9007,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿China,,﻿NY,,,,,,﻿once a month,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0161,﻿chapel,not recorded,English,﻿church unfinished,,,,,﻿Newburg,,﻿NY,,41.50117266,-74.00982805,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0123,﻿church,﻿St. Mary's,English,,,,,,﻿Cold Spring,,﻿NY,,,,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0199,﻿chapel,not recorded,English,,,,,,﻿West Point,,﻿NY,,41.3914827,-73.9559721,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0175,﻿church,﻿St. Peter's,English,,,,,﻿Dutchess County,﻿Poughkeepsie,﻿Poughkeepsie,﻿NY,﻿NY,41.70925078,-73.93694958,,,﻿two Sundays in a month,﻿joh_smith_902,﻿Rev.,﻿John Smith,,,,,,,,1840,"﻿https://en.wikipedia.org/wiki/Old_St._Peter%27s_Church_(Poughkeepsie,_New_York)",﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Sougartie's,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_smith_902,﻿Rev.,﻿John Smith,,,,,,,,1840,"﻿https://stmaryofthesnow.org/history-of-st-mary-of-the-snow ; odd case of a place close to one diocese going with another - this place is right by albany, but, according to this church history, was attached with ny around the time of the civil war",﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Roundout,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_smith_902,﻿Rev.,﻿John Smith,,,,,,,,1840,,﻿,﻿,﻿New York,NewYork
