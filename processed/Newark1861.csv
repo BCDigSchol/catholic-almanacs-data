@@ -58,33 +58,33 @@
 ﻿new.nj.0064,﻿church,not recorded,English,﻿New church building,,,﻿Cumberland County,,﻿Millville,﻿Millville,﻿NJ,,39.403242,-75.0411291,,"﻿attended from St. Peter's church, Philadelphia",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0065,﻿church,﻿St. Mary's,English,,,,﻿Burlington County,,﻿Mount Holly,﻿Mount Holly,﻿NJ,,39.9931438,-74.7879393,﻿new.nj.0021,﻿Attended from Burlington,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0065,﻿church,﻿St. Mary's,English,,,,﻿Burlington County,,﻿Moorestown,﻿Mount Holly,﻿NJ,,39.9931438,-74.7879393,﻿new.nj.0038,﻿Attended from Gloucester,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0067,﻿church,﻿St. Peter's,English,,,,﻿Middlesex County,,﻿New Brunswick,﻿New Brunswick,﻿NJ,,40.4862157,-74.4518188,,,,,﻿Rev.,﻿John Rogers,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0067,﻿church,﻿St. Peter's,English,,,,﻿Middlesex County,,﻿New Brunswick,﻿New Brunswick,﻿NJ,,40.4862157,-74.4518188,,,,,﻿Rev.,﻿P. Byrne,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0067,﻿church,﻿St. Peter's,English,,,,﻿Middlesex County,,﻿New Brunswick,﻿New Brunswick,﻿NJ,,40.4862157,-74.4518188,,,,﻿joh_rogers_001,﻿Rev.,﻿John Rogers,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0067,﻿church,﻿St. Peter's,English,,,,﻿Middlesex County,,﻿New Brunswick,﻿New Brunswick,﻿NJ,,40.4862157,-74.4518188,,,,﻿p_byrne_002,﻿Rev.,﻿P. Byrne,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0069,﻿church,﻿St. Ann's,English,,,,﻿Hunterdon County,,﻿New Hampton,﻿Hampton,﻿NJ,,40.7070446,-74.9560032,﻿new.nj.0081,﻿attended from Plainfield,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0070,﻿church,﻿St. Joseph's,English,,,,﻿Sussex County,,﻿Newton,﻿Newton,﻿NJ,,41.0581527,-74.7526651,,,,,﻿Rev.,﻿James McKay,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0071,﻿church,﻿St. John's,English,,,,﻿Essex County,,﻿Orange,﻿Orange,﻿NJ,,40.7706187,-74.2326478,,,,,﻿Rev.,﻿John Murray,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0070,﻿church,﻿St. Joseph's,English,,,,﻿Sussex County,,﻿Newton,﻿Newton,﻿NJ,,41.0581527,-74.7526651,,,,﻿jam_mckay_001,﻿Rev.,﻿James McKay,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0071,﻿church,﻿St. John's,English,,,,﻿Essex County,,﻿Orange,﻿Orange,﻿NJ,,40.7706187,-74.2326478,,,,﻿joh_murray_001,﻿Rev.,﻿John Murray,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0073,﻿church,not recorded,English,﻿new church building,,,﻿Warren County,,﻿Oxford Furnace,﻿Oxford,﻿NJ,,40.8132568,-74.999813,﻿new.nj.0070,﻿attended from Newton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0075,﻿church,﻿St. John Baptist,English,"﻿New church of St. Boniface for the Germans, building",,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,40.9127737,-74.1724282,,,,,﻿Rev.,﻿V. Beaudevin,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0075,﻿church,﻿St. John Baptist,English,"﻿New church of St. Boniface for the Germans, building",,,﻿Passaic County,,﻿Paterson,﻿Paterson,﻿NJ,,40.9127737,-74.1724282,,,,﻿v_beaudevin_002,﻿Rev.,﻿V. Beaudevin,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0079,﻿church,﻿St. Mary's,English,,,,﻿Middlesex County,,﻿Perth Amboy,﻿Perth Amboy,﻿NJ,,40.5067723,-74.2654234,﻿new.nj.0087,﻿attended from Rahway,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0080,﻿church,not recorded,English,"﻿new church of St. Philip and St. James, building.",,,﻿Warren County,,﻿Philipsburg,﻿Phillipsburg,﻿NJ,,40.6937099,-75.1901761,,,,,﻿Rev.,﻿J. Smyth,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0081,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Union County,﻿Plainfield,﻿Plainfield,﻿NJ,,40.627708,-74.409422,,,,,﻿Rev.,﻿T. Kieran,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0080,﻿church,not recorded,English,"﻿new church of St. Philip and St. James, building.",,,﻿Warren County,,﻿Philipsburg,﻿Phillipsburg,﻿NJ,,40.6937099,-75.1901761,,,,﻿j_smyth_001,﻿Rev.,﻿J. Smyth,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0081,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Union County,﻿Plainfield,﻿Plainfield,﻿NJ,,40.627708,-74.409422,,,,﻿t_kieran_001,﻿Rev.,﻿T. Kieran,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0083,﻿church,﻿St. Elizabeth,English,,,,﻿Cumberland County,,﻿Port Elizabeth,﻿Port Elizabeth,﻿NJ,,39.3112709,-74.9823243,﻿new.nj.0092,﻿attended from Salem,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0084,﻿church,﻿Assumption B.V.M.,English,,,,﻿Atlantic County,,﻿Pleasant Mills,﻿Hammonton,﻿NJ,,39.6365056,-74.8023853,﻿new.nj.0022,﻿Attended from Camden,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0084,﻿church,﻿Assumption B.V.M.,English,,,,﻿Atlantic County,,﻿Pleasant Mills,﻿Hammonton,﻿NJ,,39.6365056,-74.8023853,﻿phi.pa.0015,"﻿Attended by a German Priest from St. Peter's Church, Philadelphia",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0085,﻿church,﻿St. Paul's,English,,,,,,﻿Princeton,﻿Princeton,﻿NJ,,40.3572976,-74.6672226,,,,,﻿Rev.,﻿Alfred Young,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0085,﻿church,﻿St. Paul's,English,,,,,,﻿Princeton,﻿Princeton,﻿NJ,,40.3572976,-74.6672226,,,,﻿alf_young_002,﻿Rev.,﻿Alfred Young,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0086,﻿church,not recorded,English,,,,﻿Burlington County,,﻿Progress,﻿Riverside,﻿NJ,,40.0323338,-74.9573908,﻿phi.pa.0015,"﻿attended from St. Peter's church, Philadelphia",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0089,﻿church,﻿St. James',English,,,,﻿Monmouth County,,﻿Red Bank,﻿Red Bank,﻿NJ,,40.3470543,-74.0643065,﻿new.nj.0095,﻿attended from South Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0087,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Union County,﻿Rahway,﻿Rahway,﻿NJ,,40.6081591,-74.2776468,,,,,﻿Rev.,﻿Thomas Quinn,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0087,﻿church,﻿St. Mary's,English,,,,﻿Essex County,﻿Union County,﻿Rahway,﻿Rahway,﻿NJ,,40.6081591,-74.2776468,,,,﻿tho_quinn_001,﻿Rev.,﻿Thomas Quinn,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0088,﻿church,﻿St. Bernard's,English,,,,﻿Somerset County,,﻿Raritan,﻿Raritan,﻿NJ,,40.5292099,-74.6400432,﻿new.nj.0081,﻿Attended from Plainfield,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0092,﻿church,﻿St. Mary's,English,,,,﻿Salem County,,﻿Salem,﻿Salem,﻿NJ,,39.5704926,-75.4715644,,,,,﻿Rev.,﻿Cornelius Cannon,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0092,﻿church,﻿St. Mary's,English,,,,﻿Salem County,,﻿Salem,﻿Salem,﻿NJ,,39.5704926,-75.4715644,,,,﻿cor_cannon_001,﻿Rev.,﻿Cornelius Cannon,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0093,﻿church,﻿St. Joseph's,﻿German,,,,﻿Essex County,﻿Union County,﻿Scotch Plains,﻿Scotch Plains,﻿NJ,,40.6400404,-74.369018,﻿new.nj.0004,"﻿Attended from St. Mary's, Newark",,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0095,﻿church,﻿St. Mary's,English,,,,﻿Middlesex County,,﻿South Amboy,﻿South Amboy,﻿NJ,,40.4778838,-74.290702,,,,,﻿Rev.,﻿John A. Kelly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0095,﻿church,﻿St. Mary's,English,,,,﻿Middlesex County,,﻿South Amboy,﻿South Amboy,﻿NJ,,40.4778838,-74.290702,,,,﻿joh_a_kelly_001,﻿Rev.,﻿John A. Kelly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0097,﻿church,﻿St. Rose of Lima,English,,,,﻿Essex County,﻿Union County,﻿Springfield,﻿Springfield,﻿NJ,,40.7016937,-74.3222146,﻿new.nj.0057,﻿Attended from Madison,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0100,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Stanhope,﻿Stanhope,﻿NJ,,40.9028765,-74.7090517,﻿new.nj.0027,﻿Attended from Dover,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0101,﻿church,not recorded,English,,,,﻿Gloucester County,,﻿Swedesborough,﻿Swedesboro,﻿NJ,,39.7476136,-75.3104654,﻿new.nj.0092,﻿Attended from Salem,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,40.2205824,-74.759717,,,,,﻿Rev.,﻿John P. Mackin,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,40.2205824,-74.759717,,,,﻿joh_p_mackin_001,﻿Rev.,﻿John P. Mackin,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0102,﻿church,﻿St. John Baptist,English,,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,40.2205824,-74.759717,,,,,﻿Rev.,﻿J. J. O'Donnell,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0103,﻿church,﻿St. Francis of Assissium,﻿German,,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,40.2205824,-74.759717,,,,,﻿Rev.,﻿J. G. Gmeiner,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0103,﻿church,﻿St. Francis of Assissium,﻿German,,,,﻿Mercer County,,﻿Trenton,﻿Trenton,﻿NJ,,40.2205824,-74.759717,,,,﻿j_g_gmeiner_001,﻿Rev.,﻿J. G. Gmeiner,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0107,﻿church,not recorded,English,,,,﻿Sussex County,,﻿Wawayanda,﻿Vernon,﻿NJ,,41.1985786,-74.4828866,﻿new.nj.0070,﻿Attended from Newton,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0108,﻿church,﻿Our Lady of Mercy,English,,,,﻿Hudson County,,﻿West Hoboken,﻿Union City,﻿NJ,,40.7795455,-74.0237512,,﻿attended from Hoboken,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0108,﻿church,﻿Our Lady of Mercy,English,,,,﻿Hudson County,,﻿West Hoboken,﻿Union City,﻿NJ,,40.7795455,-74.0237512,,,,,,,,,"﻿The Rev. Nicholas Balleis, who resides at North Hoboken, attends the Germans in that vicinity",,,,,1861,﻿,﻿,﻿Newark,Newark
