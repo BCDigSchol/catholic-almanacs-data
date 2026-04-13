@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.75845643,-73.97618573,,,,﻿joh_dubois_901,﻿Right. Rev.,﻿John Dubois,﻿D. D.,,,,,,,1840,﻿https://saintpatrickscathedral.org/historical-timeline,,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿joh_hughes_902,﻿Right Rev.,﻿John Hughes,﻿D. D.,﻿Coadjutor and Administrator,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿joh_hughes_901,﻿Right Rev.,﻿John Hughes,﻿D. D.,﻿Coadjutor and Administrator,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿joh_d_urqhuart_901,﻿Rev.,﻿John D. Urqhuart,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿wil_starrs_901,﻿Rev.,﻿William Starrs,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿wil_starr_001,﻿Rev.,﻿William Starrs,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0041,﻿cathedral,﻿Cathedral of St. Patrick,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.75845643,-73.97618573,,,,﻿joh_conroy_901,﻿Rev.,﻿John Conroy,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0042,﻿church,﻿St. Peter's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,﻿NY,40.71243157,-74.00954445,,,,﻿joh_power_901,﻿Very Rev.,﻿John Power,﻿D. D.,,,,,,,1840,﻿https://spcolr.org/st-peters-church-history,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0042,﻿church,﻿St. Peter's,English,,,,,﻿New York County,﻿New York,﻿New York City,﻿NY,,40.71243157,-74.00954445,,,,﻿cha_c_pise_901,﻿Rev.,﻿Charles C. Pise,﻿D. D.,,,,,,,1840,,,﻿,﻿,﻿New York,NewYork
@@ -129,3 +129,22 @@
 ﻿nyc.ny.9011,﻿asylum,﻿Roman Catholic Half-Orphan Asylum,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿60 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0041_02&_03,﻿free school,﻿St. Patrick's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿two sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0041_02&_03,﻿free school,﻿St. Patrick's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿from 800 to 1000 children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿from five to seven hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿about five to seven hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿Two sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,﻿attached to the church of the Transfiguration,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,﻿attached to St. Joseph's church,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿18 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿bro.ny.0079,﻿free school,﻿St. James' Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿from two to four hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿bro.ny.0079,﻿free school,﻿St. Paul's Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿about 150 children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿25 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0336_02,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0336_02,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿children,﻿from 180 to 200 children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0343,﻿female orphan asylum,﻿St. John's Female Orphan Asylum,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿religious,﻿four Sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0343,﻿female orphan asylum,﻿St. John's Female Orphan Asylum,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿13 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0330,﻿free school,﻿St. John's Free School,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿religious,﻿four Sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
+﻿alb.ny.0330,﻿free school,﻿St. John's Free School,English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿pupils,﻿about 90 pupils,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYork
