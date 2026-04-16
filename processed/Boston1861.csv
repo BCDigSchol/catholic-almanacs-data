@@ -54,7 +54,7 @@
 ﻿bos.ma.0149,﻿church,﻿St. Joachim's,English,,,,,,﻿Rockport,﻿Rockport,﻿MA,,42.655489,-70.622037,﻿bos.ma.0080,,,,﻿Rev.,﻿Luigi Acquarone,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0131,﻿church,﻿St. Mary's,English,"﻿, and Missions",,,,,﻿Newburyport,﻿Newburyport,﻿MA,,42.822085,-70.90841,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0131,﻿church,﻿St. Mary's,English,"﻿, and Missions",,,,,﻿Newburyport,﻿Newburyport,﻿MA,,42.822085,-70.90841,,,,﻿bar_stalk_001,﻿Rev.,﻿Bartholomew Stalk,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.780345,-71.085828,,,,﻿j_s_mcdonnell_001,﻿Rev.,﻿J. S. McDonnell,﻿O.S.D.,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.780345,-71.085828,,,,﻿joh_t_mcdonnell_001,﻿Rev.,﻿J. S. McDonnell,﻿O.S.D.,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,﻿jam_d_taaffe_001,﻿Rev.,﻿James D. Taaffe,﻿O. S. D,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,﻿jam_odonnell_001,﻿Rev.,﻿James O'Donnell,﻿O.S.A.,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0031,﻿church,﻿St. Augustin's,English,﻿new church building,,,,,﻿S. Andover,﻿Andover,﻿MA,,42.653327,-71.140937,﻿bos.ma.0102,﻿Attended from St. Mary's Lawrence,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -66,8 +66,8 @@
 ﻿bos.ma.0052,﻿church,﻿St. John's,English,,,,,,﻿East Cambridge,﻿Cambridge,﻿MA,,42.368604,-71.077394,,,,﻿fra_x_branagan_001,﻿Rev.,﻿Francis X. Branagan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles Borromeo,English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601,-71.150981,,,,,﻿Rev.,﻿Francis X. Branagan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles Borromeo,English,﻿church lot bought,﻿Cambridgeport,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601,-71.150981,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,42.424765,-71.087473,,,,﻿joh_ryan_003,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South Reading,,,,42.523556,-71.102992,,,,﻿joh_ryan_003,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,42.424765,-71.087473,,,,﻿joh_ryan_004,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South Reading,,,,42.523556,-71.102992,,,,﻿joh_ryan_004,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Medford,,,,﻿South Reading,,,,42.523556,-71.102992,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Stoneham,,,,﻿South Reading,,,,42.523556,-71.102992,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0183,﻿church,﻿St. Patrick's,English,,,,,,﻿Watertown,﻿Watertown,﻿MA,,42.367814,-71.189339,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -138,13 +138,13 @@
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,,,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.636215,-70.934205,,,,﻿jos_p_tallon_001,﻿Rev.,﻿Joseph P. Tallon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿station,not recorded,English,﻿church not dedicated,﻿Martha's Vineyard,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,﻿wm_moran_001,﻿Rev.,﻿Wm. Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,﻿wil_moran_001,﻿Rev.,﻿Wm. Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Wareham,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Plymouth,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿other stations on Cape Cod,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿N. Bridgewater,﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,﻿tho_mcnulty_001,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿N. Bridgewater,﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0046,﻿church,﻿Immaculate Conception,English,,,,,,﻿Easton,﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,,,,,,﻿S. Bridgewater,﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,﻿tho_mcnulty_001,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,,,,,,﻿S. Bridgewater,﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,"﻿new church finished, not yet dedicated",,,,,﻿Foxboro',﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas,English,"﻿new church finished, not yet dedicated",,,,,﻿Mansfield,﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,,﻿Rev.,﻿Michael X. Carroll,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0060,﻿church,﻿Church of the Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿w_a_blenkinsop_001,﻿Rev.,﻿W. A. Blenkinsop,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -153,8 +153,8 @@
 ﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Palmer,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Duckville,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0174,﻿station,﻿St. Ann's,English,,﻿Three Rivers,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0163,﻿church,﻿St. Benedict's,English,﻿new church building,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿mic_p_gallagher_001,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.12459,-72.746277,,,,﻿mic_p_gallagher_001,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0163,﻿church,﻿St. Benedict's,English,﻿new church building,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿mic_p_galligher_001,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.12459,-72.746277,,,,﻿mic_p_galligher_001,﻿Rev.,﻿Michael P. Gallagher,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.209661,-72.608279,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,﻿bos.ma.0092,,,,﻿Rev.,﻿James F. Sullivan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿station,﻿St. Mary's,English,,﻿Greenfield,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

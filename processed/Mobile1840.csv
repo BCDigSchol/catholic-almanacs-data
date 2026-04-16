@@ -1,0 +1,8 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,﻿AL,30.6901203,-88.0458984,,,,﻿mic_portier_901,﻿Rt. Rev.,﻿Michael Portier,﻿D.D.,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿joh_bazin_901,﻿Rev.,﻿John Bazin,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿gab_chalon_901,﻿Rev.,﻿Gabriel Chalon,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,not recorded,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.6901203,-88.0458984,,,,﻿jam_mcgarahan_901,﻿Rev.,﻿James McGarahan,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035_02,﻿church,﻿Springhill College (Church),English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,﻿AL,30.69404201,-88.13786472,,,,﻿pet_mauvernay_901,﻿Rev.,﻿Peter Mauvernay,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.9005_02,﻿chapel,﻿Chapel of the Visitation,English,,,,,,﻿Summerville,﻿Somerville,﻿AL,﻿AL,34.47,-86.798889,,,,﻿jas_lesne_901,﻿Rev.,﻿Jas. Lesne,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.9005_02,﻿chapel,﻿p.126,English,,,,,,﻿Summerville,﻿Somerville,﻿AL,,34.47,-86.798889,,,,,,,,,,,,,,1840,﻿,﻿,﻿Mobile,Mobile

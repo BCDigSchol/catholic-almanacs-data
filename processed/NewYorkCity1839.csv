@@ -31,13 +31,13 @@
 ﻿alb.ny.0059,﻿church,﻿St. James',English,,,,,﻿Jefferson County,﻿Carthage,﻿Carthage,﻿NY,﻿NY,43.97826491,-75.60778008,,,,﻿mic_gilbride_901,﻿Rev.,﻿M. Gilbride,,,,,,,,1839,﻿http://www.catholicsofcarthagecopenhagen.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0305,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Watertown,,﻿NY,,,,,,,﻿mic_gilbride_901,﻿Rev.,﻿M. Gilbride,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0053,﻿church,not recorded,English,,,,,,﻿Eden,,﻿NY,,42.64620914,-78.89913455,,,,﻿nic_mertz_901,﻿Rev.,﻿Nicholas Mertz,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,,,,,,﻿mic_curran_902,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,,,,,,﻿mic_curran_902,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Throg's Point,,,,﻿Asylum,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_902,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Throg's Point,,,,﻿Asylum,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Throg's Point,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Saw Pit,,,,﻿Asylum,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_902,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Saw Pit,,,,﻿Asylum,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Saw Pit,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0142,﻿church,﻿St. Patrick's,English,,,,,,﻿Hogansburg,,﻿NY,,,,,,﻿three Sundays,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0142,﻿church,﻿St. Mary's,English,﻿Not dedicated,,,,,﻿Fort Covington,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -48,9 +48,9 @@
 ﻿nyc.ny.0161,﻿chapel,not recorded,English,﻿Church begun this season,,,,,﻿Newburg,,﻿NY,,41.50117266,-74.00982805,,,,﻿pat_duffy_901,﻿Rev. Mr.,﻿Duffy,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0123,﻿church,﻿St. Mary's,English,,,,,,﻿Cold Spring,,﻿NY,,,,,,,﻿pat_duffy_901,﻿Rev. Mr.,﻿Duffy,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0199,﻿chapel,not recorded,English,,,,,,﻿West Point,,﻿NY,,41.3914827,-73.9559721,,,,﻿pat_duffy_901,﻿Rev. Mr.,﻿Duffy,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0175,﻿church,﻿St. Peter's,English,,,,,﻿Dutchess County,﻿Poughkeepsie,﻿Poughkeepsie,﻿NY,﻿NY,41.70925078,-73.93694958,,,﻿two Sundays,﻿j_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://en.wikipedia.org/wiki/Old_St._Peter%27s_Church_(Poughkeepsie,_New_York)",﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Saugartie's,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿j_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://stmaryofthesnow.org/history-of-st-mary-of-the-snow ; odd case of a place close to one diocese going with another - this place is right by albany, but, according to this church history, was attached with ny around the time of the civil war",﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church soon to be erected,,,,,﻿Roundout,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿j_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0175,﻿church,﻿St. Peter's,English,,,,,﻿Dutchess County,﻿Poughkeepsie,﻿Poughkeepsie,﻿NY,﻿NY,41.70925078,-73.93694958,,,﻿two Sundays,﻿joh_maginnis_902,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://en.wikipedia.org/wiki/Old_St._Peter%27s_Church_(Poughkeepsie,_New_York)",﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Saugartie's,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_maginnis_902,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://stmaryofthesnow.org/history-of-st-mary-of-the-snow ; odd case of a place close to one diocese going with another - this place is right by albany, but, according to this church history, was attached with ny around the time of the civil war",﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church soon to be erected,,,,,﻿Roundout,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0184,﻿church,not recorded,English,﻿Church soon to be erected,,,,,﻿Northwood,,﻿NY,,42.07726802,-73.94618248,,,,﻿joh_newman_901,﻿Rev. Mr.,﻿Newman,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9008,﻿church,﻿St. John's,English,,,,,,﻿Lockport,,﻿NY,,,,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9009,﻿church,not recorded,English,﻿Church not dedicated,,,,,﻿Medina,,﻿NY,,,,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity

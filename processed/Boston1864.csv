@@ -31,7 +31,7 @@
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿ric_j_whyte_001,﻿Rev.,﻿Richard J. Whyte,﻿S.J.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_f_lyndon_001,﻿Rev.,﻿P. F. Lyndon,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿rob_byrne_001,﻿Rev.,﻿Robert Byrne,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿rob_byrne_002,﻿Rev.,﻿Robert Byrne,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿ant_molinari_001,﻿Rev.,﻿Antonio Molinari,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿p_mccahill_001,﻿Rev.,﻿P. McCahill,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0011,﻿church,﻿Gate of Heaven,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.335555,-71.030433,﻿bos.ma.0010,﻿Attended from SS. Peter and Paul Church,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -76,7 +76,7 @@
 ﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,﻿mic_f_gallagher_001,﻿Rev.,﻿Michael Gallagher,﻿O.S.A.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0102,﻿church,﻿St. Mary's,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,﻿edw_a_daley_001,﻿Rev.,﻿Edward A. Daly,﻿O.S.A.,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Andover,﻿Andover,﻿MA,,42.653327,-71.140937,﻿bos.ma.0102,﻿Attended from St. Mary's Lawrence,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Old Cambridge,﻿Cambridge,﻿MA,,42.381571,-71.130077,,,,﻿m_p_dougherty_001,﻿Rev.,﻿M. P. Dougherty,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Old Cambridge,﻿Cambridge,﻿MA,,42.381571,-71.130077,,,,﻿man_p_dougherty_001,﻿Rev.,﻿M. P. Dougherty,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0052,﻿church,﻿St. John's,English,,,,,,﻿East Cambridge,﻿Cambridge,﻿MA,,42.368604,-71.077394,,,,﻿j_w_donahoe_001,﻿Rev.,﻿J. W. Donahoe,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601,-71.150981,,,,﻿joh_mccarthy_001,﻿Rev.,﻿John McCarthy,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South Reading,,,,42.523556,-71.102992,﻿bos.ma.0190,﻿Attended from St. Charles' Woburn,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -136,7 +136,7 @@
 ﻿bos.ma.0180,﻿church,﻿St. William's,English,,,,,,﻿Ware,﻿Ware,﻿MA,,42.259846,-72.239857,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0174,﻿church,﻿St. Ann's,English,,,,,,﻿Thorndyke,,﻿MA,,42.15841,-72.328687,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0124,﻿church,not recorded,English,﻿church building,,,,,﻿Monson,﻿Monson,﻿MA,,42.094738,-72.312934,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿m_p_galligher_001,﻿Rev.,﻿M. P. Gallagher,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0163,﻿church,﻿St. Michael's,English,,,,,,﻿Springfield,﻿Springfield,﻿MA,,42.094454,-72.538942,,,,﻿mic_p_galligher_001,﻿Rev.,﻿M. P. Gallagher,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0186,﻿church,﻿St. Mary's,English,,,,,,﻿Westfield,﻿Westfield,﻿MA,,42.12459,-72.746277,,,,﻿m_x_carroll_001,﻿Rev.,﻿M. X. Carroll,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.209661,-72.608279,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.209661,-72.608279,,,,﻿jam_tracy_001,﻿Rev.,﻿James Tracy,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

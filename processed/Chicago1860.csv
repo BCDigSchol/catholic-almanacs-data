@@ -21,7 +21,7 @@
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,,,,﻿Rev.,﻿Louis Carteyfels,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.7605849,-88.3200715,,,,,﻿Rev.,﻿John Boyle,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0123,﻿church,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,,﻿IL,,,,﻿chi.il.0045,﻿Attended from Elgin,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0123,﻿church,﻿St. Anne's,English,﻿interdicted,,,﻿Iroquois County,,﻿Beaver,,﻿IL,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0440,﻿church,﻿St. Anne's,English,﻿interdicted,,,﻿Iroquois County,,﻿Beaver,,,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,﻿IL,,,,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLane County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,﻿t_kennedy_002,﻿Rev.,﻿Thomas Kennedy,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLane County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525023,-88.99422853,,,,,﻿Rev.,﻿John Tierny,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -61,7 +61,7 @@
 ﻿chi.il.0063,﻿church,﻿St. George's,English,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.52150743,-88.09907207,,,,﻿pat_farrelly_002,﻿Rev.,﻿Patrick Farrelly,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.53119826,-88.08902764,,,,﻿cha_kumin_001,﻿Rev.,﻿Charles Kumin,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.53119826,-88.08902764,,,,,﻿Rev.,﻿J. Rauch,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Henry County,,﻿Kewanee,﻿Joliet,﻿IL,,41.53119826,-88.08902764,,﻿Attended from Henry,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0441,﻿church,not recorded,English,,,,﻿Henry County,,﻿Kewanee,,,,,,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0376,﻿church,﻿St. Patrick's,English,,,,﻿Peoria County,,﻿Kickapoo,,﻿IL,,,,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0069,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,41.02749621,-89.40577738,,,,,﻿Rev.,﻿W. A. Power,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.33178105,-89.09574784,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -78,7 +78,7 @@
 ﻿chi.il.0353,﻿church,﻿St. Andrew's,English,,,,﻿Lake County,,﻿Mill Creek,,﻿IL,,,,,﻿Attended from Waukeegan,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0193,﻿church,﻿St. Stephen's,English,,,,﻿Dupage County,,﻿Milton,,﻿IL,,,,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0086,﻿church,﻿St. Patrick's,English,,,,﻿Grundy County,﻿Grundy County,﻿Morris,﻿Morris,﻿IL,,41.36046748,-88.41899925,,,,﻿mic_lyons_001,﻿Rev.,﻿Michael Lyons,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0196,﻿church,﻿St. John's,English,,,,﻿Lake County,,﻿Murray's Settlement,,﻿IL,,,,,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0196,﻿church,﻿St. John's,English,,,,﻿Lake County,,﻿Murray's Settlement,,﻿IL,,,,﻿chi.il.0338,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0087,﻿church,﻿St. Raphael's,English,,,,﻿Du Page County,,﻿Naperville,﻿Naperville,﻿IL,,41.77527567,-88.14481739,,,,﻿p_j_carolus_001,﻿Rev.,﻿P. J. Carolus,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0088,﻿church,﻿St. Patrick's,English,,,,﻿Hancock County,﻿Hancock County,﻿Nauvoo,﻿Nauvoo,﻿IL,,40.55183391,-91.38472797,,,,﻿cha_schilling_002,﻿Rev.,﻿Charles Schilling,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0422,﻿church,not recorded,English,,,,﻿Stephenson County,,﻿New Dublin,,﻿IL,,,,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -101,7 +101,7 @@
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,41.91407319,-88.31845068,,,,﻿p_odwyer_001,﻿Rev.,﻿P. O'Dwyer,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0224,﻿church,not recorded,English,,,,﻿Will County,,﻿Twelve Mile Grove,,﻿IL,,,,﻿chi.il.0115,﻿Attended from Wilmington,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0428,﻿church,not recorded,English,,,,﻿Champaign County,,﻿Urbana,,﻿IL,,,,,,,,﻿Rev.,﻿J. B. Force,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0226,﻿church,﻿St. Patrick's,English,,,,﻿Joe Daviess County,,﻿Vinegar Hill,,﻿IL,,,,,﻿Attended from Dunleith,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0226,﻿church,﻿St. Patrick's,English,,,,﻿Joe Daviess County,,﻿Vinegar Hill,,﻿IL,,,,﻿chi.il.0425,﻿Attended from Dunleith,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0113,﻿church,﻿St. Bernard's,English,,,,﻿Lake County,,﻿Waukegan,﻿Waukegan,﻿IL,,42.35820769,-87.83267301,,,,﻿mic_donahue_001,﻿Rev.,﻿Michael Donahue,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0386,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Warsaw,,﻿IL,,,,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,41.30407584,-88.14340099,,,,﻿hya_indthout_001,﻿Rev.,﻿Hyacinth Indthout,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -122,7 +122,7 @@
 ﻿chi.il.0433,﻿select school,﻿St. Angela's Select School,English,,,,,,,,,,,,,,,,﻿Sister,﻿Mary Angela,,﻿Directress,,﻿student,﻿50 students,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0434,﻿select school,﻿Select Parochial School,English,,,,,,,,,,,,,,,,﻿Mother,﻿Euphrasia,,﻿Superioress,,﻿student,﻿380 students,﻿Conducted by the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0434,﻿select school,﻿Select Parochial School,English,,,,,,,,,,,,,,,,,,,,,﻿religious,﻿22 religious,﻿Conducted by the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0434,﻿school,﻿St. Philomena's School,English,,,,,,﻿Bourbonais,,,,,,,,,,﻿Sister,﻿M. Euphrosyne,,﻿Superioress,,﻿student,﻿300 pupils,﻿Under direction of the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0442,﻿school,﻿St. Philomena's School,English,,,,,,﻿Bourbonais,,,,,,,,,,﻿Sister,﻿M. Euphrosyne,,﻿Superioress,,﻿student,﻿300 pupils,﻿Under direction of the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,﻿Sister,﻿Mary Ursula,,﻿Superioress,,﻿religious,﻿8 religious,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿child,﻿54 orphans,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Sister,﻿Mary Louisa,,﻿Superioress,,﻿child,﻿43 orphans,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
