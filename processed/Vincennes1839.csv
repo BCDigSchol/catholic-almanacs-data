@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,﻿sim_g_bruté_901,﻿Rt. Rev.,﻿Simon G. Bruté,﻿D. D.,,,,,,,1839,﻿https://en.wikipedia.org/wiki/St._Francis_Xavier_Cathedral_and_Library,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Celestin de la Hailandiére,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿J. A. Vahret,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Peter Berel,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,﻿cel_de-la-hailandiére_901,﻿Rev.,﻿Celestin de la Hailandiére,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,﻿j_a_vahret_901,﻿Rev.,﻿J. A. Vahret,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,﻿#REF!,﻿#REF!,,,,﻿pet_berel_901,﻿Rev.,﻿Peter Berel,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9005,﻿church,not recorded,English,,﻿Duchee River,,,,,,﻿IN,,﻿#REF!,﻿#REF!,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9005,﻿church,not recorded,English,,﻿Queret Prairie,,,,,,﻿IN,,﻿#REF!,﻿#REF!,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0022,﻿church,not recorded,English,,,,,,﻿Carlisle,,﻿IN,,﻿38.96295112,﻿-87.39973797,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1839,,﻿,﻿,﻿Vincennes,Vincennes
