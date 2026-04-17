@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿jam_r_bayley_001,﻿Rt. Rev.,﻿James Roosevelt Bayley,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿bj_m_bj mcquaid _001,﻿Rev.,﻿B.J. McQuaid,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿bj_mcquaid_001,﻿Rev.,﻿B.J. McQuaid,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿gh_doane_001,﻿Rev.,﻿G.H. Doane,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿jm_g_jm gervais _001,﻿Rev.,﻿J.M. Gervais,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿jm_gervais_001,﻿Rev.,﻿J.M. Gervais,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.738052,-74.165907,,,,﻿p_moran_001,﻿V. Rev.,﻿P. Moran,,﻿V.G.,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.738052,-74.165907,,,,﻿e_mccosker_001,﻿Rev.,﻿E. McCosker,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.747065,-74.232974,,,,﻿rup_seidenbusch_003,﻿Rev.,﻿Rupert  Seidenbusch,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
