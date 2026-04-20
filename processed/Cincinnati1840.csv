@@ -2,9 +2,9 @@
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter,English,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,﻿OH,39.103623,-84.509143,,,,﻿joh_b_purcell_901,﻿Right Rev.,﻿John B. Purcell,﻿D.D.,,,,,,,1840,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Peter_in_Chains,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter,English,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103623,-84.509143,,,,﻿edw_t_collins_901,﻿Very Rev.,﻿Edward T. Collins,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter,English,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103623,-84.509143,,,,﻿edw_purcell_901,﻿Rev.,﻿Edward Purcell,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,﻿OH,39.099897,-84.523622,,,,﻿joh_m_henni_901,﻿Very Rev.,﻿John M. Henni,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.099897,-84.523622,,,,﻿fra_l_huber_901,﻿Rev.,﻿Francis L. Huber,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.099897,-84.523622,,,,﻿mic_e_olivetti_901,﻿Rev.,﻿Michael E. Olivetti,,﻿Auxiliary priest pro tem. at Cincinnati,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,﻿OH,,,,,,﻿joh_m_henni_901,﻿Very Rev.,﻿John M. Henni,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,,,,,,﻿fra_l_huber_901,﻿Rev.,﻿Francis L. Huber,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Hamilton County,﻿Cincinnati,﻿Cincinnati,﻿OH,,,,,,,﻿mic_e_olivetti_901,﻿Rev.,﻿Michael E. Olivetti,,﻿Auxiliary priest pro tem. at Cincinnati,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9009,﻿church,not recorded,English,,﻿Au-Glaize,,,,,,﻿OH,,,,,,,﻿j_w_hortsman_901,﻿Rev.,﻿J. M. Hortsman,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9021,﻿church,not recorded,English,,﻿Blanchard's River Settlement,,,,,,﻿OH,,,,,,,﻿j_w_hortsman_901,﻿Rev.,﻿J. M. Hortsman,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cle.oh.0038,﻿church,﻿St. John's,English,,,,,﻿Stark County,﻿Canton,,﻿OH,,40.803291,-81.377341,,,,﻿ml_mcaleer_901,﻿Rev.,﻿Ml. McAleer,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -39,9 +39,9 @@
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,﻿Perry County,﻿Somerset,﻿Somerset,﻿OH,,39.777349,-82.276733,,,,﻿nic_d_young_001,﻿Rev.,﻿N. Young,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,﻿Perry County,﻿Somerset,﻿Somerset,﻿OH,,39.777349,-82.276733,,,,﻿tho_martin_902,﻿Rev.,﻿Thomas Martin,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0063,﻿church,﻿Trinity Church,English,,,,,﻿Perry County,﻿Somerset,﻿Somerset,﻿OH,﻿OH,39.804422,-82.296296,﻿col.oh.0066,﻿attended from St. Joseph's,﻿every Sunday,﻿nic_d_young_001,﻿Rev.,﻿N. D. Young,,,,,,,,1840,﻿https://holytrinitycatholicparish.com/about-us,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,﻿near Somerset,,,,,,﻿OH,,39.764135,-82.25833,﻿col.oh.0066,﻿attended from St. Joseph's,﻿4th Sunday,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0036,﻿station,﻿St. Patrick's,English,,﻿Sunday Creek,,,,,,﻿OH,,39.764135,-82.25833,﻿col.oh.0066,﻿attended by the Rev. Fathers of St. Joseph's,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0036,﻿station,﻿St. Patrick's,English,,﻿Sunday Creek,,,,﻿Logan,,﻿OH,,39.764135,-82.25833,﻿col.oh.0066,﻿attended by the Rev. Fathers of St. Joseph's,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,﻿near Somerset,,,,,,﻿OH,,,,﻿col.oh.0066,﻿attended from St. Joseph's,﻿4th Sunday,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0036,﻿station,﻿St. Patrick's,English,,﻿Sunday Creek,,,,,,﻿OH,,,,﻿col.oh.0066,﻿attended by the Rev. Fathers of St. Joseph's,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0036,﻿station,﻿St. Patrick's,English,,﻿Sunday Creek,,,,﻿Logan,,﻿OH,,,,﻿col.oh.0066,﻿attended by the Rev. Fathers of St. Joseph's,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9018,﻿church,﻿St. Martin's,English,,,,﻿Brown County,﻿Brown County,﻿Fayetteville,,﻿OH,,,,,,,﻿cla_gacon_901,﻿Rev.,﻿Claude Gacon,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9018,﻿church,﻿St. Martin's,English,,,,﻿Brown County,﻿Brown County,﻿Fayetteville,,﻿OH,,,,,,,﻿wm_cheymol_001,﻿Rev.,﻿Wm. Cheymol,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9018,﻿church,﻿St. Martin's,English,,﻿Sapps Settlement,,﻿Brown County,﻿Brown County,﻿Fayetteville,,﻿OH,,,,,,,﻿joh_lamy_901,﻿Rev.,﻿John Lamy,,,,,,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -61,4 +61,4 @@
 ﻿cin.oh.9006,﻿seminary,﻿St. Mary's Female Seminary,English,﻿conducted by the Nuns of St. Dominick,,,﻿Perry County,﻿Perry County,﻿Somerset,,﻿OH,,,,,,,,,,,,,,,,,1840,,"﻿English, French, Orthography, Reading, Writing, Arithmetic, Geography, Astronomy, Sacred and Profane History, Ancient and Modern Chronology, Composition, Rhetoric, Natural and Moral Philosophy, Music (on the Piano Forte), Plain and Ornamental Needle-work, Tapestry, Lace and Bead-work, Embroidery, Filligree, Italian Wax-work, Chenille, Net and Shell-work, Painting on Velvet and Satin, Drawing and Painting in Water-colours.",﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9007,﻿asylum,﻿St. Peter's Orphan Asylum,English,,,,,﻿Hamilton County,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,﻿child,﻿30 female orphans,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9007,﻿school,﻿St. Peter's School,English,,,,,﻿Hamilton County,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,﻿child,﻿150 to 200 day scholars,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0005_02,﻿school,﻿Aloysian School,English,"﻿pay and free school, German congregation of Holy Trinity Church",,,,﻿Hamilton County,﻿Cincinnati,,﻿OH,,39.099897,-84.523622,,,,,,,,,,﻿student,﻿three to four hundred pupils,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005_02,﻿school,﻿Aloysian School,English,"﻿pay and free school, German congregation of Holy Trinity Church",,,,﻿Hamilton County,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,﻿student,﻿three to four hundred pupils,,,1840,,,﻿,﻿,﻿Cincinnati,Cincinnati
