@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_d_palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_de-st-palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿p_b_oconnor_001,﻿Very Rev.,﻿P. Bede O'Connor,﻿O.S.B.,﻿Vicar-General and Chancellor,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿joh_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿aeg_merz_001,﻿Rev.,﻿Aegidius Merz,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
@@ -113,7 +113,7 @@
 ﻿vin.in.0105,﻿church,not recorded,English,,,,﻿Posey County,,﻿New Harmony,﻿New Harmony,﻿IN,,38.1297678,-87.9350299,﻿vin.in.0094,﻿Attended from Mount Vernon,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0106,﻿church,﻿Nat. B.V.,English,,,,﻿Jennings County,,﻿North Vernon,﻿North Vernon,﻿IN,,39.006165,-85.6235796,,,,﻿j_m_missi_001,﻿Rev.,﻿J. M. Missi,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0107,﻿church,﻿St. Francis Sales,English,,,,﻿Perry County,,﻿Oil Creek,,﻿IN,,38.123004,-86.5594,﻿vin.in.0076,﻿Attended from Leopold,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0108,﻿church,﻿Holy Family,English,,,,﻿Franklin County,,﻿Oldenburgh,﻿Oldenburg,﻿IN,,39.3403788,-85.203707,,,,﻿p_l_haverbeck_001,﻿Rev.,﻿P. Louis Haverbeck,﻿O.S.F.,﻿Superior,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0108,﻿church,﻿Holy Family,English,,,,﻿Franklin County,,﻿Oldenburgh,﻿Oldenburg,﻿IN,,39.3403788,-85.203707,,,,﻿lou_haverbeck_002,﻿Rev.,﻿P. Louis Haverbeck,﻿O.S.F.,﻿Superior,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0108,﻿church,﻿Holy Family,English,,,,﻿Franklin County,,﻿Oldenburgh,﻿Oldenburg,﻿IN,,39.3403788,-85.203707,,,,﻿p_b_hammer_001,﻿Rev.,﻿P. Bonaventure Hammer,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0108,﻿church,﻿Holy Family,English,,,,﻿Franklin County,,﻿Oldenburgh,﻿Oldenburg,﻿IN,,39.3403788,-85.203707,,,,﻿p_c_steinkamp_001,﻿Rev.,﻿P. Clement Steinkamp,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0109,﻿church,﻿St. John's,English,,,,﻿Ripley County,,﻿Osgood,﻿Osgood,﻿IN,,39.1292199,-85.2916279,﻿vin.in.0096,﻿Attended from Napoleon,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
@@ -130,7 +130,7 @@
 ﻿vin.in.0120,﻿church,﻿St. Bernhard's,English,,,,﻿Spencer County,,﻿Rockport,﻿Rockport,﻿IN,,37.8831055,-87.0494408,﻿vin.in.0166,﻿Attended from Troy,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0121,﻿church,﻿Immaculate Conception,English,,,,﻿Parke County,,﻿Rockville,﻿Rockville,﻿IN,,39.7625404,-87.2291809,﻿vin.in.0164,﻿Attended from Terre Haute,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0122,﻿church,not recorded,English,,,,﻿Vigo County,,﻿Rosedale,﻿Rosedale,﻿IN,,39.5679949,-87.3237692,﻿vin.in.0164,﻿Attended from Terre Haute,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0123,﻿church,﻿Immaculate Conception,English,,,,﻿Rush County,,﻿Rushville,﻿Rushville,﻿IN,,39.6092137,-85.4463594,,,,﻿j_d_mcmullen_001,﻿Rev.,﻿J. D. McMullen,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0123,﻿church,﻿Immaculate Conception,English,,,,﻿Rush County,,﻿Rushville,﻿Rushville,﻿IN,,39.6092137,-85.4463594,,,,﻿d_j_mcmullen_001,﻿Rev.,﻿J. D. McMullen,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0124,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Salem,﻿Salem,﻿IN,,38.6744747,-86.1751759,﻿vin.in.0043,﻿Attended from Floyd Knobs,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0125,﻿church,﻿St. Patrick's,English,,,,﻿Jennings County,,﻿Scipio,﻿Scipio,﻿IN,,39.078988,-85.7188168,﻿vin.in.0018,﻿Attended from Buena Vista,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0126,﻿church,﻿St. Ambrose,English,,,,﻿Jackson County,,﻿Seymour,﻿Seymour,﻿IN,,38.9550509,-85.8885116,﻿vin.in.0030,﻿Attended from Columbus,,,,,,,,,,,,1870,﻿,﻿,﻿Vincennes,Vincennes

@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,﻿residence Church street,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_d_palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,﻿residence Church street,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_de-st-palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,﻿residence Church street,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿e_audran_001,﻿Rev.,﻿Ernest Audran,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,﻿residence Main street,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿w_angeln_001,﻿Rev.,﻿W. Angeln,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0004,﻿church,not recorded,English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
@@ -93,7 +93,7 @@
 ﻿vin.in.0141,﻿church,﻿St. Joseph's,English,,,,﻿Dearborn County,,,,﻿IN,,39.2929846,-84.9578416,,,,﻿ant_scheideler_001,﻿Rev.,﻿Anthony Scheideler,,,﻿St. Leon's P.O.,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0142,﻿church,﻿St. Joseph's,English,,﻿Evansville P.O.,,﻿Vanderburgh County,,,,﻿IN,,37.9768774,-87.6006372,,,,﻿n_g_ostlangenberg_001,﻿Rev.,﻿Mr. Ostangenberg,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0145,﻿church,﻿St. Mary's,English,,﻿Loogootee P.O.,,﻿Daviess County,,,,﻿IN,,38.7020241,-87.1422895,﻿vin.in.0080,﻿Attended from Loogootee,,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0147,﻿church,﻿St. Mary's of the Rocks,English,,﻿Haymond P.O.,,﻿Franklin County,,,,﻿IN,,39.3488118,-85.10851706,,,,﻿j_s_gillig_001,﻿Rev.,﻿J. S. Gillig,,,﻿Batesville P.O.,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0147,﻿church,﻿St. Mary's of the Rocks,English,,﻿Haymond P.O.,,﻿Franklin County,,,,﻿IN,,39.3488118,-85.10851706,,,,﻿s_gillig_001,﻿Rev.,﻿J. S. Gillig,,,﻿Batesville P.O.,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0148,﻿church,﻿St. Mary's of the Woods,English,,,,﻿Vigo County,,,,﻿IN,,39.5107254,-87.4669729,,,,﻿joh_corbe_001,﻿Very Rev.,﻿J. Corbe,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0143,﻿church,﻿St. Magdalen's,English,,﻿Madison P. O.,,﻿Ripley County,,,,﻿IN,,39.007555,-85.3588496,﻿vin.in.0131,﻿Attended from St. Ann's,,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0154,﻿church,﻿St. Peter's,English,,,,﻿Franklin County,,,,﻿IN,,39.321667,-85.031667,,,,﻿leo_ozkar_001,﻿Rev.,﻿Leo Ozkar,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
@@ -112,7 +112,7 @@
 ﻿vin.in.0173,﻿church,﻿St. Philomena's,English,,,,,﻿Dearborn County,﻿Wolf Creek,﻿Brookville,﻿IN,,39.391492,-85.048533,﻿vin.in.0147,"﻿Attended from St. Mary's of the Rocks, Franklin County",,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0175,﻿church,﻿St. Martin's,English,,,,,﻿Dearborn County,﻿Yorkville,﻿Yorkville,﻿IN,,39.203838,-84.966797,﻿vin.in.0100,﻿Attended from New-Alsace,,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0242,﻿seminary,﻿St. Charles' Seminary,English,﻿ecclesiastical,,,,,﻿Vincennes,,,,,,,,,﻿joh_gueguen_001,﻿Rev.,﻿J. Gueguen,,﻿Superior,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0242,﻿seminary,﻿St. Charles' Seminary,English,﻿ecclesiastical,,,,,﻿Vincennes,,,,,,,,,﻿j_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0242,﻿seminary,﻿St. Charles' Seminary,English,﻿ecclesiastical,,,,,﻿Vincennes,,,,,,,,,﻿joh_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,,,,,,﻿Ferdinand,,﻿IN,,38.1710794,-86.8091951,,,,﻿mar_marty_001,﻿Rev.,﻿Martinus Marty,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,,,,,,﻿Ferdinand,,﻿IN,,38.1710794,-86.8091951,,,,﻿fin_mundwiler_001,﻿Rev.,﻿Fintanus Mundwyler,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿Brothers of the Christian Doctrine,English,"﻿Parent House, at Vezelize near Nancy, France",,,,,﻿Enschburg,,﻿IN,,38.1710794,-86.8091951,,,,,﻿Brother,﻿John Mary,,﻿Superior,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes

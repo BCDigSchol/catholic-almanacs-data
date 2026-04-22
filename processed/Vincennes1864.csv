@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_d_palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿mau_de-st-palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿e_audran_001,﻿Rev.,﻿Ernest Audran,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿j_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿joh_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿aeg_merz_001,﻿Rev.,﻿A. E. Mertz,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0004,﻿church,not recorded,English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0005,﻿church,﻿Immaculate Conception,English,,,,﻿Dearborn County,,﻿Aurora,﻿Aurora,﻿IN,,39.0570022,-84.9013402,﻿vin.in.0222,﻿Attended from Pipe Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
@@ -92,7 +92,7 @@
 ﻿vin.in.0227,﻿church,﻿St. Peter's,English,,,,﻿Daviess County,,,,,,,,,,,﻿bar_piers_001,﻿Rev.,﻿B. Piers,,,﻿Montgomery Station P.O.,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0152,﻿church,﻿St. Patrick's,English,,,,﻿Daviess County,,,,﻿IN,,38.7020241,-87.1422895,﻿vin.in.0227,﻿Attended from St. Peter's,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0157,﻿church,﻿St. Philip's,English,,﻿Evansville P.O.,,﻿Posey County,,,,﻿IN,,38.0069266,-87.7167926,,﻿Attended from St. Joseph's,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0229,﻿church,﻿St. Vincent's,English,,﻿Prescott P.O.,,﻿Shelby County,,,,,,,,,,,﻿j_b_gilly_001,﻿Rev.,﻿J. B. Gilly,,,﻿Prescott P.O.,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0229,﻿church,﻿St. Vincent's,English,,﻿Prescott P.O.,,﻿Shelby County,,,,,,,,,,,﻿j_p_gillig_001,﻿Rev.,﻿J. B. Gilly,,,﻿Prescott P.O.,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0159,﻿church,﻿St. Wendel's,English,,,,,﻿Posey County,,,﻿IN,,38.1092728,-87.7023453,,,,﻿j_kaufman_001,﻿Rev.,﻿J. Kaufman,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0164,﻿church,﻿St. Joseph's,English,,,,,﻿Vigo County,﻿Terre Haute,﻿Terre Haute,﻿IN,,39.4809681,-87.4140641,,,,﻿b_oconner_001,﻿Rev.,﻿B. O'Conner,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0164,﻿church,﻿St. Joseph's,English,,,,,﻿Vigo County,﻿Terre Haute,﻿Terre Haute,﻿IN,,39.4809681,-87.4140641,,,,﻿m_mccarthy_001,﻿Rev.,﻿M. McCarthy,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
