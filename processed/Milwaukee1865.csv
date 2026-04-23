@@ -16,7 +16,7 @@
 ﻿mil.wi.0015,﻿church,﻿St. Francis of Sales,English,,,,﻿Green County,﻿Green County,﻿Albany,﻿Albany,﻿WI,,42.735501,-89.426929,,﻿Attended by Rev. F. H. Sullivan,,﻿f_h_sullivan_001,﻿Rev.,﻿F. H. Sullivan,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0005,﻿church,﻿St. Mary's,English,,,,﻿Outagamie County,﻿Outagamie County,﻿Appleton,﻿Appleton,﻿WI,,44.259257,-88.413329,,,,﻿l_dael_001,﻿Rev.,﻿L. Dael,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0016,﻿church,﻿St. Martin's,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Ashford,﻿Ashford,﻿WI,,43.586939,-88.370656,,,,﻿m_pickel_001,﻿Rev.,﻿M. Pickel,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0015,﻿church,﻿Nativity of B.V.M.,English,,,,﻿Richland County,,﻿Attica,,﻿WI,,,,,,,﻿w_bernard_002,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0015,﻿church,﻿Nativity of B.V.M.,English,,,,﻿Richland County,,﻿Attica,,﻿WI,,,,,,,﻿w_bernard_001,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0325,﻿church,﻿St. Amandus',English,,,,﻿Kewaunee County,,﻿Ahnepee,,﻿WI,,,,,﻿Visited from Kewaunee,,,,,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0017,﻿church,﻿St. Mathias',English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Auburn,﻿Auburn,﻿WI,,43.585118,-88.20716,,﻿Attended from Barton,,,,,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0089,﻿church,﻿St. Henry's,English,,,,﻿Pepin County,,﻿Aux Galets,,﻿WI,,,,,﻿Attended by Rev. B. Smeddink,,﻿j_b_smeddink_001,﻿Rev.,﻿B. Smeddink,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -44,7 +44,7 @@
 ﻿mil.wi.0037,﻿church,﻿Holy Family,English,,,,﻿Racine County,﻿Racine County,﻿Caledonia,﻿Caledonia,﻿WI,,42.800861,-87.836661,,,,﻿j_s_munich_001,﻿Rev.,﻿J. S. Munich,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0039,﻿church,﻿St. Mary's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Cascade,﻿Cascade,﻿WI,,43.658329,-88.007038,,,,﻿p_mcgowan_002,﻿Rev.,﻿P. McGowan,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0040,﻿church,﻿St. Charles',English,,,,﻿Grant County,﻿Grant County,﻿Cassville,﻿Cassville,﻿WI,,42.715431,-90.974686,,"﻿Attended by Rev. H. Verhaef, C.S.C.",,﻿h_verhaef_001,﻿Rev.,﻿H. Verhaef,﻿C.S.C.,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0006,﻿church,﻿St. Anthony of Padua,English,,,,﻿Richland County,﻿Richland County,﻿Cazenovia,﻿Cazenovia,﻿WI,,43.524284,-90.222851,,﻿Attended by Rev. W. Bernard,,﻿w_bernard_002,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0006,﻿church,﻿St. Anthony of Padua,English,,,,﻿Richland County,﻿Richland County,﻿Cazenovia,﻿Cazenovia,﻿WI,,43.524284,-90.222851,,﻿Attended by Rev. W. Bernard,,﻿w_bernard_001,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0041,﻿church,﻿St. Francis Borgia,English,,,,﻿Ozaukee County,﻿Ozaukee County,﻿Cedarburgh,﻿Cedarburg,﻿WI,,43.325764,-88.006679,,,,﻿w_dougherty_001,﻿Rev.,﻿W. Dougherty,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0333,﻿church,﻿St. Edward's,English,,,,﻿Outagamie County,,﻿Center,,﻿WI,,,,,﻿Visited by Rev. L. Dael,,﻿l_dael_001,﻿Rev.,﻿L. Dael,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0042,﻿church,﻿St. George's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Centreville,﻿Centerville,﻿WI,,43.950138,-87.746807,,,,﻿m_weiss_001,﻿Rev.,﻿M. Weiss,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -125,7 +125,7 @@
 ﻿mil.wi.0112,﻿church,﻿St. John Baptist's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Jefferson,﻿Jefferson,﻿WI,,43.006946,-88.80221,,,,﻿j_jansen_001,﻿Rev.,﻿J. Jansen,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0113,﻿church,﻿St. Lawrence's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Jefferson,﻿Jefferson,﻿WI,,43.004965,-88.779191,,,,﻿j_jansen_001,﻿Rev.,﻿J. Jansen,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0014,﻿church,﻿Nativity B.V.M.,English,,,,﻿Monroe County,﻿Monroe County,﻿Jefferson,﻿Jefferson,﻿WI,,43.798096,-90.686868,,﻿Attended from Lacrosse,,,,,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0099,﻿church,﻿St. Fridolin,English,,,,﻿Sauk County,,﻿Ironton,,﻿WI,,,,,﻿Attended by Rev. W. Bernard,,﻿w_bernard_002,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0099,﻿church,﻿St. Fridolin,English,,,,﻿Sauk County,,﻿Ironton,,﻿WI,,,,,﻿Attended by Rev. W. Bernard,,﻿w_bernard_001,﻿Rev.,﻿W. Bernard,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0114,﻿church,﻿St. Mark's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Kenosha,﻿Kenosha,﻿WI,,42.568136,-87.824919,,,,﻿g_riordan_001,﻿Rev.,﻿G. Riordan,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0115,﻿church,﻿St. George's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Kenosha,﻿Kenosha,﻿WI,,42.581123,-87.872016,,,,﻿f_welter_001,﻿Rev.,﻿F. Welter,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0015,﻿church,﻿Holy Rosary,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Kewaunee,﻿Kewaunee,﻿WI,,44.457712,-87.50662,,,,﻿e_van-steenwyck_001,﻿Rev.,﻿E. Van Steenwyck,,,,,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -427,7 +427,7 @@
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿dan_siherer_001,﻿Rev.,﻿D. Siherer,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿leo_gamhe_001,﻿Rev.,﻿Leo Gamhe,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿sol_fedderman_002,﻿Rev. Fr.,﻿Solanus Fedderman,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿jr_p_berleman_001,﻿Rev.,﻿Jr. Pacificus Berleman,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿pac_berleman_001,﻿Rev.,﻿Jr. Pacificus Berleman,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(P.O. Dotyville),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿fr_i_prass_001,﻿Rev.,﻿Fr. Ivo Prass,﻿O.M.Cap.,,,﻿layperson,,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0318_02,﻿house,﻿House of Brothers of the Third Order of St. Francis Seraph,English,﻿Attached to the Ecclesiastical Seminary,,,﻿Milwaukee County,,﻿Nojoshing,,﻿WI,,42.979525,-87.867348,,,,,,,,,,﻿religious,﻿3 brothers,,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0259,"﻿convent, house, novitiate, mother house",﻿Convent of the School Sisters of Notre Dame,English,"﻿Mother House and Novitiate...mission houses, 42, with 345 sisters",﻿Corner of Milwaukee and Knapp streets,,,,﻿Milwaukee,,﻿WI,,43.04798,-87.906633,,,,,﻿Sister,﻿Mary Caroline,,﻿Mother Superioress,,﻿religious,﻿52 religious,﻿Under the charge of the School Sisters of Notre Dame,,1865,﻿,﻿,﻿Milwaukee,Milwaukee
