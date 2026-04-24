@@ -122,8 +122,8 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,,﻿Rev.,﻿F. Salaun,,﻿Superior,,﻿student,"﻿scholars, 25",,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_martin_001,﻿Rev.,﻿E. Martin,,﻿Assistant,,﻿student,"﻿scholars, 25",,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿f_quin_001,﻿Rev.,﻿---- Quin,,﻿Professor,,﻿student,"﻿scholars, 25",,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001_02,﻿cathedral,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿child,"﻿in all, 1200 children",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001_02,﻿cathedral,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,,,,,,﻿religious,"﻿religious, 6",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001_02,﻿school,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿child,"﻿in all, 1200 children",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001_02,﻿school,not recorded,English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,,,,,,﻿religious,"﻿religious, 6",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿child,"﻿in all, 1200 children",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿religious,"﻿religious, 6",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿child,"﻿in all, 1200 children",﻿Christian Brothers,,1864,﻿,﻿,﻿Cleveland,Cleveland
@@ -157,10 +157,10 @@
 ﻿cle.oh.0144_02,﻿school,not recorded,English,﻿The Ladies of the Sacred Heart of Mary conduct the female schools.  The male department is taught by lay teachers,﻿St. Joseph's Church,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.451648,-82.708714,,,,,,,,,,﻿student,﻿200,﻿Sacred Heart of Mary,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0302_02,﻿boarding school,not recorded,English,,,,,﻿Seneca County,﻿New Reigel,,﻿OH,,41.051444,-83.318534,,,,,,,,,,﻿student,﻿20 pupils,﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0302_03,﻿free school,not recorded,English,,,,,﻿Seneca County,﻿New Reigel,,﻿OH,,41.051444,-83.318534,,,,,,,,,,﻿student,﻿200 scholars,﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of the Most Precious Blood,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of the Most Precious Blood,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of the Most Precious Blood,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of the Most Precious Blood,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of Pretiosissimi Sanguinis,﻿Sisters of the Most Precious Blood,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of Pretiosissimi Sanguinis,﻿Sisters of the Most Precious Blood,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,﻿S. Augustine,,﻿Mother Superioress,,﻿religious,"﻿Religious, 25",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿religious,"﻿Novices, 10",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿child,"﻿Orphan boys, 100",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1864,﻿,﻿,﻿Cleveland,Cleveland
