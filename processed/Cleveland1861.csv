@@ -129,9 +129,9 @@
 ﻿cle.oh.0144_02,﻿school,not recorded,English,,﻿St. Peter's Church,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.451648,-82.708714,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Sisters of the Sacred Heart,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143_03,﻿free school,not recorded,English,,﻿Holy Angels' Church,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 150",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0144_03,﻿free school,not recorded,English,,﻿St. Peter's Church,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 150",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿NEW ID,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,﻿Sister,﻿Kunigunda Wehrle,,﻿Superioress,,﻿religious,"﻿religious, 30",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿NEW ID,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿boarders, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿NEW ID,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿student,"﻿scholars, 100",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,﻿Sister,﻿Kunigunda Wehrle,,﻿Superioress,,﻿religious,"﻿religious, 30",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿boarders, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿student,"﻿scholars, 100",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,﻿boarding and day school by same,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,,,﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,﻿Sister,﻿Mary,,﻿Sister-servent,,﻿religious,"﻿religious, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿day students, 200",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
