@@ -18,7 +18,7 @@
 ﻿new.la.0007,﻿church,﻿SS. Peter and Paul,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.966757,-90.055211,,,,﻿cor_moynihan_001,﻿Rev.,﻿Cornelius Moynihan,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0013,﻿church,﻿St. John the Baptist,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.944189,-90.077715,,,,﻿j_moynihan_001,﻿Rev.,﻿J. Moynihan,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0011,﻿church,﻿St. Anthony's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.958173,-90.070565,﻿new.la.0001,﻿attended from the Cathedral,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0010,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.964661,-90.045762,,,,,﻿Rev.,﻿T. M. Z. Lérēque,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0010,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.964661,-90.045762,,,,﻿t_m_lérēque_001,﻿Rev.,﻿T. M. Z. Lérēque,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0016,﻿church,﻿St. Maurice's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.954891,-90.011915,,,,,﻿Rev.,﻿S. Guinand,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0015,﻿church,﻿Trinity Church,﻿German,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.965029,-90.049204,,,,﻿m_schifferer_001,﻿Rev.,﻿M. Schifferer,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0008,﻿church,﻿St. Ann's,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.9685,-90.073628,,,,﻿tumione_01,﻿Rev.,﻿H. Tumoinè,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
@@ -30,8 +30,8 @@
 ﻿new.la.0018,﻿church,﻿St. Alphonsus,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.930084,-90.074237,,,,﻿j_b_duffy_001,﻿Rev.,﻿P. McGrane,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106_02,﻿church,﻿Ursuline Chapel,English,,,,,,﻿New Orleans,﻿New Orleans,﻿LA,,29.959487,-90.030462,,,,﻿n_j_perché_001,﻿Very Rev.,﻿N. J. Perché,,﻿Chaplain,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0026,﻿church,﻿St. Mary Magdalen,English,,,,,,﻿Abbeville,﻿Abbeville,﻿LA,,29.97465,-92.134292,,,,﻿h_j_poyet_001,﻿Rev.,﻿H. A. Poyet,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0028,﻿church,﻿St. Joseph's,English,,,,,,﻿East Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿D. Hubert,﻿S.J.,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿West Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿M. Clerouin,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0028,﻿church,﻿St. Joseph's,English,,,,,,﻿East Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,﻿d_hubert_001,﻿Rev.,﻿D. Hubert,﻿S.J.,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿West Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,﻿m_clerouin_001,﻿Rev.,﻿M. Clerouin,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿Bayou Lacombe,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿A. Rouquette,,,﻿who visits some Choctaws' settlements,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿Bayou Bouf,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿C. Urcun,,,"﻿who attends Chokahoula, Brashear City",,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0031,﻿church,not recorded,English,,,,,,﻿Bois Mallet,﻿Bois Mallet,﻿LA,,30.505802,-92.280144,﻿new.la.0063,﻿attended from Opelousas,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
@@ -67,4 +67,6 @@
 ﻿new.la.0064,﻿church,﻿St. Elizabeth's,English,,,,,,﻿Paincourtville,﻿Paincourtville,﻿LA,,29.990201,-91.0551,,,,,﻿Rev.,﻿A. Bertain,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0065,﻿church,not recorded,English,,,,,,﻿Patterson,﻿Patterson,﻿LA,,29.693264,-91.30205,,,,,﻿Rev.,﻿P. McMahon,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0069,﻿church,﻿St. Thomas',English,,,,﻿Parish of Plaquemine,,,,﻿LA,,29.324005,-89.474218,,,,﻿a_langlois_001,﻿Rev.,﻿A. Langlois,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0071,﻿church,﻿St. Francis,English,,,,﻿Pointe Coupee Parish,,,,﻿LA,,30.610217,-91.598396,,,,,﻿Rev.,﻿M. Mittlebronn,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0071,﻿church,﻿St. Francis,English,,,,﻿Pointe Coupé Parish,,,,﻿LA,,30.610217,-91.598396,,,,,﻿Rev.,﻿M. Mittlebronn,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0071,﻿church,﻿St. Francis,English,,,,﻿Pointe Coupé Parish,,﻿Pont de Braud,,﻿LA,,30.610217,-91.598396,,,,,﻿Rev.,﻿H. Dubernard,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0072,﻿church,﻿St. James',English,,,,﻿St. James' Parish,,,,﻿LA,,30.017929,-90.791323,,,,,﻿Rev.,﻿H. Lécuru,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
