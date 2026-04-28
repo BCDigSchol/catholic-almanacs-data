@@ -76,15 +76,15 @@
 ﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿jer_kearney_001,﻿Rev.,﻿Jerome Kearney,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0063,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Lawrenceville,﻿Lawrenceville,﻿PA,,40.469897,-79.955759,,,,,,﻿A. P. Gibbs,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0065,﻿church,"﻿""German church""",﻿German,,,,﻿Allegheny County,,﻿Lawrenceville,,﻿PA,,,,,,,,﻿Rev.,﻿—,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.247374,-79.240872,﻿pit.pa.0108,﻿attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.265602,-79.124455,﻿pit.pa.0108,﻿attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿t_s_reynolds_001,﻿Rev.,﻿T. S. Reynolds,,﻿Rector,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0068,﻿church,﻿St. Andrew's,English,,,,,,﻿Manchester,,﻿PA,,40.460205,-80.031251,,,,﻿p_morgan_001,﻿Rev.,﻿P. Morgan,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0069,﻿church,﻿New German church,﻿German,,,,,,﻿Manchester,﻿McKeesport,﻿PA,,40.456106,-80.025398,,﻿attended from Allegheny,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0153,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿McKeesport,,,,40.347067,-79.864123,,,,﻿j_schmidt_001,﻿Rev.,﻿J. Schmidt,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0071,﻿church,﻿St. Bridget's,English,,,,﻿Allegheny County,,﻿McNeil's Settlement,,﻿PA,,,,﻿pit.pa.0103,﻿attended from Wexford,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0072,﻿church,not recorded,English,,,,﻿Fayette County,,﻿Miltenberger,﻿Monongahela,﻿PA,,40.061091,-79.700528,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0073,﻿church,﻿Transfiguration,English,,,,,,﻿Monongahela City,﻿Murrinsville,﻿PA,,41.142616,-79.884331,,,,﻿w_hays_001,﻿Rev.,﻿W. Hays,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0074,﻿church,﻿St. Alphonsus',English,,,,﻿Butler County,,﻿Murrinsville,﻿New Brighton,﻿PA,,40.739029,-80.313882,,,,,﻿Rev.,﻿—,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0073,﻿church,﻿Transfiguration,English,,,,,,﻿Monongahela City,﻿Murrinsville,﻿PA,,40.061091,-79.700528,,,,﻿w_hays_001,﻿Rev.,﻿W. Hays,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0074,﻿church,﻿St. Alphonsus',English,,,,﻿Butler County,,﻿Murrinsville,﻿New Brighton,﻿PA,,40.203127,-79.92616,,,,,﻿Rev.,﻿—,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0075,﻿church,﻿St. Joseph's,English,,,,﻿Beaver County,,﻿New-Brighton,﻿New Castle,﻿PA,,41.142616,-79.884331,,,,﻿j_bigham_001,﻿Rev.,﻿J. Bigham,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0076,﻿church,﻿St. Mary's,English,,,,﻿Lawrence County,,﻿Newcastle,﻿New Derry,﻿PA,,40.739029,-80.313882,,,,﻿jas_canevin_001,﻿Rev.,﻿J. A. Canavin,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0077,﻿church,﻿St. Martin's,English,,,,﻿Westmoreland County,,﻿New-Derry,﻿Newry,﻿PA,,41.001438,-80.348496,,,,﻿jer_kearney_001,﻿Rev.,﻿Jerome Kearney,,,﻿Latrobe,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -193,7 +193,7 @@
 ﻿pit.pa.0145,﻿school,not recorded,﻿German,﻿school taught by lay teachers,﻿South Pittsburgh,,,,﻿Pittsburgh,,﻿PA,,40.435185,-80.00788,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0146,﻿school,not recorded,﻿German,﻿school taught by lay teachers,,,,,﻿East Liberty,,﻿PA,,40.462712,-79.918123,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0147,﻿school,not recorded,﻿German,﻿school taught by lay teachers,,,,,﻿Butler,,﻿PA,,40.862318,-79.890779,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0082_02,﻿school,﻿Our Lady Help of Christians,﻿German,﻿school taught by lay teachers,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.464096,-80.066653,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0082_02,﻿school,﻿Our Lady Help of Christians,﻿German,﻿school taught by lay teachers,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.702288,-80.286451,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0149,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Blairsville,,﻿PA,,40.432626,-79.258078,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0150,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Altoona,,﻿PA,,40.515982,-78.403869,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0151,﻿school,not recorded,English,﻿school taught by lay teachers,,,,,﻿Latrobe,,﻿PA,,40.31464,-79.381807,,,,,,,,,,,,,,1869,﻿,﻿,﻿Pittsburgh,Pittsburgh
