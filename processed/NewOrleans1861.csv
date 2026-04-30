@@ -32,8 +32,8 @@
 ﻿new.la.0026,﻿church,﻿St. Mary Magdalen,English,,,,,,﻿Abbeville,﻿Abbeville,﻿LA,,29.97465,-92.134292,,,,﻿h_j_poyet_001,﻿Rev.,﻿H. A. Poyet,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0028,﻿church,﻿St. Joseph's,English,,,,,,﻿East Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,﻿d_hubert_001,﻿Rev.,﻿D. Hubert,﻿S.J.,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿West Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,﻿m_clerouin_001,﻿Rev.,﻿M. Clerouin,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿Bayou Lacombe,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿A. Rouquette,,,﻿who visits some Choctaws' settlements,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0029,﻿church,﻿St. John Baptist,English,,,,,,﻿Bayou Bouf,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿C. Urcun,,,"﻿who attends Chokahoula, Brashear City",,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0029,﻿religious institution,﻿St. John Baptist,English,,﻿Bayou Lacombe,,,,﻿West Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿A. Rouquette,,,﻿who visits some Choctaws' settlements,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0029,﻿religious institution,﻿St. John Baptist,English,,﻿Bayou Bouf,,,,﻿West Baton Rouge,﻿Baton Rouge,﻿LA,,30.451468,-91.187147,,,,,﻿Rev.,﻿C. Urcun,,,"﻿who attends Chokahoula, Brashear City",,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0031,﻿church,not recorded,English,,,,,,﻿Bois Mallet,﻿Bois Mallet,﻿LA,,30.505802,-92.280144,﻿new.la.0063,﻿attended from Opelousas,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0032,﻿church,﻿St. John the Baptist,English,,,,,,﻿Bonnet Carré,﻿Bonnet Care,﻿LA,,30.046467,-90.574101,,,,,﻿Rev.,﻿V. N. Mina,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0032,﻿church,﻿St. Stephens,English,,,,﻿Jefferson Parish,,﻿Bouligny,﻿Bonnet Care,﻿LA,,30.046467,-90.574101,,,,,﻿Rev.,﻿A. Verrina,﻿C.M.,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
@@ -70,7 +70,7 @@
 ﻿new.la.0071,﻿church,﻿St. Francis,English,,,,﻿Pointe Coupé Parish,,,,﻿LA,,30.610217,-91.598396,,,,,﻿Rev.,﻿M. Mittlebronn,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0071,﻿church,﻿St. Francis,English,,,,﻿Pointe Coupé Parish,,﻿Pont de Braud,,﻿LA,,30.610217,-91.598396,,,,,﻿Rev.,﻿H. Dubernard,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0072,﻿church,﻿St. James',English,,,,﻿St. James' Parish,,,,﻿LA,,30.017929,-90.791323,,,,,﻿Rev.,﻿H. Lécuru,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0072,﻿church,﻿St. John's Plains,English,,,,﻿St. James' Parish,,,,﻿LA,,30.017929,-90.791323,,﻿from East Boston Rouge,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0072,﻿church,﻿St. James',English,,﻿St. John's Plains,,﻿St. James' Parish,,,,﻿LA,,30.017929,-90.791323,,﻿from East Boston Rouge,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0078,﻿church,not recorded,English,,,,,,﻿St. Martinville,﻿St. Martinville,﻿LA,,30.123144,-91.829482,,,,﻿m_jan_001,﻿Rev.,﻿M. Jan,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0078,﻿church,﻿St. Michael's,English,,,,,,﻿St. Martinville,﻿St. Martinville,﻿LA,,30.123144,-91.829482,,,,,﻿Rev.,﻿M. Vignonet,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0053,﻿church,﻿St. Raphael,English,,,,﻿Iberville Parish,,,,﻿LA,,30.289918,-91.404825,﻿new.la.0052,﻿attended from St. Gabriel's,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
@@ -89,14 +89,13 @@
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿jam_sheeran_002,﻿Rev.,﻿Jas. Sheeran,﻿C.SS.R.,,,﻿religious,﻿seven lay brothers,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿alf_de-ham_001,﻿Rev.,﻿Alf. de Hamen,﻿C.SS.R.,,,﻿religious,﻿seven lay brothers,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿fel_benausse_001,﻿Very Rev.,﻿Anselm Usannaz,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0089,﻿religious institution,﻿The Brothers of the Christian Schools,English,﻿have charge of several schools (in New Orleans.),,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,﻿corner of Baronne and Common streets,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿ant_jourdan_001,﻿Rev.,﻿Anth. Jourdan,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,﻿corner of Baronne and Common streets,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,,﻿Rev.,﻿Aloysius Curioz,﻿S.J.,﻿Superior of the MIssion,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,﻿Mother,﻿Seraphim,,﻿Superior,,﻿student,﻿12 day scholars,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿student,﻿130 boarders,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿child,﻿36 orphans,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿religious,﻿choir sisters,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0106,﻿convent,﻿Concent of the School Sisters of Notre Dame,English,﻿They have charge of the Female Schools attached to St. Mary's and St. Alphonsus' Churches.,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,﻿Rev.,﻿Sister Mary Jacobina,,﻿Superior,,﻿religious,﻿choir sisters,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0106,﻿convent,﻿Concent of the School Sisters of Notre Dame,English,﻿They have charge of the Female Schools attached to St. Mary's and St. Alphonsus' Churches.,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,﻿Rev. Sister,﻿Mary Jacobina,,﻿Superior,,﻿religious,﻿choir sisters,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0108_02&_03&_04,"﻿convent, school, orphanage",﻿Convent of the Sacred Heart,English,,,,,,﻿St. Michael's,﻿Convent,﻿LA,,30.009847,-90.827235,,,,,﻿Madame,﻿Shannon,,﻿Superior,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0109,﻿convent,﻿Convent of the Sacred Heart,English,,,,,,﻿Grand Coteau,,﻿LA,,30.432241,-92.03773,,,,,,,,,,,,﻿directed by Ladies of the Sacred Heart,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0109,﻿house,﻿The House of the Good Shepherd,English,﻿has been established in New Orleans during the year,,,,,﻿Grand Coteau,,﻿LA,,30.432241,-92.03773,,,,,,,,,,,,﻿directed by Ladies of the Sacred Heart,,1861,﻿,﻿,﻿New Orleans,NewOrleans

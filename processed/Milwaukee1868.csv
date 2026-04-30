@@ -41,7 +41,7 @@
 ﻿mil.wi.0031,﻿church,﻿St. Patrick's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Brighton,﻿Brighton,﻿WI,,42.6291851,-88.0998076,,,,﻿m_heiss_002,﻿Rev.,﻿M. Heiss,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0032,﻿church,﻿St. Michael's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Bristol,﻿Bristol,﻿WI,,42.5587509,-88.0504479,﻿mil.wi.0031,﻿Attended from Brighton,,,,,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0033,﻿church,﻿St. Dominic's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Brookfield,﻿Brookfield,﻿WI,,43.0609354,-88.1260555,﻿mil.wi.0138,﻿Attended by Rev. D. P. Kirwin,,﻿d_t_kirwan_001,﻿Rev.,﻿D. P. Kirwin,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0327,﻿church,﻿St. Peter's,English,,,,﻿Portage County,,﻿Buena Vista,,﻿WI,,,,﻿gre.wi.0031,﻿Attended by Rev. M. Schwebach,,﻿m_schwebach_002,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0327,﻿church,﻿St. Peter's,English,,,,﻿Portage County,,﻿Buena Vista,,﻿WI,,,,﻿gre.wi.0031,﻿Attended by Rev. M. Schwebach,,﻿m_schwebach_001,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0328,﻿church,﻿Holy Angel Guardians,English,,,,﻿Outagamie County,,﻿Buchanan,,﻿WI,,,,﻿gre.wi.0017,﻿Attended by Rev. A.J. Verberk,,﻿a_j_verberk_001,﻿Rev.,﻿A. J. Verberk,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0005,﻿church,﻿St. Joseph's,English,,,,﻿La Crosse County,﻿La Crosse County,﻿Buchanan,﻿Washington,﻿WI,,43.8137751,-91.2519017,,﻿Attended by Rev. Jos. Maly,,﻿jos_maly_002,﻿Rev.,﻿Jos. Maly,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0034,﻿church,﻿St. Andrews's,English,,,,﻿Marquette County,﻿Marquette County,﻿Buffalo,﻿Buffalo,﻿WI,,43.6931912,-89.341667,﻿mil.wi.0357,﻿Attended by Rev. M. Monaghan,,﻿m_monaghan_002,﻿Rev.,﻿M. Monaghan,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -241,7 +241,7 @@
 ﻿gre.wi.0025,﻿church,﻿St. Peter's,English,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.0197107,-88.5444741,,,,﻿g_riordan_001,﻿Rev.,﻿G. Riordan,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0026,﻿church,﻿St. Mary's,﻿German,,,,﻿Winnebago County,﻿Winnebago County,﻿Oshkosh,﻿Oshkosh,﻿WI,,44.0123641,-88.6197239,,,,﻿a_leitner_001,,﻿A. Leitner,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0163,﻿church,﻿St. Patrick's,English,,,,﻿Columbia County,﻿Columbia County,﻿Otsego,﻿Otsego,﻿WI,,43.4022098,-89.1662248,﻿mil.wi.0339,﻿Attended by Rev. E. McQuirk,,,,,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0164,﻿church,﻿St. Bruno's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Ottawa,﻿Ottawa,﻿WI,,43.0111051,-88.4777095,,,,﻿s_spath_001,﻿Rev.,﻿S. Spath,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0164,﻿church,﻿St. Bruno's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Ottawa,﻿Ottawa,﻿WI,,43.0111051,-88.4777095,,,,﻿f_spath_001,﻿Rev.,﻿S. Spath,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0165,﻿church,﻿St. John Baptist's,English,,,,﻿Kenosha County,﻿Kenosha County,﻿Paris,﻿Paris,﻿WI,,42.6336298,-88.0514727,﻿mil.wi.0362,﻿Attended by Very Rev. Mich. Heiss,,﻿m_heiss_002,﻿Rev.,﻿Mich. Heiss,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0166,﻿church,﻿St. John's,English,,,,﻿Grant County,﻿Grant County,﻿Patchgrove,﻿Patch Grove,﻿WI,,42.9402892,-90.9744634,﻿mil.wi.0040,﻿Visited by Rev. N. Maes,,﻿n_maes_001,﻿Rev.,﻿N. Maes,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0167,﻿church,﻿St. Salvador's,English,,,,﻿Dane County,﻿Dane County,﻿Perry,﻿Perry,﻿WI,,42.9169551,-89.385547,﻿mil.wi.0051,﻿Visited by J. Hamm,,﻿j_hamm_001,﻿Rev.,﻿J. Hamm,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -258,7 +258,7 @@
 ﻿mil.wi.0175,﻿church,﻿St. Michael's,English,,,,﻿Rock County,,﻿Pottertown,,﻿WI,,42.6251506,-89.0179332,,,,﻿j_j_murphy_001,﻿Rev.,﻿J. J. Murphy,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0364,﻿church,﻿St. Thomas',English,,,,﻿Winnebago County,,﻿Poygan,,﻿WI,,,,﻿mil.wi.0183,﻿Visited by Rev. E. Gray,,﻿e_gray_001,﻿Rev.,﻿E. Gray,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0365,﻿church,﻿St. Joseph's,﻿Polish,,,,﻿Portage County,,﻿Prairie,,﻿WI,,,,,,,﻿th_weglikowski_001,﻿Rev.,﻿Theod. Weglikowski,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0366,﻿church,﻿St. Martin's,English,,,,﻿Portage County,,﻿Prairie,,﻿WI,,,,﻿gre.wi.0031,﻿Attended by Rev. M. Schwebach,,﻿m_schwebach_002,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0366,﻿church,﻿St. Martin's,English,,,,﻿Portage County,,﻿Prairie,,﻿WI,,,,﻿gre.wi.0031,﻿Attended by Rev. M. Schwebach,,﻿m_schwebach_001,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0019,﻿church,﻿St. Gabriel's,English,,,,﻿Crawford County,﻿Crawford County,﻿Prairie du Chien,﻿Prairie du Chien,﻿WI,,43.0583485,-91.1461352,,,,﻿l_lux_002,﻿Rev.,﻿L. Lux,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0367,﻿church,﻿Holy Martyrs of Gorcum,English,,,,﻿Brown County,,﻿Preble Town,,﻿WI,,,,﻿gre.wi.0033,"﻿Attended by Rev. E. Daems, O.S.C.",,﻿e_daems_002,﻿Rev.,﻿E. Daems,﻿O.S.C.,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0176,﻿church,﻿St. Patrick's,English,,,,﻿Racine County,﻿Racine County,﻿Racine,﻿Racine,﻿WI,,42.7343856,-87.7874661,,,,﻿g_w_matthews_001,﻿Rev.,﻿G. W. Matthews,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -291,7 +291,7 @@
 ﻿mil.wi.0371,﻿church,﻿St. Peter's,English,,,,﻿Outagamie County,,﻿Snydersville,,﻿WI,,,,﻿gre.wi.0017,﻿Attended by Rev. A. J. Verberk,,﻿a_j_verberk_001,﻿Rev.,﻿A. J. Verberk,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0111,﻿church,﻿St. Vincent de Paul's,English,,,,﻿St. Croix County,,﻿Somerset,,﻿WI,,,,﻿lac.wi.0013,﻿Attended by Rev. S. Seif,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0197,﻿church,﻿Holy Mary of Help,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Springvale,﻿Springvale,﻿WI,,43.7642443,-88.6916315,﻿mil.wi.0210,﻿Visited by Rev. G. L. Willard,,﻿g_l_willard_001,﻿Rev.,﻿G. L. Willard,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens' Point,﻿Stevens Point,﻿WI,,44.5270456,-89.5532824,,,,﻿m_schwebach_002,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevens' Point,﻿Stevens Point,﻿WI,,44.5270456,-89.5532824,,,,﻿m_schwebach_001,﻿Rev.,﻿M. Schwebach,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0372,﻿church,﻿St. Catharine's,English,,,,﻿Calumet County,,﻿Stockbridge,,﻿WI,,,,﻿gre.wi.0008,﻿Visited by Rev. Charles Shraudenback,,﻿cha_shraudenback_001,﻿Rev.,﻿Charles Shraudenback,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0373,﻿church,﻿St. Elizabeth's,English,,,,﻿Calumet County,,﻿Stockbridge,,﻿WI,,,,﻿gre.wi.0008,﻿Attended by Rev. Charles Shraudenback,,﻿cha_shraudenback_001,﻿Rev.,﻿Charles Shraudenback,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0198,﻿church,﻿St. Joseph's,English,,,,﻿Dane County,﻿Dane County,﻿Sun Prairie,﻿Sun Prairie,﻿WI,,43.180914,-89.2158955,,﻿Attended by Rev. A. Faeckler,,﻿a_faeckler_001,﻿Rev.,﻿A. Faeckler,,,,,,,,1868,﻿,﻿,﻿Milwaukee,Milwaukee
