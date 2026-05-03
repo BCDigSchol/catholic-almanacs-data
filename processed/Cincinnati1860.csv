@@ -1,3 +1,33 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿joh_b_purcell_001,﻿Most Rev.,﻿J. B. Purcell,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Very Rev.,﻿E. T. Collins,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿joh_b_purcell_001,﻿Most Rev.,﻿John B. Purcell,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿e_t_collins_001,﻿Very Rev.,﻿E. T. Collins,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿e_parcell_001,﻿Very Rev.,﻿E. Purcell,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿David Whelan,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿tho_j_coppinger_001,﻿Rev.,﻿Thomas J. J. Coppinger,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿cha_driscol_001,﻿Rev.,﻿Charles Driscol,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_converse_001,﻿Rev.,﻿J. Converse,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿p_tschieder_002,﻿Rev.,﻿P. Tschieder,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿r_roelof_001,﻿Rev.,﻿R. Roelof,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿p_kroeger_001,﻿Rev.,﻿P. Kroeger,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0005,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_h_ridder_001,﻿Rev.,﻿J. H. Ridder,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿Clement Hammer,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿j_b_elkmann_001,﻿Rev.,﻿J. B. Elkman,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿jos_ferneding_001,﻿Very Rev.,﻿J. Ferneding,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,,﻿Rev.,﻿Gerhard Uhling,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿her_ferneding_001,﻿Rev.,﻿Herman Ferneding,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,﻿These Fathers attend several stations near the city.,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,,﻿Rev.,﻿Otto Jair,﻿O.S.F.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,﻿These Fathers attend several stations near the city.,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿n_watcher_001,﻿Rev.,﻿Nicolaus Wachtes,﻿O.S.F.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,﻿These Fathers attend several stations near the city.,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,,﻿Rev.,﻿A. Gstir,﻿O.S.F.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,﻿These Fathers attend several stations near the city.,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,,﻿Rev.,﻿F. Holzer,﻿O.S.F.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿eng_stehle_001,﻿Rev.,﻿Engelbert Stehlé,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,,﻿Rev.,﻿Wm. Sommer,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0010,﻿church,﻿St. Philomena's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.09651,-84.509308,,,,﻿g_h_kuhr_001,﻿Rev.,﻿G. H. Kuhr,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0010,﻿church,﻿St. Philomena's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.09651,-84.509308,,,,﻿aug_m_többé_001,﻿Rev.,﻿A. Tobbe,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0004,﻿church,﻿St. Patrick's,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿ric_gilmore_001,﻿Rev.,﻿R. Gilmour,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011,﻿church,﻿St. Augustine's,English,,,,,,﻿Cincinnati,,﻿OH,,39.119301,-84.529993,,,,﻿b_hengehold_001,﻿Rev.,﻿J. B. Hengehold,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0011,﻿church,﻿St. Augustine's,English,,,,,,﻿Cincinnati,,﻿OH,,39.119301,-84.529993,,,,﻿ber_m_mengé_001,﻿Rev.,﻿B. Mengé,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0003,﻿church,﻿St. Thomas',English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿wil_ohiggins_001,﻿Rev.,﻿William O. Higgins,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0295,﻿church,﻿St. Michael's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿mat_desalaers_001,﻿Rev.,﻿M. Deselaers,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0295,﻿church,﻿St. Willibrord,﻿Holland,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿C. W. Wilkins,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0015,﻿church,﻿Christ Church,English,,,,,,﻿Cincinnati,,﻿OH,,39.103118,-84.51202,,,,﻿ab_mcmabon_001,﻿Rev.,﻿Ab. McMahon,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0297,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Rev.,﻿J. Schmidt,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
