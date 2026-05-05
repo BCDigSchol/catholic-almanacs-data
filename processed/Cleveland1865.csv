@@ -145,8 +145,8 @@
 ﻿cle.oh.0167,﻿church,not recorded,﻿French,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.652805,-83.537867,,,,﻿f_rouchy_001,﻿Rev.,﻿F. Rouchy,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0164,﻿chapel,﻿St. Patrick's,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.648991,-83.546027,,,,﻿e_hannin_001,﻿Rev.,﻿E. Hannon,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0168,﻿church,﻿Chapels of Ursuline and Gray Nuns,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.680097,-83.595756,﻿cle.oh.0186,﻿attended by Rev. F. Rouchy,,﻿f_rouchy_001,﻿Rev.,﻿F. Rouchy,,,,,,﻿attended by the Jesuit Fathers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿f_aloysius_001,﻿Rev.,﻿F. Aloysius,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿f_jacob_001,﻿Rev.,﻿F. Jacob,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿alo_schelbert_001,﻿Rev.,﻿F. Aloysius,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿jac_ringelé_001,﻿Rev.,﻿F. Jacob,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0161,﻿church,not recorded,English,,,,,﻿Lake County,﻿Thompson,﻿Thompson,﻿OH,,41.686894,-81.045104,,﻿attended from Ashtabula,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0170,﻿church,not recorded,English,,,,,﻿Lorain County,﻿Vermilion,﻿Vermilion,﻿OH,,41.421989,-82.364607,﻿cle.oh.0057,﻿attended from Elyria,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0169,﻿church,not recorded,English,,,,,﻿Crawford County,﻿Upper Sandusky,,﻿OH,,40.827279,-83.281309,,﻿attended from New-Reigel,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -162,8 +162,8 @@
 ﻿cle.oh.0179,﻿church,not recorded,English,,,,﻿Trumbull County,﻿Portage County,﻿Windham,﻿Windham,﻿OH,,41.235056,-81.049261,,﻿attended from Youngstown,,,,,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0182,﻿church,not recorded,English,,,,,﻿Mahoning County,﻿Youngstown,﻿Youngstown,﻿OH,,41.09978,-80.649519,,,,﻿e_m_ocallaghan_001,﻿Rev.,﻿E. M. O'Callaghan,,,,,,,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿ch_clemens_001,﻿Rev.,﻿Ch. Clemens,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_wilmott_001,﻿Rev.,﻿F. Wilmott,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿pet_clement_001,﻿Rev.,﻿Ch. Clemens,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_wilmot_001,﻿Rev.,﻿F. Wilmott,,,,﻿priest,"﻿Seminarians, 24",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_quin_001,﻿Rev.,﻿J. Quin,,﻿Superior,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_martin_001,﻿Rev.,﻿E. Martin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿f_quin_001,﻿Rev.,﻿F. Quin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
