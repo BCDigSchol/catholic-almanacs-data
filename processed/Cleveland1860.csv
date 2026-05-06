@@ -68,7 +68,7 @@
 ﻿cle.oh.0140,﻿church,not recorded,English,,,,,﻿Ottawa County,﻿Riviere aux Toussaints,,﻿OH,,41.511641,-83.151674,,﻿attended from Sandusky City,,,,,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels,English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿a_caron_001,﻿Very Rev.,﻿A. Caron,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels,English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿d_tighe_001,﻿Rev.,﻿D. Tigh,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿jas_hamene_001,﻿Rev.,﻿Ch. Hamène,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿cha_hamene_001,﻿Rev.,﻿Ch. Hamène,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0145,﻿church,﻿St. Theresa,English,,,,﻿Lorain County,﻿Lorain County,﻿Sheffield,﻿Sheffield,﻿OH,,41.465998,-82.07645,,,,﻿a_domback_001,﻿Rev.,﻿A. Domback,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0147,﻿church,﻿St. ---,English,,,,﻿Richville County,﻿Richland County,﻿Shelby,﻿Bethlehem,﻿OH,,40.756672,-82.518584,,,,﻿ste_falk_001,﻿Rev.,﻿S. Falk,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian,English,,,,﻿Huron County,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.788639,﻿cle.oh.0160,﻿attended from Thompson,,,,,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
@@ -89,7 +89,7 @@
 ﻿cle.oh.0178,﻿church,not recorded,English,﻿church not dedicated,,,﻿Lorain County,﻿Lorain County,﻿Wilmington,,﻿OH,,41.411688,-82.12784,﻿cle.oh.0057,﻿attended from Illyria,,,,,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0181,﻿church,﻿St. ---,English,,,,﻿Wayne County,﻿Wayne County,﻿Wooster,﻿Wooster,﻿OH,,40.798237,-81.939914,,,,﻿m_oneil_002,﻿Rev.,﻿M. O'Neil,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0174,﻿church,not recorded,English,,,,﻿Columbiana County,﻿Columbiana County,﻿Wellsville,﻿Wellsville,﻿OH,,40.602842,-80.648963,﻿cle.oh.0155,﻿attended from Summitville,,,,,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0182,﻿church,not recorded,English,,,,﻿Mahoning County,﻿Mahoning County,﻿Youngstown,﻿Youngstown,﻿OH,,41.09978,-80.649519,,,,﻿mic_oconnor_004,﻿Rev.,﻿Michael O'Connor,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0182,﻿church,not recorded,English,,,,﻿Mahoning County,﻿Mahoning County,﻿Youngstown,﻿Youngstown,﻿OH,,41.09978,-80.649519,,,,﻿wil_oconnor_002,﻿Rev.,﻿Michael O'Connor,,,,,,,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_salaun_001,﻿Rev.,﻿F. Salann,,﻿Superior,,﻿priest,"﻿Seminarians, 20",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,,﻿Rev.,﻿--- Hoffeo,,﻿Professor,,﻿priest,"﻿Seminarians, 20",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿j_carroll_001,﻿Rev.,﻿J. P. Carroll,,,,﻿priest,"﻿Seminarians, 20",,,1860,﻿,﻿,﻿Cleveland,Cleveland
@@ -97,8 +97,10 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿m_retser_001,﻿Rev.,﻿M. Retser,,﻿Professor,,﻿student,"﻿scholars, 30",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿a_martin_001,﻿Rev.,﻿A. Martin,,﻿Superior,,﻿student,"﻿scholars, 30",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿school,﻿Cathedral School,English,"﻿They conduct two Pay Schools and two Free Schools; pupils, 400",﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿religious,"﻿religious, 5",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West Cleveland,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_02,﻿free school,not recorded,English,,﻿West Cleveland,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,not recorded,English,,﻿West Cleveland,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_03,﻿pay school,not recorded,English,,﻿West Cleveland,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,not recorded,English,,﻿West Cleveland,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_04,﻿free school,not recorded,English,,﻿West Cleveland,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Usurline Convent and Academy,English,,,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,﻿Mother of the Annunciation,,﻿Superioress,,﻿religious,"﻿religious, 30",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Usurline Convent and Academy,English,,,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿religious,"﻿Novices, 10",,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Usurline Convent and Academy,English,,,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿pupils in the academy, 40",,,1860,﻿,﻿,﻿Cleveland,Cleveland
@@ -129,8 +131,8 @@
 ﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿day scholars, 100",﻿Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0348,"﻿boarding school, day school",not recorded,English,﻿boarding and day school by same,﻿Mariacamp,,,,,,﻿OH,,,,,,,,﻿Sister,﻿Josephine,,﻿Sister-servent,,﻿religious,"﻿religious, 15",﻿Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,﻿Sister,﻿Ursula,,﻿Mother Superioress,,﻿religious,"﻿religious, 20",﻿Sisters of Charity of St. Augustine,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿child,"﻿orphan boys, 60",﻿Sisters of Charity of St. Augustine,,1860,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,﻿Cleveland,,﻿OH,,,,,,,﻿l_boucher_001,﻿Miss,﻿Boucher,,﻿Superior,,﻿religious,"﻿ladies, 30",﻿Ladies of the Sacred Heart of Mary,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,﻿l_boucher_001,,,,,,﻿child,"﻿orphan boys, 60",﻿Sisters of Charity of St. Augustine,,1860,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,﻿Cleveland,,﻿OH,,,,,,,﻿boucher_001,﻿Miss,﻿Boucher,,﻿Superior,,﻿religious,"﻿ladies, 30",﻿Ladies of the Sacred Heart of Mary,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,﻿Cleveland,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphan girls, 110",﻿Ladies of the Sacred Heart of Mary,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thomson,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphans, 10",﻿Sisters of the Most Precious Blood,,1860,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0349,﻿male orphan asylum,﻿Boy's Orphan Asylum,English,,,,﻿Lawrence County,,,,﻿PA,,,,,,,,﻿Mother St.,﻿Rose,,﻿Superior,,﻿religious,"﻿religious, 10",,,1860,﻿,﻿,﻿Cleveland,Cleveland

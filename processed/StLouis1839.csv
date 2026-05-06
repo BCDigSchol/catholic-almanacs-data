@@ -95,11 +95,11 @@
 ﻿chi.il.9005,﻿church,﻿St. Augustin,﻿Sermon in English,"﻿St. Augustin congregation, church not yet built",﻿Hancock Prairie,,﻿Fulton County,,,,﻿IL,,,,,﻿visited by Rev. John I. St. Cyr,,﻿ire_s_cyr_901,﻿Rev.,﻿John I. St. Cyr.,,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9006,﻿station,﻿Christ's congregation,English,﻿church not yet built,,,﻿Peoria County,,,,﻿IL,,,,,﻿visited by Rev. J. St. Cyr,,﻿ire_s_cyr_901,﻿Rev.,﻿J. St. Cyr,,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9009,﻿station,﻿St. Lazarus's congregation,English,﻿church not yet built,,,﻿Peoria County,,﻿Marseilles,,﻿IL,,,,,﻿visited by Rev. J. St. Cyr,,﻿ire_s_cyr_901,﻿Rev.,﻿J. St. Cyr,,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿chi.il.9010,﻿station,﻿Holy cross,English,﻿church to be built,,,﻿Lasalle County,,﻿Peru,,﻿IL,,,,,,,﻿bla_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,﻿resident clergymen,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010,﻿station,﻿Holy cross,English,﻿church to be built,,,﻿Lasalle County,,﻿Peru,,﻿IL,,,,,,,﻿bla_j_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,﻿resident clergymen,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9010,﻿station,﻿Holy cross,English,﻿church to be built,,,﻿Lasalle County,,﻿Peru,,﻿IL,,,,,,,﻿alo_parodi_901,﻿Rev.,﻿Aloysius Parodi,﻿C.M.,﻿resident clergymen,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿chi.il.9011,﻿station,﻿Holy Trinity,English,﻿church to be built,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,﻿visited by the Rev. J. Blasius Raho,,﻿bla_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9011,﻿station,﻿Holy Trinity,English,﻿church to be built,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,﻿visited by the Rev. J. Blasius Raho,,﻿bla_j_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.9000,﻿station,﻿St. John Ev.,English,﻿church to be built,,,﻿Sangamon County,,,,﻿IL,,,,,﻿visited by the Rev. Timothy Conway,,﻿tim_conway_901,﻿Rev.,﻿Timothy Conway,,,﻿from St. Louis,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿alt.il.9009,﻿station,﻿Annunciation,English,﻿church to be built,,,﻿Morgan County,,﻿Beardstown,,﻿IL,,,,,﻿visited by the Rev. Blasius Raho,,﻿bla_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,﻿Annunciation,English,﻿church to be built,,,﻿Morgan County,,﻿Beardstown,,﻿IL,,,,,﻿visited by the Rev. Blasius Raho,,﻿bla_j_raho_901,﻿Rev.,﻿J. Blasius Raho,﻿C.M.,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0057,﻿station,not recorded,English,,,,﻿Morgan County,,﻿Jacksonville,,﻿IL,,,,,,,,,,,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0116,﻿station,not recorded,English,,,,﻿Shelby County,,﻿Shelbyville,,﻿IL,,,,,,,,,,,,,,,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0001,﻿church,﻿St. Matthew's,﻿Sermon in English,﻿church to be built,,,,,﻿Alton,,,﻿IL,38.8953847,-90.1902021,,﻿visited once a month from Portage,,﻿fel_l_verreydt_001,﻿Rev.,﻿Felix Verreydt,﻿S.J.,,,,,,,1839,﻿https://www.facebook.com/altonILsspp/,,,,﻿,﻿,﻿St. Louis,StLouis
@@ -170,7 +170,7 @@
 ﻿stl.mo.0062_02,﻿day school,﻿St. Ferdinand's Day School,English,,,,,,﻿Florissant,,﻿MO,,,,,,,﻿cor_o-leary_901,﻿Rev.,﻿Cornelius O'Leary,﻿S.J.,﻿Teacher,,﻿teacher,﻿40 pupils,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0106_02,﻿day school,﻿Catholic Day School,English,,﻿Old Mines,,,,,,﻿MO,,,,,,,﻿p_doutreluigne_001,﻿Rev.,﻿Peter Doutreluingue,,,,﻿student,﻿30 scholars,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0146_02,﻿day school,﻿Catholic Day School,English,,﻿Westphalia Settlement,,,,,,﻿MO,,,,,,,﻿fer_helias_901,﻿Rev.,﻿F. Helias,,,,﻿student,﻿40 scholars,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿chi.il.9010_02,﻿day school,﻿Catholic Day School,English,,,,,,﻿Lasalle,,﻿IL,,,,,,,﻿bla_raho_901,﻿Rev.,﻿Blasius Raho,,,,﻿student,﻿40 scholars,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010_02,﻿day school,﻿Catholic Day School,English,,,,,,﻿Lasalle,,﻿IL,,,,,,,﻿bla_j_raho_901,﻿Rev.,﻿Blasius Raho,,,,﻿student,﻿40 scholars,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0020_04,﻿day school,﻿Catholic Day School,English,,,,,,﻿Cahokias,,﻿IL,,,,,,,﻿reg_loisel_901,﻿Rev.,﻿Regis Loisel,,,"﻿[and] Mr. O'Flinn, teacher",﻿student,﻿30 scholars,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0150&stl.mo.0150_03,﻿convent,﻿Convent and Academy of the Ladies of the Sacred Heart,English,,,,,,﻿St. Louis,,﻿MO,,38.61475839,-90.1916941,,,,,,﻿Madame Catherine Thieffry,,﻿Superiour,,﻿religious,﻿20 religious,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0150&stl.mo.0150_03,﻿convent,﻿Convent and Academy of the Ladies of the Sacred Heart,English,,,,,,﻿St. Louis,,﻿MO,,38.61475839,-90.1916941,,,,,,,,,,﻿religious,﻿60 boarders,,,1839,,,,,﻿,﻿,﻿St. Louis,StLouis

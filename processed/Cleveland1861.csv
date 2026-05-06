@@ -71,7 +71,7 @@
 ﻿cle.oh.0340,﻿church,not recorded,English,,,,,,﻿Royalton,,﻿OH,,,,,﻿attended from Liverpool,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0140,﻿church,not recorded,English,,,,,﻿Ottawa County,﻿Riviere aux Toussaints,,﻿OH,,41.511641,-83.151674,,﻿attended from Freemont,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels,English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿a_caron_001,﻿Very Rev.,﻿A. Caron,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿jas_hamene_001,﻿Rev.,﻿Jas. Hamene,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿cha_hamene_001,﻿Rev.,﻿Jas. Hamene,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0145,﻿church,﻿St. Theresa's,English,,,,﻿Loraine County,﻿Lorain County,﻿Sheffield,﻿Sheffield,﻿OH,,41.465998,-82.07645,,﻿attended from Avon,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0147,﻿church,﻿St. ---,English,,,,﻿Richland County,﻿Richland County,﻿Shelby,﻿Bethlehem,﻿OH,,40.756672,-82.518584,,,,﻿ste_falk_001,﻿Rev.,﻿S. Falk,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian,English,,,,﻿Huron County,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.788639,,﻿attended from Thompson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
@@ -100,20 +100,24 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_m_ocallaghan_001,﻿Rev.,﻿E. O'Callaghan,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_carroll_001,﻿Rev.,﻿J. P. Carroll,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿school,﻿Cathedral School,English,"﻿They conduct two Pay Schools and two Free Schools; pupils, 400",﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Litz,,﻿Superior,,﻿religious,"﻿religious, 5",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_03,﻿school,﻿St. Patrick's School,English,,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_04,﻿school,﻿St. Mary's School,English,,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 175",﻿Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0004_02,﻿school,﻿St. Peter's School,English,﻿for boys,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 250",,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,not recorded,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_03,﻿pay school,not recorded,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,not recorded,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_04,﻿free school,not recorded,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002_03,﻿school,﻿St. Patrick's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010_03,﻿school,﻿St. Mary's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 175",﻿Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0004_02,﻿school,﻿St. Peter's School,English,﻿for boys,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 250",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Convent and Academy,English,,﻿Euclid street,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,﻿Mother of the Annunciation,,﻿Superioress,,﻿religious,"﻿religious, 32",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Convent and Academy,English,,﻿Euclid street,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿religious,"﻿Novices, 6",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Convent and Academy,English,,﻿Euclid street,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿pupils in the academy, 50",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Convent and Academy,English,,﻿Euclid street,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿in pay schools, 100",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Convent and Academy,English,,﻿Euclid street,,,,,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿free schools, 300",,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0002_02,﻿school,not recorded,English,﻿for girls,﻿St. Patrick's School,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.483426,-81.711512,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0003_02,﻿school,not recorded,English,﻿for girls,﻿St. Mary's School,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,,,,,,,﻿student,"﻿pupils, 150",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0002_02,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.483426,-81.711512,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010_02,﻿school,﻿St. Mary's School,English,﻿for girls,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,﻿l_boucher_001,,,,,,﻿student,"﻿pupils, 150",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0006_02,﻿free school,not recorded,English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.408659,-81.759543,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0007_02,﻿free school,not recorded,English,,﻿Immaculate Conception,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.514753,-81.66101,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_03,﻿female school,not recorded,English,﻿school for girls attached to St. Peter's,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿student,"﻿pupils, 250",,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,﻿Harman street,,,,,,﻿OH,,,,,,,﻿l_boucher_001,﻿Miss,﻿Boucher,,﻿Superioress,,﻿religious,"﻿ladies, 30",﻿Ladies of the Sacred Heart of Mary,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0193,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,﻿Harman street,,,,,,﻿OH,,,,,,,﻿boucher_001,﻿Miss,﻿Boucher,,﻿Superioress,,﻿religious,"﻿ladies, 30",﻿Ladies of the Sacred Heart of Mary,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0193,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,﻿Harman street,,,,,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphans, 110",﻿Ladies of the Sacred Heart of Mary,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,"﻿male orphan asylum, church",﻿St. Vincent's Male Orphan Asylum,English,,﻿Monroe street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,﻿Sister,﻿Ursula,,﻿Mother Superioress,,﻿religious,"﻿religious, 20",﻿Sisters of Charity of St. Augustine,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,"﻿male orphan asylum, church",﻿St. Vincent's Male Orphan Asylum,English,,﻿Monroe street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿child,"﻿orphans, 60",﻿Sisters of Charity of St. Augustine,,1861,﻿,﻿,﻿Cleveland,Cleveland

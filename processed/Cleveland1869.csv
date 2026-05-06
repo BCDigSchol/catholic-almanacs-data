@@ -11,8 +11,8 @@
 ﻿cle.oh.0008,﻿church,﻿St. Augustine's,English,,﻿University Heights,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864,-81.685952,,,,﻿a_grandmougin_001,﻿Rev.,﻿L. Grandmougin,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,﻿westerholt_001,﻿Very Rev.,﻿Westerholt,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005,﻿church,﻿St. Joseph's,English,,﻿Kingsman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,,,,,,,,,﻿Francisan Fathers,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿j_molony_001,﻿Rev.,﻿J. Molony,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,,,﻿------,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿church,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿j_molony_001,﻿Rev.,﻿J. Molony,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿church,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,,,﻿------,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_02,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,﻿cle.oh.0001,﻿attended from the Cathedral,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_04,﻿female orphan asylum,﻿Female Orphan Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,﻿cle.oh.0185,﻿attended from the Cathedral,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0016,﻿male orphan asylum,﻿St. Vincent's Male Orphan Asylum,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,﻿cle.oh.0002,﻿attended from St. Patrick's,,,,,,,,,,,,1869,﻿,﻿,﻿Cleveland,Cleveland
@@ -190,9 +190,10 @@
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿religious,"﻿Novices, 13",,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿boarder,"﻿Boarders, 50",,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿day school,"﻿day school, 175",,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿cathedral free school,"﻿cathedral free schools, 460",,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿st. bridget,"﻿St. Bridget, 200",,,1869,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,﻿Euclid street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿teacher,"﻿lay teachers, 50",,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0187_03,﻿free school,﻿Ursuline Academy,English,,﻿Cathedral,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,﻿460,,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0006_02,﻿school,not recorded,English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.4086586,-81.7595426,,,,,,,,,,﻿student,﻿200,﻿Ursuline Sisters,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0006_02,﻿school,not recorded,English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.4086586,-81.7595426,,,,,,,,,,﻿student,﻿50 by lay teacher,﻿Ursuline Sisters,,1869,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0006_02,﻿school,not recorded,English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.4086586,-81.7595426,,,,,,,,,,﻿teacher,﻿lay teacher,﻿Ursuline Sisters,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_03,﻿female school,﻿St. Peter's Female School,English,,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿teacher,"﻿scholars, 200",﻿taught by two Ladies of the Sacred Heart of Mary,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_03,﻿female school,﻿St. Peter's Female School,English,,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿teacher,﻿two Ladies of the Sacred Heart of Mary,﻿taught by two Ladies of the Sacred Heart of Mary,,1869,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005_02,﻿school,﻿St. Joseph's School,English,,﻿Kingsman street,,,,,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,,,,,,,﻿teacher,"﻿scholars, 300",﻿taught by three Ladies of the Sacred Heart of Mary,,1869,﻿,﻿,﻿Cleveland,Cleveland

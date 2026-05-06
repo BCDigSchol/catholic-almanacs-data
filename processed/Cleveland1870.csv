@@ -17,8 +17,8 @@
 ﻿cle.oh.0007,﻿church,﻿Immaculate Conception,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.51475328,-81.6610098,,,,﻿a_sauvadet_001,﻿Rev.,﻿A. Sauvadet,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0008,﻿church,﻿St. Augustine's,English,,﻿University Heights,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.47864034,-81.6859519,,,,﻿a_grandmougin_001,﻿Rev.,﻿A. Grandmougin,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0009,﻿church,﻿St. Malachy's,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49225807,-81.70772469,,,,﻿j_molony_001,﻿Rev.,﻿J. Molony,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0010,﻿chapel,﻿St. Mary's,﻿French,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,,﻿Rev.,﻿— Gantyn,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0011,﻿chapel,﻿St. Wenceslaus',﻿Bohemian,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49125433,-81.66439373,,,,﻿w_reves_001,﻿Rev.,﻿W. Reves,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿church,﻿St. Mary's,﻿French,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49057516,-81.69459997,,,,,﻿Rev.,﻿— Gantyn,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0011,﻿church,﻿St. Wenceslaus',﻿Bohemian,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49125433,-81.66439373,,,,﻿w_reves_001,﻿Rev.,﻿W. Reves,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_02.01,﻿chapel,﻿Chapel of the Ursulines,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.6943605,﻿cle.oh.0001,﻿attended from the Cathedral,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_04.02,﻿chapel,﻿Chapel of Female Orphan Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.6943605,﻿cle.oh.0185,,,,,,,,,,,﻿attended by the Franciscan Fathers,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0014,﻿chapel,﻿Chapel of Charity Hospital,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49632396,-81.67370135,,,,﻿a_caron_001,﻿Very Rev.,﻿A. Caron,﻿V.G.,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -236,7 +236,7 @@
 ﻿cle.oh.0002_02,﻿school,﻿St. Patrick's,English,﻿10 divisions,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.48342555,-81.71151192,,,,,,,,,,﻿child,﻿950 children,,﻿Brothers of the Society of Mary,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,﻿St. Peter's,English,﻿5 divisions,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.6820698,,,,,,,,,,﻿child,﻿400 children,,﻿Brothers of the Society of Mary,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005_02,﻿school,﻿St. Joseph's,English,﻿5 divisions,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.5521493,-81.5813206,,,,,,,,,,﻿child,﻿400 children,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0003_02,﻿school,﻿St. Mary's,English,﻿6 divisions,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,,,,,,,﻿child,﻿580 children,,﻿Brothers of the Society of Mary,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010_02,﻿school,﻿St. Mary's,English,﻿6 divisions,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.560673,-81.573232,,,,,,,,,,﻿child,﻿580 children,,﻿Brothers of the Society of Mary,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0144_02,﻿school,﻿St. Joseph's,English,﻿4 divisions,,,,,﻿Sandusky City,﻿Sandusky,﻿OH,,41.4516483,-82.7087138,,,,,,,,,,﻿child,﻿350 children,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143_02,﻿school,﻿Holy Angels',English,﻿5 divisions,,,,,﻿Sandusky City,﻿Sandusky,﻿OH,,41.4493587,-82.7230782,,,,,,,,,,﻿child,﻿400 children,,﻿Brothers of the Society of Mary,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0207,﻿school,﻿St. Mary's,English,﻿6 divisions,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.6340526,-83.5434252,,,,,,,,,,﻿child,﻿550 children,,,1870,﻿,﻿,﻿Cleveland,Cleveland
