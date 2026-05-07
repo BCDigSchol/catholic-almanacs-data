@@ -27,15 +27,15 @@
 ﻿bal.md.0039,﻿church,﻿St. Joseph's,English,,"﻿eight miles from the city, on the Belair Road",,﻿Baltimore County,,,,﻿MD,,39.387013,-76.496014,﻿bal.md.0010,﻿Attended from St. Alphonsus',"﻿once a month, 2d Sunday",,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0036,﻿church,﻿St. Mary's,English,,,,﻿Anne Arundel County,,﻿Annapolis,﻿Annapolis,﻿MD,,38.975098,-76.487887,,,,﻿m_muller_002,﻿Rev.,﻿Michael Muller,﻿C.SS.R.,,"﻿who attends West River, Kent Island, and Laurel Factory, Pr. Geo.'s Co.",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0091,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,,﻿Barnesville,﻿Barnesville,﻿MD,,39.22066,-77.377486,﻿bal.md.0088,﻿Attended from Rockville,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0027,﻿church,not recorded,English,,,,﻿Alleghany County,,﻿Barton,﻿Barton,﻿MD,,39.530646,-79.017528,,,﻿4th Sunday,,﻿Rev.,﻿James Carney,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0249,﻿church,﻿St. Mary's,English,,,,﻿Alleghany County,,﻿Bloomington,,﻿MD,,,,,,﻿2d Sunday,,﻿Rev.,﻿James Carney,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0028,﻿church,﻿Mountain Church,English,,,,﻿Alleghany County,,﻿Blooming Rose,﻿Friendsville,﻿MD,,39.656667,-79.439167,,,﻿once in three months,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0033,﻿church,﻿St. James,English,,,,﻿Alleghany County,,﻿Cross Roads,,﻿MD,,39.526289,-79.413268,,,﻿once in three months on Sunday and occasionally on a week day,,﻿Rev.,﻿James Carney,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿wil.de.0012,﻿church,﻿St. Francis Xavier,English,,,,﻿Cecil County,,﻿Bohemia,﻿Chesapeake City,﻿MD,,39.530946,-75.807437,,,﻿2nd and 4th Sundays,﻿geo_villiger_001,﻿Rev.,﻿Geo. Villiger,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0027,﻿church,not recorded,English,,,,﻿Alleghany County,,﻿Barton,﻿Barton,﻿MD,,39.530646,-79.017528,,,,,﻿Rev.,﻿James Carney,,,﻿4th Sunday,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0249,﻿church,﻿St. Mary's,English,,,,﻿Alleghany County,,﻿Bloomington,,﻿MD,,,,,,,,﻿Rev.,﻿James Carney,,,﻿2d Sunday,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0028,﻿church,﻿Mountain Church,English,﻿once in three months,,,﻿Alleghany County,,﻿Blooming Rose,﻿Friendsville,﻿MD,,39.656667,-79.439167,,,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0033,﻿church,﻿St. James,English,,,,﻿Alleghany County,,﻿Cross Roads,,﻿MD,,39.526289,-79.413268,,,,,﻿Rev.,﻿James Carney,,,﻿once in three months on Sunday and occasionally on a week day,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿wil.de.0012,﻿church,﻿St. Francis Xavier,English,,,,﻿Cecil County,,﻿Bohemia,﻿Chesapeake City,﻿MD,,39.530946,-75.807437,,,,﻿geo_villiger_001,﻿Rev.,﻿Geo. Villiger,﻿S.J.,,﻿2nd and 4th Sundays,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0063,﻿church,﻿St. Mary's,English,,,,﻿Charles County,,﻿Bryantown,﻿Bryantown,﻿MD,,38.555529,-76.842158,,﻿attended from St. Thomas' Manor,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0257,﻿chapel,﻿Carrolton Hall,English,,,,﻿Howard County,,,,﻿MD,,,,﻿bal.md.0129,"﻿Attended by Rev. B. S. Piot, of St. Charles College",,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0084,﻿church,﻿St. Louis,English,﻿Mass on the last Sunday of the month,,,﻿Howard County,,﻿Clarksville,﻿Clarksville,﻿MD,,39.206196,-76.945566,﻿bal.md.0129,"﻿Attended by Rev. Hugh F. Griffin, of St. Charles' College",,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0072,﻿church,﻿St. Joseph's,English,,,,﻿Frederick County,,﻿Carrollton Manor,﻿Severna Park,﻿MD,,39.330858,-77.464672,﻿bal.md.0070,"﻿Attended by Rev. M. Tuffer, S.J., of Frederick city",﻿2d Sunday,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0257,﻿chapel,﻿Carrolton Hall,English,,,,﻿Howard County,,,,﻿MD,,,,﻿bal.md.0129,,,,﻿Rev.,﻿B. S. Piot,,,﻿of St. Charles College,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0084,﻿church,﻿St. Louis,English,﻿Mass on the last Sunday of the month,,,﻿Howard County,,﻿Clarksville,﻿Clarksville,﻿MD,,39.206196,-76.945566,﻿bal.md.0129,,,,﻿Rev.,﻿Hugh F. Griffin,,,﻿of St. Charles College,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0072,﻿church,﻿St. Joseph's,English,,,,﻿Frederick County,,﻿Carrollton Manor,﻿Severna Park,﻿MD,,39.330858,-77.464672,﻿bal.md.0070,,,,﻿Rev.,﻿M. Tuffer,﻿S.J.,,"﻿of Frederick City, 2d Sunday",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0041,﻿church,﻿St. Agnes',English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,39.272051,-76.731916,,,,,﻿Rev.,﻿E. Caton,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0042,﻿church,﻿Convent of Mt. De Sales,English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,39.272051,-76.731916,,,,﻿wm_d_parsons_001,﻿Rev.,﻿Wm. D. Parsons,,﻿Chaplain,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0064,﻿church,﻿St. Mary's,English,,,,﻿Charles County,,﻿Cobneck,,﻿MD,,38.340682,-76.918027,﻿bal.md.0058,﻿Attended from St. Thomas' Manor,﻿twice a month,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
@@ -46,7 +46,7 @@
 ﻿bal.md.0081,﻿church,﻿St. Mary's,English,,,,﻿Harford County,,﻿Deer Creek,,﻿MD,,39.639956,-76.421109,,,﻿3d and 5th Sundays of the month,,﻿Rev.,﻿James McDevitt,,,﻿dw. near Hickory P.O.,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0022,﻿church,﻿St. Elizabeth's,English,,,,﻿Caroline County,,﻿Denton,﻿Denton,﻿MD,,38.885288,-75.834971,﻿bal.md.0256,"﻿Attended from St. Joseph's, near Wye Mills",,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0024,﻿church,﻿St. Mary's,English,,,,﻿Dorchester County,,,﻿Golden Hill,﻿MD,,38.385621,-76.249233,﻿bal.md.0256,"﻿Attended from St. Joseph's, near Wye Mills",,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0085,﻿church,﻿St. Mary's,English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,39.276729,-76.893093,﻿bal.md.0129,"﻿Attended by Rev. Hugh F. Griffin, of St. Charles' College",,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0085,﻿church,﻿St. Mary's,English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,39.276729,-76.893093,﻿bal.md.0129,,,,﻿Rev.,﻿Hugh F. Griffin,,,﻿of St. Charles College,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Cecil County,,﻿Elkton,﻿Elkton,﻿MD,,39.614805,-75.831481,,﻿Attended from Port Deposite,﻿1st and 3d Sundays,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0086,﻿church,﻿St. Augustine's,﻿German and English,,,,﻿Howard County,,﻿Elkridge Landing,﻿Elkridge,﻿MD,,39.211406,-76.715705,,,﻿1st Sunday,,﻿Rev.,﻿George Steinhauser,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0083,﻿church,﻿St. Paul's,English,,,,﻿Howard County,,﻿Ellicott's Mills,﻿Ellicott City,﻿MD,,39.267328,-76.798307,,,,,﻿Rev.,﻿John S. Foley,﻿D.D.,,"﻿who also occasionally attends Sykesville, a station",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore

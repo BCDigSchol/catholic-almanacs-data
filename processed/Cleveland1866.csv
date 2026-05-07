@@ -12,7 +12,7 @@
 ﻿cle.oh.0004,﻿church,﻿St. Peter's,English,,﻿Dodge street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,﻿j_luhr_001,﻿Very Rev.,﻿J. Luhr,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0005,﻿church,﻿St. Joseph's,English,,﻿Kingsman street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.486729,-81.640255,,,,﻿a_kräsny_001,﻿Rev.,﻿A. Kräsny,,,,,,﻿Francisan Fathers,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿j_molony_001,﻿Rev.,﻿J. Molony,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿p_clement_001,﻿Rev.,﻿P. Clement,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0010,﻿chapel,﻿St. Mary's,English,,﻿Columbus street,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,﻿p_j_clement_001,﻿Rev.,﻿P. Clement,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_02&0187_04,"﻿convent, female orphan asylum",﻿Ursuline Convent and Female Orphan Asylum,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,﻿attended from the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0016,﻿male orphan asylum,﻿St. Vincent's Male Orphan Asylum,English,,﻿West side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,﻿cle.oh.0002,﻿attended from St. Patrick's,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0017,﻿church,﻿St. Vincent's,English,,,,,﻿Summit County,﻿Akron,﻿Akron,﻿OH,,41.136837,-81.598727,,,,﻿m_a_scanlan_001,﻿Rev.,﻿M. A. Scanlan,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
@@ -211,8 +211,8 @@
 ﻿cle.oh.0159_02,﻿school,not recorded,English,,,,,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.108735,-83.175299,,,,,,,,,,﻿student,"﻿Pay-school, 60",﻿Ursuline Sisters,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0302_02,﻿boarding school,not recorded,English,,,,,﻿Seneca County,﻿New Reigel,,﻿OH,,41.051444,-83.318534,,,,,,,,,,﻿student,﻿20 pupils,﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0302_03,﻿free school,not recorded,English,,,,,﻿Seneca County,﻿New Reigel,,﻿OH,,41.051444,-83.318534,,,,,,,,,,﻿student,﻿200 scholars,﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,41.490575,-81.6946,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,"﻿boarding school, day school",not recorded,English,,,,,,﻿Thompson,,﻿OH,,41.490575,-81.6946,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿In all, 60 sisters",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0301,"﻿boarding school, day school",not recorded,English,,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿In all, 200 scholars",﻿Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Male Orphan Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,﻿S. Augustine,,﻿Mother Superioress,,﻿religious,"﻿Religious, 25",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1866,﻿,﻿,﻿Cleveland,Cleveland

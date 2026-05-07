@@ -8,7 +8,7 @@
 ﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9075495,-78.8070109,,,,﻿lou_ewald_002,﻿Rev.,﻿Louis Ewald,﻿C.SS.R.,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194,﻿church,﻿Immaculate Conception,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9154358,-78.7699029,,,,﻿joh_zemers_001,﻿Rev.,﻿John Zemers,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,﻿fn_sester_001,﻿Rev.,﻿F.N. Sester,﻿V.G.,,﻿for the French and Germans,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,﻿f_n_sester_001,﻿Rev.,﻿F.N. Sester,﻿V.G.,,﻿for the French and Germans,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jos_m_durthaller_001,﻿Rev.,﻿J. Durthaller,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿m_hoering_001,﻿Rev.,﻿M. Hoering,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿j_vetter_002,﻿Rev.,﻿J. Vetter,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -122,8 +122,8 @@
 ﻿roc.ny.0040,﻿church,﻿St. Ann's,English,﻿frame church,,,﻿Wayne,,﻿Palmyra,,﻿NY,,43.0639521,-77.2333154,,,,﻿wil_casey_001,﻿Rev.,﻿William Casey,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0082,﻿church,not recorded,English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,42.9975593,-78.4347444,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,43.0784212,-78.7402055,,,,﻿cha_winsierski_001,﻿Rev.,﻿---- Winsierski,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Seneca,,﻿Penn Yan,,﻿NY,,42.6611614,-77.0571732,,,,﻿d_english_001,﻿Rev.,﻿D. English,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0107,﻿church,﻿Annunciation,English,﻿frame church,,,﻿Steuben County,,﻿Perkinsville,﻿Perkinsville,﻿NY,,42.5397896,-77.6283257,,,,﻿b_gruber_001,﻿Rev.,﻿B. Gruber,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Seneca,,﻿Penn Yan,,﻿NY,,42.6611614,-77.0571732,,,,﻿den_english_001,﻿Rev.,﻿D. English,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0107,﻿church,﻿Annunciation,English,﻿frame church,,,﻿Steuben County,,﻿Perkinsville,﻿Perkinsville,﻿NY,,42.5397896,-77.6283257,,,,﻿bar_gruber_001,﻿Rev.,﻿B. Gruber,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0117,﻿church,not recorded,English,,,,﻿Wyoming County,,﻿Perry,﻿Perry,﻿NY,,42.7555047,-77.9967043,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0187,﻿church,not recorded,English,,,,﻿Allegany County,,﻿Pike,,,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0034,﻿church,not recorded,English,,,,,,﻿Phelps,,﻿NY,,42.8509838,-77.2864879,﻿roc.ny.0033,﻿Attended from Clifton,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -131,7 +131,7 @@
 ﻿roc.ny.0057,﻿church,not recorded,English,,,,﻿Cayuga,,﻿Port Byron,,﻿NY,,43.0348698,-76.6262903,,,,﻿nic_byrne_001,﻿Rev.,﻿N. Byrnes,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0062,﻿church,not recorded,English,,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,42.162005,-78.9753174,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0188,﻿church,not recorded,English,,,,﻿Steuben County,,﻿Rexville,,﻿NY,,,,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿jam_m_early_002,﻿Very Rev.,﻿J. M. Early,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿jam_m_early_001,﻿Very Rev.,﻿J. M. Early,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿j_j_okeefe_001,﻿Rev.,﻿J. J. O'Keefe,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0228,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,,,,﻿pet_barker_002,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,﻿geo_ruland_001,﻿Rev.,﻿George Ruland,﻿C.SS.R.,﻿Superior,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo

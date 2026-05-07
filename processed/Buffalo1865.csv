@@ -8,7 +8,7 @@
 ﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9075495,-78.8070109,,,,﻿lou_ewald_002,﻿Rev.,﻿Louis Ewald,﻿C.SS.R.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194,﻿church,﻿Immaculate Conception,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿tho_gleeson_002,﻿Rev.,﻿Thomas Gleeson,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9154358,-78.7699029,,,,﻿joh_zarvistowski_001,﻿Rev.,﻿John Zarvistowski,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,﻿fn_sester_001,﻿Rev.,﻿F.N. Sester,﻿V.G.,,﻿for the French and Germans,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9721211,-78.8154749,,,,﻿f_n_sester_001,﻿Rev.,﻿F.N. Sester,﻿V.G.,,﻿for the French and Germans,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jos_m_durthaller_001,﻿Rev.,﻿J. Durthaller,﻿S.J.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿g_foertsch_001,﻿Rev.,﻿George Foertsch,﻿S.J.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿c_kottmann_001,﻿Rev.,﻿C. Kottmann,﻿S.J.,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
@@ -132,7 +132,7 @@
 ﻿buf.ny.0062,﻿church,not recorded,English,,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,42.162005,-78.9753174,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿m_obrien_002,﻿Rev.,﻿M. O'Brien,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,﻿edw_quigley_001,﻿Rev.,﻿Ed. Quigley,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0228,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,,,,﻿jam_m_early_002,﻿Very Rev.,﻿James Early,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0228,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,,,,﻿jam_m_early_001,﻿Very Rev.,﻿James Early,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0228,﻿church,﻿St. Mary's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,,,,﻿jam_tuohey_002,﻿Rev.,﻿J. Tuohey,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1594407,-77.6064884,,,,﻿l_holzer_002,﻿Rev.,﻿L. Holzer,,﻿Superior,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0006,﻿church,﻿St. Peter's,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1521729,-77.6329615,,,,﻿j_sadler_001,﻿Rev.,﻿J. Sadler,,,,,,,,1865,﻿,﻿,﻿Buffalo,Buffalo

@@ -1,12 +1,12 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿jam_r_bayley_001,﻿Rt. Rev.,﻿James Roosevelt Bayley,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿bj_mcquaid_001,﻿Rev.,﻿B.J. McQuaid,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿gh_doane_001,﻿Rev.,﻿G.H. Doane,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿geo_h_doane_001,﻿Rev.,﻿G.H. Doane,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0001,﻿cathedral,﻿St. Patrick's Cathedral,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.742097,-74.172314,,,,﻿jm_gervais_001,﻿Rev.,﻿J.M. Gervais,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.738052,-74.165907,,,,﻿p_moran_001,﻿V. Rev.,﻿P. Moran,,﻿V.G.,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.738052,-74.165907,,,,﻿e_mccosker_001,﻿Rev.,﻿E. McCosker,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0003,﻿church,﻿St. John's Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.738052,-74.165907,,,,﻿edw_j_mccosker_001,﻿Rev.,﻿E. McCosker,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.747065,-74.232974,,,,﻿rup_seidenbusch_003,﻿Rev.,﻿Rupert  Seidenbusch,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.747065,-74.232974,,,,﻿cas_seitz_002,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.747065,-74.232974,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0004,﻿church,﻿St. Mary's Church,﻿German,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.747065,-74.232974,,,,﻿ign_krug_001,﻿Rev.,﻿Ignatius Krug,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0005,﻿church,﻿St. James' Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.728521,-74.162178,,,,﻿jam_callan_001,﻿Rev.,﻿James Callan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0005,﻿church,﻿St. James' Church,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.728521,-74.162178,,,,﻿c_oreilly_001,﻿Rev.,﻿C. O'Reilly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
@@ -45,7 +45,7 @@
 ﻿new.nj.0045,﻿church,﻿St. Joseph's,English,,,,,,﻿Hudson City,﻿Jersey City,﻿NJ,,40.73116,-74.058274,,,,﻿alo_venuta_001,﻿Rev.,﻿Aloysius Venuta,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0047,﻿church,﻿St. Peter's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.715963,-74.043965,,,,﻿joh_kelly_003,﻿Rev.,﻿John Kelly,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0047,﻿church,﻿St. Peter's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.715963,-74.043965,,,,﻿pat_corrigan_001,﻿Rev.,﻿P. Corrigan,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0048,﻿church,﻿St. Mary's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.722586,-74.043876,,,,﻿d_senez_001,﻿Rev.,﻿D. Senez,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0048,﻿church,﻿St. Mary's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.722586,-74.043876,,,,﻿l_d_senez_001,﻿Rev.,﻿D. Senez,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0048,﻿church,﻿St. Mary's,English,,,,﻿Hudson County,,﻿Jersey City,﻿Jersey City,﻿NJ,,40.722586,-74.043876,,,,﻿phi_koch_001,﻿Rev.,﻿Philip Koch,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0053,﻿church,﻿St. John Evangelist,English,,,,﻿Hunterdon County,,﻿Lambertville,﻿Lambertville,﻿NJ,,40.366716,-74.943482,,,,﻿flm_jego_001,﻿Rev.,﻿F.L.M Jego,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Long Branch,﻿Long Branch,﻿NJ,,40.304278,-73.99236,﻿new.nj.0095,﻿Attended from South Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Newark,Newark
@@ -96,7 +96,7 @@
 ﻿new.nj.0116,﻿house,﻿Mother House of St. Elizabeth,English,﻿Novitiate of Sisters of Charity; the Sisters have charge of St. Elizabeth's Academy,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,40.759823,-74.417097,,,,,﻿Mother,﻿M. Xavier,,,,,,﻿Sisters of Charity,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0116,﻿house,﻿Mother House of St. Elizabeth,English,﻿Novitiate of Sisters of Charity; the Sisters have charge of St. Elizabeth's Academy,,,,﻿Morris County,﻿Madison,﻿Madison,﻿NJ,,40.759823,-74.417097,,,,﻿wil_mcnulty_001,﻿Rev.,﻿William McNulty,,﻿Chaplain,,,,﻿Sisters of Charity,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0142,﻿house,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7430731,-74.1861025,,,,﻿rup_seidenbusch_003,﻿Rev.,﻿Rupert Seidenbusch,﻿O.S.B.,﻿Prior,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
-﻿new.nj.0142,﻿house,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7430731,-74.1861025,,,,﻿cas_seitz_002,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
+﻿new.nj.0142,﻿house,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7430731,-74.1861025,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0142,﻿house,﻿Benedictine Priory,English,,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,40.7430731,-74.1861025,,,,﻿ign_krug_001,﻿Rev.,﻿Ignatius Krug,﻿O.S.B.,,,﻿religious,﻿two lay brothers,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0146,﻿convent,﻿Benedictine Nunnery of St. Scholastica,English,﻿The religious direct a select school and St. Mary's Parish School.,,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,﻿Mother,﻿Mary Ann Emerana,,﻿Prioress,,﻿religious,﻿seven religious,,,1861,﻿,﻿,﻿Newark,Newark
 ﻿new.nj.0146,﻿select school,﻿St. Aloysius' Academy,English,"﻿For young ladies, under the charge of the Sisters of Charity",,,,﻿Essex County,﻿Newark,﻿Newark,﻿NJ,,,,,,,,,,,,,﻿religious,﻿seven religious,,,1861,﻿,﻿,﻿Newark,Newark

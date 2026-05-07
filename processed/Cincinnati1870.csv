@@ -3,7 +3,7 @@
 ﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,﻿South-west corner of Eighth and Plum streets,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.5195056,,,,﻿e_purcell_002,﻿Very Rev.,﻿E. Purcell,,﻿V.G.,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,﻿South-west corner of Eighth and Plum streets,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.5195056,,,,﻿c_h_borgess_001,﻿Rev.,﻿C. H. Borgess,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,﻿South-west corner of Eighth and Plum streets,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.5195056,,,,﻿w_j_halley_001,﻿Rev.,﻿W. J. Halley,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,﻿South-west corner of Eighth and Plum streets,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.5195056,,,,﻿g_i_glass_001,﻿Rev.,﻿G. I. Glass,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001,﻿cathedral,﻿St. Peter's Cathedral,English,,﻿South-west corner of Eighth and Plum streets,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.5195056,,,,﻿geo_glass_001,﻿Rev.,﻿G. I. Glass,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,﻿Cincinnati,﻿OH,﻿OH,39.1043022,-84.5096122,,,,﻿cha_driscoll_001,﻿Rev.,﻿Chas. Driscoll,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.1043022,-84.5096122,,,,﻿h_baselmans_001,﻿Rev.,﻿H. Baselmans,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier's,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.1043022,-84.5096122,,,,﻿g_f_boex_001,﻿Rev.,﻿G. F. Boex,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -193,7 +193,7 @@
 ﻿cin.oh.0154,﻿church,﻿St. Bernard's,English,,,,﻿Clark County,﻿Clark County,﻿Springfield,﻿Springfield,﻿OH,﻿OH,39.9242266,-83.8088171,,,,,,,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0155,﻿church,not recorded,English,,,,﻿Greene County,﻿Greene County,﻿Spring Valley,﻿Spring Valley,﻿OH,﻿OH,39.608949,-84.0077105,,﻿Attended from Xenia,,,,,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0156,﻿church,﻿St. Remy's,English,,﻿(church building),,﻿Darke County,﻿Darke County,,﻿Russia,﻿OH,﻿OH,40.2336051,-84.40830415,,,,﻿ch_berard_001,﻿Rev.,﻿Ch. Berard,,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157,﻿church,﻿St. Anthony's,English,,,,﻿Mercer County,﻿Mercer County,,﻿Padua,﻿OH,﻿OH,40.50893784,-84.78525098,,,,﻿p_a_capeder_001,﻿Rev.,﻿P. Anthony Capeder,﻿C.PP.S.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0157,﻿church,﻿St. Anthony's,English,,,,﻿Mercer County,﻿Mercer County,,﻿Padua,﻿OH,﻿OH,40.50893784,-84.78525098,,,,﻿pet_a_capeder_001,﻿Rev.,﻿P. Anthony Capeder,﻿C.PP.S.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0158,﻿church,﻿St. Francis',English,,,,﻿Mercer County,﻿Mercer County,,,﻿OH,﻿OH,40.39323589,-84.58165048,,,,﻿roc_schuly_001,﻿Rev.,﻿Rochus Schuly,﻿C.PP.S.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0159,﻿church,﻿St. Henry's,English,,,,﻿Mercer County,﻿Mercer County,,﻿St. Henry,﻿OH,﻿OH,40.41758982,-84.63753219,,,,﻿joh_van-den-broek_001,﻿Rev.,﻿John Van den Broek,﻿C.PP.S.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0160,﻿church,﻿St. John's,English,,,,﻿Mercer County,﻿Mercer County,,﻿Maria Stein,﻿OH,﻿OH,40.40818114,-84.47356079,,,,﻿ber_austerman_001,﻿Rev.,﻿B. Austermann,﻿C.PP.S.,,,,,,,1870,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -44,7 +44,7 @@
 ﻿stl.mo.0019,﻿church,﻿St. Theresa's,English,,"﻿Grand avenue, near Franklin avenue",,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.638929,-90.216646,,,,﻿f_p_gallagher_001,﻿Rev.,﻿T. P. Gallagher,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0020,﻿church,﻿St. Nicholas',English,﻿residence adjoining,﻿Christy avenue and Twentieth street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.628087,-90.209743,,,,﻿n_staudinger_001,﻿Rev.,﻿N. Staudinger,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0021,﻿church,﻿Holy Angels',English,,﻿Ange and Chouteau avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.617325,-90.206446,,,,﻿m_welby_001,﻿Rev.,﻿M. Welby,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0021,﻿church,﻿Holy Angels',English,,﻿Ange and Chouteau avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.617325,-90.206446,,,,﻿j_halpin_001,﻿Rev.,﻿J. Halpin,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0021,﻿church,﻿Holy Angels',English,,﻿Ange and Chouteau avenues,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.617325,-90.206446,,,,﻿jam_halpin_001,﻿Rev.,﻿J. Halpin,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0023,﻿church,﻿St. Alphonsus',English,﻿(building.),﻿Grand avenue,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.644179,-90.228012,,,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0160_02,﻿chapel,﻿Chapel of the St. Louis Hospital,English,,﻿St. Louis Hospital,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.621679,-90.18844,﻿stl.mo.0001,﻿Attended by the Cathedral,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0155_02,﻿chapel,﻿Chapel of the Ursuline Convent,English,,﻿Ursuline Convent,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.60735,-90.2097,﻿stl.mo.0002,﻿Attended by the Clergy of St. Mary's,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
@@ -77,7 +77,7 @@
 ﻿stj.mo.0010,﻿church,not recorded,English,,,,﻿Callaway County,,﻿Chilicothe,﻿Chilicothe,﻿MO,,39.798697,-93.549019,,,,﻿j_hogan_002,﻿Rev.,﻿J. Hogan,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0054,﻿church,not recorded,English,,,,﻿Boone County,,﻿Columbia,﻿Columbia,﻿MO,,38.951705,-92.334072,﻿stl.mo.0069,﻿attended from Glasgow,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0055,﻿church,﻿St. Rose of Lima,English,,,,﻿Jefferson County,,﻿De Soto,﻿De Soto,﻿MO,,38.135042,-90.558042,﻿stl.mo.0067,﻿Attended from French Village,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0056,﻿church,﻿St. Ludger's,English,,,,﻿Henry County,,﻿Deepwater,﻿Deepwater,﻿MO,,38.26058,-93.77299,,,,﻿h_grunder_001,﻿Rev.,﻿H. Grunder,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0056,﻿church,﻿St. Ludger's,English,,,,﻿Henry County,,﻿Deepwater,﻿Deepwater,﻿MO,,38.26058,-93.77299,,,,﻿h_gründer_001,﻿Rev.,﻿H. Grunder,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0057,﻿church,not recorded,English,,﻿Wellsburgh P.O.,,﻿St. Charles County,,﻿Dog and Allen Prairies,﻿Dog Prairie,﻿MO,,38.733889,-90.8294,,,,﻿c_tintrup_001,﻿Rev.,﻿C. Tintrup,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0058,﻿church,﻿St. Columbkille,English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.39536,-91.135302,﻿stl.mo.0038,﻿Attended from Armagh,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0059,﻿station,not recorded,English,,,,﻿Pettis County,,﻿Dresden,﻿Dresden,﻿MO,,38.751126,-93.33493,﻿stl.mo.0141,﻿Attended from Tipton,﻿occasionally,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
@@ -164,7 +164,7 @@
 ﻿stl.mo.0143,﻿church,﻿St. Mary's,English,,,,﻿Johnson County,,﻿Warrensburgh,﻿Warrensburg,﻿MO,,38.762789,-93.73605,,,,﻿h_murray_001,﻿Rev.,﻿H. Murray,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.558107,-91.012088,,,,﻿m_seisl_001,﻿Rev.,﻿M. Seisl,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0144,﻿church,﻿St. Francis Borgia's,English,,,,﻿Franklin County,,﻿Washington,﻿Washington,﻿MO,,38.558107,-91.012088,,,,﻿ale_mathauschek_001,﻿Rev.,﻿Alexander Mathauschek,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0208,﻿church,not recorded,English,,,,﻿Platt County,﻿Platte County,﻿Weston,﻿Weston,﻿MO,,39.405556,-94.889167,,,,﻿c_linnenkamp_001,﻿Rev.,﻿C. Linnenkamp,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0208,﻿church,not recorded,English,,,,﻿Platt County,﻿Platte County,﻿Weston,﻿Weston,﻿MO,,39.405556,-94.889167,,,,﻿cha_linnenkamp_001,﻿Rev.,﻿C. Linnenkamp,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0145,﻿church,not recorded,English,,,,﻿Warren County,,﻿Warrentown,﻿Warrentown,﻿MO,,38.821185,-91.139198,﻿stl.mo.0101,﻿Attended from Montgomery City,,,,,,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0147,﻿seminary,﻿St. Vincent's Theological and Preparatory Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.299223,-89.521113,,,,﻿j_alizeri_001,﻿Very Rev.,﻿J. Alizeri,﻿C.M.,﻿President,,﻿student,"﻿Number of students, 120",,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0147,﻿seminary,﻿St. Vincent's Theological and Preparatory Seminary,English,,,,,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,37.299223,-89.521113,,,,﻿jam_ronaldo_001,﻿Rev.,﻿James Ronaldo,﻿C.M.,﻿Vice-President,,﻿student,"﻿Number of students, 120",,,1868,﻿,﻿,﻿St. Louis,StLouis
@@ -192,11 +192,11 @@
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿p_j_de-smet_001,﻿Rev.,﻿P. J. De Smet,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿fel_l_verreydt_001,﻿Rev.,﻿F. L. Verreydt,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿jos_g_kernion_001,﻿Rev.,﻿J. G. Kernion,﻿S.J.,﻿Minister,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_f_tehan_001,﻿Rev.,﻿John F. X. Tehan,﻿S.J.,﻿Treasurer,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿john_f_tehan_001,﻿Rev.,﻿John F. X. Tehan,﻿S.J.,﻿Treasurer,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Huis,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿f_p_nussbaum_001,﻿Rev.,﻿F. P. Nussbaum,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_hayes_001,﻿Rev.,﻿J. Hayes,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿m_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿mic_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿a_lambelin_002,﻿Rev.,﻿A. Lambelin,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_straetmans_001,﻿Rev.,﻿J. Straetmans,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_g_vennemann_001,﻿Rev.,﻿J. G. Vennemann,﻿S.J.,,,,,,,1868,﻿,﻿,﻿St. Louis,StLouis

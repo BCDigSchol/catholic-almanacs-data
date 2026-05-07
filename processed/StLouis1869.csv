@@ -68,8 +68,8 @@
 ﻿stl.mo.0039,﻿church,﻿Immaculate Conception,English,,,,﻿St. Charles County,,﻿Augusta,﻿Augusta,﻿MO,,38.572552,-90.882081,﻿stl.mo.0060,﻿Attended from Dutzo,,,,,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0040,﻿church,﻿St. Ignatius',English,,,,﻿Osage County,,﻿Bailey's Creek,﻿Bailey's Creek,﻿MO,,38.385338,-91.909924,﻿stl.mo.0090,﻿Attended from Loose Creek,,,,,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿f_m_barbier_001,﻿Rev.,﻿F. M. Barbier,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿d_mccarthy_001,﻿Rev.,﻿D. McCarthy,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿th_shaw_001,﻿Rev.,﻿Th. Shaw,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿dan_mccarthy_001,﻿Rev.,﻿D. McCarthy,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿tho_shaw_001,﻿Rev.,﻿Th. Shaw,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿w_moore_001,﻿Rev.,﻿W. Moore,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0041,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Barrens,﻿Barrens,﻿MO,,37.723555,-89.775534,,,,﻿f_vogt_001,﻿Rev.,﻿F. Vogt,﻿C.M.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0042,﻿church,not recorded,English,,,,﻿Cooper County,,﻿Boonville,﻿Boonville,﻿MO,,38.973639,-92.743242,,,,﻿b_hillner_001,﻿Rev.,﻿B. Hillner,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
@@ -132,7 +132,7 @@
 ﻿stl.mo.0099,﻿church,not recorded,English,,,,﻿Lincoln County,,﻿Millwood,﻿Millwood,﻿MO,,39.102949,-91.012308,,,,﻿f_cleary_001,﻿Rev.,﻿F. Cleary,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0100,﻿church,﻿Assumption,English,,,,﻿Moniteau County,,﻿Moniteau Creek,,﻿MO,,38.582712,-92.579248,﻿stl.mo.0042,﻿Attended from Boonville,,,,,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0101,﻿church,not recorded,English,,,,﻿Montgomery County,,﻿Montgomery City,﻿Montgomery City,﻿MO,,38.977541,-91.504884,,,,﻿m_mccabe_001,﻿Rev.,﻿M. McCabe,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0102,﻿church,not recorded,English,,,,﻿Scott County,,﻿New Hamburgh,﻿New Hamburg,﻿MO,,37.126439,-89.59342,,,,﻿m_scherer_001,﻿Rev.,﻿M. Scherer,,,﻿(St. Lawrence P.O.),,,,,1869,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0102,﻿church,not recorded,English,,,,﻿Scott County,,﻿New Hamburgh,﻿New Hamburg,﻿MO,,37.126439,-89.59342,,,,﻿mar_scherer_001,﻿Rev.,﻿M. Scherer,,,﻿(St. Lawrence P.O.),,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0103,﻿church,﻿St. John the Baptist's,English,,,,﻿New Madrid County,,,,﻿MO,,36.586449,-89.527855,,,,﻿f_mckenna_001,﻿Rev.,﻿F. McKenna,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0104,﻿church,not recorded,English,,,,﻿St. Genevieve County,,﻿New Offenburgh,﻿New Offenburg,﻿MO,,37.908664,-90.19734,,,,﻿t_stein_001,﻿Rev.,﻿T. Stein,,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0200,﻿church,﻿St. Joseph's,English,,,,﻿Osage County,,﻿Westphalia,,﻿MO,,38.440703,-91.996386,,,,﻿joh_b_goeldlin_001,﻿Rev.,﻿John B. Goeldlin,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
@@ -198,12 +198,12 @@
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿p_j_de-smet_001,﻿Rev.,﻿P. J. De Smet,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿fel_l_verreydt_001,﻿Rev.,﻿F. L. Verreydt,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿jos_g_kernion_001,﻿Rev.,﻿J. G. Kernion,﻿S.J.,﻿Minister,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_f_tehan_001,﻿Rev.,﻿J. F. X. Tehan,﻿S.J.,﻿Treasurer,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿john_f_tehan_001,﻿Rev.,﻿J. F. X. Tehan,﻿S.J.,﻿Treasurer,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿tho_oneil_001,﻿Rev.,﻿Thomas O'Neil,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿f_p_nussbaum_001,﻿Rev.,﻿F. P. Nussbaum,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿j_hayes_001,﻿Rev.,﻿J. Hayes,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿m_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿mic_callaghan_001,﻿Rev.,﻿M. Callaghan,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿jg_venneman_001,﻿Rev.,﻿J. G. Menneman,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿p_leysen_001,﻿Rev.,﻿P. Leysen,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿p_ward_002,﻿Rev.,﻿P. Ward,﻿S.J.,,,,,,,1869,﻿,﻿,﻿St. Louis,StLouis

@@ -94,7 +94,7 @@
 ﻿nyc.ny.0113,﻿chapel,not recorded,English,,﻿Randall's Island,,,,﻿New York City,,﻿NY,,40.793227,-73.921286,,,,﻿f_monroe_001,﻿Rev.,﻿F. Monroe,﻿S.J.,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0114,﻿chapel,not recorded,English,,﻿Ward's Island,,,,﻿New York City,,﻿NY,,40.784097,-73.929325,﻿nyc.ny.0075,﻿Attended from Yorkville,,,,,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0108,﻿chapel,﻿Soldier's Chapel,English,,"﻿Fort Columbus, Governor's Island",,,,﻿New York City,,﻿NY,,40.691372,-74.015981,﻿nyc.ny.0042,﻿Attended from St. Peter's Church,,,,,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0117,﻿church,﻿St. Denis',English,,,,﻿Dutchess County,,﻿Beekman,,﻿NY,,41.597689,-73.748007,﻿nyc.ny.0120,"﻿Attended by Rev. D. Sheehan, of Channingsville",,﻿d_sheehan_001,﻿Rev.,﻿D. Sheehan,,,﻿of Channingsville,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0117,﻿church,﻿St. Denis',English,,,,﻿Dutchess County,,﻿Beekman,,﻿NY,,41.597689,-73.748007,﻿nyc.ny.0120,"﻿Attended by Rev. D. Sheehan, of Channingsville",,﻿den_sheehan_001,﻿Rev.,﻿D. Sheehan,,,﻿of Channingsville,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0008,﻿church,﻿St. Thomas',English,,,,﻿Orange County,,﻿Buttermilk Falls,,﻿NY,,,,﻿nyc.ny.0123,"﻿Attended by Rev. F. Caro, of Cold Spring",,﻿f_caro_001,﻿Rev.,﻿F. Caro,,,﻿of Cold Spring,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0120,﻿church,﻿St. Mary's,English,,,,﻿Dutchess County,,﻿Channingsville,,﻿NY,,41.604152,-73.92326,,,,﻿den_sheehan_001,﻿Rev.,﻿Denis Sheehan,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0121,﻿church,﻿St. Mary's,English,,﻿Staten Island,,﻿Richmond County,,﻿Clifton,,﻿NY,,40.616249,-74.067152,,,,﻿joh_lewis_001,﻿Rev.,﻿John Lewis,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
@@ -114,7 +114,7 @@
 ﻿nyc.ny.0139,﻿church,﻿St. Matthew's,English,,,,﻿Westchester County,,﻿Hastings,,﻿NY,,41.01619,-73.834622,,,,﻿dan_oconnor_003,﻿Rev.,﻿D. O'Connor,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0140,﻿church,﻿St. Peter's,English,,,,﻿Rockland County,,﻿Haverstraw,,﻿NY,,40.817087,-73.918068,,,,﻿pat_mahoney_001,﻿Rev.,﻿P. Mahoney,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0142,﻿church,﻿Regina Coeli,English,,,,﻿Dutchess County,,﻿Hyde Park,,﻿NY,,41.788134,-73.935181,﻿nyc.ny.0178,﻿Attended by Rev.,,﻿m_j_scully_001,﻿Rev.,﻿M. J. Scully,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0143,﻿church,not recorded,English,,,,﻿Westchester County,,﻿Irvington,,﻿NY,,41.04022,-73.864097,,"﻿Attended by Rev. P. Egan, of Tarrytown",,﻿p_egan_001,﻿Rev.,﻿P. Egan,,,﻿of Tarrytown,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0143,﻿church,not recorded,English,,,,﻿Westchester County,,﻿Irvington,,﻿NY,,41.04022,-73.864097,,"﻿Attended by Rev. P. Egan, of Tarrytown",,﻿pat_egan_001,﻿Rev.,﻿P. Egan,,,﻿of Tarrytown,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0144,﻿church,not recorded,English,,,,﻿Sullivan County,,﻿Jeffersonville,,﻿NY,,41.778705,-74.937904,﻿nyc.ny.0130,﻿Attended from Ellenville,,,,,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0146,﻿church,not recorded,English,﻿church building,,,﻿Ulster County,,﻿Kingston,,﻿NY,,41.932104,-74.018886,﻿nyc.ny.0180_02,﻿Attended from Rondout,,,,,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0150,﻿church,﻿St. Joachim,English,,,,﻿Dutchess County,,﻿Matteawan,,﻿NY,,41.500423,-73.954394,,,,﻿jam_coyle_001,﻿Rev.,﻿J. Coyle,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
@@ -129,7 +129,7 @@
 ﻿nyc.ny.0162,﻿church,﻿St. Peter's,English,,﻿Staten Island,,﻿Richmond County,,﻿New-Brighton,,﻿NY,,41.844236,-75.008364,,,,﻿jam_l_conron_001,﻿Rev.,﻿J. L. Conron,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0164,﻿church,﻿St. Matthew's,English,,,,﻿Westchester County,,﻿New-Rochelle,,﻿NY,,40.896787,-73.784346,,,,﻿tho_mcloughlin_001,﻿Rev.,﻿Thos. McLoughlin,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0166,﻿church,not recorded,English,,﻿P.O. Fremont Centre,,﻿Sullivan County,,﻿Obernburgh,,﻿NY,,41.84423603,-75.00836375,,,,﻿jos_roesch_001,﻿Rev.,﻿Joseph Roesch,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0169,﻿church,not recorded,English,,,,﻿Westchester County,,﻿Peekskill,,﻿NY,,41.289263,-73.920132,﻿nyc.ny.0196,"﻿Attended by Rev. P. L. Madden, of Verplanck's",,﻿p_l_madden_001,﻿Rev.,﻿P. L. Madden,,,﻿of Verplanck's,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0169,﻿church,not recorded,English,,,,﻿Westchester County,,﻿Peekskill,,﻿NY,,41.289263,-73.920132,﻿nyc.ny.0196,"﻿Attended by Rev. P. L. Madden, of Verplanck's",,﻿pat_l_madden_001,﻿Rev.,﻿P. L. Madden,,,﻿of Verplanck's,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0170,﻿church,﻿St. John's,English,,,,﻿Rockland County,,﻿Piermont,,﻿NY,,41.042041,-73.918192,,,,﻿joh_quinn_002,﻿Rev.,﻿John Quinn,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,﻿Our Lady of Mercy,English,,,,﻿Westchester County,,﻿Port Chester,,﻿NY,,41.003162,-73.669516,,,,﻿mat_dowling_001,﻿Rev.,﻿M. Dowling,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0174,﻿church,﻿Immaculate Conception of B.V.M.,English,,,,﻿Orange County,,﻿Port Jervis,,﻿NY,,41.375094,-74.692663,,,,﻿ric_brennan_001,﻿Rev.,﻿R. Brennan,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
@@ -152,7 +152,7 @@
 ﻿nyc.ny.0196,﻿church,﻿St. Patrick's,English,,,,﻿Westchester County,,﻿Verplanck's Point,,﻿NY,,41.256937,-73.960358,,,,﻿pat_l_madden_001,﻿Rev.,﻿P. L. Madden,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0198,﻿church,﻿St. Raymond's,English,,,,﻿Westchester County,,﻿Westchester,,﻿NY,,40.916188,-73.902106,,,,﻿jer_a_kinsella_001,﻿Rev.,﻿Jeremiah Kinsella,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0199,﻿church,not recorded,English,,,,﻿Orange County,,﻿West Point,,﻿NY,,41.391483,-73.955972,﻿nyc.ny.0123,﻿Attended by Rev. F. Caro,,﻿f_caro_001,﻿Rev.,﻿F. Caro,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0200,﻿church,﻿St. John's,English,,,,﻿Westchester County,,﻿White Plains,,﻿NY,,41.044261,-73.798397,﻿nyc.ny.0173,"﻿Attended by Rev. M. Dowling, of Portchester",,﻿m_dowling_001,﻿Rev.,﻿M. Dowling,,,﻿of Portchester,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0200,﻿church,﻿St. John's,English,,,,﻿Westchester County,,﻿White Plains,,﻿NY,,41.044261,-73.798397,﻿nyc.ny.0173,"﻿Attended by Rev. M. Dowling, of Portchester",,﻿mat_dowling_001,﻿Rev.,﻿M. Dowling,,,﻿of Portchester,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0202,﻿church,not recorded,English,,,,﻿Sullivan County,,﻿Westboro,,﻿NY,,41.577918,-74.488727,﻿nyc.ny.0130,"﻿Attended by Rev. Daniel Mugan, of Ellenville",﻿every third Sunday,﻿dan_mugan_001,﻿Rev.,﻿Daniel Mugan,,,﻿of Ellenville,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0203,﻿church,﻿Immaculate Conception of B.V.M.,English,,,,﻿Westchester County,,﻿Yonkers,,﻿NY,,40.758043,-73.991268,,,,﻿edw_lynch_001,﻿Rev.,﻿Edward Lynch,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0203,﻿church,﻿Immaculate Conception of B.V.M.,English,,,,﻿Westchester County,,﻿Yonkers,,﻿NY,,40.758043,-73.991268,,,,﻿w_oram_001,﻿Rev.,﻿W. Oram,,,,,,,,1865,﻿,﻿,﻿New York,NewYorkCity

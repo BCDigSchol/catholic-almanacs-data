@@ -22,7 +22,7 @@
 ﻿cin.oh.0007,﻿church,﻿St. John's,English,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿bon_hammer_002,﻿Rev.,﻿Bonav. Hammer,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,English,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿jos_ferneding_001,﻿Very Rev.,﻿Joseph Ferneding,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,English,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿her_ferneding_001,﻿Rev.,﻿Herm. Ferneding,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0008,﻿church,﻿St. Paul's,English,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿h_schwenniger_001,﻿Rev.,﻿H. Schwenniger,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0008,﻿church,﻿St. Paul's,English,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿a_schwenniger_001,﻿Rev.,﻿H. Schwenniger,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿eng_stehle_001,﻿Rev.,﻿Engb. Stehle,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,English,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿g_h_schumacher_001,﻿Rev.,﻿G. H. Schumacher,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0010,﻿church,﻿St. Philomena's,English,,,,,,﻿Cincinnati,,﻿OH,,39.09651,-84.509308,,,,﻿aug_m_többé_001,﻿Rev.,﻿A. H. Többé,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -194,7 +194,7 @@
 ﻿col.oh.0061,﻿church,﻿Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Karge,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0062,﻿church,﻿Holy Redeemer,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.7358,-82.986369,,,,﻿mic_ahern_001,﻿Rev.,﻿M. Ahearn,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0146,﻿church,﻿St. Lawrence's,English,,,,﻿Shelby County,,﻿Rhine,,﻿OH,,40.469761,-84.123914,﻿cin.oh.0090,﻿Attended from Fryburgh,,,,,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,,,,﻿j_schreiber_001,﻿Rev.,﻿J. Schreiber,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,,,,﻿lou_j_schreiber_001,﻿Rev.,﻿J. Schreiber,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0149,﻿church,not recorded,English,,,,﻿Clark County,,﻿Selma,,﻿OH,,39.786727,-83.708535,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0151,﻿church,﻿Holy Angels',English,,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,,,﻿wil_f_orourke_001,﻿Rev.,﻿Wm. O'Rourke,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0152,﻿church,not recorded,English,,,,﻿Madison County,,﻿Sommerford,,﻿OH,,39.933394,-83.491588,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -264,7 +264,7 @@
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿h_lawler_001,﻿Rev.,﻿M. J. Lawler,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿ign_panken_002,﻿Rev.,﻿Ign. Panken,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_b_chambers_001,﻿Rev.,﻿J. B. Chambers,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_a_fastré_001,﻿Rev.,﻿J. A. Fastré,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿jos_a_fastré_001,﻿Rev.,﻿J. A. Fastré,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_mcgill_003,﻿Rev.,﻿J. McGill,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿wil_schmidt_001,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,"﻿on Sycamore, between Sixth and Seventh streets",,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_walsh_004,﻿Rev.,﻿J. Walsh,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Cincinnati,Cincinnati
