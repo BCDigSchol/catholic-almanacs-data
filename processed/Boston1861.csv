@@ -1,10 +1,10 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,Unnamed: 32,Unnamed: 33,Unnamed: 34,Unnamed: 35,Unnamed: 36,Unnamed: 37,Unnamed: 38,Unnamed: 39,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿hil_tucker_001,﻿Rev.,﻿Hilary Tucker,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿cha_lynch_001,﻿Rev.,﻿C. Lynch,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿law_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿cathedral,not recorded,English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿j_a_healey_001,﻿Rev.,﻿J. A. Healey,,﻿Chancellor and Sec.,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0001,﻿chapel,not recorded,English,﻿Temporary Chapel. for children,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,[Unnamed Institution],English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿hil_tucker_001,﻿Rev.,﻿Hilary Tucker,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,[Unnamed Institution],English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,[Unnamed Institution],English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿cha_lynch_001,﻿Rev.,﻿C. Lynch,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,[Unnamed Institution],English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿law_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,[Unnamed Institution],English,﻿Land bought for new cathedral,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿j_a_healey_001,﻿Rev.,﻿J. A. Healey,,﻿Chancellor and Sec.,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿chapel,[Unnamed Institution],English,﻿Temporary Chapel. for children,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0001,﻿chapel,﻿Chapel of the Guardian Angels,English,﻿Temporary Chapel. for children,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿hil_tucker_001,﻿Rev.,﻿H. Tucker,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0006,﻿church,﻿Church of St. Vincent de Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.367662,-71.091123,,,,﻿mic_moran_001,﻿Rev.,﻿Michael Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0006,﻿church,﻿Church of St. Vincent de Paul,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.367662,-71.091123,,,,﻿law_s_mcmahon_001,﻿Rev.,﻿L. S. McMahon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -34,16 +34,16 @@
 ﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,,﻿Rev.,﻿T. McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿Church of Immaculate Conception,English,"﻿Stations - Canton, Milton, and Dorchester",﻿Stoughton,,,,﻿Stoughton,﻿Boston,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0054,﻿station,﻿St. Mary's,English,,,,,,﻿Canton,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0235,﻿station,not recorded,English,,,,,,﻿Milton,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0245,﻿station,not recorded,English,,,,,,﻿Dorchester,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0235,﻿station,[Unnamed Institution],English,,,,,,﻿Milton,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0245,﻿station,[Unnamed Institution],English,,,,,,﻿Dorchester,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Church of the Holy Redeemer,English,﻿(E. B.),,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,﻿j_fitton_001,﻿Rev.,﻿J. Fitton,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Point Shirley,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Winthrop,,,,﻿Winthrop,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Deer Island,,,,﻿Winthrop,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,﻿new church building,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.394432,-71.031958,,,,﻿pat_strain_001,﻿Rev.,﻿Patrick Strain,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0113,﻿church,not recorded,English,﻿building,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.462989,-70.950702,﻿bos.ma.0058,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0125,﻿station,not recorded,English,,﻿Nahant,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0125,﻿station,not recorded,English,,﻿Saugus,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0113,﻿church,[Unnamed Institution],English,﻿building,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.462989,-70.950702,﻿bos.ma.0058,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0125,﻿station,[Unnamed Institution],English,,﻿Nahant,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0125,﻿station,[Unnamed Institution],English,,﻿Saugus,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,﻿tho_h_shahan_001,﻿Rev.,﻿Thomas H. Shahan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,,﻿Rev.,﻿Michael Hartney,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151,﻿church,﻿St. James' Church,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.520512,-70.905132,,,,﻿tho_h_shahan_001,﻿Rev.,﻿Thomas H. Shahan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -97,9 +97,9 @@
 ﻿bos.ma.0043,﻿church,﻿St. Paul's,English,,,,,,﻿Blackstone,﻿Blackstone,﻿MA,,42.014854,-71.538262,,,,﻿edw_j_sheridan_001,﻿Rev.,﻿Edward J. Sheridan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0175,﻿church,﻿St. Mary's,English,,,,,,﻿Uxbridge,﻿Uxbridge,﻿MA,,42.077999,-71.625014,﻿bos.ma.0043,,,,﻿Rev.,﻿Edward J. Sheridan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0123,﻿church,﻿St. Bridget's,English,,,,,,﻿Milbury,﻿Millbury,﻿MA,,42.192072,-71.761522,﻿bos.ma.0192,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0081,﻿church,not recorded,English,﻿church not yet dedicated,,,,,﻿Grafton,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0192,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0081,﻿church,not recorded,English,﻿church not yet dedicated,﻿Westboro,,,,﻿Westboro,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0193,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0081,﻿church,not recorded,English,﻿church not yet dedicated,﻿East Douglas,,,,﻿East Douglas,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0194,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0081,﻿church,[Unnamed Institution],English,﻿church not yet dedicated,,,,,﻿Grafton,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0192,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0081,﻿church,[Unnamed Institution],English,﻿church not yet dedicated,﻿Westboro,,,,﻿Westboro,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0193,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0081,﻿church,[Unnamed Institution],English,﻿church not yet dedicated,﻿East Douglas,,,,﻿East Douglas,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0194,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0104,﻿church,﻿St. Polycarp's,English,,,,,,﻿Leicester,﻿Leicester,﻿MA,,42.245926,-71.908684,﻿bos.ma.0197,﻿Attended from the College of the Holy Cross,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0162,﻿church,﻿St. Mary's,English,,,,,,﻿Spencer,﻿Spencer,﻿MA,,42.243968,-71.992287,﻿bos.ma.0197,﻿Attended from the College of the Holy Cross,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0184,﻿church,﻿St. Louis,English,,,,,,﻿Webster,﻿Webster,﻿MA,,42.049282,-71.87792,,,,﻿jam_quan_001,﻿Rev.,﻿James Quan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -136,8 +136,8 @@
 ﻿bos.ma.0170,﻿station,﻿St. Mary's,English,,﻿Mansfield,,,,﻿Taunton,﻿Taunton,﻿MA,,41.906969,-71.09265,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.698991,-71.157545,,,,﻿edw_murphy_001,﻿Rev.,﻿Edward Murphy,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,,,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.636215,-70.934205,,,,﻿jos_p_tallon_001,﻿Rev.,﻿Joseph P. Tallon,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0126,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0126,﻿station,not recorded,English,﻿church not dedicated,﻿Martha's Vineyard,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0126,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0129,﻿Attended from New Bedford,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0126,﻿station,[Unnamed Institution],English,﻿church not dedicated,﻿Martha's Vineyard,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,﻿wil_moran_001,﻿Rev.,﻿Wm. Moran,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Wareham,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿station,﻿St. Peter's,English,,﻿Plymouth,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.750158,-70.508535,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

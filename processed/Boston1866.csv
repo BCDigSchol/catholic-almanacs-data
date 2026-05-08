@@ -51,8 +51,8 @@
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.3944322,-71.0319581,,,,﻿p_j_harkins_001,﻿Rev.,﻿Patrick Harkins,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0113,﻿church,﻿St. Mary's,English,,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.4629887,-70.9507025,,,,﻿p_strain_001,﻿Rev.,﻿Patrick Strain,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0113,﻿church,﻿St. Mary's,English,,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.4629887,-70.9507025,,,,﻿p_j_harkins_001,﻿Rev.,﻿Patrick Harkins,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0125,﻿station,not recorded,English,﻿lot bought,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.4265633,-70.922279,,,,﻿p_strain_001,﻿Rev.,﻿Patrick Strain,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0125,﻿station,not recorded,English,﻿lot bought,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.4265633,-70.922279,,,,﻿p_j_harkins_001,﻿Rev.,﻿Patrick Harkins,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0125,﻿station,[Unnamed Institution],English,﻿lot bought,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.4265633,-70.922279,,,,﻿p_strain_001,﻿Rev.,﻿Patrick Strain,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0125,﻿station,[Unnamed Institution],English,﻿lot bought,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.4265633,-70.922279,,,,﻿p_j_harkins_001,﻿Rev.,﻿Patrick Harkins,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿w_j_denvir_001,﻿Rev.,﻿Wm. J. J. Denvir,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -69,7 +69,7 @@
 ﻿bos.ma.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Canton,﻿Canton,﻿MA,,42.1584324,-71.1447732,,,,﻿joh_flattely_001,﻿Rev.,﻿John Flattely,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0167,﻿church,﻿Immaculate Conception,English,,,,,,﻿Stoughton,﻿Stoughton,﻿MA,,42.1254771,-71.1085252,,,,﻿joh_flattely_001,﻿Rev.,﻿John Flattely,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0235,﻿church,﻿St. Gregory's,English,,,,,,﻿Milton,﻿Dorchester,﻿MA,,,,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas R. McNulty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0245,﻿station,not recorded,English,,,,,,﻿Dorchester,,﻿MA,,,,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas R. McNulty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0245,﻿station,[Unnamed Institution],English,,,,,,﻿Dorchester,,﻿MA,,,,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas R. McNulty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,﻿mic_hartney_001,﻿Rev.,﻿Michael Hartney,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,﻿w_j_daly_001,﻿Rev.,﻿Wm. J. Daly,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0116,﻿church,﻿Star of the Sea,English,,,,,,﻿Marblehead,﻿Marblehead,﻿MA,,42.4972713,-70.8584335,,,,﻿cha_rainoni_001,﻿Rev.,﻿Charles Rainoni,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -77,7 +77,7 @@
 ﻿bos.ma.0080,﻿church,﻿St. Ann's,English,,,,,,﻿Gloucester,﻿Gloucester,﻿MA,,42.615934,-70.6630684,,,,﻿lui_acquarone_001,﻿Rev.,﻿L. Acquarone,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0149,﻿church,﻿St. Joachim's,English,,,,,,﻿Rockport,﻿Rockport,﻿MA,,42.6554893,-70.6220368,,,,﻿lui_acquarone_001,﻿Rev.,﻿L. Acquarone,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0131,﻿church,﻿St. Mary's,English,,,,,,﻿Newburyport,﻿Newburyport,﻿MA,,42.8220853,-70.9084099,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0030,﻿church,not recorded,English,﻿church building,,,,,﻿Amesbury,﻿Amesbury,﻿MA,,42.8422459,-70.9338355,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0030,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Amesbury,﻿Amesbury,﻿MA,,42.8422459,-70.9338355,,,,﻿hen_lennon_001,﻿Rev.,﻿Henry Lennon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0087,﻿church,﻿St. Gregory's,English,,,,,,﻿Haverhill,﻿Haverhill,﻿MA,,42.7803453,-71.0858284,,,,﻿joh_t_mcdonnell_001,﻿Rev.,﻿John T. McDonnell,﻿O.S.D.,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,﻿jam_d_taaffe_001,﻿Rev.,﻿James D. Taaffe,﻿O.S.D,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,﻿wil_orr_001,﻿Rev.,﻿William Orr,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -89,12 +89,12 @@
 ﻿bos.ma.0031,﻿church,﻿St. Augustine's,English,,,,,,﻿Andover,﻿Andover,﻿MA,,42.6533265,-71.1409366,,,,﻿edw_a_donnelly_001,﻿Rev.,﻿Edward A. Donnelly,﻿O.S.A.,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Old Cambridge,﻿Cambridge,﻿MA,,42.3815709,-71.1300768,,,,﻿man_p_dougherty_001,﻿Rev.,﻿Manasses P. Dougherty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0052,﻿church,﻿St. John's,English,,﻿East Cambridge,,,,﻿Cambridge,﻿Cambridge,﻿MA,,42.3686043,-71.0773939,,,,﻿j_w_donahoe_001,﻿Rev.,﻿John W. Donahue,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0053,﻿church,not recorded,English,﻿church building,,,,,﻿Cambridgeport,﻿Cambridge,﻿MA,,42.3714183,-71.1019889,,,,﻿ant_rossi_001,﻿Rev.,﻿Antonio Rossi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0053,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Cambridgeport,﻿Cambridge,﻿MA,,42.3714183,-71.1019889,,,,﻿ant_rossi_001,﻿Rev.,﻿Antonio Rossi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles',English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.4766011,-71.1509813,,,,﻿joh_qualey_001,﻿Rev.,﻿John Qualey,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0107,﻿church,not recorded,English,,,,,,﻿East Lexington,﻿East Lexington,﻿MA,,42.4273179,-71.2036664,,,,﻿joh_qualey_001,﻿Rev.,﻿John Qualey,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0107,﻿church,[Unnamed Institution],English,,,,,,﻿East Lexington,﻿East Lexington,﻿MA,,42.4273179,-71.2036664,,,,﻿joh_qualey_001,﻿Rev.,﻿John Qualey,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0183,﻿church,﻿St. Patrick's,English,,,,,,﻿Watertown,﻿Watertown,﻿MA,,42.3678137,-71.1893388,,,,﻿joh_mccarthy_001,﻿Rev.,﻿John McCarthy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0179,﻿church,﻿St. Mary's,English,,,,,,﻿Waltham,﻿Waltham,﻿MA,,42.3794214,-71.2378511,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0063,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Concord,﻿Concord,﻿MA,,42.4603719,-71.3489484,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0063,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Concord,﻿Concord,﻿MA,,42.4603719,-71.3489484,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,42.4247646,-71.0874735,,,,﻿tho_scully_001,﻿Rev.,﻿Thomas Scully,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South-Reading,﻿Reading,﻿MA,,,,,,,﻿tho_scully_001,﻿Rev.,﻿Thomas Scully,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0108,﻿church,﻿St. Peter's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.6334247,-71.3161718,,,,﻿pet_crudden_001,﻿Rev.,﻿Peter Crudden,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -118,8 +118,8 @@
 ﻿bos.ma.0122,﻿church,﻿St. Mary's,English,,,,,,﻿Milford,﻿Milford,﻿MA,,42.1398577,-71.5163049,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0095,﻿church,﻿St. Malachi's,English,,,,,,﻿Hopkinton,﻿Hopkinton,﻿MA,,42.2286954,-71.5225646,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0119,﻿church,not recorded,English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0119,﻿church,not recorded,English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0119,﻿church,[Unnamed Institution],English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿pat_cuddihy_001,﻿Rev.,﻿Patrick Cuddihy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0119,﻿church,[Unnamed Institution],English,﻿not dedicated,,,,,﻿Medway,﻿Medway,﻿MA,,42.4184296,-71.1061639,,,,﻿tho_barry_001,﻿Rev.,﻿Thomas Barry,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0168,﻿church,﻿St. George's,English,,,,,,﻿Saxonville,﻿Framingham,﻿MA,,42.3264843,-71.399505,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.2847975,-71.3439518,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0117,﻿church,﻿Immaculate Conception,English,,,,,,﻿Marlboro,﻿Marlboro,﻿MA,,42.347628,-71.5499736,,,,﻿joh_a_conlin_001,﻿Rev.,﻿John A. Conlin,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -133,7 +133,7 @@
 ﻿bos.ma.0137,﻿church,﻿St. Roch's,English,,,,,,﻿Oxford,﻿Oxford,﻿MA,,42.1186863,-71.8641226,﻿bos.ma.0184,﻿Attended from Webster,,,,,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0145,﻿church,﻿St. John's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,42.2442933,-71.001448,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0146,﻿church,﻿St. Mary's,English,,,,,,﻿Quincy,﻿Quincy,﻿MA,,42.2462941,-71.0287839,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0088,﻿station,not recorded,English,,,,,,﻿Hingham,﻿Hingham,﻿MA,,,,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0088,﻿station,[Unnamed Institution],English,,,,,,﻿Hingham,﻿Hingham,﻿MA,,,,,,,﻿wil_halley_001,﻿Rev.,﻿William Halley,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,42.1687108,-71.0325476,,,,﻿jam_mcglew_001,﻿Rev.,﻿James McGlue,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0027,﻿church,﻿St. Bridget's,English,,,,,,﻿Abington,﻿Abington,﻿MA,,42.1163123,-70.9371291,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0187,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Weymouth,﻿Weymouth,﻿MA,,42.2180724,-70.9410356,,,,﻿a_l_roche_001,﻿Rev.,﻿A. L. Roche,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -143,15 +143,15 @@
 ﻿bos.ma.0169,﻿church,﻿Holy Family,English,,,,,,﻿Squabetty,﻿Raynham,﻿MA,,41.9487077,-71.0731162,,,,﻿cor_m_foley_001,﻿Rev.,﻿Cornelius M. Foley,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.6989912,-71.1575452,,,,﻿edw_murphy_001,﻿Rev.,﻿Edward Murphy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0037,﻿church,﻿St. Mary's,English,,,,,,﻿Attleboro,﻿Attleboro,﻿MA,,41.9445441,-71.2856082,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0195,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Wrentham,﻿Wrentham,﻿MA,,42.0667652,-71.3281114,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0195,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Wrentham,﻿Wrentham,﻿MA,,42.0667652,-71.3281114,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,,,,,,﻿New-Bedford,﻿New Bedford,﻿MA,,41.6362152,-70.934205,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0126,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.0999891,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0126,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.0999891,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿Lawrence S. McMahon,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0154,﻿church,﻿St. Peter's,English,,,,,,﻿Sandwich,﻿Sandwich,﻿MA,,41.7501584,-70.5085348,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0144,﻿church,﻿Our Lady of Refuge,English,,,,,,﻿Provincetown,﻿Provincetown,﻿MA,,42.0547136,-70.1846012,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0181,﻿church,not recorded,English,"﻿new church, not dedicated",,,,,﻿Wareham,﻿Wareham,﻿MA,,41.757061,-70.7168327,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0086,﻿church,not recorded,English,﻿church building,,,,,﻿Harwick,﻿Harwich,﻿MA,,41.6696277,-70.1002968,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0181,﻿church,[Unnamed Institution],English,"﻿new church, not dedicated",,,,,﻿Wareham,﻿Wareham,﻿MA,,41.757061,-70.7168327,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0086,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Harwick,﻿Harwich,﻿MA,,41.6696277,-70.1002968,,,,﻿pet_bertoldi_001,﻿Rev.,﻿Peter Bertoldi,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas',English,,,,,,﻿South Bridgewater,﻿South Bridgewater,﻿MA,,41.9976238,-70.9882017,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0246,﻿church,not recorded,English,﻿church not dedicated,,,,,﻿Bridgewater,,﻿MA,,,,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0246,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Bridgewater,,﻿MA,,,,,,,﻿ber_oreilly_001,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,﻿North-Bridgewater,﻿North Bridgewater,﻿MA,,41.9903519,-70.9750541,,,,﻿t_b_mcnulty_001,﻿Rev.,﻿Thomas B. McNulty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0071,﻿church,﻿Immaculate Conception,English,"﻿new church, not dedicated",,,,,﻿North-Easton,﻿Easton,﻿MA,,42.0245442,-71.1286594,,,,﻿t_b_mcnulty_001,﻿Rev.,﻿Thomas B. McNulty,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.1464197,-72.6055811,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -168,10 +168,10 @@
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.2096607,-72.6082792,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿church,﻿St. Mary's,English,,,,,,﻿Northampton,﻿Northampton,﻿MA,,42.3373356,-72.6521968,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0083,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0083,﻿church,not recorded,English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0083,﻿church,[Unnamed Institution],English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿jam_f_sullivan_001,﻿Rev.,﻿James F. Sullivan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0083,﻿church,[Unnamed Institution],English,﻿church lot bought,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.5994104,,,,﻿joh_hannegan_001,﻿Rev.,﻿John Hannigan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.4545161,-73.2508765,,,,﻿e_purcell_001,﻿Rev.,﻿Edward H. Purcell,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0249,﻿church,not recorded,English,﻿new church building,,,,,,,﻿MA,,,,,,,﻿m_t_maguire_001,﻿Rev.,﻿M. F. Maguire,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0249,﻿church,[Unnamed Institution],English,﻿new church building,,,,,,,﻿MA,,,,,,,﻿m_t_maguire_001,﻿Rev.,﻿M. F. Maguire,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0248,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,,﻿MA,,,,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0237,﻿church,﻿St. Francis',English,﻿new church building,,,,,﻿North-Adams,,﻿MA,,,,,,,﻿cha_lynch_001,﻿Rev.,﻿Charles Lynch,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿North-Lee,﻿Lee,﻿MA,,42.3074555,-73.2432201,,,,﻿geo_h_brennan_001,﻿Rev.,﻿George H. Brennan,,,,,,,,1866,﻿,﻿,﻿Boston,Boston
@@ -228,18 +228,18 @@
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,﻿German,,﻿Under the Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿student,﻿233 pupils,,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,﻿German,,,,,,,,﻿MA,,,,,,,,,,,,,﻿religious,﻿3 Sisters of Notre Dame,﻿3 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,﻿German,,,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿227 pupils,﻿3 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0226,﻿school,not recorded,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿religious,﻿22 Sisters of Notre Dame,﻿22 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0226,﻿school,not recorded,English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿student,﻿1250 pupils,﻿22 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0227,﻿school,not recorded,English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿religious,﻿12 Sisters of Notre Dame,﻿12 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0227,﻿school,not recorded,English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿student,﻿600 pupils,﻿12 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿religious,﻿3 lay teachers,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_02,﻿school,not recorded,English,﻿Parochial School for Boys,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿student,﻿220 pupils,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_03,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿religious,﻿5 Sisters of Notre Dame,﻿5 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0151_03,﻿school,not recorded,English,﻿Parochial School for Girls,,,,,,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿student,﻿360 pupils,﻿5 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿teacher,﻿7 teachers,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0152_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿student,﻿400 pupils,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0240,﻿school,not recorded,English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿teacher,﻿3 teachers,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0240,﻿school,not recorded,English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿250 pupils,,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿religious,﻿9 Sisters of Notre Dame,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿500 day-scholars,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0102_02,﻿school,not recorded,English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿200 pupils of the evening school,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0226,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿religious,﻿22 Sisters of Notre Dame,﻿22 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0226,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3354829,-71.0456735,,,,,,,,,,﻿student,﻿1250 pupils,﻿22 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0227,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿religious,﻿12 Sisters of Notre Dame,﻿12 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0227,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,,,,,,,,,,﻿student,﻿600 pupils,﻿12 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Boys,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿religious,﻿3 lay teachers,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Boys,﻿St. James' Church,,,,﻿Salem,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿student,﻿220 pupils,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_03,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,,,,,,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿religious,﻿5 Sisters of Notre Dame,﻿5 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0151_03,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,,,,,,﻿Salem,﻿MA,,42.5205117,-70.9051323,,,,,,,,,,﻿student,﻿360 pupils,﻿5 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0152_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿teacher,﻿7 teachers,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0152_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿Church of the Immaculate Conception,,,,﻿Salem,﻿Salem,﻿MA,,42.5197473,-70.8954626,,,,,,,,,,﻿student,﻿400 pupils,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0240,﻿school,[Unnamed Institution],English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿teacher,﻿3 teachers,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0240,﻿school,[Unnamed Institution],English,﻿Parochial School for Boys,,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿250 pupils,,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿religious,﻿9 Sisters of Notre Dame,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿500 day-scholars,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0102_02,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿St. Mary's Church,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.7070354,-71.1631137,,,,,,,,,,﻿student,﻿200 pupils of the evening school,﻿9 Sisters of Notre Dame,,1866,﻿,﻿,﻿Boston,Boston

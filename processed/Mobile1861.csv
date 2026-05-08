@@ -4,20 +4,20 @@
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿d_manucy_001,﻿Rev.,﻿D. Manucy,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿d_gibbons_001,﻿Rev.,﻿D. Gibbons,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿pet_imsand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0007,﻿church,not recorded,English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bayou le Batre,﻿AL,,30.406952,-88.260719,﻿mob.al.0003,﻿Visited from Spring Hill College (St. Joseph's.),,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0008,﻿church,not recorded,English,,,,﻿Wilcox County,﻿Wilcox County,﻿Camden,﻿Camden,﻿AL,,31.990981,-87.290546,,,,﻿a_d_pellicer_001,﻿Rev.,﻿A. D. Pellicer,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0007,﻿church,[Unnamed Institution],English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou le Batre and Belle Fontaine,﻿Bayou le Batre,﻿AL,,30.406952,-88.260719,﻿mob.al.0003,﻿Visited from Spring Hill College (St. Joseph's.),,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0008,﻿church,[Unnamed Institution],English,,,,﻿Wilcox County,﻿Wilcox County,﻿Camden,﻿Camden,﻿AL,,31.990981,-87.290546,,,,﻿a_d_pellicer_001,﻿Rev.,﻿A. D. Pellicer,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0056,﻿station,﻿Dog River Factory,English,,﻿Dog River,,﻿Mobile County,﻿Mobile County,,﻿Mobile,﻿AL,,30.62146231,-88.11251656,﻿mob.al.0003,"﻿attended from St. Joseph's Col. Spring Hill, Mobile",,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0014,﻿church,﻿St. Philip's,English,,,,﻿Baldwin County,,﻿Fish River,,﻿AL,,30.620161,-87.805831,﻿mob.al.0001,"﻿visited from Cathedral, Mobile",,﻿l_bissey_001,﻿Rev.,﻿L. Bissey,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0020,﻿church,﻿St. Paul's,English,,,,﻿Mobile County,﻿Mobile County,﻿Mount Vernon,﻿Mount Vernon,﻿AL,,31.085178,-88.013332,﻿mob.al.0003,﻿Visited from Spring Hill College,,﻿serra_001,﻿Rev.,﻿J. B. Serra,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0021,﻿church,not recorded,English,,,,﻿Mobile County,,﻿Mont Louis,﻿Mon Louis,﻿AL,,30.440475,-88.105832,﻿mob.al.0001,"﻿visited from Cathedral, Mobile",,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0021,﻿church,[Unnamed Institution],English,,,,﻿Mobile County,,﻿Mont Louis,﻿Mon Louis,﻿AL,,30.440475,-88.105832,﻿mob.al.0001,"﻿visited from Cathedral, Mobile",,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0022,﻿church,﻿St. Peter's,English,,,,,,﻿Montgomery,﻿Montgomery,﻿AL,,32.37547,-86.305845,,,,﻿a_d_pellicer_001,﻿Rev.,﻿A. D. Pellicer,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0025,﻿church,not recorded,English,,,,﻿Mobile County,,﻿Spring Hill,﻿Mobile,﻿AL,,30.698523,-88.13889,,,,﻿f_villebois_001,﻿Rev.,﻿F. Villebois,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0025,﻿church,[Unnamed Institution],English,,,,﻿Mobile County,,﻿Spring Hill,﻿Mobile,﻿AL,,30.698523,-88.13889,,,,﻿f_villebois_001,﻿Rev.,﻿F. Villebois,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0026,﻿convent,﻿St. F. de Sales,English,,,,﻿Mobile County,,﻿Summerville,﻿Mobile,﻿AL,,30.608223,-88.246118,,,,﻿d_whelan_001,﻿Rev.,﻿D. Whelan,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0028,﻿church,﻿St. John the Baptist's,English,﻿vacant.,,,,﻿Tuscaloosa County,﻿Tuscaloosa,﻿Tuscaloosa,﻿AL,,33.195908,-87.550599,,,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Apalachicola,﻿FL,,29.724348,-84.984468,,,,﻿jas_miller_001,﻿Rev.,﻿Jas. Miller,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0057,﻿church,not recorded,English,,,,﻿Escambia County,,﻿Barrancas,﻿Fort Barrancas,﻿FL,,30.34797173,-87.29834071,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0057,﻿church,[Unnamed Institution],English,,,,﻿Escambia County,,﻿Barrancas,﻿Fort Barrancas,﻿FL,,30.34797173,-87.29834071,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,30.414261,-87.209483,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0058,﻿church,not recorded,English,,,,,,﻿Perdido,,﻿FL,,30.29835914,-87.43031054,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0058,﻿church,[Unnamed Institution],English,,,,,,﻿Perdido,,﻿FL,,30.29835914,-87.43031054,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0034,﻿church,﻿St. John Evangelist's,English,,,,,﻿Escambia County,﻿Warrington,﻿Warrington,﻿FL,,30.383773,-87.278385,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.848624,,,,﻿f_gautrelet_001,﻿Very Rev.,﻿F. Gautrelet,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,33.279527,-85.848624,,,,﻿r_olivier_001,﻿Rev.,﻿Robert Olivier,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Mobile,Mobile

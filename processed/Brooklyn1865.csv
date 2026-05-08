@@ -33,7 +33,7 @@
 ﻿bro.ny.0020,﻿church,﻿St. Anne's,English,,﻿corner of Front and Gold streets,,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.7001606,-73.9829234,,,,﻿bar_gleeson_001,﻿Rev.,﻿Bartholomew Gleeson,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0021,﻿church,﻿Annunciation B. V. M.,﻿German,,﻿corner of North-Fifth and Seventh streets,,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.6696169,-73.9836934,,,,﻿joh_hauptman_001,﻿Rev.,﻿John Hauptmann,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0027,﻿church,﻿B.V. of Mount Carmel,English,,,,﻿Queens County,,﻿Astoria,﻿Astoria,﻿NY,,40.7708333,-73.9236111,,,,﻿jam_phelan_001,﻿Rev.,﻿James Phelan,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0107,﻿church,not recorded,English,,,,﻿Queens County,﻿Suffolk County,﻿Cold Spring,﻿Cold Spring Harbor,﻿NY,,,,,,,﻿jer_j_crowley_001,﻿Rev.,﻿Jeremiah J. Crowley,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0107,﻿church,[Unnamed Institution],English,,,,﻿Queens County,﻿Suffolk County,﻿Cold Spring,﻿Cold Spring Harbor,﻿NY,,,,,,,﻿jer_j_crowley_001,﻿Rev.,﻿Jeremiah J. Crowley,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0032,﻿church,﻿St. Malachi's,English,,,,,,﻿East New York,﻿East New York,﻿NY,,40.6769528,-73.8906672,,,,﻿p_creighton_001,﻿Rev.,﻿P. Creighton,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0033,﻿church,﻿St. Michael's,﻿German,,,,,,﻿East New York,﻿East New York,﻿NY,,40.6076253,-73.9428964,,,,﻿j_peine_001,﻿Rev.,﻿J. Peine,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0034,﻿church,﻿Holy Cross,English,,,,﻿Kings County,,﻿Flatbush,﻿Flatbush,﻿NY,,40.6503815,-73.9535015,,,,﻿j_a_strain_001,﻿Rev.,﻿J. A. Strain,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -41,27 +41,27 @@
 ﻿bro.ny.0036,﻿church,﻿St. Patrick's,English,,,,﻿,,﻿Fort Hamilton,﻿Fort Hamilton,﻿NY,,40.6094454,-74.0285434,,,,﻿j_tanzer_001,﻿Rev.,﻿John Tanzer,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0037,﻿church,﻿St. Boniface's,﻿German,,,,﻿,,﻿Foster's Meadow,﻿Elmont,﻿NY,,40.6953904,-73.715967,﻿bro.ny.0029,﻿Attended from Strattonport,,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0038,﻿church,﻿St. Patrick's,English,,,,﻿Queens County,,﻿Glen Cove,﻿Glen Cove,﻿NY,,40.8623217,-73.6337389,,,,﻿jam_mcenroe_001,﻿Rev.,﻿James McEnroe,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0039,﻿church,not recorded,English,﻿church not dedicated,,,﻿,,﻿Greenport,﻿Greenport,﻿NY,,41.100594,-72.3671765,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0039,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿,,﻿Greenport,﻿Greenport,﻿NY,,41.100594,-72.3671765,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0042,﻿church,﻿St. Patrick's,English,,,,﻿Suffolk County,,﻿Islip,﻿Islip,﻿NY,,40.7297786,-73.2105665,﻿bro.ny.0107,﻿Attended from Cold Spring,,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0043,﻿church,﻿St. Monica's,English,,,,﻿Queens County,,﻿Jamaica,﻿Jamaica,﻿NY,,40.7037439,-73.7991953,,,,﻿ant_farley_001,﻿Rev.,﻿Anthony Farley,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0041,﻿church,﻿St. Ignatius',English,,,,﻿Queens County,,﻿Hicksville,﻿Hicksville,﻿NY,,40.7684331,-73.5251253,,,,﻿cas_muller_001,﻿Rev.,﻿Caspar Muller,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0044,﻿church,not recorded,English,,,,﻿Queens County,,﻿Laurel Hill,﻿Laurel Hill,﻿NY,,40.7282239,-73.7948516,﻿bro.ny.0062,﻿Attended from Winfield,,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0044,﻿church,[Unnamed Institution],English,,,,﻿Queens County,,﻿Laurel Hill,﻿Laurel Hill,﻿NY,,40.7282239,-73.7948516,﻿bro.ny.0062,﻿Attended from Winfield,,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0045,﻿church,﻿St. Mary's,English,,,,﻿Queens County,,﻿Manhasset,﻿Manhasset,﻿NY,,40.7978787,-73.6995749,﻿bro.ny.0035,﻿Attended from Flushing,,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0046,﻿church,﻿St. Margaret's,English,,,,﻿,,﻿Middle Village,﻿Middle Village,﻿NY,,40.7158445,-73.8722606,,,,﻿j_peine_001,﻿Rev.,﻿J. Peine,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0049,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Patchogue,﻿Patchogue,﻿NY,,40.7659783,-73.019343,﻿bro.ny.0040,﻿Attended from Huntingdon,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0052,﻿church,not recorded,English,,,,﻿,,﻿River Head,﻿Riverhead,﻿NY,,40.9170435,-72.6620402,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0049,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Patchogue,﻿Patchogue,﻿NY,,40.7659783,-73.019343,﻿bro.ny.0040,﻿Attended from Huntingdon,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0052,﻿church,[Unnamed Institution],English,,,,﻿,,﻿River Head,﻿Riverhead,﻿NY,,40.9170435,-72.6620402,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0053,﻿church,"﻿St. Mary's, Star of the Sea",English,,,,﻿,,﻿Rockaway,﻿Rockaway,﻿NY,,40.600749,-73.752735,﻿bro.ny.0043,﻿Attended from Jamaica,"﻿every Sunday during the summer months, and once a month during the remainder of the year",,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0054,﻿church,﻿St. Andrew's,English,,,,﻿,,﻿Sag Harbor,﻿Sag Harbor,﻿NY,,40.9984875,-72.2933156,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,40.85550544,-73.19824655,﻿bro.ny.0040,﻿Attended from Huntingdon,﻿once a month,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0057,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,41.0648222,-72.4261962,,,,﻿jos_brunemann_001,﻿Rev.,﻿Jos. Brunemann,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0058,﻿station,not recorded,English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.3895296,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0103,﻿station,not recorded,English,,,,,,﻿Hermitage,,﻿NY,,,,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0059,﻿station,not recorded,English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.0106563,-72.4850859,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0060,﻿station,not recorded,English,,,,﻿,,﻿Mattatuck,﻿Mattituck,﻿NY,,40.9912115,-72.5342547,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0057,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,41.0648222,-72.4261962,,,,﻿jos_brunemann_001,﻿Rev.,﻿Jos. Brunemann,﻿O.S.F.,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0058,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.3895296,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0103,﻿station,[Unnamed Institution],English,,,,,,﻿Hermitage,,﻿NY,,,,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0059,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.0106563,-72.4850859,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0060,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Mattatuck,﻿Mattituck,﻿NY,,40.9912115,-72.5342547,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0029,﻿church,﻿St. Fidelis,English,,,,﻿,,﻿Strattonport,,﻿NY,,40.785139,-73.844594,,,,﻿jos_huber_001,﻿Rev.,﻿Jos. Huber,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0061,﻿church,﻿St. Bridget's,English,,,,﻿Queens County,,﻿Westbury,﻿Westbury,﻿NY,,40.7556561,-73.5876273,,,,﻿jam_mcenroe_001,﻿Rev.,﻿James McEnroe,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0062,﻿church,﻿B. V. M. Help of Christians,English,,,,﻿Queens County,,﻿Winfield,﻿Woodside,﻿NY,,40.7532704,-73.9068858,,,,﻿ign_t_goetz_001,﻿Rev.,﻿Ignatius Theo. Goetz,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0063,﻿church,not recorded,English,,,,﻿,,﻿Yaphank,﻿Yaphank,﻿NY,,40.8367653,-72.9170487,﻿bro.ny.0057,﻿Attended from Southold,﻿every six weeks,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0063,﻿church,[Unnamed Institution],English,,,,﻿,,﻿Yaphank,﻿Yaphank,﻿NY,,40.8367653,-72.9170487,﻿bro.ny.0057,﻿Attended from Southold,﻿every six weeks,,,,,,,,,,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0067&0067_02,"﻿convent, academy",﻿Convent of the Academy of the Visitation,English,,﻿corner of Johnson and Pearl streets,,,,﻿Brooklyn,,﻿NY,,40.6992559,-73.9877193,,,,,﻿Mother,﻿Clotilda Smith,,﻿Superior,,﻿religious,"﻿number of professed, 18",,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0067&0067_02,"﻿convent, academy",﻿Convent of the Academy of the Visitation,English,,﻿corner of Johnson and Pearl streets,,,,﻿Brooklyn,,﻿NY,,40.6992559,-73.9877193,,,,,,,,,,﻿religious,"﻿novices, 5",,,1865,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0067&0067_02,"﻿convent, academy",﻿Convent of the Academy of the Visitation,English,,﻿corner of Johnson and Pearl streets,,,,﻿Brooklyn,,﻿NY,,40.6992559,-73.9877193,,,,,,,,,,﻿religious,"﻿lay sisters, 7",,,1865,﻿,﻿,﻿Brooklyn,Brooklyn

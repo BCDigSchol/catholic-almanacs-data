@@ -57,10 +57,10 @@
 ﻿bro.ny.0025,﻿church,﻿Our Lady of Victory,English,,"﻿Throop avenue, between Macon McDonough streets",,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.6819818,-73.9405212,,,,﻿p_creighton_001,﻿Rev.,﻿P. Creighton,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0026,﻿church,﻿Church of All Saints,﻿German,,﻿corner of Throop avenue Thornton street,,﻿Brooklyn County,,﻿New York City,﻿New York City,﻿NY,,40.7009804,-73.9445788,,,,﻿ant_arnold_001,﻿Rev.,﻿Anthony Arnold,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0027,﻿church,﻿B.V. Mary of Mount Carmel,English,,,,﻿Queens County,,﻿Astoria,﻿Astoria,﻿NY,,40.7708333,-73.9236111,,,,﻿jam_phelan_001,﻿Rev.,﻿James Phelan,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0028,﻿church,not recorded,English,,﻿church at Patchogue,,﻿,,﻿Bellport,﻿Bellport,﻿NY,,40.7570429,-72.9392727,,,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0028,﻿church,[Unnamed Institution],English,,﻿church at Patchogue,,﻿,,﻿Bellport,﻿Bellport,﻿NY,,40.7570429,-72.9392727,,,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0029,﻿church,﻿St. Fidelis,English,,,,﻿,,﻿College Point,﻿College Point,﻿NY,,40.7851389,-73.8445942,﻿bro.ny.0052,﻿Attended from Riverhead,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0030,﻿church,not recorded,English,,﻿Dutch Kills,,﻿Queens County,,﻿L.I. City,﻿L.I. City,﻿NY,,40.7575331,-73.939115,,,,﻿jos_huber_001,﻿Rev.,﻿Jos. Huber,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0031,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Easthampton,﻿Easthampton,﻿NY,,41.083151,-71.9994067,,,,﻿m_marco_001,﻿Rev.,﻿M. Marco,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0030,﻿church,[Unnamed Institution],English,,﻿Dutch Kills,,﻿Queens County,,﻿L.I. City,﻿L.I. City,﻿NY,,40.7575331,-73.939115,,,,﻿jos_huber_001,﻿Rev.,﻿Jos. Huber,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0031,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Easthampton,﻿Easthampton,﻿NY,,41.083151,-71.9994067,,,,﻿m_marco_001,﻿Rev.,﻿M. Marco,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0032,﻿church,﻿St. Malachi's,English,,,,﻿Kings County,,﻿East New York,﻿East New York,﻿NY,,40.6769528,-73.8906672,﻿bro.ny.0054,﻿Attended occasionally from Sag Harbor,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0033,﻿church,﻿St. Michael's,﻿German,,,,﻿Kings County,,﻿East New York,﻿East New York,﻿NY,,40.6076253,-73.9428964,,,,﻿mar_carroll_001,﻿Rev.,﻿Martin Carroll,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0034,﻿church,﻿Holy Cross,English,,,,﻿Kings County,,﻿Flatbush,﻿Flatbush,﻿NY,,40.6503815,-73.9535015,,,,﻿w_oberschneider_001,﻿Rev.,﻿W. Oberschneider,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -73,31 +73,31 @@
 ﻿bro.ny.0037,﻿church,﻿St. Boniface's,﻿German,,,,﻿,,﻿Foster's Meadow,﻿Elmont,﻿NY,,40.6953904,-73.715967,,,,﻿jos_hauber_001,﻿Rev.,﻿Joseph Hauber,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0038,﻿church,﻿St. Patrick's,English,,,,﻿Queens County,,﻿Glen Cove,﻿Glen Cove,﻿NY,,40.8623217,-73.6337389,,,,﻿jam_mcenroe_001,﻿Rev.,﻿James McEnroe,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0039,﻿church,﻿St. Agnes,English,,,,﻿,,﻿Greenport,﻿Greenport,﻿NY,,41.100594,-72.3671765,﻿bro.ny.0057,﻿Attended from Southold,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0040,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Huntington,﻿Huntington,﻿NY,,40.8681539,-73.425676,,,,﻿jer_j_crowley_001,﻿Rev.,﻿Jeremiah J. Crowley,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0040,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Huntington,﻿Huntington,﻿NY,,40.8681539,-73.425676,,,,﻿art_j_dorris_001,﻿Rev.,﻿Arthur J. Dorris,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0040,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Huntington,﻿Huntington,﻿NY,,40.8681539,-73.425676,,,,﻿jer_j_crowley_001,﻿Rev.,﻿Jeremiah J. Crowley,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0040,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Huntington,﻿Huntington,﻿NY,,40.8681539,-73.425676,,,,﻿art_j_dorris_001,﻿Rev.,﻿Arthur J. Dorris,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0041,﻿church,﻿St. Ignatius',English,,,,﻿Queens County,,﻿Hicksville,﻿Hicksville,﻿NY,,40.7684331,-73.5251253,﻿bro.ny.0037,﻿Attended from Foster's Meadow,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0042,﻿church,﻿St. Patrick's,English,,,,﻿Suffolk County,,﻿Islip,﻿Islip,﻿NY,,40.7297786,-73.2105665,﻿bro.ny.0040,﻿Attended from Huntington,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0043,﻿church,﻿St. Monica's,English,,,,﻿Queens County,,﻿Jamaica,﻿Jamaica,﻿NY,,40.7037439,-73.7991953,,,,﻿ant_farley_001,﻿Rev.,﻿Anthony Farley,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0044,﻿church,﻿St. Raphael's,English,,,,﻿Queens County,,﻿Laurel Hill,﻿Laurel Hill,﻿NY,,40.7282239,-73.7948516,,,,﻿ign_t_goetz_001,﻿Rev.,﻿Ignatius Theodore Goetz,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0045,﻿church,not recorded,English,,,,﻿Queens County,,﻿Manhasset,﻿Manhasset,﻿NY,,40.7978787,-73.6995749,,,,﻿fra_cannon_001,﻿Rev.,﻿Francis Cannon,﻿O.S.B.,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0045,﻿church,[Unnamed Institution],English,,,,﻿Queens County,,﻿Manhasset,﻿Manhasset,﻿NY,,40.7978787,-73.6995749,,,,﻿fra_cannon_001,﻿Rev.,﻿Francis Cannon,﻿O.S.B.,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0046,﻿church,﻿St. Margaret's,English,,,,﻿,,﻿Middle Village,﻿Middle Village,﻿NY,,40.7158445,-73.8722606,,,,﻿joh_thoma_001,﻿Rev.,﻿John Thoma,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0047,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Moriches,﻿Moriches,﻿NY,,40.807321,-72.8212131,﻿bro.ny.0052,﻿Attended occasionally from Riverhead,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0048,﻿church,not recorded,English,,,,﻿,,﻿Oyster Bay,﻿Oyster Bay,﻿NY,,40.8655816,-73.5322797,﻿bro.ny.0038,﻿Attended from Glen Cove,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0049,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Patchogue,﻿Patchogue,﻿NY,,40.7659783,-73.019343,﻿bro.ny.0052,﻿Attended from Riverhead,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0050,﻿church,not recorded,English,,﻿church at Hauppaug,,﻿Suffolk County,,﻿Port Jefferson,﻿Port Jefferson,﻿NY,,40.9464875,-73.0692732,﻿bro.ny.0052,﻿Attended from Riverhead,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0051,﻿church,not recorded,English,,,,﻿Suffolk County,,﻿Quogue,﻿Quogue,﻿NY,,40.8231553,-72.6095384,﻿bro.ny.0054,﻿Attended occasionally from Riverhead,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0052,﻿church,not recorded,English,,,,﻿,,﻿River Head,﻿Riverhead,﻿NY,,40.9170435,-72.6620402,,,,﻿joh_a_casella_001,﻿Rev.,﻿John A. Casella,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0047,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Moriches,﻿Moriches,﻿NY,,40.807321,-72.8212131,﻿bro.ny.0052,﻿Attended occasionally from Riverhead,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0048,﻿church,[Unnamed Institution],English,,,,﻿,,﻿Oyster Bay,﻿Oyster Bay,﻿NY,,40.8655816,-73.5322797,﻿bro.ny.0038,﻿Attended from Glen Cove,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0049,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Patchogue,﻿Patchogue,﻿NY,,40.7659783,-73.019343,﻿bro.ny.0052,﻿Attended from Riverhead,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0050,﻿church,[Unnamed Institution],English,,﻿church at Hauppaug,,﻿Suffolk County,,﻿Port Jefferson,﻿Port Jefferson,﻿NY,,40.9464875,-73.0692732,﻿bro.ny.0052,﻿Attended from Riverhead,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0051,﻿church,[Unnamed Institution],English,,,,﻿Suffolk County,,﻿Quogue,﻿Quogue,﻿NY,,40.8231553,-72.6095384,﻿bro.ny.0054,﻿Attended occasionally from Riverhead,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0052,﻿church,[Unnamed Institution],English,,,,﻿,,﻿River Head,﻿Riverhead,﻿NY,,40.9170435,-72.6620402,,,,﻿joh_a_casella_001,﻿Rev.,﻿John A. Casella,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0053,﻿church,"﻿St. Mary's, Star of the Sea",English,,,,﻿,,﻿Rockaway,﻿Rockaway,﻿NY,,40.600749,-73.752735,,,,﻿jos_brunemann_001,﻿Rev.,﻿Joseph Brunemann,﻿O.S.F.,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0054,﻿church,﻿St. Andrew's,English,,,,﻿,,﻿Sag Harbor,﻿Sag Harbor,﻿NY,,40.9984875,-72.2933156,,,,﻿wil_kean_001,﻿Rev.,﻿William Kean,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0055,﻿church,﻿St. Mark's,English,,,,﻿Kings County,,﻿Sheepshead,﻿Sheepshead,﻿NY,,40.645169,-73.9597728,﻿bro.ny.0034,﻿Attended from Flatbush,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0056,﻿church,﻿St. Michael's,English,,,,﻿,,﻿Smithtown,﻿Smithtown,﻿NY,,40.85550544,-73.19824655,﻿bro.ny.0052,﻿Attended from Riverhead,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0057,﻿church,﻿St. Patrick's,English,,,,﻿Suffolk County,,﻿Southold,﻿Southold,﻿NY,,41.0648222,-72.4261962,,,,﻿joh_mckenna_001,﻿Rev.,﻿John McKenna,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0058,﻿station,not recorded,English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.3895296,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0059,﻿station,not recorded,English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.0106563,-72.4850859,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0060,﻿station,not recorded,English,,,,﻿,,﻿Mattituck,﻿Mattituck,﻿NY,,40.9912115,-72.5342547,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0058,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Southampton,﻿Southampton,﻿NY,,40.884267,-72.3895296,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0059,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Cutchogue,﻿Cutchogue,﻿NY,,41.0106563,-72.4850859,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0060,﻿station,[Unnamed Institution],English,,,,﻿,,﻿Mattituck,﻿Mattituck,﻿NY,,40.9912115,-72.5342547,﻿bro.ny.0057,﻿Attended occasionally from Southold,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0061,﻿church,﻿St. Bridget's,English,,,,﻿Queens County,,﻿Westbury,﻿Westbury,﻿NY,,40.7556561,-73.5876273,,,,﻿jam_mcenroe_001,﻿Rev.,﻿James McEnroe,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0062,﻿church,﻿B.V. Mary Help of Christians,English,,,,﻿Queens County,,﻿Winfield,﻿Woodside,﻿NY,,40.7532704,-73.9068858,,,,﻿j_h_zeller_001,﻿Rev.,﻿J. H. Zeller,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0063,﻿church,not recorded,English,,,,﻿,,﻿Yaphank,﻿Yaphank,﻿NY,,40.8367653,-72.9170487,﻿bro.ny.0057,﻿Attended from Southold,﻿every six weeks,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0063,﻿church,[Unnamed Institution],English,,,,﻿,,﻿Yaphank,﻿Yaphank,﻿NY,,40.8367653,-72.9170487,﻿bro.ny.0057,﻿Attended from Southold,﻿every six weeks,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0064,﻿church,﻿St. Mary's,English,﻿now in course of erection,,,﻿,,﻿Whitestone,﻿Whitestone,﻿NY,,40.7920449,-73.8095574,﻿bro.ny.0035,﻿Attended from Flushing,,,,,,,,,,﻿by the Priests of the Congregation of the Mission,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0065,"﻿seminary, college",﻿Seminary and College,English,,,,,,,﻿Brooklyn,﻿NY,,43.2994285,-74.2179326,,,,,,,,,,,,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0066,﻿monastery,﻿Monastery of St. Francis of Assisi,English,,"﻿19, 21, 23 and 25 Butler street",,,,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.6849022,-73.9937308,,,,,﻿Brother,﻿Jerome,,﻿Superior,,﻿religious,"﻿Professed Brothers, 26",,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
@@ -146,38 +146,38 @@
 ﻿bro.ny.0085,﻿hospital,"﻿Sisters of the Poor of St. Francis, St. Peter's Hospital",English,,﻿corner of Hicks and Congress streets,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿religious,"﻿postulants, 3",,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0085,﻿hospital,"﻿Sisters of the Poor of St. Francis, St. Peter's Hospital",English,,﻿corner of Hicks and Congress streets,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿patient,"﻿Patients, 70",,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
 ﻿bro.ny.0001_02,﻿school,﻿Cathedral Parish School,English,,,,,,,,﻿NY,,40.6970424,-73.98692864,,,,,﻿Brother,﻿Fabrician,,﻿Superior,,﻿student,﻿527 pupils,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0002_02,﻿school,not recorded,English,,﻿St. Paul's,,,,,﻿New York City,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿student,﻿300 pupils,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0002_03,﻿school,not recorded,English,,﻿St. Paul's,,,,,﻿New York City,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿student,﻿325 pupils,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0003_02,﻿school,not recorded,English,,﻿Assumption of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6978594,-73.9870139,,,,,,,,,,﻿child,﻿600 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0003_02,﻿school,not recorded,English,,﻿Assumption of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6978594,-73.9870139,,,,,,,,,,﻿religious,﻿2 Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0090,﻿school,not recorded,English,,,,,,,,,,,,,,,,,,,,,﻿teacher,﻿4 secular teachers,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0090,﻿school,not recorded,English,,,,,,,,,,,,,,,,,,,,,﻿child,﻿500 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0004_02,﻿school,not recorded,English,,﻿St. Patrick's,,,,,﻿New York City,﻿NY,,40.6935219,-73.9521977,,,,,,,,,,﻿student,﻿250 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0004_02,﻿school,not recorded,English,,﻿St. Patrick's,,,,,﻿New York City,﻿NY,,40.6935219,-73.9521977,,,,,,,,,,﻿student,﻿200 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0005_02,﻿school,not recorded,English,,﻿SS. Peter and Paul's,,,,,﻿New York City,﻿NY,,40.7111104,-73.9587144,,,,,,,,,,﻿student,﻿500 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0005_02,﻿school,not recorded,English,,﻿SS. Peter and Paul's,,,,,﻿New York City,﻿NY,,40.7111104,-73.9587144,,,,,,,,,,﻿student,﻿350 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0007_02,﻿school,not recorded,English,,﻿Holy Trinity,,,,,﻿New York City,﻿NY,,40.7071736,-73.9449181,,,,,,,,,,﻿student,﻿700 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0007_02,﻿school,not recorded,English,,﻿Holy Trinity,,,,,﻿New York City,﻿NY,,40.7071736,-73.9449181,,,,,,,,,,﻿student,﻿700 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0008_02,﻿school,not recorded,English,,﻿St. Joseph's,,,,,﻿Brooklyn,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿student,﻿370 boys by Franciscan Brothers,﻿Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0008_02,﻿school,not recorded,English,,﻿St. Joseph's,,,,,﻿Brooklyn,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿student,﻿340 girls by Sisters of St. Joseph,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0009_02,﻿school,not recorded,English,,﻿St. Mary's Star of the Sea,,,,,﻿New York City,﻿NY,,40.6768146,-73.9983507,,,,,,,,,,﻿student,﻿550 boys,﻿Under Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0009_02,﻿school,not recorded,English,,﻿St. Mary's Star of the Sea,,,,,﻿New York City,﻿NY,,40.6768146,-73.9983507,,,,,,,,,,﻿student,"﻿5500 girls, taught by 4 Sisters of Charity and 2 secular teachers",﻿Sisters of Charity,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0006_02,﻿school,not recorded,English,,"﻿St. Charles Borromeo, corner of Sydney place and Livingston street",,﻿Brooklyn County,,,﻿New York City,﻿NY,,40.6899519,-73.9865471,,,,,,,,,,﻿student,﻿250 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0006_02,﻿school,not recorded,English,,"﻿St. Charles Borromeo, corner of Sydney place and Livingston street",,﻿Brooklyn County,,,﻿New York City,﻿NY,,40.6899519,-73.9865471,,,,,,,,,,﻿student,﻿300 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0010_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿New York City,﻿NY,,40.6846006,-73.9891355,,,,,,,,,,﻿student,﻿600 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0010_02,﻿school,not recorded,English,,﻿St. Peter's,,,,,﻿New York City,﻿NY,,40.6846006,-73.9891355,,,,,,,,,,﻿student,"﻿Night school, 40 boys",,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0011_02,﻿school,not recorded,English,,﻿St. John's,,,,,﻿New York City,﻿NY,,40.6189228,-73.9540515,,,,,,,,,,﻿student,﻿130 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿student,﻿350 boys,﻿under charge of Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0012_02,﻿school,not recorded,English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿student,﻿400 girls,﻿under the charge of Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0017_02,﻿school,not recorded,English,,﻿Our Lady of Mercy,,,,,﻿New York City,﻿NY,,40.701648,-73.942261,,,,,,,,,,﻿student,﻿340 boys,﻿under the Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0017_02,﻿school,not recorded,English,,﻿Our Lady of Mercy,,,,,﻿New York City,﻿NY,,40.701648,-73.942261,,,,,,,,,,﻿student,﻿400 girls,﻿under the Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0036_02,﻿school,not recorded,English,,﻿St. Patrick's,,,,,,﻿NY,,40.6094454,-74.0285434,,,,,,,,,,﻿student,﻿80 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0036_02,﻿school,not recorded,English,,﻿St. Patrick's,,,,,,﻿NY,,40.6094454,-74.0285434,,,,,,,,,,﻿student,﻿60 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0035_02,﻿school,not recorded,English,,﻿St. Michael's,,,,,,﻿NY,,40.7584318,-73.8275016,,,,,﻿Brother,﻿Paul,,﻿Superior,,﻿student,"﻿300 girls, taught by the Sisters of St. Joseph",﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0035_02,﻿school,not recorded,English,,﻿St. Michael's,,,,,,﻿NY,,40.7584318,-73.8275016,,,,,,,,,,﻿student,"﻿200 boys, taught by Franciscan Brothers",﻿Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0013_02,﻿school,not recorded,﻿German,,﻿St. Boniface's,,,,,﻿New York City,﻿NY,,40.692564,-73.9845357,,,,,,,,,,﻿student,﻿180 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0021_02,﻿school,not recorded,English,,﻿Annunciation of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6696169,-73.9836934,,,,,,,,,,﻿student,﻿275 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0022_02,﻿school,not recorded,English,,﻿St. Nicholas',,,,,﻿New York City,﻿NY,,40.7136529,-73.9385163,,,,,,,,,,﻿student,﻿104 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0022_02,﻿school,not recorded,English,,﻿St. Nicholas',,,,,﻿New York City,﻿NY,,40.7136529,-73.9385163,,,,,,,,,,﻿student,﻿104 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0026_02,﻿school,not recorded,English,,﻿All Saints,,,,,﻿New York City,﻿NY,,40.7009804,-73.9445788,,,,,,,,,,﻿student,﻿192 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
-﻿bro.ny.0026_02,﻿school,not recorded,English,,﻿All Saints,,,,,﻿New York City,﻿NY,,40.7009804,-73.9445788,,,,,,,,,,﻿student,﻿200 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0002_02,﻿school,[Unnamed Institution],English,,﻿St. Paul's,,,,,﻿New York City,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿student,﻿300 pupils,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0002_03,﻿school,[Unnamed Institution],English,,﻿St. Paul's,,,,,﻿New York City,﻿NY,,40.688742,-73.9970785,,,,,,,,,,﻿student,﻿325 pupils,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0003_02,﻿school,[Unnamed Institution],English,,﻿Assumption of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6978594,-73.9870139,,,,,,,,,,﻿child,﻿600 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0003_02,﻿school,[Unnamed Institution],English,,﻿Assumption of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6978594,-73.9870139,,,,,,,,,,﻿religious,﻿2 Sisters of Charity,﻿Sisters of Charity,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0090,﻿school,[Unnamed Institution],English,,,,,,,,,,,,,,,,,,,,,﻿teacher,﻿4 secular teachers,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0090,﻿school,[Unnamed Institution],English,,,,,,,,,,,,,,,,,,,,,﻿child,﻿500 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0004_02,﻿school,[Unnamed Institution],English,,﻿St. Patrick's,,,,,﻿New York City,﻿NY,,40.6935219,-73.9521977,,,,,,,,,,﻿student,﻿250 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0004_02,﻿school,[Unnamed Institution],English,,﻿St. Patrick's,,,,,﻿New York City,﻿NY,,40.6935219,-73.9521977,,,,,,,,,,﻿student,﻿200 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0005_02,﻿school,[Unnamed Institution],English,,﻿SS. Peter and Paul's,,,,,﻿New York City,﻿NY,,40.7111104,-73.9587144,,,,,,,,,,﻿student,﻿500 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0005_02,﻿school,[Unnamed Institution],English,,﻿SS. Peter and Paul's,,,,,﻿New York City,﻿NY,,40.7111104,-73.9587144,,,,,,,,,,﻿student,﻿350 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0007_02,﻿school,[Unnamed Institution],English,,﻿Holy Trinity,,,,,﻿New York City,﻿NY,,40.7071736,-73.9449181,,,,,,,,,,﻿student,﻿700 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0007_02,﻿school,[Unnamed Institution],English,,﻿Holy Trinity,,,,,﻿New York City,﻿NY,,40.7071736,-73.9449181,,,,,,,,,,﻿student,﻿700 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0008_02,﻿school,[Unnamed Institution],English,,﻿St. Joseph's,,,,,﻿Brooklyn,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿student,﻿370 boys by Franciscan Brothers,﻿Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0008_02,﻿school,[Unnamed Institution],English,,﻿St. Joseph's,,,,,﻿Brooklyn,﻿NY,,40.680444,-73.966389,,,,,,,,,,﻿student,﻿340 girls by Sisters of St. Joseph,﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0009_02,﻿school,[Unnamed Institution],English,,﻿St. Mary's Star of the Sea,,,,,﻿New York City,﻿NY,,40.6768146,-73.9983507,,,,,,,,,,﻿student,﻿550 boys,﻿Under Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0009_02,﻿school,[Unnamed Institution],English,,﻿St. Mary's Star of the Sea,,,,,﻿New York City,﻿NY,,40.6768146,-73.9983507,,,,,,,,,,﻿student,"﻿5500 girls, taught by 4 Sisters of Charity and 2 secular teachers",﻿Sisters of Charity,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0006_02,﻿school,[Unnamed Institution],English,,"﻿St. Charles Borromeo, corner of Sydney place and Livingston street",,﻿Brooklyn County,,,﻿New York City,﻿NY,,40.6899519,-73.9865471,,,,,,,,,,﻿student,﻿250 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0006_02,﻿school,[Unnamed Institution],English,,"﻿St. Charles Borromeo, corner of Sydney place and Livingston street",,﻿Brooklyn County,,,﻿New York City,﻿NY,,40.6899519,-73.9865471,,,,,,,,,,﻿student,﻿300 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0010_02,﻿school,[Unnamed Institution],English,,﻿St. Peter's,,,,,﻿New York City,﻿NY,,40.6846006,-73.9891355,,,,,,,,,,﻿student,﻿600 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0010_02,﻿school,[Unnamed Institution],English,,﻿St. Peter's,,,,,﻿New York City,﻿NY,,40.6846006,-73.9891355,,,,,,,,,,﻿student,"﻿Night school, 40 boys",,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0011_02,﻿school,[Unnamed Institution],English,,﻿St. John's,,,,,﻿New York City,﻿NY,,40.6189228,-73.9540515,,,,,,,,,,﻿student,﻿130 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0012_02,﻿school,[Unnamed Institution],English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿student,﻿350 boys,﻿under charge of Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0012_02,﻿school,[Unnamed Institution],English,,﻿Immaculate Conception,,,,,,﻿NY,,40.71051006,-73.94694129,,,,,,,,,,﻿student,﻿400 girls,﻿under the charge of Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0017_02,﻿school,[Unnamed Institution],English,,﻿Our Lady of Mercy,,,,,﻿New York City,﻿NY,,40.701648,-73.942261,,,,,,,,,,﻿student,﻿340 boys,﻿under the Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0017_02,﻿school,[Unnamed Institution],English,,﻿Our Lady of Mercy,,,,,﻿New York City,﻿NY,,40.701648,-73.942261,,,,,,,,,,﻿student,﻿400 girls,﻿under the Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0036_02,﻿school,[Unnamed Institution],English,,﻿St. Patrick's,,,,,,﻿NY,,40.6094454,-74.0285434,,,,,,,,,,﻿student,﻿80 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0036_02,﻿school,[Unnamed Institution],English,,﻿St. Patrick's,,,,,,﻿NY,,40.6094454,-74.0285434,,,,,,,,,,﻿student,﻿60 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0035_02,﻿school,[Unnamed Institution],English,,﻿St. Michael's,,,,,,﻿NY,,40.7584318,-73.8275016,,,,,﻿Brother,﻿Paul,,﻿Superior,,﻿student,"﻿300 girls, taught by the Sisters of St. Joseph",﻿Sisters of St. Joseph,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0035_02,﻿school,[Unnamed Institution],English,,﻿St. Michael's,,,,,,﻿NY,,40.7584318,-73.8275016,,,,,,,,,,﻿student,"﻿200 boys, taught by Franciscan Brothers",﻿Franciscan Brothers,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0013_02,﻿school,[Unnamed Institution],﻿German,,﻿St. Boniface's,,,,,﻿New York City,﻿NY,,40.692564,-73.9845357,,,,,,,,,,﻿student,﻿180 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0021_02,﻿school,[Unnamed Institution],English,,﻿Annunciation of B.V. Mary,,,,,﻿New York City,﻿NY,,40.6696169,-73.9836934,,,,,,,,,,﻿student,﻿275 children,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0022_02,﻿school,[Unnamed Institution],English,,﻿St. Nicholas',,,,,﻿New York City,﻿NY,,40.7136529,-73.9385163,,,,,,,,,,﻿student,﻿104 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0022_02,﻿school,[Unnamed Institution],English,,﻿St. Nicholas',,,,,﻿New York City,﻿NY,,40.7136529,-73.9385163,,,,,,,,,,﻿student,﻿104 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0026_02,﻿school,[Unnamed Institution],English,,﻿All Saints,,,,,﻿New York City,﻿NY,,40.7009804,-73.9445788,,,,,,,,,,﻿student,﻿192 boys,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn
+﻿bro.ny.0026_02,﻿school,[Unnamed Institution],English,,﻿All Saints,,,,,﻿New York City,﻿NY,,40.7009804,-73.9445788,,,,,,,,,,﻿student,﻿200 girls,,,1870,﻿,﻿,﻿Brooklyn,Brooklyn

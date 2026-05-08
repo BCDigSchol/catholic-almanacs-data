@@ -3,7 +3,7 @@
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿e_audran_001,﻿Rev.,﻿Ernest Audran,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿St. Francis Xavier's Cathedral,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.67902364,-87.5341505,,,,﻿joh_contin_001,﻿Rev.,﻿John Contin,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.5286325,,,,﻿aeg_merz_001,﻿Rev.,﻿A. E. Mertz,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0004,﻿church,not recorded,English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0004,﻿church,[Unnamed Institution],English,,,,﻿Marion County,,﻿Augusta,﻿Pike Township,﻿IN,,39.8817723,-86.2598229,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0005,﻿church,﻿Immaculate Conception,English,,,,﻿Dearborn County,,﻿Aurora,﻿Aurora,﻿IN,,39.0570022,-84.9013402,﻿vin.in.0222,﻿Attended from Pipe Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0016,﻿church,﻿St. Michael's,English,,,,﻿Franklin County,,﻿Brookville,﻿Brookville,﻿IN,,39.4168087,-85.0130729,﻿vin.in.0154,﻿Attended from St. Peter's,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0011,﻿church,﻿St. Patrick's,English,,,,﻿Vanderburg County,,﻿Blue Grass,﻿Evansville,﻿IN,,37.9524318,-87.4936936,﻿vin.in.0036,﻿Attended from Evansville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
@@ -12,7 +12,7 @@
 ﻿vin.in.0021,﻿church,﻿St. Patrick's,English,,,,﻿Perry County,,﻿Cannelton,﻿Cannelton,﻿IN,,37.9114446,-86.7444321,,,,﻿p_wagner_001,﻿Rev.,﻿P. Wagner,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0022,﻿church,﻿St. Michael's,﻿German,,,,﻿Perry County,,﻿Cannelton,﻿Cannelton,﻿IN,,37.913264,-86.7411809,,,,﻿p_wagner_001,﻿Rev.,﻿P. Wagner,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0024,﻿church,﻿St. John the Baptist,English,,,,﻿Perry County,,﻿Cassidy's Settlement,﻿Leopold,﻿IN,,38.1095739,-86.6107106,﻿vin.in.0076,﻿Attended from Leopold,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0028,﻿church,not recorded,English,,,,﻿Clarke County,﻿Clark County,﻿Charleston,﻿Charlestown,﻿IN,,38.45312,-85.6702406,﻿vin.in.0071,﻿Attended from Jeffersonville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0028,﻿church,[Unnamed Institution],English,,,,﻿Clarke County,﻿Clark County,﻿Charleston,﻿Charlestown,﻿IN,,38.45312,-85.6702406,﻿vin.in.0071,﻿Attended from Jeffersonville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0025,﻿church,﻿St. Celestine,English,,,,﻿Dubois County,,﻿Celestine,﻿Celestine,﻿IN,,38.38303,-86.77654,,,,﻿j_meister_001,﻿Rev.,﻿Joseph Meister,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0030,﻿church,﻿St. Bartholomew's,English,,,,﻿Bartholomew County,,﻿Columbus,﻿Columbus,﻿IN,,39.2291885,-85.9117508,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0031,﻿church,﻿St. Gabriel's,English,,,,﻿Fayette County,,﻿Connersville,﻿Connersville,﻿IN,,39.6467157,-85.137988,,,,﻿h_peters_001,﻿Rev.,﻿H. Peters,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
@@ -23,24 +23,24 @@
 ﻿vin.in.0040,﻿church,﻿St. Rose,English,,,,﻿Knox County,,﻿Faux Chenal,﻿Vincennes,﻿IN,,38.677269,-87.5286325,﻿vin.in.0001,﻿Attended from Vincennes,,,,,,,﻿of the Diocese of Alton,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0041,﻿church,﻿St. Ferdinand,English,,,,﻿Dubois County,,﻿Ferdinand,﻿Ferdinand,﻿IN,,38.2233116,-86.8606467,,,,﻿p_j_foffa_001,﻿Rev.,﻿Chrysostom Foffa,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0047,﻿church,﻿St. Boniface's,English,,,,﻿Spencer County,,﻿Fulduh,﻿Fulda,﻿IN,,38.111421,-86.835678,﻿vin.in.0150,﻿Attended from St. Meinrad,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0045,﻿church,not recorded,English,,,,﻿Johnson County,,﻿Franklin,﻿Franklin,﻿IN,,39.482654,-86.0773996,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0045,﻿church,[Unnamed Institution],English,,,,﻿Johnson County,,﻿Franklin,﻿Franklin,﻿IN,,39.482654,-86.0773996,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0050,﻿church,﻿St. Benedict's,English,,,,﻿Putnam County,,﻿Greencastle,﻿Greencastle,﻿IN,,39.6444898,-86.8647316,﻿for.in.0030,"﻿Attended from Crawfordsville, Montgomery County",,﻿jos_o_begley_001,﻿Rev.,﻿Joseph O. Begley,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0054,﻿church,not recorded,English,,,,﻿Floyd County,,﻿Greenville,﻿Greenville,﻿IN,,38.3725644,-85.9863593,﻿vin.in.0139,"﻿Attended from St. Joseph's, Clark County",,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0052,﻿church,not recorded,English,,,,﻿Hancock County,,﻿Greenfield,﻿Greenfield,﻿IN,,39.785043,-85.7694226,﻿vin.in.0020,﻿Attended from Cambridge City,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0255,﻿church,not recorded,English,,,,﻿Johnson County,,﻿Greenwood,,,,,,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0056,﻿church,not recorded,English,,,,﻿Wayne County,,﻿Hagerstown,﻿Hagerstown,﻿IN,,39.9111576,-85.1616315,﻿vin.in.0118,﻿Attended from Richmond,﻿St. Mary's historically listed first,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0060,﻿church,not recorded,English,,,,﻿Clarke County,﻿Clark County,﻿Henryville,﻿Henryville,﻿IN,,38.5417282,-85.7677438,﻿vin.in.0126,﻿Attended from Seymour,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0054,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Greenville,﻿Greenville,﻿IN,,38.3725644,-85.9863593,﻿vin.in.0139,"﻿Attended from St. Joseph's, Clark County",,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0052,﻿church,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Greenfield,﻿Greenfield,﻿IN,,39.785043,-85.7694226,﻿vin.in.0020,﻿Attended from Cambridge City,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0255,﻿church,[Unnamed Institution],English,,,,﻿Johnson County,,﻿Greenwood,,,,,,﻿vin.in.0064,﻿Attended from Indianapolis,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0056,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Hagerstown,﻿Hagerstown,﻿IN,,39.9111576,-85.1616315,﻿vin.in.0118,﻿Attended from Richmond,﻿St. Mary's historically listed first,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0060,﻿church,[Unnamed Institution],English,,,,﻿Clarke County,﻿Clark County,﻿Henryville,﻿Henryville,﻿IN,,38.5417282,-85.7677438,﻿vin.in.0126,﻿Attended from Seymour,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0063,﻿church,﻿Visitation of V. B.,English,,,,﻿Dubois County,,﻿Huntingburgh,﻿Huntingburg,﻿IN,,38.2989422,-86.9549971,﻿vin.in.0041,﻿Attended from Ferdinand,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0064,﻿church,﻿St. John's,English,﻿(new church building),,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.7418127,-86.3191696,,,,﻿aug_bessonies_001,﻿Rev.,﻿Aug. Bessonies,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0064,﻿church,﻿St. John's,English,﻿(new church building),,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.7418127,-86.3191696,,,,﻿f_gouesse_001,﻿Rev.,﻿P. Gouesse,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0065,﻿church,﻿Immaculate Conception,﻿German,,,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.7722957,-86.1503145,,,,﻿s_siegrist_001,﻿Rev.,﻿S. Siegrist,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0067,﻿church,not recorded,English,,,,﻿Ripley County,,﻿Indian Kentuck,﻿Madison,﻿IN,,38.7751543,-85.4788065,﻿vin.in.0081,﻿Attended from Madison,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0067,﻿church,[Unnamed Institution],English,,,,﻿Ripley County,,﻿Indian Kentuck,﻿Madison,﻿IN,,38.7751543,-85.4788065,﻿vin.in.0081,﻿Attended from Madison,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0069,﻿church,﻿St. Joseph's,English,,,,﻿Dubois County,,﻿Jasper,﻿Jasper,﻿IN,,38.3956333,-86.9326778,,,,﻿ulr_christen_001,﻿Rev.,﻿Ulric Christen,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0071,﻿church,﻿St. Anthony's,﻿German,,,,﻿Clarke County,﻿Clark County,﻿Jeffersonville,﻿Jeffersonville,﻿IN,,38.2775702,-85.7371847,,,,﻿n_g_ostlangenberg_001,﻿Rev.,﻿N. G. Ostlangenberg,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0217,﻿church,﻿Assumption,English,,,,﻿Floyd County,,﻿Knobs,,,,,,,,,﻿g_ginsz_001,﻿Rev.,﻿G. Gintz,,,﻿(Floyd's Knob P.O.),,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0072,﻿church,not recorded,English,,,,﻿Henry County,,﻿Knightstown,﻿Knightstown,﻿IN,,39.7956007,-85.5263629,﻿vin.in.0020,﻿Attended from Cambridge,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0072,﻿church,[Unnamed Institution],English,,,,﻿Henry County,,﻿Knightstown,﻿Knightstown,﻿IN,,39.7956007,-85.5263629,﻿vin.in.0020,﻿Attended from Cambridge,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0073,﻿church,﻿St. Mary's,English,,,,﻿Harrison County,,﻿Lanesville,﻿Lanesville,﻿IN,,38.2365395,-85.9819318,,,,﻿alp_munschina_001,﻿Rev.,﻿A. Munschina,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0256,﻿church,not recorded,English,,,,﻿Franklin County,,﻿Laurel,,,,,,﻿vin.in.0031,﻿Attended from Connersville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0256,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,,﻿Laurel,,,,,,﻿vin.in.0031,﻿Attended from Connersville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0076,﻿church,﻿St. Augustine's,English,,,,﻿Perry County,,﻿Leopold,﻿Leopold,﻿IN,,38.0159043,-86.6611083,,,,﻿j_dion_001,﻿Rev.,﻿J. Dion,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0080,﻿church,﻿St. John's,English,,,,﻿Martin County,,﻿Loogootee,﻿Loogootee,﻿IN,,38.677249,-86.915538,,,,﻿j_mougin_001,﻿Rev.,﻿John Mougin,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.7351192,-85.3730019,,,,﻿h_dupontavice_001,﻿Very Rev.,﻿H. Dupontavice,,﻿Vicar-General,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
@@ -55,18 +55,18 @@
 ﻿vin.in.0234,﻿church,﻿St. Michael's,English,,,,﻿Harrison County,,﻿Miller's Settlement,,,,,,﻿vin.in.0073,﻿Attended from Lanesville,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0089,﻿church,﻿Nativity B.V.M.,English,,,,﻿Vigo County,,﻿Montezuma,﻿Montezuma,﻿IN,,39.7928162,-87.3708496,﻿vin.in.0164,﻿Attended from Terre Haute,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿church,﻿St. Martin's,English,,,,﻿Martin County,,﻿Mount Pleasant,﻿Mount Pleasant,﻿IN,,38.651944,-86.892222,﻿vin.in.0080,﻿Attended from Loogootee,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0094,﻿church,not recorded,English,,,,﻿Posey County,,﻿Mount Vernon,﻿Mount Vernon,﻿IN,,37.9329795,-87.893608,﻿vin.in.0001,﻿Attended from Vincennes,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Posey County,,﻿Mount Vernon,﻿Mount Vernon,﻿IN,,37.9329795,-87.893608,﻿vin.in.0001,﻿Attended from Vincennes,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0095,﻿church,﻿St. Boniface's,English,﻿vacant,,,﻿Decatur County,,﻿Muhlhausen,﻿Milhousen,﻿IN,,39.2106073,-85.432467,,,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0096,﻿church,﻿St. Maurice,English,,,,﻿Ripley County,,﻿Napoleon,﻿Napoleon,,,39.2047211,-85.3275165,﻿vin.in.0095,﻿Attended from Muhlausen,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0100,﻿church,﻿St. Paul's,English,,,,﻿Dearborn County,,﻿New-Alsace,﻿New Alsace,﻿IN,,39.2339422,-85.0030126,,,,﻿rom_weinzaepflen_001,﻿Rev.,﻿R. Weinzoepflen,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0098,﻿church,﻿Assumption,English,,,,﻿Floyd County,,﻿New-Albany,﻿New Albany,﻿IN,,38.2856247,-85.8241312,,,,﻿g_gueguen_001,﻿Rev.,﻿G. Gueguen,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0099,﻿church,﻿Annunciation,﻿German,,,,﻿Floyd County,,﻿New-Albany,﻿New Albany,﻿IN,,38.2856247,-85.8241312,,,,﻿e_faller_001,﻿Rev.,﻿E. Faller,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0101,﻿church,not recorded,English,,,,﻿Green County,,﻿New-Berry,﻿Newberry,﻿IN,,38.9250467,-87.0194525,﻿vin.in.0171,﻿Attended from Washington,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0104,﻿church,not recorded,English,,,,﻿Henry County,,﻿Newcastle,﻿New Castle,﻿IN,,39.928935,-85.3702476,﻿vin.in.0118,﻿Attended from Richmond,﻿St. Mary's historically listed first,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0101,﻿church,[Unnamed Institution],English,,,,﻿Green County,,﻿New-Berry,﻿Newberry,﻿IN,,38.9250467,-87.0194525,﻿vin.in.0171,﻿Attended from Washington,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0104,﻿church,[Unnamed Institution],English,,,,﻿Henry County,,﻿Newcastle,﻿New Castle,﻿IN,,39.928935,-85.3702476,﻿vin.in.0118,﻿Attended from Richmond,﻿St. Mary's historically listed first,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0107,﻿church,﻿St. Francis Sales,English,,,,﻿Perry County,,﻿Oil Creek,,﻿IN,,38.123004,-86.5594,﻿vin.in.0076,﻿Attended from Leopold,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0108,﻿church,﻿Holy Family,English,"﻿Batesville, Franklik County P.O.",,,﻿Franklin County,,﻿Oldenburg,﻿Oldenburg,﻿IN,,39.3403788,-85.203707,,,,﻿f_j_rudolf_001,﻿Rev.,﻿F. J. Rudolph,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0222,﻿church,﻿St. Nicholas',English,,,,﻿Ripley County (Spades P.O.),,﻿Pipe Creek,,,,,,,,,﻿j_klein_001,﻿Rev.,﻿J. Klein,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0110,﻿church,not recorded,English,,,,﻿Pike County,,﻿Petersburgh,﻿Petersburg,﻿IN,,38.4919935,-87.2786244,﻿vin.in.0171,﻿Attended from Washington,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0110,﻿church,[Unnamed Institution],English,,,,﻿Pike County,,﻿Petersburgh,﻿Petersburg,﻿IN,,38.4919935,-87.2786244,﻿vin.in.0171,﻿Attended from Washington,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0115,﻿church,﻿St. Thomas',English,,,,﻿Knox County,,﻿Queret's Prairie,﻿Halterville,﻿IN,,38.586111,-87.562222,﻿vin.in.0232,﻿Attended from Vincennes,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0119,﻿church,﻿St. Andrew's,English,,,,﻿Wayne County,,﻿Richmond,﻿Richmond,﻿IN,,39.8289369,-84.8902382,,,,﻿b_h_sepe_001,﻿Rev.,﻿Seppo,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0118,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,,﻿Richmond,﻿Richmond,﻿IN,,39.831092,-84.892174,,,,﻿j_m_villars_001,﻿Rev.,﻿J. M. Villars,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
@@ -98,7 +98,7 @@
 ﻿vin.in.0164,﻿church,﻿St. Joseph's,English,,,,,﻿Vigo County,﻿Terre Haute,﻿Terre Haute,﻿IN,,39.4809681,-87.4140641,,,,﻿p_m_mccarthy_001,﻿Rev.,﻿M. McCarthy,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0164,﻿church,﻿St. Joseph's,English,,,,,﻿Vigo County,﻿Terre Haute,﻿Terre Haute,﻿IN,,39.4809681,-87.4140641,,,,﻿fin_mundwiler_001,﻿Rev.,﻿F. Mundwiller,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0166,﻿church,﻿St. Pius,English,,,,,﻿Perry County,﻿Troy,﻿Troy,﻿IN,,37.9951108,-86.8043185,,,,﻿f_hundt_001,﻿Rev.,﻿F. Hundt,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0254,﻿church,not recorded,English,,,,﻿Jennings County,,﻿North Vernon,,,,,,﻿vin.in.0131,﻿Attended from St. Ann's,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0254,﻿church,[Unnamed Institution],English,,,,﻿Jennings County,,﻿North Vernon,,,,,,﻿vin.in.0131,﻿Attended from St. Ann's,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0171,﻿church,﻿St. Simon's,English,,,,,﻿Daviess County,﻿Washington,﻿Washington,﻿IN,,38.6610959,-87.1821709,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chassé,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0173,﻿church,﻿St. Philomena's,English,,,,,﻿Franklin County,﻿Wolf Creek,﻿Brookville,﻿IN,,39.391492,-85.048533,,﻿Attended from St. Mary's of the Rocks,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0175,﻿church,﻿St. Martin's,English,,,,,﻿Dearborn County,﻿Yorkville,﻿Yorkville,﻿IN,,39.203838,-84.966797,﻿vin.in.0100,﻿Attended from New-Alsace,,,,,,,,,,,,1864,﻿,﻿,﻿Vincennes,Vincennes

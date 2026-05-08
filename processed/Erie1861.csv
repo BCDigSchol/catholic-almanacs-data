@@ -9,11 +9,11 @@
 ﻿erie.pa.0013,﻿church,﻿Immaculate Conception,English,,,,﻿Clarion County,,﻿Clarion,,﻿PA,,41.213385,-79.381244,,,,﻿sui_g_molinger_001,﻿Rev.,﻿S. G. Molinger,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0015,﻿church,﻿St. Francis,English,,,,﻿Clearfield County,,﻿Clearfield,﻿Clearfield,﻿PA,,41.019033,-78.439106,,,,﻿joh_d_coady_001,﻿Rev.,﻿John D. Coady,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0021,﻿church,﻿St. Ann's,English,,,,﻿Jefferson County,,﻿Corsica,﻿Corsica,﻿PA,,41.181175,-79.202262,,,,﻿sui_g_molinger_001,﻿Rev.,﻿S. G. Molinger,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0138,﻿station,not recorded,English,,,,﻿Potter County,,﻿Coudersport,,﻿PA,,,,,,,﻿joh_l_madigan_001,﻿Rev.,﻿John L. Madigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0022,﻿church,not recorded,English,,,,﻿Venango County,,﻿Cranberry,﻿Cranberry Township,﻿PA,,41.389661,-79.829674,﻿erie.pa.0013,﻿Attended from Clarion,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0138,﻿station,[Unnamed Institution],English,,,,﻿Potter County,,﻿Coudersport,,﻿PA,,,,,,,﻿joh_l_madigan_001,﻿Rev.,﻿John L. Madigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0022,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Cranberry,﻿Cranberry Township,﻿PA,,41.389661,-79.829674,﻿erie.pa.0013,﻿Attended from Clarion,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0023,﻿church,﻿St. Phillip's,English,,,,﻿Crawford County,,﻿Crossingville,﻿Crossingville,﻿PA,,41.829778,-80.238949,,,,﻿kie_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0008,﻿church,not recorded,English,,,,﻿Clarion County,,﻿Farmington,,﻿PA,,41.1982095,-79.4703885,,,,﻿joh_koch_001,﻿Rev.,﻿John Koch,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0029,﻿church,not recorded,English,,,,﻿Venango County,,﻿Franklin,﻿Franklin,﻿PA,,41.397836,-79.831444,,﻿Attended from Frenchton,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0008,﻿church,[Unnamed Institution],English,,,,﻿Clarion County,,﻿Farmington,,﻿PA,,41.1982095,-79.4703885,,,,﻿joh_koch_001,﻿Rev.,﻿John Koch,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0029,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Franklin,﻿Franklin,﻿PA,,41.397836,-79.831444,,﻿Attended from Frenchton,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0146,﻿church,﻿St. Hippolytus,English,,,,﻿Crawford County,,﻿Frenchton,,﻿PA,,,,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. Dela Rocque,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0147,﻿church,﻿St. Peter and Paul,English,,,,﻿Crawford County,,﻿Frenchton,,﻿PA,,,,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. Dela Rocque,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0032,﻿church,﻿St. Mary's,English,,,,﻿Clearfield County,,﻿Frenchville,﻿Frenchville,﻿PA,,41.61250747,-80.02173484,,,,﻿joh_berbigier_001,﻿Rev.,﻿John Berbigier,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
@@ -28,7 +28,7 @@
 ﻿erie.pa.0149,﻿church,﻿St. Mary's,English,,,,﻿Crawford County,,﻿Maguire's Summit,,﻿PA,,,,,,,﻿kie_obranigan_001,﻿Rev.,﻿K. O'Branigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0048,﻿church,﻿St. Agatha,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,﻿a_reck_002,﻿Rev.,﻿A. Reck,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0052,﻿church,﻿St. Severinus,English,,,,﻿Clearfield County,,﻿Morris tp.,﻿Morris Township,﻿PA,,40.946001,-78.213435,,﻿From Bellefonte,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0137,﻿church,not recorded,English,,,,﻿Venango County,,﻿Neilsburgh,,﻿PA,,,,,,,﻿tho_lonnergan_001,﻿Rev.,﻿Thomas Lonnergan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0137,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Neilsburgh,,﻿PA,,,,,,,﻿tho_lonnergan_001,﻿Rev.,﻿Thomas Lonnergan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0150,﻿church,﻿St. Mary's,English,,,,﻿McKean County,,﻿Newell Creek,,﻿PA,,,,,,,﻿joh_l_madigan_001,﻿Rev.,﻿John L. Madigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0136,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Oil Creek,,﻿PA,,,,,,,﻿tho_lonnergan_001,﻿Rev.,﻿T. Lonngergan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0026,﻿church,﻿Immaculate Heart of Mary,English,,,,﻿Crawford County,,﻿Rome,,﻿PA,,41.177284,-79.707827,,,,﻿tho_lonnergan_001,﻿Rev.,﻿T. Lonngergan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
@@ -37,9 +37,9 @@
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿erh_vanino_004,﻿Rev.,﻿E. Vanino,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿ign_trüg_001,﻿Rev.,﻿I. Trüg,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0151,﻿church,﻿St. Raphael's,English,,,,﻿Mercer County,,﻿St. Raphael,,﻿PA,,,,,,,﻿joh_j_gallagher_001,﻿Rev.,﻿John Jos. Gallagher,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0068,﻿church,not recorded,English,,,,﻿Mercer County,,﻿Sharon,﻿Sharon,﻿PA,,41.232587,-80.514045,,,,﻿jos_goebbels_003,﻿Rev.,﻿Joseph Goebbels,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0068,﻿church,[Unnamed Institution],English,,,,﻿Mercer County,,﻿Sharon,﻿Sharon,﻿PA,,41.232587,-80.514045,,,,﻿jos_goebbels_003,﻿Rev.,﻿Joseph Goebbels,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0152,﻿church,﻿St. Aloysius,English,,,,﻿McKean County,,﻿Smithport,,﻿PA,,,,,,,﻿joh_l_madigan_001,﻿Rev.,﻿J. L. Madigan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0132,﻿church,not recorded,English,,,,﻿Erie County,,﻿Union Mills,,﻿PA,,,,﻿erie.pa.0080,﻿From Warren,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0132,﻿church,[Unnamed Institution],English,,,,﻿Erie County,,﻿Union Mills,,﻿PA,,,,﻿erie.pa.0080,﻿From Warren,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0153,﻿church,﻿St. Joseph's,English,﻿Vacant,,,﻿Clarion County,,﻿Vogelbacher,,﻿PA,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0080,﻿church,﻿St. Joseph's,English,,,,﻿Warren County,,﻿Warren,﻿Warren,﻿PA,,41.843949,-79.145044,,,,﻿tho_lonnergan_001,﻿Rev.,﻿Thomas Lonnergan,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0038,﻿church,﻿St. Michael,English,,,,﻿Mercer County,,﻿West Greenville,﻿Greenville,﻿PA,,41.404499,-80.391178,,,,﻿jos_goebbels_003,﻿Rev.,﻿Joseph Goebbels,,,,,,,,1861,﻿,﻿,﻿Erie,Erie
