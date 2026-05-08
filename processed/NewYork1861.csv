@@ -53,8 +53,8 @@
 ﻿nyc.ny.0066,﻿church,﻿St. Michael's,English,﻿,"﻿31st street, near 9th avenue",,,,﻿New York City,,﻿NY,,40.751606,-73.997259,,,,﻿d_teixcheira_001,﻿Rev.,﻿D. Teixcheira,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0071,﻿church,﻿Church of the Assumption,﻿German,,﻿9th avenue and 50th street,,,,﻿New York City,,﻿NY,,40.763481,-73.990547,,,,,,,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0070,﻿church,﻿St. Boniface,﻿German,﻿new German church,﻿42d street and 2d avenue,,,,﻿New York City,,﻿NY,,40.752784,-73.969737,,,,﻿m_nicot_001,﻿Rev.,﻿M. Nicot,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿i_t_hecker_001,﻿Rev.,﻿I. T. Hecker,,﻿Superior,,,,,﻿Congregation of Missionary Priests of St. Paul,1861,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿a_f_hewitt_001,﻿Rev.,﻿A. F. Hewitt,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿isa_t_hecker_001,﻿Rev.,﻿I. T. Hecker,,﻿Superior,,,,,﻿Congregation of Missionary Priests of St. Paul,1861,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿aug_f_hewit_001,﻿Rev.,﻿A. F. Hewitt,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿geo_deshon_001,﻿Rev.,﻿George Deshon,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0073,"﻿church, consecrated life institution",﻿Church of St. Paul,English,,"﻿9th avenue, between 59th and 60th streets",,,,﻿New York City,,﻿NY,,40.769749,-73.985493,,,,﻿f_a_baker_001,﻿Rev.,﻿F. A. Baker,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0067,﻿church,﻿St. Gabriel's,English,﻿new church in process of erection,"﻿36th street, near 2d avenue",,,,﻿New York City,,﻿NY,,40.746458,-73.974217,,,,﻿wil_cloury_001,﻿Rev.,﻿William Cloury,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
@@ -86,7 +86,7 @@
 ﻿nyc.ny.0137,﻿church,﻿St. John's,English,,,,﻿Orange County,,﻿Goshen,,﻿NY,,41.404742,-74.323145,,,,﻿b_ocallaghan_001,﻿Rev.,﻿B. O'Callaghan,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0138,﻿church,[Unnamed Institution],English,,,,﻿Orange County,,﻿Green Woods,,﻿NY,,41.417863,-74.5601,,,,﻿joh_quinn_002,﻿Rev.,﻿John Quinn,,,﻿of Piermont,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0139,﻿church,﻿St. Matthew's,English,,,,﻿Westchester County,,﻿Hastings,,﻿NY,,41.01619,-73.834622,,,,﻿edw_lynch_001,﻿Rev.,﻿Edw. Lynch,,,﻿of Yonkers,,,,,1861,﻿,﻿,﻿New York,NewYork
-﻿nyc.ny.0140,﻿church,﻿St. Peter's,English,,,,﻿Rockland County,,﻿Haverstraw,,﻿NY,,40.817087,-73.918068,,,,﻿p_mahoney_001,﻿Rev.,﻿P. Mahoney,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
+﻿nyc.ny.0140,﻿church,﻿St. Peter's,English,,,,﻿Rockland County,,﻿Haverstraw,,﻿NY,,40.817087,-73.918068,,,,﻿pat_mahoney_001,﻿Rev.,﻿P. Mahoney,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0146,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Kingston,,﻿NY,,41.932104,-74.018886,﻿nyc.ny.0254,﻿Attended from Rondout,,,,,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0151,﻿church,﻿Immaculate Conception,English,﻿B.V.M,,,﻿Westchester County,,﻿Melrose,,﻿NY,,40.817087,-73.918068,,,,﻿cas_metzler_001,﻿Rev.,﻿Caspar Metzler,,,,,,,,1861,﻿,﻿,﻿New York,NewYork
 ﻿nyc.ny.0152,﻿church,[Unnamed Institution],English,﻿church in process of erection,,,﻿Orange County,,﻿Middletown,,﻿NY,,41.452598,-74.411134,,,,﻿b_ocallaghan_001,﻿Rev.,﻿B. O'Callaghan,,,﻿of Goshen,,,,,1861,﻿,﻿,﻿New York,NewYork

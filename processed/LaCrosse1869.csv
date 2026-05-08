@@ -1,11 +1,11 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,﻿m_heiss_001,﻿Right Rev.,﻿M. Heiss,﻿D.D.,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,﻿mic_heiss_001,﻿Right Rev.,﻿M. Heiss,﻿D.D.,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0001,﻿church,﻿St. Mary's,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.8137751,-91.2519017,,,,﻿jos_moder_001,﻿Rev.,﻿Joseph Moder,,﻿Secretary,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0002,﻿church,﻿St. Joseph's,﻿(German),﻿Building,,,,,﻿La Crosse,,﻿WI,,43.782022,-91.231869,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0088,﻿church,﻿St. Lawrence's,English,﻿new frame church,,,﻿Buffalo County,,﻿Alma,,﻿WI,,,,,,﻿visited once a month,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0089,﻿church,﻿St. Henry's,English,,,,﻿Pepin County,,﻿Aux Galets,,,,,,﻿lac.wi.0105,﻿attended from Menomenee,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0090,﻿church,﻿St. Vincent de Paul,English,,,,﻿Bad Axe County,,﻿Bad Axe,,,,,,﻿lac.wi.0001,﻿attended from La Crosse,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0004,﻿church,﻿Christ Church,English,﻿(Indian),,,﻿La Pointe County,﻿La Pointe County,﻿Bayfield,﻿Bayfield,﻿WI,,46.8107671,-90.81824,,,,﻿j_chebul_002,﻿Rev.,﻿T. Chebul,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0004,﻿church,﻿Christ Church,English,﻿(Indian),,,﻿La Pointe County,﻿La Pointe County,﻿Bayfield,﻿Bayfield,﻿WI,,46.8107671,-90.81824,,,,﻿joh_chebul_002,﻿Rev.,﻿T. Chebul,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0003,﻿church,﻿St. Michael's,English,,,,﻿Sauk County,﻿Sauk County,﻿Baraboo,﻿Baraboo,﻿WI,,43.4710944,-89.7442906,,,﻿vacant,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0005,﻿church,﻿St. Joseph's,English,,,,﻿La Crosse County,﻿La Crosse County,﻿Buchanan,﻿Washington,﻿WI,,43.8137751,-91.2519017,﻿lac.wi.0001,﻿attended from La Crosse,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0091,﻿church,﻿St. Anne's,English,﻿new frame church,,,﻿Buffalo County,,﻿Buffalo City,,,,,,,,﻿visited once a month,﻿l_spitzelberger_001,﻿Rev.,﻿L. Spitzelberger,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse

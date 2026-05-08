@@ -80,7 +80,7 @@
 ﻿cin.oh.0062,﻿church,[Unnamed Institution],English,,,,﻿Madison County,,﻿California,,﻿OH,,39.815223,-83.29359,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0015,﻿church,﻿St. Joseph's,English,,,,﻿Tuscarawas County,,﻿Canal Dover,,﻿OH,,40.523695,-81.483313,,,,﻿fra_andres_001,﻿Rev.,﻿Fr. Andres,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0063,﻿church,[Unnamed Institution],English,,,,﻿Mercer County,,﻿Capella,,﻿OH,,40.452964,-84.656798,,﻿Attended by the C.PP.S.,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0065,﻿church,[Unnamed Institution],English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿pat_hennebery_002,﻿Rev.,﻿Patrick Hennebery,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0065,﻿church,[Unnamed Institution],English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿pat_hennebury_001,﻿Rev.,﻿Patrick Hennebery,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0065,﻿church,[Unnamed Institution],English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿ber_dickmann_001,﻿Rev.,﻿B. Dickmann,﻿C.PP.S,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0065,﻿church,[Unnamed Institution],English,,﻿Seminary of the Precious Blood,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.437845,-84.562182,,,,﻿ant_guggenberger_001,﻿Rev.,﻿Ant. Guggenberger,﻿C.PP.S,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0066,﻿church,[Unnamed Institution],English,,,,﻿Greene County,,﻿Cedearville,﻿Cedarville,﻿OH,,39.744227,-83.808537,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -243,7 +243,7 @@
 ﻿cin.oh.0176,﻿church,﻿Holy Trinity's,English,,,,﻿Brown County,,﻿Vera Cruz,,﻿OH,,38.909209,-83.847301,,,,﻿bar_schmitz_001,﻿Rev.,﻿B. Schmitz,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0132,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Vienna,,﻿OH,,39.323674,-83.691034,﻿cin.oh.0098,﻿Attended from Hillsborough,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿jos_dwenger_001,﻿Rev.,﻿Jos. Dwenger,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿a_herbstrit_002,﻿Rev.,﻿A. Herbstrit,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿a_herbstrit_001,﻿Rev.,﻿A. Herbstrit,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿alp_lau_001,﻿Rev.,﻿Alph. Lau,﻿C.PP.S.,,﻿who also attend St. Mary's and Six Mile Station,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0178,﻿church,[Unnamed Institution],English,﻿(church building),,,﻿Fayette County,,﻿Washington,,﻿OH,,39.537369,-83.437579,﻿col.oh.0019,﻿Attended from Circleville,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0180,﻿church,[Unnamed Institution],English,,,,﻿Warren County,,﻿Waynesburgh,,﻿OH,,39.424142,-84.185711,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -265,7 +265,7 @@
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿jos_fitzgerald_002,﻿Rev.,﻿Jos. Fitzgerald,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿jam_f_callahan_001,﻿Rev.,﻿Jas. Callahan,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,﻿Rev.,﻿— Berthaud,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0188,﻿seminary,﻿Seminary of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿pat_hennebery_002,﻿Rev.,﻿Patrick Hennebery,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0188,﻿seminary,﻿Seminary of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿pat_hennebury_001,﻿Rev.,﻿Patrick Hennebery,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ber_dickmann_001,﻿Rev.,﻿B. Dieckmann,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ant_guggenberger_001,﻿Rev.,﻿A. Guggenberger,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿joh_shultz_001,﻿Rev.,﻿John Shultz,﻿S.J.,﻿President,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati

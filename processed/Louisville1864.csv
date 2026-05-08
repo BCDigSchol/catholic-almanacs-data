@@ -74,7 +74,7 @@
 ﻿lou.ky.0072,﻿church,﻿Sacred Heart of Jesus,English,,﻿Uniontown P. O.,,﻿Union,,,,﻿KY,,37.775321,-87.930583,,,,﻿wil_j_dunn_001,﻿Rev.,﻿William Dunn,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0073,﻿church,﻿St. Ambrose,English,,,,﻿Union,,﻿St. Ambrose,,﻿KY,,37.608899,-88.031058,﻿lou.ky.0072,﻿Attended from the Sacred Heart,﻿monthly,,,,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0074,﻿church,﻿St. Bernard,English,,﻿Casey Creek P. O.,,﻿Casey,,,﻿Liberty,﻿KY,,37.288427,-85.096767,,,,﻿p_j_lacoste_001,﻿Rev.,﻿P. J. Lacoste,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0075,﻿church,﻿St. John Chrysostom's,English,,,,,,,,﻿KY,,37.270496,-85.164746,,,,﻿j_b_hutchins_001,﻿Rev.,﻿J. B. Hutchins,,,﻿once a month,,,,,1864,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0075,﻿church,﻿St. John Chrysostom's,English,,,,,,,,﻿KY,,37.270496,-85.164746,,,,﻿joh_b_hutchins_001,﻿Rev.,﻿J. B. Hutchins,,,﻿once a month,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0076,﻿chapel,﻿St. Catharine of Sienna's Chapel,English,,,,﻿Washington,,,,﻿KY,,37.708673,-85.257737,﻿lou.ky.0089,﻿Attended from St. Rose,,,,,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0077,﻿church,﻿St. Charles,English,,﻿St. Mary's Station P. O.,,﻿Marion,,,,﻿KY,,37.59431,-85.343889,,,,﻿joh_b_hutchins_001,﻿Rev.,﻿John B. Hutchins,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0078,﻿church,﻿St. Francis of Sales,English,,,,﻿Taylor,,,,﻿KY,,37.410155,-85.273685,,,,﻿p_j_lacoste_001,﻿Rev.,﻿P. J. Lacoste,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
@@ -100,7 +100,7 @@
 ﻿lou.ky.0097,﻿church,[Unnamed Institution],English,﻿new church,,,﻿Shelby,,﻿Shelbyville,,﻿KY,,38.212014,-85.223567,,,,﻿m_d_lawler_001,﻿Rev.,﻿Michael D. Lawler,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0098,﻿chapel,[Unnamed Institution],English,﻿new chapel purchased,,,,,﻿Smithland,,﻿KY,,37.138945,-88.403372,﻿lou.ky.0066,﻿Attended from Paducah,,,,,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0099,﻿church,﻿St. Dominic's,English,"﻿A new church has been erected at Thompsonville, a few miles north of Springfield",,,﻿Washington,,﻿Springfield,,﻿KY,,37.685241,-85.221964,﻿lou.ky.0089,﻿Attended from St. Rose,,,,,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
-﻿lou.ky.0100,﻿station,[Unnamed Institution],English,,,,﻿Green,,﻿Summerville,,﻿KY,,37.326121,-85.544358,,﻿Attended by Rev. J. B. Hutchins,﻿occasionally,﻿joh_b_hutchins,﻿Rev.,﻿J. B. Hutchins,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
+﻿lou.ky.0100,﻿station,[Unnamed Institution],English,,,,﻿Green,,﻿Summerville,,﻿KY,,37.326121,-85.544358,,﻿Attended by Rev. J. B. Hutchins,﻿occasionally,﻿joh_b_hutchins_001,﻿Rev.,﻿J. B. Hutchins,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0101,﻿church,﻿St. John the Evangelist,English,,,,﻿Edmundson,,﻿Sunfish Creek,,﻿KY,,37.274421,-86.369574,,,﻿once a month,﻿j_b_vandemergel_001,﻿Rev.,﻿J. B. Vandemergel,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0102,﻿church,﻿All Saints',English,,,,﻿Spencer,,﻿Taylorsville,,﻿KY,,38.033146,-85.344757,,,,﻿m_d_lawler_001,﻿Rev.,﻿M. D. Lawler,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville
 ﻿lou.ky.0103,﻿church,﻿Church of the Assumption,English,,,,,,﻿Thompsonville,,﻿KY,,37.839333,-84.270018,﻿lou.ky.0089,﻿Attended from St. Rose,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Louisville,Louisville

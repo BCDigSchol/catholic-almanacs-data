@@ -4,3 +4,19 @@
 ﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿pet_berel_901,﻿Rev.,﻿Peter Berel,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿a_parret_901,﻿Rev.,﻿A. Parret,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9005,﻿church,[Unnamed Institution],English,,﻿Duchee River,,,,,,﻿IN,,,,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9005,﻿church,[Unnamed Institution],English,,﻿Queret Prairie,,,,,,﻿IN,,,,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Carlisle,,﻿IN,,38.96295112,-87.39973797,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9026,﻿church,[Unnamed Institution],English,,,,,,﻿Shaker's Prairie,,﻿IN,,,,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.9011,﻿church,[Unnamed Institution],English,,,,,,﻿Lawrenceville,,﻿IL,,37.735639,-88.138151,﻿vin.in.0001,﻿attended from Vincennes,,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0171,﻿church,[Unnamed Institution],English,,,,﻿Davies County,,﻿Washington,,﻿IN,,,,,,,,﻿Rev.,﻿Simon Salumiere,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0090,﻿church,﻿St. Peter's,English,,,,﻿Davies County,,,﻿Montgomery,﻿IN,,38.66456,-87.046859,,,,,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1840,﻿https://stpetermontgomery.org/church-history/st-peters-history/,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0145,﻿church,﻿St. Mary's,English,,,,﻿Davies County,,,,﻿IN,,38.70825419,-86.94263913,,,,,﻿Rev.,﻿Maurice St. Palais,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0093,﻿station,[Unnamed Institution],English,,,,,,﻿Mount Pleasant,,﻿IN,,,,,,﻿monthly or occasionally visited by the same clergymen,,,,,,,,,,,1840,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0093,﻿station,[Unnamed Institution],English,,,,,,﻿Paoli,,﻿IN,,,,,,﻿monthly or occasionally visited by the same clergymen,,,,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0069,﻿station,[Unnamed Institution],English,,,,,,﻿Jasper,,﻿IN,,,,,,,,﻿Rev.,﻿Joseph Kundek,,,,,,,,1840,﻿https://saintjosephjasper.org/connect/parish-history,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9011,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,,,,,,,﻿Rev.,﻿Louis T. Neyron,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0217,﻿church,﻿Assumption,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,,,,,,,﻿Rev.,﻿Louis T. Neyron,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9006,﻿church,[Unnamed Institution],English,,,,,,﻿Jefferson,,﻿IN,,40.27958578,-86.5894787,,,﻿occasionally,,﻿Rev.,﻿Louis T. Neyron,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9033,﻿church,[Unnamed Institution],English,,,,,,﻿Charleston,﻿Charlestown,﻿IN,,38.45545378,-85.66385042,,,﻿occasionally,,﻿Rev.,﻿Louis T. Neyron,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9033,﻿church,[Unnamed Institution],English,,,,,,﻿Corydon,﻿Charlestown,﻿IN,,38.45545378,-85.66385042,,,﻿occasionally,,﻿Rev.,﻿Louis T. Neyron,,,,,,,,1840,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9034,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Rome,,﻿IN,,37.93735676,-86.51221793,,,,,﻿Rev.,﻿Julian Benoit,,,,,,,,1840,﻿https://www.findagrave.com/cemetery/84708/connor-cemetery - perhaps somewhere around here? there's an unincorporated community named Rome nearby,﻿,﻿,﻿Vincennes,Vincennes

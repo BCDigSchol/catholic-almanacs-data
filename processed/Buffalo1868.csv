@@ -57,7 +57,7 @@
 ﻿buf.ny.0175,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,,,﻿NY,,,,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0036,﻿church,﻿St. Bridget's,English,﻿frame church,,,﻿Ontario,,﻿East Bloomfield,,﻿NY,,42.8881413,-77.4472495,,,,﻿wil_hughes_001,﻿Rev.,﻿William Hughes,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0011,﻿church,﻿Nativity of the B.V.M.,English,﻿brick church,,,﻿Monroe,,﻿Brockport,,﻿NY,,43.2136713,-77.9391797,,,,﻿ric_j_storey_001,﻿Rev.,﻿Richard J. Storey,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0031,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Ontario,,﻿Canandaigua,,﻿NY,,42.8909999,-77.2829592,,,,﻿jos_mckenna_002,﻿Rev.,﻿Joseph McKenna,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0031,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Ontario,,﻿Canandaigua,,﻿NY,,42.8909999,-77.2829592,,,,﻿jos_mckenna_001,﻿Rev.,﻿Joseph McKenna,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0114,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Castile,﻿Castile,﻿NY,,42.6289515,-78.0544514,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0058,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Cattaraugus,﻿Cattaraugus,﻿NY,,42.3292287,-78.8680903,﻿buf.ny.0064,﻿Attended from Dunkirk,﻿monthly,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0059,﻿church,﻿St. Pacificus',English,﻿frame church,,,﻿Cattaraugus County,,﻿Chapelsburgh,﻿Humphrey,﻿NY,,42.2039539,-78.5336352,﻿buf.ny.0061,﻿Attended from Ellicottville,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -90,7 +90,7 @@
 ﻿roc.ny.0029,﻿church,[Unnamed Institution],English,,,,﻿Livingston,,﻿Geneseo,,﻿NY,,42.795896,-77.816947,﻿roc.ny.0028,﻿Attended from Mt. Morris,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0032,﻿church,﻿St. Francis de Sales',English,,,,﻿Ontario,,﻿Geneva,,﻿NY,,42.8736961,-76.9793138,,,,﻿jam_mcmanus_001,﻿Rev.,﻿James McManus,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0220,﻿church,[Unnamed Institution],English,,,,﻿Cayuga,,﻿Genoa,,﻿NY,,,,,﻿Attended from Springport,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0014,﻿church,﻿Mother of Sorrows,English,﻿brick church,,,﻿Monroe,,﻿Greece,,﻿NY,,43.2526336,-77.65886931,,,,﻿joh_m_maurice_002,﻿Rev.,﻿John M. Maurice,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0014,﻿church,﻿Mother of Sorrows,English,﻿brick church,,,﻿Monroe,,﻿Greece,,﻿NY,,43.2526336,-77.65886931,,,,﻿joh_m_maurice_001,﻿Rev.,﻿John M. Maurice,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0031,﻿church,﻿St. Arbogaste's,English,,,,﻿Erie County,,﻿Grand Island,﻿Grand Island,﻿NY,,43.0216283,-78.9657302,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0181,﻿church,[Unnamed Institution],English,,,,,﻿Cattaraugus County,﻿Great Valley,﻿Great Valley,﻿NY,,,,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0103,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,42.13507,-77.6483236,,,,﻿jam_rogers_001,﻿Rev.,﻿James Rogers,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -183,14 +183,14 @@
 ﻿buf.ny.0093,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,43.1221298,-79.051636,,,,﻿d_kendrick_001,﻿Rev.,﻿D. Kendrick,﻿C.M.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0043,﻿church,﻿St. Francis of Assisium,﻿German,"﻿stone church, There are schools attatched to all the German and most of the other churches in the diocese",,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,43.0203347,-78.880315,,,,﻿f_x_kofler_001,﻿Rev.,﻿F. X. Kofler,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0110,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Troopsburgh,﻿Troupsburg,﻿NY,,42.0436813,-77.5460982,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿brick church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.697493,-78.747621,,,,﻿a_hechinger_002,﻿Rev.,﻿A. Hechinger,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿brick church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.697493,-78.747621,,,,﻿a_hechinger_001,﻿Rev.,﻿A. Hechinger,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0062,﻿church,[Unnamed Institution],English,,,,﻿Tompkins,,﻿Trumansburgh,,﻿NY,,42.5399901,-76.6594687,﻿roc.ny.0061,﻿Attended from Ithaca,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0037,﻿church,[Unnamed Institution],English,,,,﻿Ontario,,﻿Victor,,﻿NY,,42.9791683,-77.4086448,﻿roc.ny.0036,﻿Attended from Bloomfield,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0071,﻿church,[Unnamed Institution],English,,,,﻿Chautauqua County,,﻿Villanova,﻿Villenova,﻿NY,,42.4055004,-79.1322744,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0046,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Seneca,,﻿Waterloo,,﻿NY,,42.9047884,-76.8627367,,,,﻿t_keenan_002,﻿Rev.,﻿T. Keenan,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0120,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Wyoming County,,﻿Warsaw,﻿Warsaw,﻿NY,,42.740061,-78.1327881,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0112,﻿church,﻿St. James',English,﻿frame church,,,﻿Tioga County,,﻿Waverly,﻿Waverly,﻿NY,,42.0103519,-76.5271659,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0021,﻿church,[Unnamed Institution],English,,,,﻿Monroe,,﻿Webster,,﻿NY,,43.2122851,-77.4299939,,,,﻿a_hechinger_002,﻿Rev.,﻿A. Hechinger,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0021,﻿church,[Unnamed Institution],English,,,,﻿Monroe,,﻿Webster,,﻿NY,,43.2122851,-77.4299939,,,,﻿a_hechinger_001,﻿Rev.,﻿A. Hechinger,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0072,﻿church,[Unnamed Institution],English,,,,﻿Chautauqua County,,﻿Westfield,﻿Westfield,﻿NY,,42.32228,-79.5781027,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.0448219,-76.5643336,,,,﻿nic_byrne_001,﻿Rev.,﻿Nicholas Byrne,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,﻿stone church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,42.963167,-78.7489323,,,,﻿d_m_winands_001,﻿Rev.,﻿D. M. Winands,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
