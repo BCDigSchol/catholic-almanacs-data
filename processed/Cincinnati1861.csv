@@ -248,64 +248,64 @@
 ﻿cin.oh.0011_02,﻿school,﻿St. Augustine's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 500",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0295_02,﻿school,﻿St. Michael's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 180",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0157_02,﻿school,﻿St. Anthony's School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 200",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157_02,"﻿school, parish school",﻿St. Patrick's Parish School,English,﻿for girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,,,﻿OH,,,,,,,﻿f_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,﻿student,"﻿Average attendance, 450",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157_02,﻿school,﻿School of the Sisters of Notre Dame,English,﻿for boys,﻿at the Convent on Sixth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 650",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157_02,﻿school,﻿School of the Sisters of Mercy,English,﻿for boys,﻿at the Convent on Fourth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 250",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0157_02,﻿school,﻿School of the Sisters of the Good Shepard,English,﻿for boys,﻿at the Convent on Bank street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 50",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0001_03,"﻿school, parish school",﻿St. Patrick's Parish School,English,﻿for girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,,,﻿OH,,,,,,,﻿f_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,﻿student,"﻿Average attendance, 450",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of Notre Dame,English,﻿for boys,﻿at the Convent on Sixth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 650",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of Mercy,English,﻿for boys,﻿at the Convent on Fourth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 250",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of the Good Shepard,English,﻿for boys,﻿at the Convent on Bank street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0016_02,﻿school,﻿Holy Angels' School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 190",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0015_02,﻿school,﻿All Saints' School,English,﻿for boys and girls,,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 150",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0015_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,,,﻿Lick Run,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 50",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0042_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,,,﻿Lick Run,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0031_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delhi,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 120",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. Clement's School,English,﻿for boys and girls,,,,,﻿St. Bernard's,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0031_02,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿White Oak,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attendance, 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0026_02,﻿school,﻿St. Clement's School,English,﻿for boys and girls,,,,,﻿St. Bernard's,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0029_02,﻿school,﻿St. James' School,English,﻿for boys and girls,,,,,﻿White Oak,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attendance, 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0030_02,﻿school,﻿St. Joesph School,English,,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0030_03,﻿school,﻿St. John's School,English,,,,,,﻿Dry Ridge,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0030_03,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0297_02,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027_02,﻿school,﻿St. Aloysius' School,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027_02,﻿school,﻿St. James' School,English,,,﻿near Cumminsville,,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0027_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,﻿near Cumminsville,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0075_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076_02,﻿school,﻿St. Joseph's School,English,﻿for boys; for girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, —",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Brothers of Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0001_02&_03,﻿school,﻿Holy Cross German School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 400",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0001_02&_03,﻿select school,﻿Select School,English,﻿for girls,﻿at the Convent of the Sisters of Notre Dame,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0002_02,﻿school,﻿Holy Cross German School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 400",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0347,﻿select school,﻿Select School,English,﻿for girls,﻿at the Convent of the Sisters of Notre Dame,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for boys; for girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attend., 250",﻿Under the Brothers of Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for boys; for girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attend., 250",﻿Under the Nuns of St. Dominic,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085_02,﻿school,﻿St. Nicholas' School,English,﻿for boys and girls,,,,,﻿Zanesville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delaware,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085_02,﻿school,﻿St. Lawrence's School,English,﻿for boys and girls,,,,,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0025_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delaware,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0037_02,﻿school,﻿St. Lawrence's School,English,﻿for boys and girls,,,,,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0090_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,,,﻿Freyburg,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0028_02,﻿school,﻿Immaculate Conception School,English,﻿for boys and girls,,,﻿Noble County,,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0055_02,﻿school,﻿St. Vincent's School,English,﻿for boys and girls,,,,,﻿Mt. Vernon,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0131_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,,,﻿New Richmond,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0059_02,﻿school,﻿Sacred Heart School,English,﻿for boys and girls,,,,,﻿Pomeroy,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0059_02,﻿school,﻿St. Bineen's School,English,﻿for boys and girls,,,,,﻿Greenfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0092_02,﻿school,﻿St. Bineen's School,English,﻿for boys and girls,,,,,﻿Greenfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0049_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Marietta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0049_02,﻿school,﻿St. Raphael's School,English,﻿for boys and girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 150",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0153_02,﻿school,﻿St. Raphael's School,English,﻿for boys and girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 150",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0185_02,﻿school,﻿St. Bridget's School,English,﻿for boys and girls,,,,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0185_02,﻿school,﻿St. George's School,English,﻿for boys and girls,,,,,﻿Coshocton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0185_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 64",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0021_02,﻿school,﻿St. George's School,English,﻿for boys and girls,,,,,﻿Coshocton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0078_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 64",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿St. Augustine's School,English,﻿for boys and girls,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 290",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 75",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Rose's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 45",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Henry's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 74",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Sebastian's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 48",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Auglaize County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,﻿Auglaize County,,﻿Wapokoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 142",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿Sidney School,English,﻿for boys and girls,,,﻿Shelby County,,﻿Wapokoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 65",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Peter's School,English,﻿for boys; and for girls,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 130",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿school,﻿Commercial School of the Catholic Institute,English,﻿Just opened,,,﻿Shelby County,,﻿Chillicothe,,﻿OH,,,,,,,﻿e_p_scammon_001,﻿Professor,﻿E. P. Scammon,﻿A.M.,﻿Principal,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿charitable institution,﻿St. John's Hotel for Invalids,English,﻿Just opened,,,﻿Shelby County,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Anthony,,﻿Sister-servant,,﻿teacher,﻿With 100 scholars,﻿Under the charge of the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿hospital,﻿St. Mary's Hospital,English,﻿Just opened,,,﻿Shelby County,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Felicitas,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the charge of the Franciscan Sisters of the Poor,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,﻿Just opened,,,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,﻿Just opened,,,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,English,﻿Just opened,,﻿near Cincinnati,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,,,,,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,﻿on Bank Street,﻿near Cincinnati,﻿Shelby County,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Mother,﻿Mary Joseph,,﻿Superior,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0121_02,﻿asylum,﻿Orphan Asylum,English,﻿for the reformation of penitent women,﻿on Bank Street,﻿near Cincinnati,﻿Shelby County,,﻿Minster,,﻿OH,,,,,,,,,,,,,﻿teacher,﻿With 100 scholars,﻿Under the Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0082_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 75",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0082_02,﻿school,﻿St. John's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 100",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0082_02,﻿school,﻿St. Rose's School,English,﻿for boys and girls,,,﻿Mercer County,,﻿Egypt,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0334_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0334_02,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 45",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0334_02,﻿school,﻿St. Henry's School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0325_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 74",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0325_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0325_02,﻿school,﻿St. Sebastian's School,English,﻿for boys and girls,,,﻿Mercer County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 48",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0168_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,﻿Auglaize County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0177_02,﻿school,﻿St. Joseph's School,English,﻿for boys and girls,,,,,﻿Wapokoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 142",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0151_02,﻿school,﻿Sidney School,English,﻿for boys and girls,,,﻿Shelby County,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 65",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0070_02,﻿school,﻿St. Peter's School,English,﻿for boys; and for girls,,,,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0071_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Chillicothe,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 130",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0360,﻿school,﻿Commercial School of the Catholic Institute,English,﻿Just opened,,,,,,,﻿OH,,,,,,,﻿e_p_scammon_001,﻿Professor,﻿E. P. Scammon,﻿A.M.,﻿Principal,,﻿teacher,﻿With 100 scholars,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0350,﻿charitable institution,﻿St. John's Hotel for Invalids,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Anthony,,﻿Sister-servant,,,,﻿Under the charge of the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0210,﻿hospital,﻿St. Mary's Hospital,English,,,,,,,,﻿OH,,,,,,,,﻿Sister,﻿Felicitas,,﻿Superior,,,,﻿Under the charge of the Franciscan Sisters of the Poor,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0351,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,,,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0352,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Margareth,,﻿Superior,,,,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0353,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,English,,,﻿near Cincinnati,,,,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0355,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,﻿on Bank Street,,,,,,﻿OH,,,,,,,,﻿Mother,﻿Mary Joseph,,﻿Superior,,,,﻿Under the Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0354,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -208,10 +208,10 @@
 ﻿cin.oh.0199,"﻿boarding school, day school","﻿St. Joseph's Boarding, Day, and Free Schools",English,,,,,,﻿Dayton,,﻿OH,,39.76181,-84.184806,,,,,﻿Sister,﻿Regina Mattingly,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0087,﻿academy,﻿St. Mary's Female Academy,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.961176,-82.998794,,,,,,,,,,,,﻿under the Nuns of St. Dominic,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0201,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,﻿Auglaize County,,﻿Minster,,﻿OH,,40.395018,-84.379086,,,,,﻿Sister,﻿Grünfelder,,﻿Superior,,,,﻿under Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0201,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,﻿Mercer County,,﻿Mariastein,,﻿OH,,40.395018,-84.379086,,,,,,,,,,,,﻿under Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0201,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,﻿Mercer County,,﻿Gruenewald,,﻿OH,,40.395018,-84.379086,,,,,,,,,,,,﻿under Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0201,"﻿school, convent",﻿Convent School of Mariahelp,English,﻿where they also conduct a colored girls' school,,,﻿Mercer County,,﻿Himmelsgarten,,﻿OH,,40.395018,-84.379086,,,,,,,,,,,,﻿under Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0201,"﻿school, convent",﻿Convent School of Mariahelp,English,﻿where they also conduct a colored girls' school,,,﻿Mercer County,,﻿New Egypt,,﻿OH,,40.395018,-84.379086,,,,,,,,,,,,﻿under Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0356,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,﻿Mercer County,,﻿Mariastein,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0357,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,,,﻿Gruenewald,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0358,"﻿school, convent",﻿Convent School of Mariahelp,English,﻿where they also conduct a colored girls' school,,,,,﻿Himmelsgarten,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0359,"﻿school, convent",﻿Convent School of Mariahelp,English,,,,,,﻿New Egypt,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0195,﻿academy,﻿Young Ladies' Academy,English,,"﻿St. Martin's, near Fayettville",,,,,,﻿OH,,39.214192,-83.891431,,,,,﻿Sister,﻿Julia Chatfield,,﻿Superior,﻿of the Assumption,﻿religious,﻿45 Religious,﻿Under the Ursuline Nuns,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0205&_02,﻿convent,﻿Convent of the Divine Will and School of the Sisters of Mercy,English,,﻿Sycamore street,,,,,﻿Cincinnati,﻿OH,,,,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0207,﻿convent,﻿House of Franciscan Sisters of the Poor,English,,﻿Fourth street,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,,,,,,,﻿Mother,﻿Frances,,﻿Superior,,,,﻿Franciscan Sisters of the Poor,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -246,7 +246,7 @@
 ﻿cin.oh.0350,﻿charitable institution,﻿St. John's Hotel for Invalids,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Sophia Gilmore,,﻿Sister-servant,,,,﻿Under the charge of the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0351,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0352,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0352,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0352,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0352,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Our Lady of Charity of the Good Shepard,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0352,﻿asylum,﻿Orphan Asylum,English,﻿Attached to Emanuel Church,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Our Lady of Charity of the Good Shepard,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0353,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0354,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters Pretiosissimi Sanguinis,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0355,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,,,,,,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Our Lady of Charity of the Good Shepard,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0075_03,﻿asylum,﻿Orphan Asylum,English,﻿Attached to Emanuel Church,,,,,﻿Dayton,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
