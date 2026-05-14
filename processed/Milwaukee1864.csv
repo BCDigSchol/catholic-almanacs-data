@@ -351,7 +351,7 @@
 ﻿lac.wi.0043,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿Prescott,﻿Prescott,﻿WI,,44.748857,-92.802147,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0410,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿Osceola,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0143,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿Erin,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿lac.wi.0143,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿French Settlement,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿lac.wi.0136,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿French Settlement,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0408,﻿station,[Unnamed Institution],English,,,,﻿Polk County,,﻿Portland,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0407,﻿station,[Unnamed Institution],English,,,,﻿Polk County,,﻿Eagle River,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0412,﻿station,[Unnamed Institution],English,,,,﻿Portage County,,﻿Du Pays Point,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -441,8 +441,8 @@
 ﻿mil.wi.0266,﻿school,﻿St. Joseph's Parish School,English,,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.04987,-87.926109,,,,,,,,,,﻿student,﻿400 pupils,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,﻿Sister,﻿M. Benedicta,,﻿Superior,,﻿religious,﻿3 Sisters,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,,,,,,﻿student,﻿266 pupils,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0265,﻿school,﻿St. Anthony's Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿West Granville,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,﻿Sister,﻿M. Antonia,,﻿Superior,,﻿religious,﻿3 sisters,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0265,﻿school,﻿St. Anthony's Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿West Granville,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,,,,,,﻿student,﻿120 pupils,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,,,,,,,﻿Sister,﻿M. Antonia,,﻿Superior,,﻿religious,﻿3 sisters,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,,,,,,,,,,,,﻿student,﻿120 pupils,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Parish School,English,,,,,﻿Dodge County,,﻿Watertown,﻿WI,,,,,,,,﻿Sister Superior,﻿Mary Hypolitia,,﻿Superior,,﻿sister,﻿2 sisters,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Parish School,English,,,,,﻿Dodge County,,﻿Watertown,﻿WI,,,,,,,,,,,,,﻿student,﻿100 pupils,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0270,﻿school,﻿St. Bernard's Parish School,English,,,,﻿,﻿Dodge County,﻿Watertown,﻿Watertown,﻿WI,,43.193918,-88.729292,,,,,﻿Sister Superior,﻿M. Jacoba,,﻿Superior,,﻿religious,﻿3 Sisters,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
