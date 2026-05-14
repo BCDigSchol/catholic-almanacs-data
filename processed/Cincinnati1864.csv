@@ -192,8 +192,8 @@
 ﻿cin.oh.0069,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿South Charleston,,﻿OH,,39.825338,-83.634367,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0065,﻿church,﻿St. James',English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0309,﻿church,﻿St. Philomena's,English,,,,﻿Clermont County,,﻿Stone Lick,,﻿OH,,,,,,,﻿lou_navaron_001,﻿Rev.,﻿Louis Navaron,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0361,﻿church,﻿St. John's,English,,,,﻿Mercer County,,,,﻿OH,,,,,,,﻿b_ansterman_001,﻿Rev.,﻿B. Ansterman,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0361,﻿church,﻿St. John's,English,,,,﻿Mercer County,,,,﻿OH,,,,,,,﻿pet_a_capeder_001,﻿Rev.,﻿Anthony Capedar,﻿C.PP.S.,,﻿who also attend St. Sebastian's,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0160,﻿church,﻿St. John's,English,,,,﻿Mercer County,,,,﻿OH,,40.408181,-84.473561,,,,﻿b_ansterman_001,﻿Rev.,﻿B. Ansterman,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0160,﻿church,﻿St. John's,English,,,,﻿Mercer County,,,,﻿OH,,40.408181,-84.473561,,,,﻿pet_a_capeder_001,﻿Rev.,﻿Anthony Capedar,﻿C.PP.S.,,﻿who also attend St. Sebastian's,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿m_d_lilly_002,﻿Rev.,﻿M. D. Lilly,﻿O.S.D.,﻿Prior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿s_byrne_002,﻿Rev.,﻿S. Byrne,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿g_a_wilson_001,﻿Rev.,﻿G. A. Wilson,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -293,12 +293,12 @@
 ﻿col.oh.0001_02&0001_03,﻿school,﻿St. Patrick's School,English,﻿for Boys and Girls,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,﻿Pupils 374,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,﻿student,﻿Pupils 180,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0082_02,﻿school,﻿Convent School,English,,,,,,﻿Egypt,,﻿OH,,40.384722,-84.434444,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿School for Boys and Girls,English,,,,,,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 60,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. Joseph's School for Boys and Girls,English,,,,,,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,,﻿Ironton,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 120,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0037_02,﻿school,﻿Sunday School,English,,,,,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,,,,,,,﻿student,﻿Pupils 150,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304_02,﻿school,﻿Convent School,English,,,,,,﻿Mariastein,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0028_02,﻿school,﻿School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 60,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0028_02,﻿school,﻿St. Joseph's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 120,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0037_02,﻿school,﻿Sunday School,English,,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,,,,,,,﻿student,﻿Pupils 150,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304_02,﻿school,﻿Convent School,English,,,,,﻿Mercer County,﻿Mariastein,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿Convent School,English,,,,,,﻿Minster,,﻿OH,,40.393103,-84.376061,,,,,,,,,,﻿student,﻿Pupils 130,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0131_02,﻿school,﻿School for Boys and Girls,English,,,,,,﻿New Richmond,,﻿OH,,38.948676,-84.279937,,,,,,,,,,﻿student,﻿Pupils 65,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0140_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Piqua,,﻿OH,,40.151355,-84.245746,,,,,,,,,,﻿student,﻿Pupils 80,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati

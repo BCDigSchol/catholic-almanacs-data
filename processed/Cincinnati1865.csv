@@ -153,8 +153,8 @@
 ﻿cin.oh.0109,﻿church,[Unnamed Institution],English,,,,﻿Clermont County,,﻿Loveland,,﻿OH,,39.268948,-84.263826,﻿cin.oh.0119,﻿Attended from Milford,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0111,﻿church,﻿St. Michael's,English,,,,﻿Hamilton County,,﻿Madisonville,,﻿OH,,39.160616,-84.393133,,,,﻿a_h_walburg_001,﻿Rev.,﻿Mr. Walburg,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0047,﻿church,﻿St. Mary's,English,,,,﻿Carroll County,,﻿Marges,,﻿OH,,40.532833,-81.075466,,,,﻿j_a_heimo_002,﻿Rev.,﻿J. A. Heimo,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿ber_austerman_001,﻿Rev.,﻿B. Anstermann,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿erh_glück_001,﻿Rev.,﻿Erhard Glück,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0160,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿ber_austerman_001,﻿Rev.,﻿B. Anstermann,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0160,﻿church,﻿St. John's,English,,,,﻿Mercer County,,﻿Marienstein,,﻿OH,,,,,,,﻿erh_glück_001,﻿Rev.,﻿Erhard Glück,﻿C.PP.S.,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0049,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Marietta,,﻿OH,,39.415352,-81.454844,,,,﻿m_j_ryan_001,﻿Rev.,﻿M. J. D. Ryan,,,﻿who also attends several stations on the H. & C. R. R.,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0112,﻿church,﻿St. Mary's,English,,,,﻿Marion County,,﻿Marion,,﻿OH,,40.58867,-83.128524,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0050,﻿religious institution,﻿St. Clement's,English,,﻿Mattingley's Settlement,,,,,,﻿OH,,40.040556,-82.069444,﻿col.oh.0056,﻿Attended from Newark,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -343,10 +343,10 @@
 ﻿cin.oh.0082_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Egypt,,﻿OH,,40.384722,-84.434444,,,,,,,,,,﻿student,"﻿Pupils, 85",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0028_02,﻿school,﻿Immaculate Conception School,English,﻿for Boys and Girls,,,,,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0200,﻿school,﻿St. Patrick's School,English,﻿for Boys and Girls,,,,,﻿Fayetteville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0094_02,﻿school,﻿St. Stephen's School,English,﻿for Boys and Girls,,,,,﻿Hamilton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 280",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0095_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Hamilton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 80",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0097_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Harrison,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0037_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 130",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0094_02,﻿school,﻿St. Stephen's School,English,﻿for Boys and Girls,,,,﻿Butler County,﻿Hamilton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 280",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0095_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,﻿Butler County,﻿Hamilton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 80",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0097_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,﻿Hamilton County,﻿Harrison,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0037_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 130",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0040_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Lancaster,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 70",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0045_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Logan,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0111_02,﻿school,﻿St. Michael's School,English,﻿for Boys and Girls,,,,,﻿Madisonville,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -366,7 +366,7 @@
 ﻿cin.oh.0154_02,﻿school,﻿St. Bernard's School,English,﻿for Boys and Girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 50",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0153_02,﻿school,﻿St. Raphael's School,English,﻿for Boys and Girls,,,,,﻿Springfield,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0063_02,﻿school,﻿Holy Trinity School,English,﻿for Boys and Girls,,,,,﻿Somerset,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 53",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Marienstein,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 115",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0160_02,﻿school,﻿St. John's School,English,﻿for Boys and Girls,,,,,﻿Marienstein,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils, 115",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0177_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Wapakoneta,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0185_02,﻿school,﻿St. Bridget's School,English,﻿for Boys and Girls,,,,,﻿Xenia,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Pupils,",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for Boys and Girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Pupils, 160",,,1865,﻿,﻿,﻿Cincinnati,Cincinnati

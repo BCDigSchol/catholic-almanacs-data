@@ -164,11 +164,11 @@
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿cha_h_truyens_001,﻿Magister,﻿C. Truyens,,﻿Superintendent of Boarders,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿m_damens_901,﻿Magister,﻿M. Damens,,﻿Superintendent of Boarders,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿m_boex_901,﻿Magister,﻿M. Boex,,﻿Superintendent of Externs,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,,﻿Principal,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿jer_cercos_901,﻿Rev.,﻿Jerome Cercos,,﻿Professor,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿joh_healy_902,﻿Rev.,﻿John Healy,,﻿Professor,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿mic_collins_901,﻿Rev.,﻿Michael Collins,,﻿Professor,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.63642647,-90.2342251,,,,﻿mooney_901,﻿Mr.,﻿Mooney,,﻿Assistant Teacher,,﻿student,﻿7 Lay-brothers,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,,﻿Principal,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿jer_cercos_901,﻿Rev.,﻿Jerome Cercos,,﻿Professor,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿joh_healy_902,﻿Rev.,﻿John Healy,,﻿Professor,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿mic_collins_901,﻿Rev.,﻿Michael Collins,,﻿Professor,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿mooney_901,﻿Mr.,﻿Mooney,,﻿Assistant Teacher,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9068,﻿day school,﻿St. Louis Day School,English,﻿suspended,,,,,,,,,,,,,,,,,,,,﻿student,﻿80 scholars,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9004_02,﻿day school,﻿St. Charles's Day School,English,,,,,,﻿St. Charles,,﻿MO,,,,,,,﻿mic_hoey_901,﻿Rev.,﻿Michael Hoey,﻿S.J.,﻿Teacher,,﻿teacher,﻿50 pupils,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0062_02,﻿day school,﻿St. Ferdinand's Day School,English,,,,,,﻿Florissant,,﻿MO,,,,,,,﻿cor_o-leary_901,﻿Rev.,﻿Cornelius O'Leary,﻿S.J.,﻿Teacher,,﻿teacher,﻿40 pupils,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
@@ -194,10 +194,10 @@
 ﻿stl.mo.0136_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿St. Genevieve,,﻿MO,,,,,,,,,,,,,﻿religious,﻿20 boarding pupils,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0136_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿St. Genevieve,,﻿MO,,,,,,,,,,,,,﻿religious,﻿65 day scholars,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9069&stl.mo.9069_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿New Madrid,,﻿MO,,,,,,,,,,,,,,,﻿Sisters of Loretto,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9069&stl.mo.9069_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿Cape Girardeau,,﻿MO,,,,,,,,﻿Sister,﻿Benedicta Fenwick,,﻿Superiour,,,﻿7 religious,﻿Sisters of Loretto,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9069&stl.mo.9069_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿Cape Girardeau,,﻿MO,,,,,,,,,,,,,,﻿30 scholars,﻿Sisters of Loretto,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9069&stl.mo.9069_02,﻿convent and academy,﻿St. Mary's Convent of the Sisters of Loretto,English,,,,﻿Jefferson County,,﻿Pine Bluff,,﻿AR,,,,,,,,﻿Sister,﻿Mary Agnes Hart,,,,,﻿7 religious,﻿Sisters of Loretto,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9069&stl.mo.9069_02,﻿convent and academy,﻿St. Mary's Convent of the Sisters of Loretto,English,,,,﻿Jefferson County,,﻿Pine Bluff,,﻿AR,,,,,,,,,,,,,,﻿30 pupils,﻿Sisters of Loretto,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9076&stl.mo9076_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿Cape Girardeau,,﻿MO,,,,,,,,﻿Sister,﻿Benedicta Fenwick,,﻿Superiour,,,﻿7 religious,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9076&stl.mo9076_02,﻿convent and academy,﻿Convent and Female Academy of the Sisters of Loretto,English,,,,,,﻿Cape Girardeau,,﻿MO,,,,,,,,,,,,,,﻿30 scholars,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿lit.ar.9006,﻿convent and academy,﻿St. Mary's Convent of the Sisters of Loretto,English,,,,﻿Jefferson County,,﻿Pine Bluff,,﻿AR,,,,,,,,﻿Sister,﻿Mary Agnes Hart,,,,,﻿7 religious,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿lit.ar.9006,﻿convent and academy,﻿St. Mary's Convent of the Sisters of Loretto,English,,,,﻿Jefferson County,,﻿Pine Bluff,,﻿AR,,,,,,,,,,,,,,﻿30 pupils,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.9002_02,﻿convent and academy,﻿Convent of the Visitation,English,,,,,,﻿Kaskakia,,﻿IL,,,,,,,,﻿Sister,﻿Seraphina Wickham,,﻿Superiour,,﻿religious,﻿18 Sisters,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.9002_03,﻿academy,﻿Young Ladies Academy of the Visitation,English,,,,,,﻿Kaskakia,,﻿IL,,,,,,,,,,,,,﻿student,﻿70 pupils,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.9002_03,﻿academy,﻿Young Ladies Academy of the Visitation,English,,,,,,﻿Kaskakia,,﻿IL,,,,,,,,,,,,,﻿student,﻿50 boarders,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
@@ -215,4 +215,4 @@
 ﻿stl.mo.9054,﻿orphan asylum,[Unnamed Institution],English,,,,,,﻿St. Louis,,﻿MO,,,,,,,,﻿Madam,﻿Harriet de Kersaint,,﻿Directress,,﻿child,﻿30 female orphans,﻿under the Ladies of the Sacred Heart,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9070,"﻿orphanage, asylum",[Unnamed Institution],English,,,,,,﻿Bethlehem,,﻿MO,,,,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.9015,"﻿orphanage, asylum",[Unnamed Institution],English,,,,,,﻿Kaskakia,,﻿IL,,,,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿alt.il.9015,"﻿orphanage, asylum",[Unnamed Institution],English,"﻿to be erected, donation from Mrs. Ann Biddle",,,,,﻿St. Louis,,﻿MO,,,,,,,,,,,,,,,﻿under the direction of the Sisters of Charity,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9077,"﻿orphanage, asylum",[Unnamed Institution],English,"﻿to be erected, donation from Mrs. Ann Biddle",,,,,﻿St. Louis,,﻿MO,,,,,,,,,,,,,,,﻿under the direction of the Sisters of Charity,,1840,,,,,﻿,﻿,﻿St. Louis,StLouis
