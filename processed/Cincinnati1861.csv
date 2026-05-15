@@ -155,7 +155,7 @@
 ﻿cin.oh.0142,﻿church,[Unnamed Institution],English,,,,,,﻿Plattsburgh,,﻿OH,,39.896171,-83.61159,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0059,﻿church,﻿Sacred Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,﻿b_gelss_001,﻿Rev.,﻿B. Gelss,,,"﻿who also attends the Germans of Marietta, and the Church of St. John the Baptist, twenty miles from Coalport",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Kargé,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,,,,,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donaghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,,,,﻿Portsmouth,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donaghoe,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0060,﻿church,﻿Church of the Holy Trinity,English,,,,,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,﻿col.oh.0061,"﻿Attended by the clergymen of Portsmouth who also attend Aberdeen, Buena Vista, and the settlements around the furnaces of Scioto and Lawrence Co.",,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0151,﻿church,﻿Holy Angels,English,,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,﻿Attended from Piqua,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -176,7 +176,7 @@
 ﻿cin.oh.0171,﻿church,[Unnamed Institution],English,﻿new church,,,﻿Miami County,,﻿Tippecanoe,,﻿OH,,39.951143,-84.176091,,﻿Attended from Piqua,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0173,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Troy,,﻿OH,,40.038278,-84.199018,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0072,﻿church,﻿St. Anne's,English,,,,﻿Muskingum County,,﻿Taylorsville,,﻿OH,,39.861181,-81.906801,,﻿Attended from Zanesville,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0337,﻿church,﻿St. Joseph's,English,,﻿Union Township,,,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0074,﻿church,﻿St. Joseph's,English,,﻿Union Township,,,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0174,﻿church,﻿St. Mary's,English,,,,﻿Champaigne County,,﻿Urbana,,﻿OH,,40.112182,-83.749833,,,,﻿jam_f_kearney_001,﻿Rev.,﻿James F. Kearney,,,"﻿who also attends Mechanicsburgh, Woodstock, Milford Centre, Marysville, St. Paris, West Liberty, Mac-a-cheek",,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0176,﻿church,﻿Church of the Holy Family,English,,,,﻿Brown County,,﻿Vera Cruz,,﻿OH,,38.909209,-83.847301,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0156,﻿church,﻿St. Remigius',English,,,,﻿Dark County,,﻿Versailles,,﻿OH,,40.233605,-84.408304,,﻿Attended from Dayton,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -221,14 +221,14 @@
 ﻿cin.oh.0343,﻿seminary,﻿Seminary of the Society of the Precious Blood,English,,,,,,﻿Himmelgarten,,﻿OH,,,,,,,﻿jos_dwenger_001,﻿Rev.,﻿Joseph Dwenger,,﻿Director,,﻿student,﻿Number of seminarians 14,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0201,﻿school,﻿Convent School of Mariahelp,English,,,,﻿Auglaize County,,﻿Minister,,﻿OH,,40.395018,-84.379086,,,,,﻿Sister,﻿Kmigunda Wehrle,,﻿Superior,,,,﻿Under the Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0356,﻿school,﻿Convent School of Mariahelp,English,,,,,,﻿Mariastein,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0356,﻿school,﻿Convent School of Mariahelp,English,,,,,,﻿Greenwood,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0357,﻿school,﻿Convent School of Mariahelp,English,,,,,,﻿Greenwood,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0358,﻿school,﻿Convent School of Mariahelp,English,,,,,,﻿Himmelgarten,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0359,﻿school,﻿Convent School of Mariahelp,English,,,,,,﻿New Egypt,,﻿OH,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿l_meyer_001,﻿Rev.,﻿L. Meyer,,﻿Superior,,,,﻿under the Christian Brothers of the Society of Mary,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,,﻿Rev.,﻿— Mauclere,,,,,,﻿under the Christian Brothers of the Society of Mary,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0192,﻿institute,﻿Young Ladies' Literary Institute,English,,﻿6th street,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Louise,,﻿Superior,,,,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192_02,﻿institute,﻿Young Ladies' Literary Institute,English,,﻿6th street,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Louise,,﻿Superior,,,,﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0205,﻿convent,﻿Convent of the Divine Will,English,,﻿4th street,,,,,﻿Cincinnati,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0205_02,﻿school,﻿School of the Sisters of Mercy,English,,﻿4th street,,,,,﻿Cincinnati,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0205_02,﻿school,﻿School of the Sisters of Mercy,English,,﻿at the Convent on Fourth Street,,,,,﻿Cincinnati,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Teresa Maher,,﻿Mother Superior,,﻿student,"﻿Average attendance, 250",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0207,﻿convent,﻿Convent of Franciscan Sisters of the Poor,English,,,,,,,﻿Cincinnati,﻿OH,,39.113044,-84.578604,,,,,﻿Sister,﻿Felicitas,,﻿Superior,,,,﻿Franciscan Sisters of the Poor,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0206,﻿convent,﻿Convent of the Sisters of the Good Shepard,English,,,,,,,﻿Cincinnati,﻿OH,,39.214192,-83.891431,,,,,﻿Sister,﻿Mary Joseph,,﻿Mother Superior,,,,﻿Sisters of the Good Shepard,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0196,﻿boarding school,﻿Mt. Notre Dame Young Ladies' Literary Institute and Boarding School,English,,,﻿near Reading,,,,,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Hyacinth,,﻿Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -254,9 +254,8 @@
 ﻿cin.oh.0157_02,﻿school,﻿St. Anthony's School,English,﻿for boys and girls,,,,,,,﻿OH,,40.508938,-84.785251,,,,,,,,,,﻿student,"﻿Average attendance, 200",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_03,"﻿school, parish school",﻿St. Patrick's Parish School,English,﻿for girls,,,,,,,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,"﻿Average attendance, 300",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0310_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,,,﻿OH,,,,,,,﻿f_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,﻿student,"﻿Average attendance, 450",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of Notre Dame,English,﻿for boys,﻿at the Convent on Sixth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 650",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of Mercy,English,﻿for boys,﻿at the Convent on Fourth Street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 250",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310_02,﻿school,﻿School of the Sisters of the Good Shepard,English,﻿for boys,﻿at the Convent on Bank street,,,,,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192_03,﻿school,﻿School of the Sisters of Notre Dame,English,,﻿at the Convent on Sixth Street,,,,,,﻿OH,,39.103299,-84.50862,,,,,,,,,,﻿student,"﻿Average attendance, 650",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0206_02,﻿school,﻿School of the Sisters of the Good Shepard,English,,﻿at the Convent on Bank street,,,,,,﻿OH,,39.214192,-83.891431,,,,,,,,,,﻿student,"﻿Average attendance, 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0016_02,﻿school,﻿Holy Angels' School,English,﻿for boys and girls,,,,,,,﻿OH,,39.118694,-84.491934,,,,,,,,,,﻿student,"﻿Average attendance, 190",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0015_02,﻿school,﻿All Saints' School,English,﻿for boys and girls,,,,,,,﻿OH,,39.103118,-84.51202,,,,,,,,,,﻿student,"﻿Average attendance, 150",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042_02,﻿school,﻿St. Peter's School,English,﻿for boys and girls,,,,,﻿Lick Run,,﻿OH,,38.711681,-83.172347,,,,,,,,,,﻿student,"﻿Average attend., 50",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -270,8 +269,8 @@
 ﻿cin.oh.0075_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0076_02,﻿school,﻿St. Joseph's School,English,﻿for boys; for girls,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,﻿student,"﻿Average attendance, —",﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&0001_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Brothers of Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0001_02&0001_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0002_02,﻿school,﻿Holy Cross German School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,,,,,,,﻿student,"﻿Average attendance, 400",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0001_02&0001_03,﻿school,﻿St. Patrick's School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,"﻿Average attend., 329",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0002_02,﻿school,﻿Holy Cross German School,English,﻿for boys; for girls,,,,,﻿Columbus,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attendance, 400",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0347,﻿select school,﻿Select School,English,﻿for girls,﻿at the Convent of the Sisters of Notre Dame,,,,﻿Columbus,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Average attendance, 30",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for boys; for girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attend., 250",﻿Under the Brothers of Holy Cross,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,﻿school,﻿St. Thomas' School,English,﻿for boys; for girls,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,﻿student,"﻿Average attend., 250",﻿Under the Nuns of St. Dominic,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

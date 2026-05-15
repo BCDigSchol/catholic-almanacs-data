@@ -147,7 +147,7 @@
 ﻿cin.oh.0142,﻿church,[Unnamed Institution],English,,,,,,﻿Plattsburgh,,﻿OH,,39.896171,-83.61159,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0059,﻿church,﻿Sacred Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,﻿b_gelss_001,﻿Rev.,﻿B. Gelss,,,"﻿who also attends the Germans of Marietta, and the Church of St. John the Baptist, twenty miles from Coalport",,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Karge,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,,,,,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donoghoe,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,,,,,,,﻿Portsmouth,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donoghoe,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0060,﻿church,﻿Church of the Holy Trinity,English,,,,,,﻿Pond Creek,,﻿OH,,38.758409,-83.029064,﻿col.oh.0061,"﻿Attended by the clergymen of Portsmouth who also attend Aberdeen, Buena Vista, and the settlements around the furnaces of Scioto and Lawrence Co.",,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0147,﻿church,﻿St. Michael's,English,,,,﻿Brown County,,﻿Ripley,,﻿OH,,38.745628,-83.844924,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0151,﻿church,﻿Holy Angels,English,﻿new church,,,﻿Shelby County,,﻿Sidney,,﻿OH,,40.282325,-84.155274,,﻿Attended from Piqua,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -164,7 +164,7 @@
 ﻿cin.oh.0171,﻿church,[Unnamed Institution],English,﻿new church,,,﻿Montgomery County,,﻿Tippecanoe,,﻿OH,,39.951143,-84.176091,,﻿Attended from Piqua,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0173,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Troy,,﻿OH,,40.038278,-84.199018,,﻿Attended from Piqua,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0072,﻿church,﻿St. Anne's,English,,,,﻿Muskingum County,,﻿Taylorsville,,﻿OH,,39.861181,-81.906801,,﻿Attended from Zanesville,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0337,﻿church,﻿St. Joseph's,English,,﻿Union Township,,,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0074,﻿church,﻿St. Joseph's,English,,﻿Union Township,,,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0174,﻿church,﻿St. Mary's,English,,,,﻿Champaigne County,,﻿Urbana,,﻿OH,,40.112182,-83.749833,,,,﻿jam_f_kearney_001,﻿Rev.,﻿James F. Kearney,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0176,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Brown County,,﻿Vera Cruz,,﻿OH,,38.909209,-83.847301,,﻿Attended from Cincinnati,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0175,﻿church,﻿St. Remigius,English,,,,﻿Dark County,,﻿Versailles,,﻿OH,,40.222548,-84.484396,,﻿Attended from Dayton,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -242,7 +242,7 @@
 ﻿cin.oh.0297_02,﻿school,﻿St. Francis of Sales' School,English,,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0349,﻿school,﻿Girls' School,English,,,,,,﻿Zanesville,,﻿OH,,,,,,,,,,,,,,,﻿Under the Nuns of St. Dominic,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084_02,"﻿school, free school, day school",﻿St. Thomas Free and Day School,English,,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0001_02,"﻿school, free school",﻿St. Peter's Free School,English,﻿And other schools at almost every church in the diocese,,,,,,,﻿OH,,39.103509,-84.519506,,,,,﻿Sister,﻿Mary Josephine,,﻿Sister-servant,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0001_05,"﻿school, free school",﻿St. Peter's Free School,English,﻿And other schools at almost every church in the diocese,,,,,,,﻿OH,,39.103509,-84.519506,,,,,﻿Sister,﻿Mary Josephine,,﻿Sister-servant,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0350,﻿charitable institution,﻿St. John's Hotel for Invalids,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,﻿Sister,﻿Sophia Gilmore,,﻿Sister-servant,,,,﻿Under the charge of the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0351,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0352,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Cincinnati,Cincinnati

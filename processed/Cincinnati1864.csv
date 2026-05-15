@@ -214,7 +214,7 @@
 ﻿cin.oh.0172,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿Tremont,,﻿OH,,40.011171,-83.836041,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0173,﻿church,﻿St. Patrick's,English,,,,﻿Miami County,,﻿Troy,,﻿OH,,40.038278,-84.199018,,﻿Attended from Piqua,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0362,﻿church,[Unnamed Institution],English,,,,﻿Darke County,,﻿Union City,,﻿OH,,,,,﻿Attended from Piqua,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0337,﻿church,﻿St. Joseph's,English,,﻿Union Township,,﻿Washington County,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0074,﻿church,﻿St. Joseph's,English,,﻿Union Township,,﻿Washington County,,,,﻿OH,,39.469444,-81.607778,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0174,﻿church,﻿St. Mary's,English,,,,﻿Champaign County,,﻿Urbana,,﻿OH,,40.112182,-83.749833,,,,﻿jam_f_kearney_001,﻿Rev.,﻿Jas F. Kearney,,,"﻿who also attends Mechanicsburgh, Woodstock, Milford Centre, Marysville, Paris, West Liberty, Mac-a-cheeck",,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0176,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Brown County,,﻿Vera Cruz,,﻿OH,,38.909209,-83.847301,,,,﻿bar_schmitz_001,﻿Rev.,﻿Barthol'w Schmidt,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0177,﻿church,﻿St. Joseph's,English,,,,﻿Auglaize County,,﻿Wapakoneta,,﻿OH,,40.567827,-84.193559,,,,﻿jos_dwenger_001,﻿Rev.,﻿Jos. Dwenger,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -260,7 +260,7 @@
 ﻿cin.oh.0360,﻿educational institution,﻿Commercial College of the Catholic Institute,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿b_h_entrup_001,﻿Professor,﻿B. H. Entrup,,﻿Principal,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boys Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿lou_meyer_001,﻿Rev.,﻿Louis Meyer,,﻿Superior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0191,﻿boarding school,﻿St. Mary's Boys Boarding School,English,,,﻿near Dayton,,,﻿Nazareth,,﻿OH,,40.417287,-82.907123,,,,﻿x_mauclerc_001,﻿Rev.,﻿M. Mauclere,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0192,﻿institute,﻿Young Ladies' Literary Institute,English,,﻿6th street,,,,﻿Cincinnati,,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Louisa,,﻿Superior,,,,﻿Directed by the Sisters of Notre Dame,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192_02,﻿institute,﻿Young Ladies' Literary Institute,English,,﻿6th street,,,,﻿Cincinnati,,﻿OH,,39.103299,-84.50862,,,,,﻿Sister,﻿Louisa,,﻿Superior,,,,﻿Directed by the Sisters of Notre Dame,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0194_02,﻿academy,﻿Mount St. Vincent's Academy,English,﻿for young ladies,,﻿near Cincinnati,,,,,﻿OH,,39.113044,-84.578604,,,,,﻿Mother,﻿Josephine Harvey,,﻿Superior,,,,﻿Directed by the Sisters of Charity,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0196,﻿boarding school,﻿Mt. Notre Dame Young Ladies' Boarding School,English,,,﻿near Reading,,,,,﻿OH,,39.220812,-84.429777,,,,,﻿Sister,﻿Mary Hyacinth,,﻿Superior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0195,﻿academy,﻿Young Ladies' Academy of the Ursuline Nuns,English,,"﻿St. Martin's, near Fayettville",,﻿Brown County,,,,﻿OH,,39.214192,-83.891431,,,,,﻿Sister,﻿Julia Chatfield,,﻿Superior,﻿of the Assumption,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -281,12 +281,12 @@
 ﻿cin.oh.0016_02,﻿school,﻿Holy Angels' School,English,﻿for Boys,,,,,﻿Cincinnati,,﻿OH,,39.118694,-84.491934,,,,,,,,,,﻿student,﻿Pupils 70,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0015_02,﻿school,﻿All Saints' School,English,﻿for Boys,,,,,﻿Cincinnati,,﻿OH,,39.103118,-84.51202,,,,,,,,,,﻿student,﻿Pupils 60,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0029_02,﻿school,﻿St. James,English,﻿School for Boys,﻿Mt. Airy,,,,﻿Cincinnati,,﻿OH,,39.205131,-84.601679,,,,,,,,,,﻿student,﻿Pupils 75,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0029_02,﻿school,﻿St. Joseph's,English,﻿School for Boys,﻿Mt. Airy,,,,﻿Cincinnati,,﻿OH,,39.205131,-84.601679,,,,,,,,,,﻿student,﻿Pupils 65,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0466,﻿school,﻿St. Joseph's,English,﻿School for Boys,﻿Mt. Airy,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 65,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027_02,﻿school,﻿St. Aloysius,English,﻿School for Boys,﻿Ludlow,,,,﻿Cincinnati,,﻿OH,,39.161291,-84.543496,,,,,,,,,,﻿student,﻿Pupils 170,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0031_02,﻿school,﻿Our Lady of Victories,English,﻿School for Boys,﻿Delhi,,,,﻿Cincinnati,,﻿OH,,39.109843,-84.633622,,,,,,,,,,﻿student,﻿Pupils 140,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0006_02,﻿school,﻿St. Mary's,English,﻿School for Boys,﻿Mt. Pleasant,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0006_02,﻿school,﻿Sisters of Notre Dame,English,﻿School for Girls,﻿Mt. Pleasant,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,,,,,,,﻿student,﻿Pupils 730,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0006_02,﻿school,﻿Sisters of Mercy,English,﻿School for Girls,﻿Mt. Pleasant,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,,,,,,,﻿student,﻿Pupils 300,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0192_03,﻿school,﻿Sisters of Notre Dame,English,﻿School for Girls,,,,,﻿Cincinnati,,﻿OH,,39.103299,-84.50862,,,,,,,,,,﻿student,﻿Pupils 730,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0205_02,﻿school,﻿Sisters of Mercy,English,﻿School for Girls,,,,,﻿Cincinnati,,﻿OH,,39.107619,-84.522176,,,,,,,,,,﻿student,﻿Pupils 300,﻿Sisters of Mercy,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054_02,﻿school,﻿Arnheim Sunday School for Boys and Girls,English,,,,,,,,﻿OH,,40.351168,-84.371655,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056_02,﻿school,﻿Berlin School for Boys and Girls,English,,,,,,,,﻿OH,,40.351437,-84.373839,,,,,,,,,,﻿student,﻿Pupils 125,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0002_02,﻿school,﻿Holy Cross School,English,﻿for Boys and Girls,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,,,,,,,﻿student,"﻿Pupils, 400",,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -294,9 +294,9 @@
 ﻿cin.oh.0076_02,﻿school,﻿St. Joseph's School,English,﻿for Boys and Girls,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,﻿student,﻿Pupils 180,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0082_02,﻿school,﻿Convent School,English,,,,,,﻿Egypt,,﻿OH,,40.384722,-84.434444,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0028_02,﻿school,﻿School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 60,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. Joseph's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0028_02,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,39.716674,-81.438886,,,,,,,,,,﻿student,﻿Pupils 120,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0467,﻿school,﻿St. Joseph's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0468,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Noble County,﻿Enoch,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0469,﻿school,﻿St. John's School for Boys and Girls,English,,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 120,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0037_02,﻿school,﻿Sunday School,English,,,,,﻿Lawrence County,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,,,,,,,﻿student,﻿Pupils 150,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0304_02,﻿school,﻿Convent School,English,,,,,﻿Mercer County,﻿Mariastein,,﻿OH,,,,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121_02,﻿school,﻿Convent School,English,,,,,,﻿Minster,,﻿OH,,40.393103,-84.376061,,,,,,,,,,﻿student,﻿Pupils 130,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -304,7 +304,7 @@
 ﻿cin.oh.0140_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Piqua,,﻿OH,,40.151355,-84.245746,,,,,,,,,,﻿student,﻿Pupils 80,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0058_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,,,﻿Pine Grove,,﻿OH,,38.611847,-82.683604,,,,,,,,,,﻿student,﻿Pupils 127,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042_02,﻿school,﻿Lickrun School,English,﻿for Boys and Girls,,,,,﻿Lickrun,,﻿OH,,38.711681,-83.172347,,,,,,,,,,﻿student,﻿Pupils 40,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0042_02,﻿school,﻿Portsmouth Sunday School,English,﻿for Boys and Girls,,,,,﻿Portsmouth,,﻿OH,,38.711681,-83.172347,,,,,,,,,,﻿student,﻿Pupils 70,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0061_02,﻿school,﻿Portsmouth Sunday School,English,,,,,,﻿Portsmouth,,﻿OH,,38.861065,-82.993161,,,,,,,,,,﻿student,﻿Pupils 70,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0147_02,﻿school,﻿Ripley School,English,﻿for Boys and Girls,,,,,﻿Ripley,,﻿OH,,38.745628,-83.844924,,,,,,,,,,﻿student,﻿Pupils 70,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0335_02,﻿school,﻿St. Mary's School,English,﻿for Boys and Girls,,,﻿Noble County,,,,﻿OH,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0174_02,﻿school,﻿School for Boys and Girls,English,,,,,,﻿Urbana,,﻿OH,,40.112182,-83.749833,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
