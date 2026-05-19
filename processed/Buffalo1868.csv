@@ -16,7 +16,7 @@
 ﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8647859,-78.86443,,,,﻿pat_glennon_001,﻿Rev.,﻿P. Glennon,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9034422,-78.8893034,,,,﻿j_pallier_001,﻿Rev.,﻿J. Pallier,﻿O.M.I.,﻿Superior,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jam_titta_001,﻿Rev.,﻿James Tilta,﻿O.S.F.,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿massimo_001,﻿Rev. Fr.,﻿Massimo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿f_massimo_001,﻿Rev. Fr.,﻿Massimo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,﻿jer_collins_002,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8864468,-78.8783689,,,,,﻿Brother,﻿Didacus,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.8822131,-78.8493334,,,,﻿j_blettner_001,﻿Rev.,﻿J. Blettner,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -67,7 +67,7 @@
 ﻿buf.ny.0176,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Chipmunk,,﻿NY,,,,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0042,﻿church,﻿St. John's,English,﻿frame church,,,﻿Wayne,,﻿Clyde,,﻿NY,,43.0870943,-76.8704498,,,,﻿j_p_fitzpatrick_001,﻿Rev.,﻿J. P. Fitzpatrick,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0052,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Cold Creek,﻿Centerville,﻿NY,,42.4797854,-78.2497346,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0033,﻿church,[Unnamed Institution],English,,,,﻿Ontario County,,﻿Clifton Springs,﻿Clifton Springs,﻿NY,,42.96528034,-77.13681621,,,,﻿p_lee_002,﻿Rev.,﻿P. Lee,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0033,﻿church,[Unnamed Institution],English,,,,﻿Ontario County,,﻿Clifton Springs,﻿Clifton Springs,﻿NY,,42.96528034,-77.13681621,,,,﻿p_lee_001,﻿Rev.,﻿P. Lee,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0102,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Steuben County,,﻿Corning,﻿Corning,﻿NY,,42.1428521,-77.0546903,,,,﻿pet_colgan_001,﻿Rev.,﻿Peter Colgan,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0027,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Erie County,,﻿Crittenden,﻿Crittenden,﻿NY,,42.9461705,-78.4847451,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0053,﻿church,﻿St. Bridget's,English,﻿brick church,,,﻿Allegany County,,﻿Cuba,﻿Cuba,﻿NY,,42.2155474,-78.2753132,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
