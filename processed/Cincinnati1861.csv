@@ -17,7 +17,7 @@
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿her_ferneding_001,﻿Rev.,﻿Herman Ferneding,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,,﻿Rev.,﻿— Seling,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿n_watcher_001,﻿Rev.,﻿N. Watcher,﻿O.S.F.,﻿Superior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿f_d_kolb_001,﻿Rev.,﻿F. de Paula Kolb,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿fra_d_kolb_001,﻿Rev.,﻿F. de Paula Kolb,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿n_arnold_001,﻿Rev.,﻿N. Arnold,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿eng_stehle_001,﻿Rev.,﻿Engelbert Stehlé,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿h_korphàgé_001,﻿Rev.,﻿H. Korphàgé,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -47,7 +47,7 @@
 ﻿cin.oh.0030,﻿chapel,[Unnamed Institution],English,﻿new church building,,﻿Cincinnati,,,﻿Dry Ridge,,﻿OH,,39.082744,-84.372167,﻿cin.oh.0029,﻿Attended from Mt. Airy,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042,﻿church,﻿St. Peter's,English,,,﻿Cincinnati,,,﻿Lickrun,,﻿OH,,38.711681,-83.172347,﻿cin.oh.0007,﻿Attended from St. John's,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0318,﻿church,﻿Chapel of Convent of Divine Will,English,,,﻿Cincinnati,,,,,﻿OH,,,,﻿cin.oh.0310,﻿Attended from St. Xavier's,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard's,,﻿OH,,39.165988,-84.500267,,,,﻿ans_koch_002,﻿Rev.,﻿Anselm Koch,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard's,,﻿OH,,39.165988,-84.500267,,,,﻿ans_koch_001,﻿Rev.,﻿Anselm Koch,﻿O.S.F.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0008,﻿church,[Unnamed Institution],English,,﻿Archer's Settlement,,﻿Monroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Arnheim,,﻿OH,,40.351168,-84.371655,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,,,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -63,7 +63,7 @@
 ﻿col.oh.0015,﻿church,[Unnamed Institution],English,,,,﻿Tuscarawas County,,﻿Canal Dover,,﻿OH,,40.523695,-81.483313,﻿col.oh.0047,﻿Attended from Marges,,,,,,,﻿vacant,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0066,﻿church,[Unnamed Institution],English,,,,﻿Greene County,,﻿Cedearville,﻿Cedarville,﻿OH,,39.744227,-83.808537,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0018,﻿church,﻿Seven Dolors,English,,,,﻿Athens County,,﻿Chauncey,,﻿OH,,39.397849,-82.129312,﻿col.oh.0016,﻿Attended from Chapel Hill,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0071,﻿church,﻿St. Mary's,English,,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.33312,-82.982402,,,,﻿m_kennedy_001,﻿Rev.,﻿Mich. Kennedy,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0071,﻿church,﻿St. Mary's,English,,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.33312,-82.982402,,,,﻿mic_kennedy_001,﻿Rev.,﻿Mich. Kennedy,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0070,﻿church,﻿St. Peter's,English,,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.334833,-82.990935,,,,﻿edw_f_lieb_001,﻿Rev.,﻿Ed. Leib,﻿O.S.F,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0016,﻿church,﻿St. Francis,English,,,,﻿Perry County,,﻿Chapel Hill,,﻿OH,,39.764135,-82.25833,,,,,,,,,﻿vacant,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0019,﻿church,﻿St. Joseph's,English,,,,﻿Piqua County,,﻿Circleville,,﻿OH,,39.600471,-82.947452,,,,﻿joh_d_duffy_001,﻿Rev.,﻿John Duffy,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

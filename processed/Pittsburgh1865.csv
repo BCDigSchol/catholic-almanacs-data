@@ -24,8 +24,8 @@
 ﻿pit.pa.0015,﻿church,﻿St. Thomas',English,,,,﻿Bedford County,,﻿Bedford,﻿Bedford,﻿PA,,40.0177,-78.501392,,,,﻿tho_heyden_001,﻿V. Rev.,﻿Thomas Heyden,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0016,﻿church,﻿St. John Baptist,English,,﻿Buchanan P.O.,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.427934,-79.984318,,,,﻿w_pollard_001,﻿Rev.,﻿W. Pollard,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0016,﻿church,﻿St. John Baptist,English,,﻿Buchanan P.O.,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.427934,-79.984318,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.425016,-79.984436,,,,﻿luk_baudinelli_001,﻿Rev.,﻿Luke Bandinelli,﻿Passionist,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.425016,-79.984436,,,,﻿jam_hoffzugott_001,﻿Rev.,﻿James Hoffzugott,﻿Passionist,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.425016,-79.984436,,,,﻿luk_baudinelli_001,﻿Rev.,﻿Luke Bandinelli,﻿Passionist,﻿Rector,,,,﻿Passionists,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0017,﻿church,﻿St. Michael's,﻿German,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.425016,-79.984436,,,,﻿jam_hoffzugott_001,﻿Rev.,﻿James Hoffzugott,﻿Passionist,,,,,﻿Passionists,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0121_02,﻿church,﻿B. Paul of the Cross,English,,,,﻿Allegheny County,,﻿Birmingham,﻿Birmingham,﻿PA,,40.422815,-79.983896,,,,,,,,,,,,﻿Passionist Fathers,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0019,﻿church,﻿SS. Simon and Jude,English,,,,﻿Indiana County,,﻿Blairsville,﻿Blairsville,﻿PA,,40.432626,-79.258078,,,,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,﻿Rector,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0020,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿Braddock's Field,﻿Braddock,﻿PA,,40.402879,-79.863361,,,,﻿c_neeson_001,﻿Rev.,﻿C. Nisson,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -102,7 +102,7 @@
 ﻿pit.pa.0155,﻿church,﻿St. Matthew's,English,,,,﻿Blair County,,﻿Tyrone,,﻿PA,,40.657222,-79.828611,,,,﻿j_c_farran_001,﻿Rev.,﻿J. C. Farran,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0098,﻿church,﻿St. John's,English,,,,﻿Fayette County,,﻿Uniontown,﻿Uniontown,﻿PA,,40.673393,-78.242513,﻿pit.pa.0026,﻿attended from Brownville,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0158,﻿church,[Unnamed Institution],English,,,,﻿Washington County,,﻿Upper Columbia,,﻿PA,,,,﻿pit.pa.0043,"﻿attended by Rev. D. Kearney, Elizabeth",,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0100,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,,﻿Washington,﻿Washington,﻿PA,,40.506649,-79.835427,,,,﻿jam_p_tahany,﻿Rev.,﻿J. Tahaney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0100,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,,﻿Washington,﻿Washington,﻿PA,,40.506649,-79.835427,,,,﻿Jam_p_tahany_001,﻿Rev.,﻿J. Tahaney,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0101,﻿church,﻿St. Anne's,English,,,,﻿Green County,,﻿Waynesburgh,﻿Waynesburg,﻿PA,,40.17396,-80.246171,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0102,﻿church,﻿St. James',English,,,,﻿Washington County,,﻿West-Alexander,﻿West Alexander,﻿PA,,39.896144,-80.183639,﻿pit.pa.0100,﻿attended from Washington,,,,,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Allegheny County,,﻿Wexford,﻿Wexford,﻿PA,,40.105073,-80.507847,,,,﻿jos_brandstetter_001,﻿Rev.,﻿J. M. Brandstaetter,,,,,,,,1865,﻿,﻿,﻿Pittsburgh,Pittsburgh

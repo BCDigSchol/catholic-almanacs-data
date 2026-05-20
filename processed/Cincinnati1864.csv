@@ -22,7 +22,7 @@
 ﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,﻿j_b_elkmann_001,﻿Rev.,﻿J. B. Elkmann,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0006,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,﻿ger_uhling_001,﻿Rev.,﻿Gerhard Uhling,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿ott_jair_001,﻿Rev.,﻿Otto Jair,﻿O.S.F.,﻿Superior,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿ans_koch_002,﻿Rev.,﻿Anselm Koch,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿ans_koch_001,﻿Rev.,﻿Anselm Koch,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿uba_webersinke_001,﻿Rev.,﻿Ubaldus Webersinke,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿jos_ferneding_001,﻿V. Rev.,﻿Jos. Ferneding,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0008,﻿church,﻿St. Paul's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.109871,-84.506724,,,,﻿her_ferneding_001,﻿Rev.,﻿Herman Ferneding,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -76,7 +76,7 @@
 ﻿cin.oh.0066,﻿church,[Unnamed Institution],English,,,,﻿Greene County,,﻿Cedearville,﻿Cedarville,﻿OH,,39.744227,-83.808537,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0016,﻿church,﻿St. Francis',English,,,,﻿Perry County,,﻿Chapel Hill,,﻿OH,,39.764135,-82.25833,,,,﻿jos_n_brogard_001,﻿Rev.,﻿Joseph Brogard,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0018,﻿church,﻿Church of the Seven Dolors,English,,,,﻿Athens County,,﻿Chauncey,,﻿OH,,39.397849,-82.129312,﻿col.oh.0045,﻿Attended from Logan,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0071,﻿church,﻿St. Mary's,English,,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.33312,-82.982402,,,,﻿m_kennedy_001,﻿Rev.,﻿M. Kennedy,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0071,﻿church,﻿St. Mary's,English,,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.33312,-82.982402,,,,﻿mic_kennedy_001,﻿Rev.,﻿M. Kennedy,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0070,﻿church,﻿St. Peter's,English,﻿German,,,﻿Ross County,,﻿Chillicothe,,﻿OH,,39.334833,-82.990935,,,,﻿edw_f_lieb_001,﻿Rev.,﻿Edw. Lieb,﻿O.S.F,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0019,﻿church,﻿St. Joseph's,English,,,,﻿Pickaway County,,﻿Circleville,,﻿OH,,39.600471,-82.947452,,,,﻿joh_d_duffy_001,﻿Rev.,﻿John Duffy,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0067,﻿church,﻿St. Dominic's,English,,,,﻿Perry County,,﻿Clayton Township,,﻿OH,,39.73926,-82.106322,,﻿Attended by a Dominican Father,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -113,7 +113,7 @@
 ﻿cin.oh.0324,﻿church,﻿St. Mary's,English,,﻿near Minster,,,,﻿Greenwood,,﻿OH,,,,,,,﻿p_renther_001,﻿Rev.,﻿P. Renther,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0324,﻿church,﻿St. Mary's,English,,﻿near Minster,,,,﻿Greenwood,,﻿OH,,,,,,,﻿hen_drees_001,﻿Rev.,﻿H. Drees,﻿C.PP.S.,,﻿who also attend St. Mary's Chapel and St. Francis Assisium's,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0032,﻿religious institution,[Unnamed Institution],English,,,,﻿Franklin County,,﻿Groveport,,﻿OH,,39.853206,-82.888276,,"﻿Attended from St. Patrick's, Columbus",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿f_d_kolb_001,﻿Rev.,﻿Fr. da Paula Kolb,﻿O.S.F.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿fra_d_kolb_001,﻿Rev.,﻿Fr. da Paula Kolb,﻿O.S.F.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿a_o_walker_003,﻿Rev.,﻿A. O. Walker,,,﻿who also attends Eaton and Somerville,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0034,﻿religious institution,[Unnamed Institution],English,,,,,,﻿Hanging Rock,,﻿OH,,38.56008,-82.720997,﻿col.oh.0037,﻿Attended from Ironton,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0097,﻿church,﻿St. John's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,﻿cin.oh.0007,"﻿Attended from St. John's, Cincinnati",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -241,7 +241,7 @@
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Society of the Precious Blood,English,,,,,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿joh_v_brook_001,﻿Rev.,﻿John Vanden Brook,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Society of the Precious Blood,English,,,,,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ber_dickmann_001,﻿Rev.,﻿B. Dickmann,﻿C.PP.S.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿joh_shultz_001,﻿Rev.,﻿J. Shultz,﻿S.J.,﻿President,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿f_p_garesche_002,﻿Rev.,﻿F. Garesche,﻿S.J.,﻿Vice-President,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿f_p_garesche_001,﻿Rev.,﻿F. Garesche,﻿S.J.,﻿Vice-President,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿p_demeester_001,﻿Rev.,﻿P. Demeester,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿jos_a_fastré_001,﻿Rev.,﻿Jos. Fastre,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿p_j_arnoudt_001,﻿Rev.,﻿P. J.  Arnoudt,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
