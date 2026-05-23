@@ -23,7 +23,7 @@
 ﻿bro.ny.0002,﻿church,﻿St. Paul's,English,,,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,,,,,,﻿ric_waters_902,﻿Rev.,﻿Richard Waters,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,﻿NY,42.65181929,-73.75279367,,,,﻿jos_b_schneller_901,﻿Rev.,﻿Joseph Schneller,,,,,,,,1839,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿pat_bradley_901,﻿Rev.,﻿P. Bradley,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0003,﻿church,﻿St. John's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.65181929,-73.75279367,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0004,﻿church,﻿St. John's,English,,,,,,﻿Albany,,﻿NY,,,,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9003,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Auburn,,﻿NY,,,,,,,﻿conolly_902,﻿Rev. Mr.,﻿Conolly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9004,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Geneva,,﻿NY,,,,,,,﻿conolly_902,﻿Rev. Mr.,﻿Conolly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0006,﻿church,﻿St. Louis,English,﻿German and English,,,,﻿Erie County,﻿Buffaloe,﻿Buffalo,﻿NY,﻿NY,42.895428,-78.871729,,,,﻿geo_pax_001,﻿Rev.,﻿Alexander Pax,,,,,,,,1839,"﻿https://en.wikipedia.org/wiki/St._Louis_Roman_Catholic_Church#:~:text=Saint%20Louis%20Roman%20Catholic%20Church,Roman%20Catholic%20Diocese%20of%20Buffalo%22. ; while St. Joseph's is more notable, and is the main church in the later almanac years of the 1860s/1870s, it appears that this is the only surviving pre-1833 church in the city. For that reason, I am going with this church as opposed to the one that appears first in the diocese later on.",﻿,﻿,﻿New York,NewYorkCity
@@ -35,14 +35,14 @@
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Throg's Point,,,,﻿Asylum,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Throg's Point,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Saw Pit,,,,﻿Asylum,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿Chapel of St. Ignatius,English,﻿Not dedicated,﻿Saw Pit,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0142,﻿church,﻿St. Patrick's,English,,,,,,﻿Hogansburg,,﻿NY,,,,,,﻿three Sundays,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0142,﻿church,﻿St. Mary's,English,﻿Not dedicated,,,,,﻿Fort Covington,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0117,﻿church,﻿St. Mary's,English,﻿Not dedicated,,,,,﻿Fort Covington,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0173,﻿church,﻿St. Joseph's,English,﻿Not dedicated,,,,,﻿Malone,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0173,﻿church,﻿St. Peter's,English,﻿Not dedicated,,,,,﻿Messina,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0181,﻿church,﻿St. Peter's,English,﻿Not dedicated,,,,,﻿Messina,,﻿NY,,,,,,﻿occasionally,﻿joh_mcnulty_901,﻿Rev.,﻿John McNulty,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0116,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Java,,﻿NY,,,,,,﻿once a month,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9007,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿China,,﻿NY,,,,,,﻿once a month,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0161,﻿chapel,[Unnamed Institution],English,﻿Church begun this season,,,,,﻿Newburg,,﻿NY,,41.50117266,-74.00982805,,,,﻿pat_duffy_901,﻿Rev. Mr.,﻿Duffy,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -50,11 +50,11 @@
 ﻿nyc.ny.0199,﻿chapel,[Unnamed Institution],English,,,,,,﻿West Point,,﻿NY,,41.3914827,-73.9559721,,,,﻿pat_duffy_901,﻿Rev. Mr.,﻿Duffy,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0175,﻿church,﻿St. Peter's,English,,,,,﻿Dutchess County,﻿Poughkeepsie,﻿Poughkeepsie,﻿NY,﻿NY,41.70925078,-73.93694958,,,﻿two Sundays,﻿joh_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://en.wikipedia.org/wiki/Old_St._Peter%27s_Church_(Poughkeepsie,_New_York)",﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0184,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Saugartie's,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,"﻿https://stmaryofthesnow.org/history-of-st-mary-of-the-snow ; odd case of a place close to one diocese going with another - this place is right by albany, but, according to this church history, was attached with ny around the time of the civil war",﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0184,﻿church,[Unnamed Institution],English,﻿Church soon to be erected,,,,,﻿Roundout,,﻿NY,,42.07726802,-73.94618248,,,﻿once a month,﻿joh_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0184,﻿church,[Unnamed Institution],English,﻿Church soon to be erected,,,,,﻿Northwood,,﻿NY,,42.07726802,-73.94618248,,,,﻿joh_newman_901,﻿Rev. Mr.,﻿Newman,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0180,﻿church,[Unnamed Institution],English,﻿Church soon to be erected,,,,,﻿Roundout,,﻿NY,,,,,,﻿once a month,﻿joh_maginnis_901,﻿Rev.,﻿J. Maginnis,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9015,﻿church,[Unnamed Institution],English,,,,,,﻿Northwood,,﻿NY,,,,,,,﻿joh_newman_901,﻿Rev. Mr.,﻿Newman,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9008,﻿church,﻿St. John's,English,,,,,,﻿Lockport,,﻿NY,,,,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9009,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Medina,,﻿NY,,,,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9009,﻿church,﻿Lewiston,English,﻿Church not dedicated,﻿Niagara Falls,,,,﻿Albion,,﻿NY,,,,,,﻿occasionally,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,﻿https://www.lewistonassembly.org/,﻿,﻿,﻿New York,NewYorkCity
+﻿buf.ny.0096,﻿church,﻿Lewiston,English,,﻿Niagara Falls,,,,﻿Albion,,﻿NY,,,,,,﻿occasionally,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,﻿https://www.lewistonassembly.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9005,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Oswego,,﻿NY,,,,,,,﻿joh_rogers_901,﻿Rev.,﻿John Rogers,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.69951178,-73.45885685,,,﻿alternately,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1839,﻿https://holycrosspbg.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Kuseville,﻿Plattsburg,﻿NY,,44.69951178,-73.45885685,,,﻿alternately,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
