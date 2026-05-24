@@ -62,7 +62,7 @@
 ﻿alb.ny.0300,﻿church,﻿St. Mary's,English,,,,,,﻿Verona,,﻿NY,,43.1381455,-75.5706945,,,﻿2d and 4th Sund.,﻿wm_bracham_901,﻿Rev.,﻿Wm. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0301,﻿chapel,[Unnamed Institution],English,﻿Private chap.,,,,,﻿Vienna,,﻿NY,,,,,,﻿once in 3 mon.,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0113,﻿church,[Unnamed Institution],English,,,,,,﻿Florence,,﻿NY,,,,,,﻿once in three months,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0113,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Turin,,﻿NY,,,,,,﻿occasionally,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9016,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Turin,,﻿NY,,,,,,﻿occasionally,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Rochester,,﻿NY,,,,,,﻿every Sunday,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿prost_901,﻿Rev. Mr.,﻿Prost,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Danville,,﻿NY,,,,,,﻿occasionally,﻿prost_901,﻿Rev. Mr.,﻿Prost,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -70,24 +70,24 @@
 ﻿alb.ny.0247,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Schenectady,,﻿NY,,,,,,,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Amsterdam,,﻿NY,,,,,,﻿one Sund. in mon.,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0245,﻿church,[Unnamed Institution],English,,,,,,﻿Saratoga,,﻿NY,,,,,,﻿one Sund. in mon.,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0245,﻿church,[Unnamed Institution],English,,,,,,﻿Jonesville,,﻿NY,,,,,,﻿occasionally,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9017,﻿church,[Unnamed Institution],English,,,,,,﻿Jonesville,,﻿NY,,,,,,﻿occasionally,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0124,﻿church,[Unnamed Institution],English,,,,,,﻿Galway,,﻿NY,,,,,,﻿occasionally,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Salina,﻿Salina,﻿NY,﻿NY,43.06872831,-76.15749361,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,"﻿This church is in what is today Syracuse; however, at the time, Salina appears to have had a further reach, meaning this church would've likely been part of Salina: https://www.stjohnthebaptist-holytrinity.com/about/",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Syracuse,﻿Salina,﻿NY,,43.06872831,-76.15749361,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0175,﻿church,[Unnamed Institution],English,,,,,,﻿Manlius,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Pompey,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Mexico,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9018,﻿church,[Unnamed Institution],English,,,,,,﻿Mexico,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,,,,,,﻿joh_shanahan_001,﻿Rev.,﻿John Shanahan,,,,,,,,1839,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,,,,,,﻿jas_quinn_901,﻿Rev.,﻿Jas. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0244,﻿church,﻿Trinity church,English,﻿unfinished,,,,,﻿Sandy Hill,,﻿NY,,43.300628,-73.585949,,﻿Attended from Troy,,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0284,﻿church,[Unnamed Institution],English,,,,,﻿Rensselaer County,﻿Lansingburg,﻿Troy,﻿NY,﻿NY,42.781542,-73.664114,,﻿Attended from Troy,﻿Once a month,,,,,,﻿dw. at Troy,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0303,﻿church,[Unnamed Institution],English,,,,,,﻿Waterford,,﻿NY,,,,,﻿Attended from Troy,﻿Once a month,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0303,﻿church,[Unnamed Institution],English,,,,,,﻿North Greenville,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9019,﻿church,[Unnamed Institution],English,,,,,,﻿North Greenville,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0183,﻿church,[Unnamed Institution],English,,,,,,﻿Minerva,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0044,﻿church,[Unnamed Institution],English,,,,,,﻿Buskirkbridge,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0182,﻿church,[Unnamed Institution],English,,,,,,﻿Mechanicsville,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0143,﻿church,[Unnamed Institution],English,,,,,,﻿Hoosicksfalls,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0143,﻿church,[Unnamed Institution],English,,,,,,﻿Shahaticoque,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0246,﻿church,[Unnamed Institution],English,,,,,,﻿Shahaticoque,,﻿NY,,,,,,﻿occasionally,﻿jas_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0295,﻿church,﻿St. John's,English,,,,,,﻿Utica,,﻿NY,,,,,,﻿every Sunday,﻿wal_j_quarters_901,﻿Rev.,﻿Walter Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0039,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Binghampton,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0166,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Little Falls,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
