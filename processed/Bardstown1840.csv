@@ -15,7 +15,7 @@
 ﻿lou.ky.0016,﻿church,﻿St. Louis,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Louisville,﻿Louisville,﻿KY,,38.23690764,-85.76363854,,,,﻿wal_s_coomes_001,﻿Rev.,﻿W. S. Coomes,,﻿Assistant,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0016,﻿church,﻿St. Louis,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Louisville,﻿Louisville,﻿KY,,38.23690764,-85.76363854,,,,﻿joh_quinn_901,﻿Rev.,﻿John Quinn,,﻿Assistant,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0002,﻿church,﻿German Church,﻿german,,,,,,﻿Louisville,,﻿KY,,,,,,,﻿cha_blank_901,﻿Rev.,﻿Charles Blank,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.0002,﻿church,﻿German Church,﻿german,,,﻿near Louisville,,,﻿Portland,,﻿KY,,,,,,,﻿n_percher_901,﻿Rev.,﻿N. Percher,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.0014,﻿church,[Unnamed Institution],English,,,﻿near Louisville,,,﻿Portland,,﻿KY,,,,,,,﻿n_percher_901,﻿Rev.,﻿N. Percher,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.9004,﻿church,﻿St. Clare's,English,,,,﻿Hardin County,,﻿Elizabethtown,,﻿KY,,,,,,,﻿fra_chambige_001,﻿Rev.,﻿Francis Chambige,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.9037,﻿church,﻿St. Patrick's,English,,,,﻿Hardin County,,,,﻿KY,,,,,,,﻿fra_chambige_001,﻿Rev.,﻿Francis Chambige,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0082,﻿church,﻿St. John Bapt,English,,,,﻿Hardin County,,,,﻿KY,,,,,,,﻿fra_chambige_001,﻿Rev.,﻿Francis Chambige,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
@@ -90,7 +90,7 @@
 ﻿cov.ky.0023,﻿station,﻿St. Patrick's,English,,,,﻿Franklin County,,﻿Frankfort,,﻿KY,,,,,﻿visited by Rev. John A. Drew,,﻿j_a_drew_901,﻿Rev.,﻿John A. Drew,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿cov.ky.0023,﻿station,﻿St. Patrick's,English,,,,﻿Franklin County,,﻿Frankfort,,﻿KY,,,,,﻿visited by Rev. John A. Drew,,﻿j_a_drew_901,﻿Rev.,﻿John A. Drew,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿cov.ky.0001,﻿cathedral,﻿St. Mary's,English,,,,,,﻿Covington,,﻿KY,,,,,,,﻿ste_h_montgomery_901,﻿Rev.,﻿Stephen H. Montgomery,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿cov.ky.0001,﻿seminary,﻿Diocesan Seminary,English,,,,﻿Marion County,,﻿Covington,,﻿KY,,,,,,,,,,,,,,,﻿under the direction of the fathers of the Society of Jesus,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9041,﻿seminary,﻿Diocesan Seminary,English,,,,﻿Marion County,,,,﻿KY,,,,,,,,,,,,,,,﻿under the direction of the fathers of the Society of Jesus,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0089_93,﻿convent,﻿Dominican Convent,English,,﻿at St. Rose,,﻿Washington County,﻿Washington County,,﻿Springfield,﻿KY,﻿KY,37.69318504,-85.26238897,,,,﻿jos_t_jarboe_001,﻿Rev.,﻿Joseph Jarboe,,﻿Prior,,,﻿4 novices,﻿under the direction of the Nuns of St. Dominick,,1840,﻿https://oppeace.org/who-we-are/history/,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0089_93,﻿convent,﻿Dominican Convent,English,,﻿at St. Rose,,﻿Washington County,﻿Washington County,,﻿Springfield,﻿KY,,37.69318504,-85.26238897,,,,﻿sam_l_montgomery_901,﻿Rev.,﻿Samuel L. Montgomery,,,,,﻿2 lay brothers,﻿under the direction of the Nuns of St. Dominick,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0089_93,﻿convent,﻿Dominican Convent,English,,﻿at St. Rose,,﻿Washington County,﻿Washington County,,﻿Springfield,﻿KY,,37.69318504,-85.26238897,,,,﻿jam_v_bullock_901,﻿Rev.,﻿James V. Bullock,,,,,﻿2 lay brothers,﻿under the direction of the Nuns of St. Dominick,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
@@ -129,8 +129,8 @@
 ﻿lou.ky.9012_02,﻿academy,﻿female academy,English,,,,﻿Washington County,﻿Marion County,﻿Loretto,﻿Nerinx,﻿KY,﻿KY,37.65963579,-85.39593267,,,,,,,,,,﻿pupils,﻿25 pupils,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0089_93&lou.ky.0089_94,﻿convent,﻿St. Magdalen's Convent,English,,﻿[at St. Rose],﻿two and a half miles west of Springfield,﻿Washington County,﻿Washington County,,﻿Springfield,﻿KY,﻿KY,37.69318504,-85.26238897,,,,,,,,,,,,﻿Conducted by the Nuns of St. Dominick,,1840,﻿https://oppeace.org/who-we-are/history/,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0002_05,﻿school,[Unnamed Institution],English,﻿attached to the German church at Louisville,,,,,﻿Louisville,,﻿KY,,,,,,,,,,,,,﻿pupils,﻿125 pupils,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.0002_05,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,﻿attached to the German church at Louisville,,,,,﻿Loretto,,﻿KY,,,,,,,﻿eul_flaget_901,﻿Miss,﻿Eulalia Flaget,,,,﻿pupils,﻿125 pupils,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.0002_05,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,﻿attached to the German church at Louisville,,,,,﻿Loretto,,﻿KY,,,,,,,﻿ant_bernier_901,﻿Miss,﻿Antoinette Bernier,,,,﻿pupils,﻿125 pupils,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.0002_05,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,﻿attached to the German church at Louisville,,,,,﻿Loretto,,﻿KY,,,,,,,﻿lou_jarrige_901,﻿Miss,﻿Louise Jarrige,,,,﻿pupils,﻿125 pupils,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9042,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,,,,,,﻿Loretto,,﻿KY,,,,,,,﻿eul_flaget_901,﻿Miss,﻿Eulalia Flaget,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9042,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,,,,,,﻿Loretto,,﻿KY,,,,,,,﻿ant_bernier_901,﻿Miss,﻿Antoinette Bernier,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9042,﻿asylum,﻿Loretto Deaf and Dumb Asylum,English,,,,,,﻿Loretto,,﻿KY,,,,,,,﻿lou_jarrige_901,﻿Miss,﻿Louise Jarrige,,,,,,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.9033,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Louisville,,﻿KY,,,,,,,,,,,,,﻿orphans,﻿42 orphans,﻿under the care of the Sisters of Charity,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.9033_02,﻿infirmary,﻿Infirmary,English,,,,,,﻿Louisville,,﻿KY,,,,,,,,,,,,,﻿religious,﻿6 Sisters of Charity,,,1840,,,,,﻿,﻿,﻿Bardstown,Bardstown

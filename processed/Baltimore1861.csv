@@ -62,9 +62,8 @@
 ﻿bal.md.0043,﻿church,﻿St. Mary's,English,,,,﻿Baltimore County,,﻿Govanstown,﻿Govans,﻿MD,,39.363996,-76.60969,,,,﻿dwi_e_lyman_001,﻿Rev.,﻿Dwight E. Lyman,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0108,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Hagerstown,﻿Hagerstown,﻿MD,,39.641763,-77.719993,,,,,﻿Rev.,﻿Edmund Didier,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0109,﻿church,﻿St. Peter's,English,,,,﻿Washington County,,﻿Hancock,﻿Hancock,﻿MD,,39.700002,-78.186379,,,,,﻿Rev.,﻿John Gloyd,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0079,﻿church,﻿St. Ignatius',English,,﻿Hickory P.O.,,﻿Harford County,,﻿Hickory,﻿Hickory,﻿MD,,39.583896,-76.363728,,,"﻿1st, 2d, and 4th Sundays",,﻿Rev.,﻿James McDevitt,,,"﻿1st, 2d, and 4th Sundays",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0080,﻿church,﻿St. Patrick's,English,,,,﻿Harford County,,﻿Havre de Grace,﻿Havre de Grace,﻿MD,,39.549279,-76.091617,,,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0080,﻿church,﻿St. Patrick's,English,,,,﻿Harford County,,﻿Havre de Grace,﻿Havre de Grace,﻿MD,,39.549279,-76.091617,,﻿attended from Port Deposite,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0079,﻿church,﻿St. Ignatius',English,,﻿Hickory P.O.,,﻿Harford County,,,﻿Hickory,﻿MD,,39.583896,-76.363728,,,"﻿1st, 2d, and 4th Sundays",,﻿Rev.,﻿James McDevitt,,,"﻿1st, 2d, and 4th Sundays",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0080,﻿church,﻿St. Patrick's,English,,,,﻿Harford County,,﻿Havre de Grace,﻿Havre de Grace,﻿MD,,39.549279,-76.091617,,﻿attended from Port Deposite,﻿2d Sunday,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0099,﻿chapel,﻿Lady's Chapel,English,,,,﻿St. Mary's County,,,,﻿MD,,38.442165,-76.743977,﻿bal.md.0098,﻿Attended from Newtown,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0097,﻿church,﻿St. Aloysius,English,,,,﻿St. Mary's County,,﻿Leonardtown,﻿Leonardtown,﻿MD,,38.291238,-76.635794,﻿bal.md.0098,﻿Attended from Newtown,,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0105,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Laurel Factory,﻿Laurel,﻿MD,,39.099275,-76.848306,,﻿Attended from Annapolis,﻿Twice a month,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
@@ -80,7 +79,7 @@
 ﻿bal.md.0098,﻿church,﻿St. Francis Xavier's,English,,,,﻿St. Mary's County,,﻿Newtown,,﻿MD,,38.255651,-76.700097,,,,﻿jos_enders_001,﻿Rev.,﻿Joseph Enders,﻿S.J.,,"﻿who attend Leonardtown, Lady's Chapel, St. John's, St. Joseph's, and Sacred Heart Churches",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0098,﻿church,﻿St. Francis Xavier's,English,,,,﻿St. Mary's County,,﻿Newtown,,﻿MD,,38.255651,-76.700097,,,,﻿jam_cotting_001,﻿Rev.,﻿Jas. Cotting,﻿S.J.,,"﻿who attend Leonardtown, Lady's Chapel, St. John's, St. Joseph's, and Sacred Heart Churches",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0098,﻿church,﻿St. Francis Xavier's,English,,,,﻿St. Mary's County,,﻿Newtown,,﻿MD,,38.255651,-76.700097,,,,,﻿Rev.,﻿F. X. De Neckere,﻿S.J.,,"﻿who attend Leonardtown, Lady's Chapel, St. John's, St. Joseph's, and Sacred Heart Churches",,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0032,﻿church,﻿St. Peter's,English,,,,﻿Alleghany  County,﻿Garrett County,﻿Oakland,﻿Oakland,﻿MD,,39.662911,-78.748611,﻿bal.md.0026,﻿Attended from Cumberland,﻿3d Sunday,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0032,﻿church,﻿St. Peter's,English,,,,﻿Alleghany County,﻿Garrett County,﻿Oakland,﻿Oakland,﻿MD,,39.662911,-78.748611,﻿bal.md.0026,﻿Attended from Cumberland,﻿3d Sunday,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0076,﻿church,﻿St. Mary's,English,,,,﻿Frederick County,,﻿Petersville,﻿Petersville,﻿MD,,39.34649,-77.610823,﻿bal.md.0070,﻿Attended from Frederick City,﻿1st Sunday,,,,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0103,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Piscataway,﻿Piscataway,﻿MD,,38.700556,-76.9725,﻿bal.md.0062,﻿Attended by Rev. P. B. Leneghan,﻿2d and 4th Sundays,,﻿Rev.,﻿P. B. Leneghan,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0051,﻿church,﻿St. Charles' Bor.,English,,,,﻿Baltimore County,,﻿Pikesville,﻿Pikesville,﻿MD,,39.374273,-76.722473,,,,﻿e_q_waldron_001,﻿Rev.,﻿E. Waldron,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore

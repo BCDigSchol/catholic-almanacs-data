@@ -17,7 +17,7 @@
 ﻿nyc.ny.0052,﻿church,﻿St. Joseph's,English,,,,,﻿New York County,﻿New York,,﻿NY,,40.7324967,-74.000619,,,,﻿ber_carraher_901,﻿Rev.,﻿P. Carraher,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James',English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿and_byrne_001,﻿Rev.,﻿Andrew Byrne,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James',English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿mic_farrell_901,﻿Rev.,﻿Michael Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9004,﻿church,﻿St. Nicholas,English,﻿German,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0051,﻿church,﻿St. Nicholas,English,﻿German,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James',English,"﻿""L.I.""",,,,﻿Kings County,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,40.697056,-73.986667,,,,﻿joh_walsh_901,﻿Rev.,﻿John Walsh,,,,,,,,1839,﻿https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._James_(Brooklyn) ; https://brooklyncathedral.org/history,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0001,﻿church,﻿St. James',English,"﻿""L.I.""",,,,﻿Kings County,﻿Brooklyn,﻿Brooklyn,﻿NY,,40.697056,-73.986667,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0002,﻿church,﻿St. Paul's,English,,,,,,﻿Brooklyn,﻿Brooklyn,﻿NY,﻿NY,,,,,,﻿ric_waters_902,﻿Rev.,﻿Richard Waters,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -91,12 +91,12 @@
 ﻿alb.ny.0295,﻿church,﻿St. John's,English,,,,,,﻿Utica,,﻿NY,,,,,,﻿every Sunday,﻿wal_j_quarters_901,﻿Rev.,﻿Walter Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0039,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Binghampton,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0166,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Little Falls,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0166,﻿chapel,[Unnamed Institution],English,﻿private chapel,,,,,﻿Newport,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0166,﻿chapel,[Unnamed Institution],English,﻿private chapel,,,,,﻿Shiler,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0196,﻿chapel,[Unnamed Institution],English,﻿private chapel,,,,,﻿Newport,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0254,﻿chapel,[Unnamed Institution],English,﻿private chapel,,,,,﻿Shiler,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0095,﻿church,[Unnamed Institution],English,,,,,,﻿Deerfield,,﻿NY,,,,,,﻿occasionally,﻿wal_j_quarters_901,﻿Rev.,﻿W. Quarter,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,[Unnamed Institution],English,,,,,,﻿Waddington,,﻿NY,,44.8644999,-75.2041019,,,,﻿maguire_901,﻿Rev. Mr.,﻿Maguire,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsburg,﻿Brooklyn,﻿NY,,40.70964783,-73.93966508,,,,,,,,,﻿Vacant,,,,,1839,﻿https://www.trinity-stmary.org/our-historic-church,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Flushing,﻿Brooklyn,﻿NY,,40.76013678,-73.83251739,,,,,,,,,﻿Vacant,,,,,1839,﻿https://stmichaelsflushing.org/about/history,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Flushing,,﻿NY,,40.76013678,-73.83251739,,,,,,,,,﻿Vacant,,,,,1839,﻿https://stmichaelsflushing.org/about/history,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0013,﻿church,[Unnamed Institution],English,,,,,,﻿Belleville,,﻿NJ,,,,,,,,,,,,﻿Vacant,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9001,﻿church,[Unnamed Institution],English,,,,,,﻿Madison,,﻿NJ,,,,,,,,,,,,﻿Vacant,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0048,﻿church,﻿St. Peter's,English,,,,,,﻿Jersey City,,﻿NJ,,,,,,,﻿hug_mohan_901,﻿Rev. Mr.,﻿Mohan,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -104,7 +104,7 @@
 ﻿new.nj.0067,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿New Brunswick,,﻿NJ,,40.4862157,-74.4518188,,,,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0095,﻿church,[Unnamed Institution],English,,,,,,﻿South Amboy,,﻿NJ,,,,,,﻿1st Sunday of the month,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,﻿St. John's,English,,,,,,﻿Patterson,,﻿NJ,,,,,,,﻿p_oreilly_901,﻿Rev. Mr.,﻿O'Reilly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.9002,﻿seminary,﻿St. Vincent of Paul's Seminary,English,,,,﻿Jefferson County,,﻿Lafargeville,,﻿NY,,,,,,,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9020,﻿seminary,﻿St. Vincent of Paul's Seminary,English,,,,﻿Jefferson County,,﻿Lafargeville,,﻿NY,,,,,,,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿child,﻿about 60 young ladies,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿poor child,﻿five to seven hundred poor children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -117,15 +117,15 @@
 ﻿nyc.ny.0041_02&_03,﻿free school,﻿St. Patrick's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿from 800 to 1000 children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿from five to seven hundred children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿about five to seven hundred children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿Two sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,﻿attached to the church of the Transfiguration,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,﻿attached to St. Joseph's church,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044_02,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿children,﻿about five to seven hundred children,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044_02,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿Two sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0051_02,﻿free school,﻿St. Nicholas' German Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿children,﻿between 80 and 100 German children,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0046_02&0046_03,﻿free school,[Unnamed Institution],English,﻿attached to the church of the Transfiguration,,,,,,,﻿NY,,,,,,,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0045_05&0045_07,﻿free school,[Unnamed Institution],English,﻿attached to St. Joseph's church,,,,,,,,,,,,,,,,,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿18 orphans,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0079,﻿free school,﻿St. James' Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿from two to four hundred children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0079,﻿free school,﻿St. Paul's Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿150 children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044_02,﻿free school,﻿St. James' Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿from two to four hundred children,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0002_02,﻿free school,﻿St. Paul's Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿children,﻿150 children,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿orphans,﻿25 orphans,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_02,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1839,,﻿,﻿,﻿New York,NewYorkCity
