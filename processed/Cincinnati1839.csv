@@ -13,17 +13,17 @@
 ﻿cle.oh.0001,﻿church,[Unnamed Institution],English,﻿no church,,,,﻿Cuyahoga County,﻿Cleveland,,﻿OH,,,,,,,﻿p_odwyer_901,﻿Rev.,﻿P. O'Dwyer,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001,﻿church,﻿St. Remigius,English,,,,,﻿Franklin County,﻿Columbus,,﻿OH,,,,,﻿visited by Rev. H. D. Yuncker,﻿once a month,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9004,﻿church,[Unnamed Institution],English,﻿church recently built,,,,﻿Montgomery County,﻿Dayton,,﻿OH,,,,,,,﻿ema_thienpont_901,﻿Rev.,﻿Emanuel Thienpont,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.9004,﻿church,[Unnamed Institution],English,﻿no church,,,,﻿Montgomery County,﻿Delaware,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.9004,﻿church,[Unnamed Institution],English,﻿no church,,,,﻿Montgomery County,﻿Piketown,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.9004,﻿church,[Unnamed Institution],English,﻿no church,,,,﻿Montgomery County,﻿Portsmouth,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.9004,﻿church,[Unnamed Institution],English,﻿no church,,,﻿Stark County,﻿Montgomery County,﻿Fulton,,﻿OH,,,,,,,﻿bas_a_shorb_001,﻿Rev.,﻿Basil Shorb,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cle.oh.0051,﻿church,[Unnamed Institution],English,﻿no church,,,,,﻿Delaware,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.9022,﻿church,[Unnamed Institution],English,﻿no church,,,,,﻿Piketown,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.9022,﻿church,[Unnamed Institution],English,﻿no church,,,,,﻿Portsmouth,,﻿OH,,,,,,,﻿hen_d_juncker_001,﻿Rev.,﻿H. D. Yuncker,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cle.oh.0043,﻿church,[Unnamed Institution],English,,,,﻿Stark County,,﻿Fulton,,﻿OH,,,,,,,﻿bas_a_shorb_001,﻿Rev.,﻿Basil Shorb,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.9017,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Dark County,﻿Darke County,﻿Greenville,,﻿OH,,,,,,,﻿f_bartels_901,﻿Rev.,﻿F. Bartels,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Butler County,﻿Butler County,﻿Hamilton,﻿Hamilton,﻿OH,﻿OH,39.401817,-84.560244,,﻿attended from Cincinnati,,,,,,,,,,,,1839,﻿https://en.wikipedia.org/wiki/St._Stephen_Church_and_Rectory,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0040,﻿church,﻿St. Mary's,English,,,,,﻿Fairfield County,﻿Lancaster,﻿Lancaster,﻿OH,﻿OH,39.712793,-82.598978,,,,﻿tho_martin_902,﻿Rev.,﻿Thomas Martin,,,,,,,,1839,﻿https://stmarylancaster.org/2018/our-parish/,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0040,﻿church,﻿St. Louis,English,,,,,﻿Fairfield County,﻿Louisville,﻿Lancaster,﻿OH,,39.712793,-82.598978,,,,﻿mat_wartz_901,﻿Rev.,﻿Mathias Wartz,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cle.oh.0096,﻿church,﻿St. Louis,English,,,,,,﻿Louisville,,﻿OH,,,,,,,﻿mat_wartz_901,﻿Rev.,﻿Mathias Wartz,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0049,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Marietta,,﻿OH,,,,,,,﻿jam_mcaffrey_901,﻿Rev.,﻿James M'Caffrey,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0049,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Waterford,,﻿OH,,,,,,,﻿jam_mcaffrey_901,﻿Rev.,﻿James M'Caffrey,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0049,﻿church,[Unnamed Institution],English,﻿No church,,,,,﻿Beverly,,﻿OH,,,,,,,﻿jam_mcaffrey_901,﻿Rev.,﻿James M'Caffrey,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.9023,﻿church,[Unnamed Institution],English,﻿church building,,,,,﻿Waterford,,﻿OH,,,,,,,﻿jam_mcaffrey_901,﻿Rev.,﻿James M'Caffrey,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.9024,﻿church,[Unnamed Institution],English,﻿No church,,,,,﻿Beverly,,﻿OH,,,,,,,﻿jam_mcaffrey_901,﻿Rev.,﻿James M'Caffrey,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cle.oh.9005,﻿church,[Unnamed Institution],English,,,,﻿Crawford County,﻿Wyandot County,﻿McKutchinsville,,﻿OH,,,,,,,﻿fra_x_tschenhens_001,﻿Rev.,﻿F. X. Tschenhenss,,,,,,,,1839,,,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cle.oh.0122,﻿church,﻿St. Alphonsus,﻿German,"﻿There are several Catholic stations around this place, chiefly Germans, attended by the Redemptionists",,,﻿Huron County,﻿Huron County,﻿Norwalk,﻿Norwalk,﻿OH,﻿OH,41.239444,-82.62,,,,﻿pet_czakert_901,﻿Rev.,﻿Peter Czakert,,,,,,﻿attended by the Redemptionists,,1839,"﻿https://en.wikipedia.org/wiki/St._Peter_Catholic_Church_(Norwalk,_Ohio)",,,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.9000,﻿church,﻿St. Louis Bertrand,English,,,,﻿Perry County,﻿Perry County,﻿Rehoboth,﻿Rehoboth,﻿OH,﻿OH,39.742956,-82.191607,,,,﻿j_h_clarkson_901,﻿Rev.,﻿J. H. Clarkson,,,,,,,,1839,﻿https://columbuscatholic.org/system/resources/W1siZiIsIjIwMjQvMDYvMDQvNmpxNXd4dW55Z19DUlNfMjAxMl8xMC5wZGYiXV0/CRS_2012_10.pdf,,,﻿,﻿,﻿Cincinnati,Cincinnati
