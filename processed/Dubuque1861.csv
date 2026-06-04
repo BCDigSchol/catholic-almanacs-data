@@ -1,9 +1,9 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿cle_smyth_001,﻿Rt. Rev.,﻿Clement Smyth,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿jam_b_donelan_001,﻿Rev.,﻿James B. Donelan,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿jam_a_durnin_001,﻿Rev.,﻿James A. Durnin,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0002,﻿church,﻿St. Patrick's,English,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.506691,-90.669298,,,,﻿p_mccabe_001,﻿Rev.,﻿P. McCabe,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0003,﻿church,﻿Holy Trinity,﻿German,,,,,,﻿Dubuque,﻿Dubuque,﻿IA,,42.50768,-90.667007,,,,﻿joh_fendricks_001,﻿Rev.,﻿John Fendrick,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿cle_smyth_001,﻿Rt. Rev.,﻿Clement Smyth,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿jam_b_donelan_001,﻿Rev.,﻿James B. Donelan,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0001,﻿cathedral,﻿St. Raphael's,English,,,,,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.495195,-90.666832,,,,﻿jam_a_durnin_001,﻿Rev.,﻿James A. Durnin,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.506691,-90.669298,,,,﻿p_mccabe_001,﻿Rev.,﻿P. McCabe,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0003,﻿church,﻿Holy Trinity,﻿German,,,,,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.50768,-90.667007,,,,﻿joh_fendricks_001,﻿Rev.,﻿John Fendrick,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0004,﻿church,﻿St. Joseph's,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.583198,-90.88363,,,,﻿t_j_donaghoe_001,﻿Very Rev.,﻿T. J. Donaghoe,,﻿V.G.,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0005,﻿church,﻿St. Catharine's,English,,,,﻿Dubuque County,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.405909,-90.591945,﻿dub.ia.0006,﻿attended from St. Donatus,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0006,﻿church,﻿St. Donatus,﻿Ger.,,,,﻿Dubuque County,﻿Dubuque County,﻿Dubuque,﻿Dubuque,﻿IA,,42.360843,-90.539295,,,,﻿m_flamang_001,﻿Rev.,﻿Michael Flammang,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
@@ -23,11 +23,11 @@
 ﻿dub.ia.0192,﻿church,﻿St. Aloysius',English,,,,﻿Jones County,﻿Jones County,﻿Castle Grove,﻿Castle Grove,﻿IA,,42.261791,-91.316324,﻿dub.ia.0085,﻿attended from Independence,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0019,﻿church,﻿St. Helena,English,,,,﻿Black Hawk County,﻿Black Hawk County,﻿Cedar Falls,﻿Cedar Falls,﻿IA,,42.532807,-92.447204,﻿dub.ia.0085,﻿attended from Independence,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0193,﻿church,﻿St. Francis of Sales,English,,,,﻿Clinton County,﻿Dickinson County,﻿Centre Grove,﻿Center Grove,﻿IA,,42.491681,-90.715877,﻿dub.ia.0053,﻿attended from Dewitt,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0271,﻿church,﻿St. Anne,English,,,,﻿Lucas County,,﻿Chariton,,﻿IA,,41.02029938,-93.31412063,﻿dub.ia.0053,﻿attended from Dewitt,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0135,﻿church,﻿St. Pius,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Cherry Mount,,﻿IA,,43.167243,-91.280461,,,,﻿m_ofarrell_001,﻿Rev.,﻿M. O'Farrell,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0271,﻿church,﻿St. Anne,English,,,,﻿Lucas County,﻿Lucas County,﻿Chariton,﻿Chariton,﻿IA,,41.02029938,-93.31412063,﻿dub.ia.0053,﻿attended from Dewitt,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0135,﻿church,﻿St. Pius,English,,,,﻿Alamakee County,﻿Allamakee County,﻿Cherry Mount,﻿Harpers Ferry,﻿IA,,43.1673507,-91.28037029,,,,﻿m_ofarrell_001,﻿Rev.,﻿M. O'Farrell,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0194,﻿church,﻿St. Lambert,English,,,,﻿Madison County,﻿Warren County,﻿Churchville,﻿Churchville,﻿IA,,41.397428,-93.751398,﻿dub.ia.0088,﻿attended from Iowa City,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0071,﻿church,﻿St. Ephrem,English,,,,﻿Delaware County,﻿Delaware County,﻿Golesburgh,﻿Colesburg,﻿IA,,42.637297,-91.203734,﻿dub.ia.0069,﻿attended from Holy Cross,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0039,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Council Bluffs,﻿Council Bluffs,﻿IA,,41.258149,-95.850746,﻿dub.ia.0244,﻿attended from Fort Dodge,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0039,﻿church,﻿St. Francis Xavier,English,,,,,﻿Pottawattamie County,﻿Council Bluffs,﻿Council Bluffs,﻿IA,,41.258149,-95.850746,﻿dub.ia.0244,﻿attended from Fort Dodge,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0041,﻿church,﻿St. Anthony's,English,,,,﻿Scott County,﻿Scott County,﻿Davenport,﻿Davenport,﻿IA,,41.524,-90.575291,,,,﻿a_m_pelamourgues_001,﻿Very Rev.,﻿A. Pelomourgues,﻿V.G.,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0043,﻿church,﻿St. Catharine's,English,,,,﻿Scott County,﻿Scott County,﻿Davenport,﻿Davenport,﻿IA,,41.530199,-90.569048,,,,﻿a_trevis_001,﻿Rev.,﻿A. Trevis,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0044,﻿church,﻿St. —,﻿Ger.,,,,﻿Scott County,﻿Scott County,﻿Davenport,﻿Davenport,﻿IA,,41.525835,-90.590532,,,,﻿ant_nierman_001,﻿Rev.,﻿A. Nierman,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
@@ -65,7 +65,7 @@
 ﻿dub.ia.0103,﻿church,[Unnamed Institution],English,,,,﻿Desmoines County,﻿Henry County,﻿Mount Pleasant,﻿Mount Pleasant,﻿IA,,40.961039,-91.557422,,,,﻿jam_slattery_001,﻿Rev.,﻿James Slattery,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0108,﻿church,﻿St. Mathias,English,,,,﻿Muscatine County,﻿Muscatine County,﻿Muscatine,﻿Muscatine,﻿IA,,41.425811,-91.052895,,,,﻿phi_laurent_001,﻿Rev.,﻿P. Laurent,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0108,﻿church,﻿St. Mathias,English,,,,﻿Muscatine County,﻿Muscatine County,﻿Muscatine,﻿Muscatine,﻿IA,,41.425811,-91.052895,,,,﻿p_mang_001,﻿Rev.,﻿P. Mang.,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0247,﻿church,﻿St. Ægidius,English,,,,﻿Marion County,,﻿Newburn,﻿Newbern,﻿IA,,41.16127,-93.308315,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0247,﻿church,﻿St. Ægidius,English,,,,﻿Marion County,﻿Marion County,﻿Newburn,﻿Newbern,﻿IA,,41.16127,-93.308315,﻿dub.ia.0119,﻿attended from Ottumwa,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0290,﻿church,﻿St. Stephen,English,,,,﻿Warren County,,﻿New Ireland,,﻿IA,,,,,﻿attended by —,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0274,﻿church,﻿St. Henry,English,,,,﻿Henry County,,﻿New London,,﻿IA,,40.92677961,-91.40082822,﻿dub.ia.0012,﻿attended from Burlington,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0051,﻿station,﻿St. Mark,English,,,,﻿Jasper County,﻿Jasper County,﻿Newton,﻿Newton,﻿IA,,41.703318,-93.057353,﻿dub.ia.0048,﻿attended from Fort Desmoines,,,,,,,,,,,,1861,﻿,﻿,﻿Dubuque,Dubuque
