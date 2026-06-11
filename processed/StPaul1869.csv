@@ -72,7 +72,7 @@
 ﻿stp.mn.0023,﻿church,﻿Church of St. Hubert,English,,,,﻿Carver County,﻿Carver County,﻿Chanhassan,,,,44.855361,-93.532154,﻿stp.mn.0020,﻿Visited by Rev. M. Mayer,,,,,,,,,,,,1869,71.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0024,﻿church,﻿Church of St. Victoria,English,,,,﻿Carver County,﻿Carver County,﻿Laketown,,,,44.854658,-93.661907,﻿stp.mn.0020,﻿Visited by Rev. M. Mayer,,,,,,,,,,,,1869,72.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0025,﻿station,﻿Young America station,English,,,,﻿Carver County,,,,,,44.780929,-93.912913,﻿stp.mn.0019,﻿Visited by Rev. F. Stern,,,,,,,,,,,,1869,73.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0254,﻿station,﻿San Francisco station,English,,,,﻿Carver County,,﻿San Francisco,,,,,,﻿stp.mn.0020,﻿Visited by Rev. M. Mayer,,,,,,,,,,,,1869,74.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0254,﻿station,﻿San Francisco station,English,,,,﻿Carver County,,﻿San Francisco,,,,44.697741,-93.702182,﻿stp.mn.0020,﻿Visited by Rev. M. Mayer,,,,,,,,,,,,1869,74.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0108,﻿church,﻿Church of St. Peter and Paul,English,,,,﻿McLeod County,﻿McLeod County,﻿Glencoe,,,,44.769044,-94.151752,﻿stp.mn.0019,﻿Visited by Rev. F. Stern,,,,,,,,,,,,1869,75.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0109,﻿station,[Unnamed Institution],English,,,,﻿McLeod County,﻿McLeod County,﻿Winsted,,,,44.963852,-94.047472,﻿stp.mn.0021,﻿Visited by Rev. C. Robert,,,,,,,,,,,,1869,76.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0110,﻿station,[Unnamed Institution],English,,,,﻿McLeod County,﻿McLeod County,﻿Hutchinson,,,,44.892548,-94.369293,﻿stp.mn.0021,﻿Visited by Rev. C. Robert,,,,,,,,,,,,1869,77.0,﻿,﻿,﻿St. Paul,StPaul
@@ -138,7 +138,7 @@
 ﻿stp.mn.0195,﻿station,[Unnamed Institution],English,,,,﻿Wabasha County,﻿Wabasha County,﻿Backer's Settlement,,,,44.387003,-92.043593,﻿stp.mn.0186,﻿Visited by Rev. Jas. Trobec,,,,,,,,,,,,1869,137.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0196,﻿church,﻿Church of St. Joseph,﻿German,,,,﻿Winona County,﻿Winona County,﻿Winona,,,,44.055391,-91.666352,,﻿,,﻿alo_plut_001,﻿Rev.,﻿A. Plut,,,,,,,,1869,138.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0197,﻿church,﻿Church of St. Thomas,﻿English,,,,﻿Winona County,﻿Winona County,﻿Winona,,,,44.055391,-91.666352,,﻿,,﻿alo_plut_001,﻿Rev.,﻿A. Plut,,,,,,,,1869,139.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0255,﻿station,[Unnamed Institution],English,,,,﻿Winona County,,﻿Rollingstone,,,,,,﻿stp.mn.0196,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1869,140.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0255,﻿station,[Unnamed Institution],English,,,,﻿Winona County,,﻿Rollingstone,,,,44.0975,-91.816667,﻿stp.mn.0196,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1869,140.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0199,﻿station,[Unnamed Institution],English,,,,﻿Winona County,﻿Winona County,﻿Hart,,,,43.891499,-91.79284,﻿stp.mn.0196,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1869,141.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0200,﻿church,[Unnamed Institution],English,,,,﻿Winona County,﻿Winona County,﻿St. Charles,,,,43.969417,-92.064194,﻿stp.mn.0196,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1869,142.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0201,﻿station,[Unnamed Institution],English,,,,﻿Winona County,﻿Winona County,﻿Elba,,,,44.088575,-92.018772,﻿stp.mn.0196,﻿Visited by Rev. A. Plut,,,,,,,,,,,,1869,143.0,﻿,﻿,﻿St. Paul,StPaul
@@ -190,7 +190,7 @@
 ﻿stp.mn.0115,﻿church,﻿Church of Holy Cross,English,,,,﻿Morrison County,﻿Morrison County,﻿Two Rivers,,,,45.79997,-94.34969,﻿stp.mn.0113,﻿Visited by Rev. Joseph Buh,,,,,,,,,,,,1869,189.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0031,﻿church,﻿Church of St. Francis Xavier,English,,,,﻿Crow Wing County,﻿Crow Wing County,﻿Crow Wing,,,,46.279967,-94.2925,,﻿,,﻿fra_x_pierz_001,﻿Rev.,﻿T. Pierze,,,,,,,,1869,190.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0031,﻿church,﻿Church of St. Francis Xavier,English,,,,﻿Crow Wing County,﻿Crow Wing County,﻿Crow Wing,,,,46.279967,-94.2925,,,,﻿j_tomazin_001,﻿Rev.,﻿J. Tomazin,,,,,,,,1869,191.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0257,﻿church,[Unnamed Institution],English,,﻿Fort Abercrombie,,﻿Johnson County,,,,,,,,,,,﻿j_b_genin_001,﻿Rev.,﻿J. B. Genin,﻿O.M.S.,,,,,,,1869,192.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0257,﻿church,[Unnamed Institution],English,,﻿Fort Abercrombie,,﻿Johnson County,﻿Abercrombie,,,,﻿ND,46.444722,-96.718611,,,,﻿j_b_genin_001,﻿Rev.,﻿J. B. Genin,﻿O.M.S.,,,,,,,1869,192.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0208,﻿mission,[Unnamed Institution],English,﻿Indian Mission,,,﻿Itasca County,﻿St. Louis County,,﻿Fond du Lac Reservation,,,46.74699,-92.491059,﻿stp.mn.0031,﻿Attended to by Rev. Francis Pierz,,,,,,,,,,,,1869,193.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0208,﻿mission,[Unnamed Institution],English,﻿Indian Mission,,,﻿Itasca County,﻿St. Louis County,,﻿Fond du Lac Reservation,,,46.74699,-92.491059,﻿stp.mn.0031,﻿Attended to by Rev. J. Tomazin,,,,,,,,,,,,1869,194.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0208,﻿mission,[Unnamed Institution],English,﻿Indian Mission,,,﻿Itasca County,﻿St. Louis County,,﻿Fond du Lac Reservation,,,46.74699,-92.491059,﻿stp.mn.0113,﻿Attended to by Rev. J. Buh,,,,,,,,,,,,1869,195.0,﻿,﻿,﻿St. Paul,StPaul
@@ -253,7 +253,7 @@
 ﻿stp.mn.0240,﻿school,[Unnamed Institution],English,,,,,,﻿Mankato,,,,44.165224,-93.996714,,,,,,,,,,﻿religious,﻿250 scholars,﻿School under direction of the Sisters of Notre Dame,,1869,246.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0230_03,﻿school,[Unnamed Institution],English,"﻿Parochial Schools, under direction of the Sisters of St. Dominic",,,﻿Faribault County,,,﻿Faribault,﻿MN,,44.977753,-93.265011,,,,,,,,,,,﻿225 scholars,﻿under direction of the Sisters of St. Dominic,,1869,247.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0242,﻿school,[Unnamed Institution],English,﻿Catholic Schools,,,,,﻿St. Cloud,,,,45.559257,-94.162468,,,,,,,,,,,﻿200 scholars,,,1869,248.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0259,﻿school,[Unnamed Institution],English,﻿School under charge of secular teachers,,,,,﻿Carver,,,,,,,,,,,,,,,,,,,1869,249.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0259,﻿school,[Unnamed Institution],English,﻿School under charge of secular teachers,,,,,﻿Carver,,,,44.760556,-93.632222,,,,,,,,,,,,,,1869,249.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_05,﻿hospital,﻿St. Joseph's Hospital,English,﻿under charge of the Sisters of St. Joseph,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Alphonsus,,﻿Superior,,,,,,1869,251.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_05,﻿hospital,﻿St. Joseph's Hospital,English,﻿under charge of the Sisters of St. Joseph,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Mary Antoinette,,﻿Superior,﻿listed with the Order,,,,,1869,252.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_03,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Mary Antoinette,,﻿Superior,﻿listed with the Order,,﻿72 orphans,﻿under charge of the Sisters of St. Joseph,,1869,253.0,﻿,﻿,﻿St. Paul,StPaul

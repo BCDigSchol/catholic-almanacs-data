@@ -66,7 +66,7 @@
 ﻿alt.il.0063,﻿church,[Unnamed Institution],English,,,,﻿Fayette County,﻿Fayette County,﻿London or Howard's Point,﻿Wrights Corner,﻿IL,,39.131018,-88.865679,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0064,﻿church,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Macon Station,﻿Macon,﻿IL,,39.712816,-88.997022,﻿alt.il.0034,﻿Attended from Decatur,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0065,﻿church,﻿St. Mary's,English,,,,﻿Monroe County,﻿Monroe County,﻿Madonnaville,﻿Madonaville,﻿IL,,38.264615,-90.246954,,,,﻿fer_stick_001,﻿Rev.,﻿F. Stick,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alti.il.0327,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,﻿Madison County,﻿Marinetown,﻿Marine,﻿IL,,,,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alti.il.0327,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,﻿Madison County,﻿Marinetown,﻿Marine,﻿IL,,38.7603,-89.7753,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0066,﻿church,[Unnamed Institution],English,,,,﻿Moultrie County,﻿Moultrie County,﻿Marrowbone,﻿Marrowbone Township,﻿IL,,39.624668,-88.768638,﻿alt.il.0034,﻿Attended from Decatur,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0067,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,39.387497,-87.694521,,,,﻿joh_mark_001,﻿Rev.,﻿John Mark,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0068,﻿church,﻿Holy Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,38.491205,-89.791783,,,,﻿p_rosendahl_001,﻿Rev.,﻿P. Rosendahl,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -159,9 +159,9 @@
 ﻿alt.il.0160,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Greenfield,﻿Greenfield,﻿IL,,39.343658,-90.212614,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0161,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿North Greenfield,﻿Greenfield,﻿IL,,39.343658,-90.212614,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0162,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Whitehall,﻿White Hall,﻿IL,,39.436992,-90.403177,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0293,﻿station,[Unnamed Institution],English,,,,﻿Jackson County,﻿Jackson County,﻿Murphysboro,﻿Murphysboro,﻿IL,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0293,﻿station,[Unnamed Institution],English,,,,﻿Jackson County,﻿Jackson County,﻿Murphysboro,﻿Murphysboro,﻿IL,,37.758333,-89.339444,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0167,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Delhi,﻿Delhi,﻿IL,,39.045325,-90.255945,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0294,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0294,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,38.976389,-90.425833,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0168,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Madison County,﻿Jersey Landing,﻿Godfrey,﻿IL,,38.9803,-90.302031,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0171,﻿station,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Maroa,﻿Maroa,﻿IL,,40.036426,-88.957026,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0172,﻿station,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Niantic,﻿Niantic,﻿IL,,39.85393,-89.166194,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -173,8 +173,8 @@
 ﻿alt.il.0178,﻿station,[Unnamed Institution],English,,﻿Hillyard Township,,﻿Macoupin County,﻿Macoupin County,﻿Plainview,﻿Plainview,﻿IL,,39.159213,-89.989826,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0179,﻿station,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Mitchell,﻿Mitchell,﻿IL,,38.764276,-90.080517,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0180,﻿station,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Venice,﻿Venice,﻿IL,,38.672273,-90.169832,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0331,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Tonti,﻿Tonti,﻿IL,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,38.612222,-89.122222,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0331,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Tonti,﻿Tonti,﻿IL,,38.664722,-88.978333,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0182,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,,﻿Herndon,,﻿IL,,39.236369,-89.474218,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0183,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Nokomis,﻿Nokomis,﻿IL,,39.301157,-89.285085,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0184,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Alexander,﻿Alexander,﻿IL,,39.713717,-90.018655,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -183,7 +183,7 @@
 ﻿alt.il.0187,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Murrayville,﻿Murrayville,﻿IL,,39.585602,-90.252064,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0188,﻿station,[Unnamed Institution],English,,﻿near Neelyville Rd,,﻿Morgan County,﻿Morgan County,﻿Neelyville,﻿Chapin,﻿IL,,39.75852162,-90.47123236,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0189,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Prentice,﻿Prentice,﻿IL,,39.856993,-90.043725,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alti.il.0329,﻿station,[Unnamed Institution],English,,,,﻿Perry County,﻿Perry County,﻿Todd's Mill,﻿Todd's Mill,﻿IL,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alti.il.0329,﻿station,[Unnamed Institution],English,,,,﻿Perry County,﻿Perry County,﻿Todd's Mill,﻿Todd's Mill,﻿IL,,38.2025,-89.365833,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0191,﻿station,[Unnamed Institution],English,,,,﻿Perry County,﻿Perry County,﻿Tamaroa,﻿Tamaroa,﻿IL,,38.137828,-89.230081,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0193,﻿station,[Unnamed Institution],English,,,,﻿Pulaski County,,﻿Caledonia,,﻿IL,,37.251242,-89.132487,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0196,﻿station,[Unnamed Institution],English,,,,﻿Randolph County,﻿Randolph County,﻿Sparta,﻿Sparta,﻿IL,,38.123105,-89.701766,,,,,,,,,,,,,,1869,﻿,﻿,﻿Alton,Alton
@@ -283,7 +283,7 @@
 ﻿alt.il.0279,﻿parochial school,﻿St. Anthony's,English,﻿Conducted by secular teacher,,,,,,,﻿IL,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0280,﻿parochial school,﻿St. John's,English,﻿Conducted by secular teacher,,,,,,,﻿IL,,,,,,,,,,,,,﻿student,﻿30 pupils,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0281,﻿parochial school,﻿St. Joseph's,English,﻿Conducted by secular teacher,,,,﻿Adams County,,﻿Ellington Township,﻿IL,,39.972492,-91.226486,,,,,,,,,,﻿student,﻿30 pupils,,,1869,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0282,﻿parochial school,﻿St. Joseph's,English,﻿Conducted by secular teacher,,,,﻿Calhoun County,,,﻿IL,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1869,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0282,﻿parochial school,﻿St. Joseph's,English,﻿Conducted by secular teacher,,,,﻿Calhoun County,,﻿Meppen,﻿IL,,38.99721005,-90.60572636,,,,,,,,,,﻿student,﻿40 pupils,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0283,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher,,,,﻿Jasper County,﻿St. Marie,﻿Sainte Marie,﻿IL,,38.932421,-88.023547,,,,,,,,,,﻿student,﻿80 pupils,,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0284,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher and Sisters of Notre Dame,,,,﻿St. Clair County,﻿St. Liborius,﻿St. Libory,﻿IL,,38.36131017,-89.71086731,,,,,,,,,,﻿student,﻿230 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0285,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher and Sisters of Notre Dame,,,,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,38.966013,-89.568627,,,,,,,,,,﻿student,﻿180 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Alton,Alton
