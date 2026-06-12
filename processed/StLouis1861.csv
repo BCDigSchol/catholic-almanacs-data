@@ -51,17 +51,17 @@
 ﻿stl.mo.0229,﻿church,﻿St. Boniface,﻿German,,,,﻿St. Louis County,,﻿Carondelet,,﻿MO,,,,,,,,﻿Rev.,﻿G. Gamber,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0053,﻿church,﻿St. Martin's,English,,,,﻿St. Louis County,,﻿Central Township,﻿Central Township,﻿MO,,38.60419,-90.578626,,,,﻿p_brady_003,﻿Rev.,﻿P. Brady,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0230,﻿church,﻿St. Vincent de Paul,English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,﻿Cape Girardeau,﻿MO,,,,,﻿Attended from Seminary,,,,,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0231,﻿church,[Unnamed Institution],English,,,,﻿Callaway County,,﻿Chillicothe,,﻿MO,,,,,,,,﻿Rev.,﻿J. Hogan,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0232,﻿church,﻿St. Peter's,English,,,,﻿St. Charles County,,﻿Dardennes,﻿Dardenne Prairie,﻿MO,,,,,,,,﻿Rev.,﻿C. Kelluer,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0233,﻿church,[Unnamed Institution],English,﻿(Holland Congregation),,,﻿Bollinger County,,﻿Dallas,,﻿MO,,,,,,,,﻿Rev.,﻿J. Van Luyteler,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0056,﻿church,﻿St. Ludger's,English,,,,﻿Henry County,,﻿Deep Water,﻿Deepwater,﻿MO,,38.26058,-93.77299,,,,,﻿Rev.,﻿N. Staudinger,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0058,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.39536,-91.135302,,,,,﻿Rev.,﻿J. O. Regan,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0231,﻿church,[Unnamed Institution],English,,,,﻿Callaway County,,﻿Chillicothe,,﻿MO,,,,,,,﻿j_hogan_002,﻿Rev.,﻿J. Hogan,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0232,﻿church,﻿St. Peter's,English,,,,﻿St. Charles County,,﻿Dardennes,﻿Dardenne Prairie,﻿MO,,,,,,,﻿c_kelluer_001,﻿Rev.,﻿C. Kelluer,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0233,﻿church,[Unnamed Institution],English,﻿(Holland Congregation),,,﻿Bollinger County,,﻿Dallas,,﻿MO,,,,,,,﻿j_van-luyteler_001,﻿Rev.,﻿J. Van Luyteler,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0056,﻿church,﻿St. Ludger's,English,,,,﻿Henry County,,﻿Deep Water,﻿Deepwater,﻿MO,,38.26058,-93.77299,,,,﻿n_staudinger_001,﻿Rev.,﻿N. Staudinger,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0058,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,,﻿Downpatrick,﻿Downpatrick,﻿MO,,38.39536,-91.135302,,,,﻿j_o_regan_001,﻿Rev.,﻿J. O. Regan,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0207,﻿church,﻿St. Joseph's,English,,,,﻿Knox County,,﻿Edina,﻿Edina,﻿MO,,40.171951,-92.172856,,,,﻿b_mcmenomy_001,﻿Rev.,﻿B. McMenomee,,,﻿who visits several adjoining settlements,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0057,﻿church,[Unnamed Institution],English,,,,﻿St. Charles County,,﻿Ellen and Dog Prarie,﻿Dog Prairie,﻿MO,,38.733889,-90.8294,,,,﻿c_tintrup_001,﻿Rev.,﻿C. Tentrop,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0225,﻿church,[Unnamed Institution],English,,,,﻿Holt County,,﻿English Grove,,﻿MO,,37.8471,-92.158166,﻿stl.mo.0207,﻿visited from St. Joseph,,,,,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0062,﻿church,﻿St. Ferdinand's,English,,,,﻿St. Louis County,,﻿Florissant,﻿Florissant,﻿MO,,38.789217,-90.322614,,,,﻿jud_f_van-assche_001,﻿Rev.,﻿Judocus F. Van Assche,﻿S.J.,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0198,﻿church,﻿St. Ann's,English,,,,﻿St. Louis County,,﻿Florissant Road,﻿Florissant,﻿MO,,38.789973,-90.324621,,,,﻿a_van-hulst_001,﻿Rev.,﻿A. Van Hulst,,,"﻿of the University, St. Louis",,,,,1861,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.559775,-90.294007,,,,,﻿Rev.,﻿L. Tucker,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0066,﻿church,﻿St. Michael's,English,,,,﻿Madison County,,﻿Fredericktown,﻿Fredericktown,﻿MO,,37.559775,-90.294007,,,,﻿l_tucker_001,﻿Rev.,﻿L. Tucker,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0068,﻿church,﻿Sacred Heart,English,,,,﻿Gasconade County,,﻿Gasconade,﻿Gasconade,﻿MO,,38.669489,-91.560167,﻿stl.mo.0200,﻿Visited from Westphalia,,,,,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0068,﻿church,﻿St. Joseph's,English,,﻿German Settlement,,﻿St. Genevieve County,,﻿Gasconade,﻿Gasconade,﻿MO,,38.669489,-91.560167,,,,,﻿Rev.,﻿F. X. Weiss,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0068,﻿church,﻿St. Peter's,English,,﻿Kirkwood P.O.,,﻿St. Louis County,,﻿Gravois,﻿Gasconade,﻿MO,,38.669489,-91.560167,,,,,﻿Rev.,﻿G. Meller,,,,,,,,1861,﻿,﻿,﻿St. Louis,StLouis
