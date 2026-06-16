@@ -34,13 +34,13 @@
 ﻿buf.ny.0019,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.885961,-78.871946,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163_02,﻿chapel,﻿Chapel of the Gray Nuns,English,,﻿the Convent of the Gray Nuns,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.895763,-78.874976,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0167_02,﻿chapel,﻿St. Catharine's,English,,,,﻿Steuben County,,﻿Addison,﻿Addison,﻿NY,,42.92786121,-78.85116926,﻿buf.ny.0012,﻿Attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0172,﻿chapel,﻿St. Teresa's,English,,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,,,﻿buf.ny.0012,﻿Attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0173,﻿chapel,﻿Holy Name,English,,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,,,,,,﻿m_oconnor_001,﻿Rev.,﻿M. O'Connor,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0172,﻿chapel,﻿St. Teresa's,English,,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,43.023516,-78.498515,﻿buf.ny.0012,﻿Attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0173,﻿chapel,﻿Holy Name,English,,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,42.9,-78.490833,,,,﻿m_oconnor_001,﻿Rev.,﻿M. O'Connor,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0022,﻿chapel,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,,,42.886447,-78.878369,﻿buf.ny.0005,﻿Attended from the Holy Angels',,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0100,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,42.102851,-77.233588,,,,﻿p_bradley_001,﻿Rev.,﻿P. Bradley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0023,﻿church,[Unnamed Institution],English,﻿frame church,,,,,,,,,43.029643,-78.484574,,,,﻿mic_odwyer_001,﻿Rev.,﻿Michael O'Dwyer,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0024,﻿church,﻿St. Bonaventure's,English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,42.90006,-78.491967,,,,﻿j_n_arrent_001,﻿Rev.,﻿J. N. Arrent,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0174,﻿church,﻿St. John's,English,,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,,,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0174,﻿church,﻿St. John's,English,,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,42.1539,-77.7831,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. James',English,﻿brick church,,,﻿Allegany County,,﻿Angelica,﻿Angelica,﻿NY,,43.244277,-78.196859,,,,﻿p_moynihan_001,﻿Rev.,﻿P. Moynihan,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. James',English,﻿brick church,,,﻿Erie County,,﻿Angola,﻿Angola,﻿NY,,43.244277,-78.196859,,,,﻿j_castaldi_001,﻿Rev.,﻿J. Castaldi,,,﻿(absent),,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Cattaraugus County,,﻿Ashford,﻿Ashford,﻿NY,,42.312982,-78.019539,,,,﻿pam_de-magliano_001,﻿Very Rev.,﻿Pamfilo de Magliano,﻿O.S.F,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo

@@ -182,8 +182,8 @@
 ﻿san.nm.0224,﻿chapel,﻿Chapel of San Augustin,English,,,,,,,,﻿AZ,,32.21946,-110.97098,,﻿Attended by the same,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,,34.544313,-112.467285,,,,﻿f_jouvenceau_001,﻿Rev.,﻿F. Jouvenceau,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Yuma,﻿Yuma,﻿AZ,,34.544313,-112.467285,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
-﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
-﻿tuc.az.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,,,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
+﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,33.679167,-114.476389,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
+﻿tuc.az.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,34.155,-112.706944,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,﻿Brother,﻿Cipriano,,﻿Director,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,,,﻿Under the direction of the Christian Brothers,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,﻿student,﻿about 300 pupils,﻿Under the direction of the Christian Brothers,,1869,﻿,﻿,﻿Santa Fé,SantaFe
@@ -194,4 +194,4 @@
 ﻿san.nm.0162,﻿school,﻿Schools of Sisters of Loretto,English,,,,,,﻿Taos,﻿Taos,﻿NM,,36.408234,-105.576055,,,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0163,﻿school,﻿Schools of Sisters of Loretto,English,,,,,,﻿Mora,﻿Mora,﻿NM,,35.974223,-105.330006,,,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0164,﻿school,﻿Schools of Sisters of Loretto,English,,,,,,﻿Albuquerque,﻿Albuquerque,﻿NM,,35.096926,-106.669938,,,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0165,﻿school,﻿School of the Chrisitan Brothers,English,,,,,,﻿Mora,﻿Mora,﻿NM,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0165,﻿school,﻿School of the Chrisitan Brothers,English,,,,,,﻿Mora,﻿Mora,﻿NM,,35.974167,-105.33,,,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
