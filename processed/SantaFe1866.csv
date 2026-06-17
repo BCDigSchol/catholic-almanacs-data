@@ -11,7 +11,7 @@
 ﻿san.nm.0007,﻿chapel,﻿Chapel of San José,English,,,﻿Santa Fé,,,﻿Cienega,﻿Cienega,﻿NM,,35.563995,-106.122801,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0008,﻿chapel,﻿Chapel of N. Sen. de los Remedios,English,,,﻿Santa Fé,,,﻿Galisteo,﻿Galisteo,﻿NM,,35.395378,-105.94695,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0009,﻿chapel,﻿Chapel of N. Sen. de los Angeles,English,,,﻿Santa Fé,,,﻿Pecos,﻿Pecos,﻿NM,,35.549994,-105.689158,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0219,﻿chapel,[Unnamed Institution],English,,,﻿Peña Blanca,,,﻿Placer de Dolores,,﻿NM,,35.453428,,,﻿Attended from Santo Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0219,﻿chapel,[Unnamed Institution],English,,,﻿Peña Blanca,,,﻿Placer de Dolores,,﻿NM,,,,,﻿Attended from Santo Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0124,﻿chapel,﻿Chapel of San Buenaventura,English,,,﻿Peña Blanca,,,﻿Placer de San Francisco,,﻿NM,,34.972731,-105.032363,,﻿Attended from Santo Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0010,﻿chapel,﻿Chapel of San Isidro,English,,,﻿Santa Fé,,,﻿Rio Tesuque,﻿Tesuque,﻿NM,,35.757876,-105.924082,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0011,﻿chapel,﻿Chapel of San Diego,English,﻿Pueblo Indians,,﻿Santa Fé,,,﻿Tesque,﻿Tesuque Pueblo,﻿NM,,35.82501,-105.978414,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -90,7 +90,7 @@
 ﻿san.nm.0066,﻿chapel,﻿San Antonio's Chapel,English,,,﻿La Cañada,,,﻿El Quemado,﻿Cordova,﻿NM,,34.972731,-105.032363,﻿san.nm.0063,﻿Attended from Santa Cruz,,﻿r_medina_001,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0067,﻿chapel,﻿Chapel of N. Senora,English,,,﻿La Cañada,,,﻿Las Truchas,﻿Truchas,﻿NM,,36.044183,-105.812756,﻿san.nm.0063,﻿Attended from Santa Cruz,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0227,﻿church,[Unnamed Institution],English,,﻿Indian Pueblo,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,,,,,,﻿man_chavez_001,﻿Rev.,﻿M. Chavez,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.572685,-106.337068,,﻿attended from Santo Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,,,,﻿attended from Santo Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Peña Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.402183,-106.443724,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0123,﻿chapel,﻿Chapel of San Buenaventura,English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿Cochiti,﻿Cochiti Pueblo,﻿NM,,35.60892,-106.350304,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -127,7 +127,7 @@
 ﻿san.nm.0156,﻿chapel,﻿Sangre de Cristo,English,,,﻿Tome,,,﻿Valencia,﻿Valencia,﻿NM,,34.972731,-105.032363,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿La. Peralta,﻿Peralta,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,32.314444,,,,,﻿dam_taladrid_001,﻿Rev.,﻿J. D. Taladrid,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,,,,,,﻿dam_taladrid_001,﻿Rev.,﻿J. D. Taladrid,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿j_b_ravery_001,﻿Rev.,﻿J. B. Ravery,﻿Assistant,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -151,9 +151,9 @@
 ﻿den.co.0066,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Garland,﻿Fort Garland,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0062,﻿chapel,[Unnamed Institution],English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0031,﻿church,﻿Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,37.088186,-106.020078,,,,﻿mig_vigil_001,﻿Rev.,﻿M. Vigil,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,,,,,,,,﻿AZ,﻿AZ,32.106877,,,,,﻿a_brun_001,﻿Rev.,﻿A. Brun,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,32.21946,,,,,﻿pet_lassaigne_001,﻿Rev.,﻿P. Lassaigne,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,﻿AZ,34.544313,,,,,﻿fr_birmingham_001,﻿Rev.,﻿Fr. Birmingham,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,,,,,,,,﻿AZ,﻿AZ,,,,,,﻿a_brun_001,﻿Rev.,﻿A. Brun,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,﻿AZ,,,,,,﻿pet_lassaigne_001,﻿Rev.,﻿P. Lassaigne,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Prescott City,﻿Prescott City,﻿AZ,﻿AZ,,,,,,﻿fr_birmingham_001,﻿Rev.,﻿Fr. Birmingham,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿tuc.az.0003,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Mojave,﻿Fort Mojave,﻿AZ,﻿AZ,,,,﻿Attended from Prescott,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe

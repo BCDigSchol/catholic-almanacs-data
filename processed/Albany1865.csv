@@ -23,7 +23,7 @@
 ﻿alb.ny.0037,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,﻿Lewis County,﻿Belleville,,﻿NY,,43.840112,-75.434473,﻿alb.ny.0082,﻿attended from Constableville,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0038,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Belford,﻿Belfort,﻿NY,,43.928124,-75.332132,﻿alb.ny.0088,﻿attended from Croghan,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0039,﻿church,﻿St. John's,English,,,,﻿Broome County,﻿Broome County,﻿Binghamton,﻿Binghamton,﻿NY,,42.098687,-75.917974,,,,﻿jam_hourigan_001,﻿Rev.,﻿James Hourigan,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0381,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Blackbrook,,﻿NY,,44.458333,-73.7425,﻿alb.ny.0155,﻿attended from Keeseville,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0381,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Blackbrook,,﻿NY,,,,﻿alb.ny.0155,﻿attended from Keeseville,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0040,﻿church,[Unnamed Institution],English,,,,﻿Fulton County,﻿Fulton County,﻿Bleecker,﻿Bleecker,﻿NY,,43.119794,-74.367637,,"﻿attended from St. John's, Utica",,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0041,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿Boonville,﻿Boonville,﻿NY,,43.48368,-75.336561,﻿alb.ny.0082,﻿attended from Constableville,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0042,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,﻿St. Lawrence County,﻿Brazier Falls,﻿Brasher,﻿NY,,44.807168,-74.776885,,,,﻿joh_mcdermott_001,﻿Rev.,﻿John McDermott,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
@@ -110,7 +110,7 @@
 ﻿alb.ny.0181,﻿church,[Unnamed Institution],English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Massena,﻿Massena,﻿NY,,44.928105,-74.891865,﻿alb.ny.0302,﻿attended from Waddington,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0182,﻿church,﻿St. Mary's,English,,,,﻿Saratoga County,﻿Saratoga County,﻿Mechanicsville,﻿Mechanicville,﻿NY,,42.902855,-73.68734,,,,﻿lou_m_edge_002,﻿Rev.,﻿Louis M. Edge,﻿O.S.A.,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0183,﻿church,[Unnamed Institution],English,,,,﻿Essex County,﻿Essex County,﻿Minerva,﻿Minerva,﻿NY,,43.791453,-73.984302,﻿alb.ny.0128,﻿attended from Glenn's Falls,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0383,﻿church,[Unnamed Institution],English,,,,﻿Herkimer County,﻿Herkimer County,﻿Mohawk,,﻿NY,,43.010278,-75.005,﻿alb.ny.0166,﻿attended from Little Falls,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0383,﻿church,[Unnamed Institution],English,,,,﻿Herkimer County,﻿Herkimer County,﻿Mohawk,,﻿NY,,,,﻿alb.ny.0166,﻿attended from Little Falls,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0185,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,﻿Lewis County,﻿Montague,﻿Montague,﻿NY,,43.704216,-75.690624,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0186,﻿church,﻿Immaculate Conception,English,,,,﻿Hamilton County,﻿Hamilton County,﻿Morehouseville,﻿Morehouseville,﻿NY,,43.390902,-74.773767,﻿alb.ny.0196,﻿attended from Newport,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0188,﻿church,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Mossy Hill,,﻿NY,,42.367876,-73.559413,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
@@ -172,8 +172,8 @@
 ﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,﻿Troy (East),,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.723215,-73.688874,,,,﻿jam_keveny_001,﻿Rev.,﻿James Kevenny,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0282,﻿church,﻿St. Peter's,English,,﻿Troy (East),,﻿Rensselaer County,,﻿Troy,﻿Troy,﻿NY,,42.723215,-73.688874,,,,﻿pat_m_delany_001,﻿Rev.,﻿P. M. Delany,﻿O.M.C.,﻿assistant,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0286,﻿church,﻿St. Patrick's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,﻿wil_finnelly_001,﻿Rev.,﻿Wm. Fennelly,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0384,﻿church,﻿St. Bridget's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.714906,-73.70854,,,,﻿wil_cullinan_001,﻿Rev.,﻿Wm. Cullinan,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0386,﻿church,[Unnamed Institution],English,,,,﻿Onondaga County,﻿Cortland County,﻿Truxton,﻿Truxton,﻿NY,,42.711944,-76.028611,﻿alb.ny.0085,﻿attended from Cortland,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0384,﻿church,﻿St. Bridget's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,,,,,,﻿wil_cullinan_001,﻿Rev.,﻿Wm. Cullinan,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0386,﻿church,[Unnamed Institution],English,,,,﻿Onondaga County,﻿Cortland County,﻿Truxton,﻿Truxton,﻿NY,,,,﻿alb.ny.0085,﻿attended from Cortland,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0291,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Union Village,﻿Greenwich,﻿NY,,43.09014,-73.499282,﻿alb.ny.0053,﻿attended from Cambridge,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0293,﻿church,[Unnamed Institution],English,,,,﻿Broome County,﻿Broome County,﻿Upper Lisle,﻿Upper Lisle,﻿NY,,42.396184,-75.957144,,,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0295,﻿church,﻿St. John's,English,,,,﻿Oneida County,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,﻿tho_daly_001,﻿Rev.,﻿Thomas Daly,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Albany,Albany
@@ -260,8 +260,8 @@
 ﻿alb.ny.0275_02,﻿school,﻿Assumption,English,,,,,﻿Onondaga County,,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,﻿Sister,﻿Mary Ann Kopp,,,﻿Vicaria,﻿religious,﻿5 sisters,﻿Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0275_02,﻿school,﻿Assumption,English,,,,,﻿Onondaga County,,﻿Syracuse,﻿NY,,43.062549,-76.154036,,,,,,,,,,﻿child,﻿300 girls,﻿Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0344,﻿school,﻿St. Mary's,English,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.048122,-76.147424,,,,,,,,,,﻿child,﻿250 girls,﻿Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0370,﻿school,﻿Assumption,English,,,,,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,43.200003,-75.469022,,,,,﻿Mother,﻿Hyacintha Egan,,﻿Superior,,﻿religious,﻿3 professed sisters,﻿Sisters of Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0370,﻿school,﻿Assumption,English,,,,,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,43.200003,-75.469022,,,,,,,,,,﻿child,﻿160 children,﻿Sisters of Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0370,﻿school,﻿Assumption,English,,,,,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,,,,,,,﻿Mother,﻿Hyacintha Egan,,﻿Superior,,﻿religious,﻿3 professed sisters,﻿Sisters of Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0370,﻿school,﻿Assumption,English,,,,,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,,,,,,,,,,,,﻿child,﻿160 children,﻿Sisters of Third Order of St. Francis,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0356,﻿school,[Unnamed Institution],English,,,,,﻿Onondaga County,﻿Syracuse and Salina,﻿Salina,﻿NY,,43.107154,-76.176204,,,,,﻿Sister,﻿Cecilia,,﻿Superior,,﻿student,﻿450 boys and girls,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0413,﻿school,[Unnamed Institution],English,,﻿St. Joseph's Church,,,,﻿Schenectady,,﻿NY,,,,,,,,﻿Ven. Mother,﻿Clara Spang,,,,﻿religious,﻿2 sisters,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0413,﻿school,[Unnamed Institution],English,,﻿St. Joseph's Church,,,,﻿Schenectady,,﻿NY,,,,,,,,,,,,,﻿child,﻿150 children,,,1865,﻿,﻿,﻿Albany,Albany

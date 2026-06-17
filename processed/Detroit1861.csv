@@ -1,15 +1,15 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.214206,-83.149924,,,,﻿pet_p_lefevere_001,﻿Rt. Rev.,﻿Peter Paul Lefevere,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.214206,-83.149924,,,,﻿pet_hennaert_001,﻿Very Rev.,﻿P. Hennaert,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.214206,-83.149924,,,,,﻿Rev.,﻿J. A. Hennessy,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.214206,-83.149924,,,,,﻿Rev.,﻿F. Gouesse,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.328971,-83.11995,,,,﻿pet_p_lefevere_001,﻿Rt. Rev.,﻿Peter Paul Lefevere,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.328971,-83.11995,,,,﻿pet_hennaert_001,﻿Very Rev.,﻿P. Hennaert,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.328971,-83.11995,,,,,﻿Rev.,﻿J. A. Hennessy,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.328971,-83.11995,,,,,﻿Rev.,﻿F. Gouesse,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0009,﻿chapel,[Unnamed Institution],English,﻿for Hollanders and Belgians,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.045754,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B.G. Soffers,,﻿Chaplain,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.638977,-85.499419,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B. G. Soffers,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.638977,-85.499419,,,,,﻿Rev.,﻿Lucian J. Wicart,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.045754,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B. G. Soffers,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.331427,-83.045754,,,,,﻿Rev.,﻿Lucian J. Wicart,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.329838,-83.060483,,,,﻿fra_j_peeters_001,﻿Rev.,﻿F. H. J. Peters,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,﻿the_majerus_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,﻿Superior,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,,﻿Rev.,﻿J. Nagel,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,,﻿Rev.,﻿L. Chaessens,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,﻿the_majerus_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,﻿Superior,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,,﻿Rev.,﻿J. Nagel,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,,﻿Rev.,﻿L. Chaessens,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.345359,-83.035653,,,,,﻿Rev.,﻿C. A. Chambille,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.345359,-83.035653,,,,﻿a_durst_001,﻿Rev.,﻿A. Durst,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0013,﻿church,﻿St. Anthony's,English,,,,﻿Wayne County,﻿Wayne County,﻿St. Anthony,﻿Detroit,﻿MI,,42.279075,-83.336188,﻿det.mi.0001,﻿attended from Detroit,﻿went w/ Cathedral b/c largest,,,,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit

@@ -58,7 +58,7 @@
 ﻿cin.oh.0189_02,﻿chapel,﻿St. John Baptist's,English,,﻿Chapel of Mt. St. Mary's Seminary,﻿Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿mic_ahern_001,﻿Rev.,﻿Michael Ahearn,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0194_03,﻿chapel,﻿Chapel of the Sisters of Charity,English,,,﻿Cincinnati,,,,,﻿OH,,39.113044,-84.578604,﻿cin.oh.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0040,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,﻿Cincinnati,,,,,﻿OH,,39.103335,-84.509335,﻿cin.oh.0001,"﻿Attended by a Jesuit Father, also from the Cathedral",,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0041,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,﻿Cincinnati,,,,,﻿OH,,39.0996,-84.5109,,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0041,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,﻿Cincinnati,,,,,﻿OH,,,,,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0210_02,﻿chapel,﻿Chapel of St. Mary's Hospital,English,,,﻿Cincinnati,,,,,﻿OH,,39.110716,-84.527383,,﻿Attended from St. Augustine's,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0008,﻿church,﻿St. Michael's,English,,﻿Archer's Settlement,,﻿Monroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,﻿Brown County,,﻿Arnheim,,﻿OH,,40.351168,-84.371655,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -287,7 +287,7 @@
 ﻿cin.oh.0006_02,﻿school,﻿St. Mary's,English,﻿School for Boys,﻿Mt. Pleasant,,,,﻿Cincinnati,,﻿OH,,39.109579,-84.512349,,,,,,,,,,﻿student,﻿Pupils 50,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0192_03,﻿school,﻿Sisters of Notre Dame,English,﻿School for Girls,,,,,﻿Cincinnati,,﻿OH,,39.103299,-84.50862,,,,,,,,,,﻿student,﻿Pupils 730,﻿Sisters of Notre Dame,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0205_02,﻿school,﻿Sisters of Mercy,English,﻿School for Girls,,,,,﻿Cincinnati,,﻿OH,,39.107619,-84.522176,,,,,,,,,,﻿student,﻿Pupils 300,﻿Sisters of Mercy,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0054_02,﻿school,﻿Arnheim Sunday School for Boys and Girls,English,,,,,,,,﻿OH,,40.351168,-84.371655,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0054_02,﻿school,﻿Arnheim Sunday School for Boys and Girls,English,,,,,,,,﻿OH,,38.933402,-83.827426,,,,,,,,,,﻿student,﻿Pupils 30,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056_02,﻿school,﻿Berlin School for Boys and Girls,English,,,,,,,,﻿OH,,40.351437,-84.373839,,,,,,,,,,﻿student,﻿Pupils 125,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0002_02,﻿school,﻿Holy Cross School,English,﻿for Boys and Girls,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,,,,,,,﻿student,"﻿Pupils, 400",,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_02&0001_03,﻿school,﻿St. Patrick's School,English,﻿for Boys and Girls,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,﻿Pupils 374,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -107,7 +107,7 @@
 ﻿san.nm.0099,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿San Ildefonzo,,,﻿Santa Clara,﻿Santa Clara Pueblo,﻿NM,,35.974546,-106.090472,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0100,﻿chapel,﻿Chapel of San José,English,,,﻿San Ildefonzo,,,﻿Chama,﻿Chama,﻿NM,,36.902791,-106.579217,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0101,﻿chapel,[Unnamed Institution],English,,,﻿San Ildefonzo,,,﻿Los Ranchitos,﻿Española,﻿NM,,35.948945,-106.074048,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0102,﻿chapel,﻿San Antonio,English,,,﻿San Ildefonzo,,,,﻿Hanover,﻿NM,,32.847738,-108.080919,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0102,﻿chapel,﻿San Antonio,English,,,﻿San Ildefonzo,,,,﻿Hanover,﻿NM,,,,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0103,﻿chapel,[Unnamed Institution],English,,,﻿San Ildefonzo,,,﻿Chupangue,﻿Guachupangue,﻿NM,,35.982801,-106.08419,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0104,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿San Ildefonzo,,,﻿Pohuaque,﻿Pojoaque,﻿NM,,35.892803,-106.023078,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0105,﻿church,﻿San Juan de los Cavalleros,English,,﻿Indian Pueblo,﻿San Juan de los Cavalleros,,,,﻿Ohkay Owingeh,﻿NM,,36.052801,-106.070579,,,,﻿pet_lassaigne_001,﻿Rev.,﻿Peter Lassaigne,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
@@ -126,7 +126,7 @@
 ﻿san.nm.0118,﻿chapel,[Unnamed Institution],English,,,﻿San Miguel del Vado,,,﻿Bernal,﻿Bernal,﻿NM,,35.392823,-105.317509,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0119,﻿chapel,[Unnamed Institution],English,,,﻿San Miguel del Vado,,,﻿Rio La Vaca,,﻿NM,,34.972731,-105.032363,﻿san.nm.0133,﻿Attended from San Miguel,,﻿man_chaves_001,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0227,﻿church,[Unnamed Institution],English,,﻿Indian Pueblo,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,,,,,,﻿man_chavez_001,﻿Rev.,﻿Manuel Chavez,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.572685,-106.337068,,﻿attended from S. Domingo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,,,,﻿attended from S. Domingo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0243,﻿church,[Unnamed Institution],English,﻿new church building,,﻿Santo Domingo,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.570784,-106.337884,,﻿attended from S. Domingo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Santo Domingo,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,,﻿Attended from San Domingo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿Santo Domingo,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.402183,-106.443724,,﻿Attended from San Domingo,,,,,,,,,,,,1867,﻿,﻿,﻿Santa Fé,SantaFe
