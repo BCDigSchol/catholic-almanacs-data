@@ -66,8 +66,8 @@
 ﻿for.in.0109,﻿church,﻿St. Charles Borromeo,English,,,,﻿Miami County,﻿Miami County,﻿Peru,﻿Peru,﻿IN,,40.753612,-86.072387,,,,﻿ber_j_force_001,﻿Rev.,﻿Bernard Joseph Force,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0111,﻿church,[Unnamed Institution],English,,,,﻿Marshall County,﻿Marshall County,﻿Plymouth,﻿Plymouth,﻿IN,,41.343655,-86.309728,﻿for.in.0146,﻿attended from Valparaiso,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0112,﻿church,[Unnamed Institution],English,,,,﻿Lake County,﻿Lake County,﻿Pine Station,,﻿IN,,41.607785,-87.386608,﻿for.in.0069,﻿attended from Laporte,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0207,﻿church,﻿St. Ann's,English,,﻿Pulaski P. O.,,﻿Pulaski County,﻿Pulaski County,﻿Upper Settlement,,﻿IN,,,,,,,﻿f_x_nigg_001,﻿Rev.,﻿F. X. Nigg,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0113,﻿church,﻿St. Ann's,English,,﻿Pulaski P. O.,,﻿Pulaski County,﻿Pulaski County,﻿Lower Settlement,,﻿IN,,40.995738,-86.822034,,,,﻿f_x_nigg_001,﻿Rev.,﻿F. X. Nigg,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0207,﻿church,[Unnamed Institution],English,,﻿Pulaski P. O.,,﻿Pulaski County,﻿Pulaski County,﻿St. Ann's Upper Settlement,,﻿IN,,,,,,,﻿f_x_nigg_001,﻿Rev.,﻿F. X. Nigg,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0113,﻿church,[Unnamed Institution],English,,﻿Pulaski P. O.,,﻿Pulaski County,﻿Pulaski County,﻿St. Ann's Lower Settlement,,﻿IN,,40.995738,-86.822034,,,,﻿f_x_nigg_001,﻿Rev.,﻿F. X. Nigg,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0115,﻿church,﻿St. Ann's,English,,,,﻿Fulton County,﻿Fulton County,﻿Pleasant Grove,﻿Kewanna,﻿IN,,41.018653,-86.413337,﻿for.in.0081,﻿Logansport,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0116,﻿church,[Unnamed Institution],English,﻿New church building,,,﻿Allen County,﻿Allen County,﻿Pleasant Township,﻿Pleasant Township,﻿IN,,40.958583,-85.168674,﻿for.in.0034,﻿Decatur,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0114,﻿church,[Unnamed Institution],English,﻿Church building,,,﻿Kosciusko County,﻿Kosciusko County,﻿Piercetown,﻿Pierceton,﻿IN,,41.200323,-85.705542,﻿for.in.0069,﻿Laporte,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
@@ -121,7 +121,7 @@
 ﻿for.in.0219,﻿school,﻿School at Laporte,English,,,,,,﻿Laporte,,﻿IN,,,,,,,,,,,,,,,﻿conducted by the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0085_02,﻿school,﻿School at Mishawaka,English,,,,,,﻿Mishawaka,,﻿IN,,41.661993,-86.158616,,,,,,,,,,,,﻿conducted by the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0180,﻿academy,﻿St. Augustine's Female Institute,English,,,,,,﻿Fort Wayne,,﻿IN,,41.074019,-85.137975,,,,,﻿Sister,﻿Vincent,,﻿Superior,,﻿student,﻿100 pupils,﻿under the charge of the Sisters of Providence,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0178,﻿school,﻿St. Ambrose's,English,,,,,,﻿Michigan City,,﻿IN,,41.707539,-86.89503,,,,,,,,,,﻿student,﻿Number of pupils 60,﻿under the direction of the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0086_02,﻿school,﻿St. Ambrose's,English,,,,,,﻿Michigan City,,﻿IN,,41.696938,-86.905034,,,,,,,,,,﻿student,﻿Number of pupils 60,﻿under the direction of the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0182,﻿convent,﻿Convent of Sisters of the Precious Blood,English,,﻿St. Mary's Home,,﻿Jay County,,,,﻿IN,,40.446529,-85.023346,,,,,,,,,,,,,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0224,﻿educational institution,﻿St. Mary's Female Institute,English,,,,,,﻿Lafayette,,﻿IN,,,,,,,,,,,,,,,﻿under charge of the Sisters of Providence,,1861,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0215,﻿school,﻿Young Ladies' German School,English,,,,,,﻿Fort Wayne,,﻿IN,,,,,,,,﻿Sister,﻿Catharine,,﻿Superior,,﻿student,﻿100 pupils,﻿under charge of the Sisters of Providence,,1861,﻿,﻿,﻿Fort Wayne,FortWayne

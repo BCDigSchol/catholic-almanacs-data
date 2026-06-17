@@ -75,12 +75,12 @@
 ﻿buf.ny.0061,﻿church,[Unnamed Institution],English,,,,﻿Chautauque Country,,﻿Forrestville and Fredonia,﻿Fredonia,﻿NY,,42.275064,-78.672807,,,,﻿jam_rogers_001,﻿Rev.,﻿James Rogers,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0029,﻿church,﻿Church of the Fourteen Holy Helpers,English,,,,﻿Erie County,,﻿Gardenville,﻿Gardenville,﻿NY,,42.464591,-78.932352,﻿buf.ny.0009,﻿Attended from St. Michael's,,﻿chr_wagner_001,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0038,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Allegany,,﻿Genesee,,﻿NY,,42.697119,-78.941368,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0178,﻿church,﻿St. Arbogaste's,English,,,,﻿Erie County,,﻿Grand Island,﻿Grand Island,﻿NY,,,,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0179,﻿church,[Unnamed Institution],English,,,,,﻿Cattaraugus County,﻿Great Valley,﻿Great Valley,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0178,﻿church,﻿St. Arbogaste's,English,,,,﻿Erie County,,﻿Grand Island,﻿Grand Island,﻿NY,,43.021522,-78.966035,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0179,﻿church,[Unnamed Institution],English,,,,,﻿Cattaraugus County,﻿Great Valley,﻿Great Valley,﻿NY,,42.214444,-78.636389,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0030,﻿church,﻿St. Mary's,﻿German,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,42.85861,-78.75472,,,,﻿chr_wagner_001,﻿Rev.,﻿C. Wagner,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0180,﻿church,﻿SS. Peter and Paul,English,,,,﻿Erie County,,﻿White's Corners or Hamburgh,﻿White's Corners,﻿NY,,,,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0180,﻿church,﻿SS. Peter and Paul,English,,,,﻿Erie County,,﻿White's Corners or Hamburgh,﻿Hamburg,﻿NY,,42.715868,-78.826277,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0031,﻿church,﻿St. Gabriel's,English,,,,﻿Yates County,,﻿Hammondsport,﻿Hammondsport,﻿NY,,43.021628,-78.96573,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0181,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,,,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0181,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,43.225556,-78.027778,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0103,﻿church,﻿St. Ann's,English,,,,﻿Steuben County,,﻿Hornellsville,﻿Hornellsville,﻿NY,,42.13507,-77.648324,,,,﻿jam_h_leddy_001,﻿Rev.,﻿James H. Leddy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0045,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Steuben County,,﻿Horseheads,﻿Horseheads,﻿NY,,42.908205,-78.678797,,,,﻿fra_s_urich_001,﻿Rev.,﻿Francis S. Urich,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0104,﻿church,﻿St. Stanislaus Kotzka,English,﻿frame church,,,﻿Erie County,,﻿Hubock,,﻿NY,,42.40785,-77.223587,﻿buf.ny.0101,﻿Attended from Bath,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -88,17 +88,17 @@
 ﻿buf.ny.0105,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Chautauqua County,,﻿Jamestown,﻿Jamestown,﻿NY,,42.322744,-77.65843,,,,﻿mic_creedon_001,﻿Rev.,﻿M. Creedon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0076,﻿church,﻿St. Patrick's,English,,,,﻿Wyoming County,,﻿Java,﻿Java,﻿NY,,42.167019,-76.820512,,﻿Attended from Elmira,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0032,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Chemung County,,﻿Jefferson,,﻿NY,,42.887617,-78.839858,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0182,﻿church,﻿Assumption B.V.M.,English,,,,﻿Erie County,,﻿Lancaster,﻿Lancaster,﻿NY,,,,﻿buf.ny.0098,﻿Attended from Medina,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0182,﻿church,﻿Assumption B.V.M.,English,,,,﻿Erie County,,﻿Lancaster,﻿Lancaster,﻿NY,,42.903821,-78.675563,﻿buf.ny.0098,﻿Attended from Medina,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0067,﻿church,﻿St. Martin's,English,,,,﻿Erie County,,﻿Langford,﻿Langford,﻿NY,,42.097002,-79.235326,,,,﻿joh_t_cahill_001,﻿Rev.,﻿John T. Cahill,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0116,﻿church,﻿St. Peter's,English,,,,﻿Niagara County,,﻿Lewiston,﻿Lewiston,﻿NY,,42.643874,-78.406973,,,,﻿wil_j_mcnab_001,﻿Rev.,﻿William J. McNab,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0183,﻿church,﻿St. Francis',English,﻿brick church,,,﻿Genesee County,,﻿Le Roy,﻿Le Roy,﻿NY,,,,,﻿Attended from Penn Yan.,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0183,﻿church,﻿St. Francis',English,﻿brick church,,,﻿Genesee County,,﻿Le Roy,﻿Le Roy,﻿NY,,42.9775,-77.992222,,﻿Attended from Penn Yan.,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0033,﻿church,[Unnamed Institution],﻿German,,,,,,,,,,42.898236,-78.6342,,,,﻿f_n_sester_001,﻿Rev.,﻿F. N. Sester,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0034,﻿church,[Unnamed Institution],﻿German,﻿frame church,,,﻿Steuben County,,﻿Liberty,﻿Liberty,﻿NY,,42.5875,-78.84222,,,,﻿jos_zoegel_001,﻿Rev.,﻿Jos. Zoegle,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0084,﻿church,[Unnamed Institution],English,﻿frame church,,,,﻿Cattaraugus County,﻿Little Valley,﻿Little Valley,,,43.172555,-79.035878,,,,﻿joh_touhy_001,﻿Rev.,﻿John Touhy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0080,﻿church,﻿St. John the Baptist,English,,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,42.978394,-77.984178,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0080,﻿church,﻿St. Patrick's,English,,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,42.978394,-77.984178,﻿buf.ny.0008,﻿Germans attended from St. Mary's Buffalo,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0106,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,42.321027,-77.378379,,,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0184,﻿church,﻿SS. Philip and James,English,,,,﻿Erie County,,﻿Marilla,﻿Marilla,﻿NY,,,,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0184,﻿church,﻿SS. Philip and James,English,,,,﻿Erie County,,﻿Marilla,﻿Marilla,﻿NY,,42.826667,-78.537222,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0085,﻿church,﻿St. Mary's,English,﻿stone church,,,﻿Orleans County,,﻿Medina,﻿Medina,﻿NY,,43.173731,-78.683745,,,,﻿hug_mulholland_001,﻿Rev.,﻿Hugh Mulholland,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0086,﻿church,[Unnamed Institution],English,﻿stone church,,,﻿Niagara County,,﻿Middleport,﻿Middleport,﻿NY,,43.170613,-78.69031,,,,﻿joh_omara_001,﻿Rev.,﻿John O'Mara,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0087,﻿church,[Unnamed Institution],﻿German,,,,﻿Niagara County,,﻿Newfane,﻿Newfane,﻿NY,,43.170613,-78.69031,,,,﻿cha_wansierski_001,﻿Rev.,﻿Charles Wansierski,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -109,29 +109,29 @@
 ﻿buf.ny.0036,﻿church,[Unnamed Institution],﻿German,﻿frame church,,,﻿Genesee County,,﻿Oakfield,,﻿NY,,42.58833,-78.79194,﻿buf.ny.0034,﻿Attended from Langford,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0037,﻿church,﻿St. Mary of the Angels,English,﻿stone church,,,﻿Allegany County,,﻿Olean,﻿Olean,﻿NY,,42.988685,-78.872397,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0090,﻿church,﻿St. Patrick's,English,﻿stone church,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,43.084917,-79.05729,,,,﻿p_j_cannon_001,﻿Rev.,﻿P. J. Cannon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0185,﻿church,[Unnamed Institution],English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0186,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,,,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0185,﻿church,[Unnamed Institution],English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,42.9975,-78.434722,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0186,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,43.07823,-78.740031,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0054,﻿church,﻿Annunciation,English,,,,﻿Steuben County,,﻿Perkinsville,﻿Perkinsville,﻿NY,,42.083639,-78.429927,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0111,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Wyoming County,,﻿Perry,﻿Perry,﻿NY,,42.105701,-76.257109,,,,﻿fra_clark_001,﻿Rev.,﻿Fr. Clark,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0082,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Pike,,,,42.997559,-78.434744,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0091,﻿church,﻿Assumption B.V.M.,﻿German,﻿brick church,,,﻿Wyoming County,,﻿Portageville,﻿Portageville,﻿NY,,43.078421,-78.740205,,,,﻿joh_soemer_001,﻿Rev.,﻿John Soemer,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0107,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,42.53979,-77.628326,,,,﻿d_m_winands_001,﻿Rev.,﻿D. M. Winands,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0117,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Rexville,,﻿NY,,42.755505,-77.996704,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0187,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Rushford,,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0187,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Rushford,﻿Rushford,﻿NY,,42.383333,-78.233333,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0118,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Salamanca,﻿Salamanca,﻿NY,,42.568583,-78.041075,,,,﻿f_cook_001,﻿Rev.,﻿F. Cook,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0062,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Sandy Hill,﻿Dansville,﻿NY,,42.162005,-78.975317,﻿buf.ny.0067,﻿Attended from Jamestown,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0188,﻿church,﻿St. James',English,,,,﻿Allegany County,,﻿Scio,﻿Scio,﻿NY,,,,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0189,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Scipio Centre,,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0188,﻿church,﻿St. James',English,,,,﻿Allegany County,,﻿Scio,﻿Scio,﻿NY,,42.171389,-77.978611,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0189,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Scipio Centre,﻿Scipio,﻿NY,,42.783577,-76.558874,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0063,﻿church,﻿St. Cecilia's,English,,,,﻿Wyoming County,,﻿Sheldon,﻿Sheldon,﻿NY,,42.157841,-78.715031,,,,﻿cha_d_mcmullen_001,﻿Rev.,﻿C. D. McMullen,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0109,﻿church,[Unnamed Institution],English,,,,﻿Chautauque County,,﻿Salem and Silver Creek,,﻿NY,,42.321027,-77.378379,﻿buf.ny.0107,﻿Attended from Perkinsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0055,﻿church,﻿St. Augustine's,English,﻿frame church,,,﻿Erie County,,﻿South-Alden,,﻿NY,,42.171457,-77.978615,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0190,﻿church,﻿St. Mary's,English,,,,﻿Erie County,,﻿South-Bush,,﻿NY,,,,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0119,﻿church,﻿St. Ignatius,﻿German,﻿frame church,,,﻿Orleans County,,﻿Somerset,﻿Somerset,﻿NY,,42.737283,-78.41863,,,,﻿edw_baenziger_001,﻿Rev.,﻿Edward Baenziger,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0191,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿South-Valley,,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0192,﻿church,﻿St. John's,English,,,,﻿Erie County,,﻿Springbrook,﻿Springbrook,﻿NY,,,,﻿buf.ny.0041,﻿Attended from Springbrooks,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0191,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿South-Valley,﻿South Valley,﻿NY,,42.707222,-74.710556,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0192,﻿church,﻿St. John's,English,,,,﻿Erie County,,﻿Springbrook,﻿Spring brook,﻿NY,,42.817787,-78.671364,﻿buf.ny.0041,﻿Attended from Springbrooks,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0040,﻿church,﻿St. Aloysius',English,,,,﻿Erie County,,﻿Springville,﻿Springville,﻿NY,,42.903546,-78.675596,﻿buf.ny.0046,﻿Attended from Williamsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0092,﻿church,﻿St. Gabriel,English,,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,43.347557,-78.555862,﻿buf.ny.0089,﻿Attended from Newfane,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0193,﻿church,﻿St. Francis of Assisium,English,,,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,,,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0193,﻿church,﻿St. Francis of Assisium,English,,,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,43.019012,-78.881299,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0041,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Steuben County,,﻿Troopsburgh,﻿Troupsburg,﻿NY,,42.818115,-78.675584,﻿buf.ny.0023,﻿Attended from Akron,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0042,﻿church,﻿Assumption,English,﻿frame church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.509956,-78.669394,,﻿Attended from East-China,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0093,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Chautauqua County,,﻿Villanova,﻿Villenova,﻿NY,,42.88742453,-78.86423996,,,,﻿tho_abbott_002,﻿Rev.,﻿Thomas Abbott,﻿C.M.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -180,7 +180,7 @@
 ﻿buf.ny.0198,﻿retreat,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,,,,,,﻿hen_egler_001,﻿Rev.,﻿Henry Egler,,,,﻿religious,﻿5 lay brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,,,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,﻿religious,﻿5 lay brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿Community of the Missionary Oblates of Mary Immaculate,English,,"﻿Church of the Holy Angels, Buffalo",,﻿Erie County,,﻿Buffalo,,﻿NY,,,,,,,﻿arc_paganini_001,﻿Rev.,﻿Arcangelo Paganini,,,,﻿religious,﻿5 lay brothers,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0201,﻿convent,﻿St. Gabriel's Convent,English,,,,﻿Niagara County,,﻿Niagra City,,﻿NY,,,,,,,,,,,,,,,﻿Under the nuns of the visitation,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0201,﻿convent,﻿St. Gabriel's Convent,English,,,,﻿Niagara County,,﻿Niagra City,﻿Niagara Falls,﻿NY,,43.116111,-78.989444,,,,,,,,,,,,﻿Under the nuns of the visitation,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0126,﻿convent,﻿Convent of St. Clare,English,,,,,,﻿Buffalo,,﻿NY,,42.868546,-78.84694,,,,,﻿Mother,﻿Mary Anne,,﻿Superior,,﻿female,﻿school attended by 180 females,﻿under care of the Sisters of the Third Order of St. Francis.,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0126,﻿convent,﻿Convent of St. Clare,English,,,,,,﻿Buffalo,,﻿NY,,42.868546,-78.84694,,,,,﻿Sister,﻿Mary Colleta,,,,﻿female,﻿school attended by 180 females,﻿under care of the Sisters of the Third Order of St. Francis.,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0126,﻿convent,﻿Convent of St. Clare,English,,,,,,﻿Buffalo,,﻿NY,,42.868546,-78.84694,,,,,﻿Sister,﻿Antonia,,,,﻿female,﻿school attended by 180 females,﻿under care of the Sisters of the Third Order of St. Francis.,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -188,10 +188,10 @@
 ﻿buf.ny.0126,﻿convent,﻿Convent of St. Clare,English,,,,,,﻿Buffalo,,﻿NY,,42.868546,-78.84694,,,,,﻿Sister,﻿Mary Alphonso,,,,﻿female,﻿school attended by 180 females,﻿under care of the Sisters of the Third Order of St. Francis.,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0127,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dunkirk,,﻿NY,,42.472253,-79.320015,,,,,﻿Sister,﻿Mary Anastasia,,﻿Superior,,﻿student,"﻿Pupils, 35",﻿under the Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0128,﻿convent,﻿Mount St. Joseph's Convent,English,﻿Novitiate for the Sisters of St. Joseph,,,,,﻿Cold Springs,,﻿NY,,42.89620355,-78.87641519,,,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0206,﻿school,﻿St. Vincent's School,English,,,,,,﻿Cold Springs,,﻿NY,,,,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the charge of 4 Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0203,﻿academy,﻿Academy of St. Vincent,English,,,,,,﻿Buffalo,,﻿NY,,,,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Sisteres of Charity,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0204,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿New-Oregon,,﻿NY,,,,,,,,﻿Mother,﻿Bernadrdina,,﻿Superior,,﻿religious,"﻿Sisters, 3",,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0204,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿New-Oregon,,﻿NY,,,,,,,,,,,,,﻿student,"﻿Pupils, 120",,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0206,﻿school,﻿St. Vincent's School,English,,,,,﻿Cattaraugus County,﻿Cold Springs,﻿Coldspring,﻿NY,,42.101944,-78.9175,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the charge of 4 Sisters of St. Joseph,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0203,﻿academy,﻿Academy of St. Vincent,English,,,,,,﻿Buffalo,,﻿NY,,42.909043,-78.864828,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Sisteres of Charity,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0204,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿New-Oregon,﻿New Oregon,﻿NY,,42.588333,-78.791667,,,,,﻿Mother,﻿Bernadrdina,,﻿Superior,,﻿religious,"﻿Sisters, 3",,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0204,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿New-Oregon,﻿New Oregon,﻿NY,,42.588333,-78.791667,,,,,,,,,,﻿student,"﻿Pupils, 120",,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0129,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿East Eden,,﻿NY,,42.665051,-78.826928,,,,,﻿Mother,﻿Louisa,,﻿Superior,,﻿religious,"﻿Professed Sisters, 3",,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0129,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿East Eden,,﻿NY,,42.665051,-78.826928,,,,,,,,,,﻿religious,"﻿candidates, 2",,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0129,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿East Eden,,﻿NY,,42.665051,-78.826928,,,,,,,,,,﻿student,"﻿pupils, 110",,,1869,﻿,﻿,﻿Buffalo,Buffalo

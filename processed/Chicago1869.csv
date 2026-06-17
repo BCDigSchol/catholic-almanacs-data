@@ -49,7 +49,7 @@
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,﻿41.7132868,-89.32813318,,,,﻿wil_murphy_001,﻿Rev.,﻿William Murphy,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.7605849,-88.3200715,,,,﻿tho_kenedy_001,﻿Rev.,﻿Thomas Kenedy,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0030,﻿church,﻿St. Nicholas',﻿German,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,﻿41.76135775,-88.30320275,,,,﻿her_liermann_001,﻿Rev.,﻿Hermann Liermann,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0336,﻿church,﻿St. James',English,,,,﻿Boone County,,﻿Belvidere,,﻿IL,,,,,,,﻿pat_maguire_001,﻿Rev.,﻿Patrick Maguire,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0336,﻿church,﻿St. James',English,,,,﻿Boone County,,﻿Belvidere,﻿Belvidere,﻿IL,,﻿42.256032,-88.835172,,,,﻿pat_maguire_001,﻿Rev.,﻿Patrick Maguire,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525023,-88.99422853,﻿chi.il.0073,﻿Attended from Lincoln,﻿regularly,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,﻿p_beaudoin_001,﻿Rev.,﻿P. Bandoin,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.15648863,-87.87627605,,,,﻿roy_001,﻿Rev. Fr.,﻿Roy,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -72,7 +72,7 @@
 ﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,"﻿Post Town, Vinetka",,﻿Cook County,,﻿Gross Point,﻿Wilmette,﻿IL,,﻿42.07935379,-87.72191665,,,,﻿b_heskemann_001,﻿Rev.,﻿B. Heskemann,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0057,﻿church,[Unnamed Institution],English,,,,﻿Rock Island,,﻿Hampton,﻿Hampton,﻿IL,,﻿41.55770184,-90.40798808,,,,﻿j_apt_001,﻿Rev.,﻿J. Apt,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0058,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,,﻿Hartland,﻿Hartland,﻿IL,,﻿42.37819326,-88.49035292,,,,﻿s_barrett_001,﻿Rev.,﻿S. Barrett,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0337,﻿church,[Unnamed Institution],English,,,,,,﻿Hempen,,,,,,,,,﻿j_westcamp_001,﻿Rev.,﻿J. Westcamp,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0337,﻿church,[Unnamed Institution],English,,,,,﻿Putnam County,﻿Hempen,﻿Hennepin,,﻿IL,﻿4124691,-89.33956,,,,﻿j_westcamp_001,﻿Rev.,﻿J. Westcamp,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,,﻿Henry,﻿Henry,﻿IL,,﻿41.1114249,-89.3564776,,,,﻿hen_köhne_001,﻿Rev.,﻿Henry Köhne,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0063,﻿church,﻿St. Patrick's,English,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.52150743,-88.09907207,,,,﻿pat_farrelly_002,﻿Rev.,﻿Patrick Farrelly,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,﻿41.53119826,-88.08902764,,,,﻿f_h_nolte_001,﻿Rev.,﻿F. H. Nolte,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -90,7 +90,7 @@
 ﻿chi.il.0077,﻿church,﻿St. Paul's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,﻿40.45862934,-90.67556199,,,,﻿joh_larmer_001,﻿Rev.,﻿John Larmer,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0078,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿McHenry,﻿McHenry,﻿IL,,﻿42.34960509,-88.26293916,,,,﻿p_birch_001,﻿Rev.,﻿P. Birch,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. John the Baptist,﻿German,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,﻿42.38310468,-88.24214808,,,,﻿j_venn_001,﻿Rev.,﻿J. Venn,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,,,,,,,,﻿d_egan_001,﻿Rev.,﻿D. Egan,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,﻿WestLake Forest,,﻿IL,﻿42.214941,-87.873655,,,,﻿d_egan_001,﻿Rev.,﻿D. Egan,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,﻿41.5472547,-89.1175851,,,,﻿tho_ofarrell_001,﻿Rev.,﻿Thomas O'Farrel,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0081,﻿church,[Unnamed Institution],﻿German,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,﻿41.54945686,-89.12355092,,,,﻿e_hermann_001,﻿Rev.,﻿E. Hermann,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0083,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,﻿Woodford County,﻿Metamora,﻿Metamora,﻿IL,,﻿40.79150161,-89.46296678,,﻿attended from Peoria,,,﻿Rev.,﻿---,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -109,11 +109,11 @@
 ﻿chi.il.0097,﻿church,[Unnamed Institution],English,,,,﻿Lee County,,﻿Perkins's Grove,,﻿IL,,﻿41.59935609,-89.25458922,,,,﻿jos_goldschmidt_001,﻿Rev.,﻿Joseph Goldschmidt,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0098,﻿church,﻿St. Joseph's,﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32832687,-89.13152025,,,,﻿l_schaffar_001,﻿Rev.,﻿L. Schaffar,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0099,﻿church,﻿St. Mary's,English,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,﻿41.32980444,-89.12370581,,,,﻿a_petit_001,﻿Rev.,﻿A. Petit,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0339,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petite Isles,,,,,,,,,﻿pet_parradis_001,﻿Rev.,﻿P. Parradis,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0339,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petite Isles,﻿Bourbonnais,,﻿IL,﻿41.192116,-87.774602,,,,﻿pet_parradis_001,﻿Rev.,﻿P. Parradis,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0101,﻿church,﻿St. Mary's,English,﻿Mission newly organized,,,﻿Livingston County,,﻿Pontiac,﻿Pontiac,﻿IL,,﻿40.88147203,-88.62843058,,,,﻿j_fanning_001,﻿Rev.,﻿J. Fanning,﻿B.D.,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.27124179,-89.08502852,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861017,-90.56889602,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0347,﻿church,[Unnamed Institution],﻿German,,,,﻿Rock Island County,,﻿Rock Island,,,,,,,﻿attended from Hampton,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0347,﻿church,[Unnamed Institution],﻿German,,,,﻿Rock Island County,,﻿Rock Island,,,,﻿41.47,-90.591667,,﻿attended from Hampton,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides County,,﻿Sterling,﻿Sterling,﻿IL,,﻿41.79078354,-89.69931,,,,﻿joh_daly_001,﻿Rev.,﻿John Daly,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,﻿41.91407319,-88.31845068,,,,﻿pet_campbell_001,﻿Rev.,﻿Peter Campbell,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0110,﻿church,﻿St. Mary's,English,,,,﻿Iroquois County,,﻿St. Marie,﻿Beaverville,﻿IL,,﻿40.95287115,-87.65358583,,,,﻿g_s_kertson_001,﻿Rev.,﻿G. S. Kertson,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -126,7 +126,7 @@
 ﻿chi.il.0118,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿Woodstock,﻿Woodstock,﻿IL,,﻿42.31718389,-88.45083491,,,,﻿d_egan_001,﻿Rev.,﻿D. Egan,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0119,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Ainsworth,﻿South Chicago,﻿IL,,﻿41.73406012,-87.55764343,,"﻿attended from St. James', Chicago",﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0120,﻿station,﻿St. Patrick's,English,,,,﻿Bureau County,﻿Bureau County,﻿Arlington,﻿Arlington,﻿IL,,﻿41.4710246,-89.25036504,﻿chi.il.0080,﻿Attended from Mendota,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Athens,,,,,,,﻿attended from Lockport,﻿every second Sunday,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0340,﻿station,﻿St. Patrick's,English,,,,﻿Cook County,,﻿Athens,,,﻿IL,﻿39.961944,-89.721667,,﻿attended from Lockport,﻿every second Sunday,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0121,﻿station,﻿St. Mary's,English,,,,﻿Hancock County,,﻿Augusta,﻿Augusta,﻿IL,,﻿40.23060664,-90.95095823,﻿chi.il.0077,﻿Attended from Macomb,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0122,﻿station,﻿Immaculate Conception,English,,,,﻿Du Page County,,﻿Babcock's Grove,﻿Lombard,﻿IL,,﻿41.88435611,-88.03518729,﻿chi.il.0109,﻿From St. Charles.,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0123,﻿station,﻿St. Patrick's,English,,,,﻿Kane County,,﻿Barrens,﻿Rutland Township,﻿IL,,﻿42.08204986,-88.37009648,﻿chi.il.0045,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
@@ -137,7 +137,7 @@
 ﻿chi.il.0128,﻿station,[Unnamed Institution],English,,,,,,﻿Black Partridge,﻿Chillicothe,﻿IL,,﻿40.8950152,-89.42786007,﻿chi.il.0093,﻿Attended from Peoria,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0129,﻿station,[Unnamed Institution],English,,,,,,﻿Blue Island,﻿Blue Island,﻿IL,,﻿41.65700573,-87.67859896,,"﻿from St. Joseph's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0130,﻿station,[Unnamed Institution],English,,,,﻿Peat County,,﻿Bremont,﻿Bement,﻿IL,,﻿39.91673737,-88.57484657,﻿chi.il.0037,﻿from Champaign,﻿every eight weeks,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,,,,,,﻿max_albrecht_001,﻿Rev.,﻿Max Albrecht,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,﻿Brimfield,,﻿IL,﻿40.840009,-89.888733,,,,﻿max_albrecht_001,﻿Rev.,﻿Max Albrecht,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0348,﻿station,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Buffalo Grove,,,,,,,﻿Attended from McHenry,,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0132,﻿station,[Unnamed Institution],﻿German,,,,,,﻿Buffalo Grove,﻿Buffalo Grove,﻿IL,,﻿42.1662831,-87.9631308,,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0133,﻿station,[Unnamed Institution],English,,,,﻿Boone County,﻿Boone County,﻿Caledonia,﻿Caledonia,﻿IL,,﻿42.36751527,-88.893422,﻿chi.il.0336,﻿from Belvidere,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Chicago,Chicago
