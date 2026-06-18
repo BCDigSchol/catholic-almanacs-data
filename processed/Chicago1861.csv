@@ -63,7 +63,7 @@
 ﻿chi.il.0064,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Will County,,﻿Joliet,﻿Joliet,﻿IL,,41.531198,-88.089028,,,,﻿cha_kumin_001,﻿Rev.,﻿Charles Kumin,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0066,﻿church,﻿St. Rose's,English,,,,﻿Kankakee County,﻿Kankakee County,﻿Kankakee,﻿Kankakee,﻿IL,,41.11951,-87.871558,,,,﻿a_mailloux_001,﻿Very Rev.,﻿A. Mailloux,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0421,﻿church,[Unnamed Institution],English,,,,﻿Henry County,,﻿Kenawee,,﻿IL,,,,﻿chi.il.0069,﻿Attended from Lacon,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0376,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,,﻿Kickapoo,,﻿IL,,,,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0376,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,,﻿Kickapoo,,﻿IL,,40.788392,-89.749891,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0069,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,﻿Marshall County,﻿Lacon,﻿Lacon,﻿IL,,41.027496,-89.405777,,,,﻿joh_n_hannigan_001,﻿Rev.,﻿John N. Hannigan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,﻿mar_anthony_001,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,﻿mic_oreilly_005,﻿Rev.,﻿Michael O'Reilly,﻿C.M.,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -72,7 +72,7 @@
 ﻿chi.il.0075,﻿church,﻿St. Denis',English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,41.585151,-88.056978,,,,﻿m_hurley_001,﻿Rev.,﻿Michael Hurley,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. Bridget's,English,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,42.383105,-88.242148,,,,﻿pet_vogt_001,﻿Rev.,﻿Peter Vogt,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0077,﻿church,﻿St. Stephen's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,40.458629,-90.675562,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,﻿IL,,,,,,,﻿wil_herbert_001,﻿Rev.,﻿William Herbert,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0338,﻿church,﻿St. Michael's,English,,,,﻿Lake County,,﻿Meehan's Settlement,,﻿IL,,42.214941,-87.873655,,,,﻿wil_herbert_001,﻿Rev.,﻿William Herbert,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0080,﻿church,﻿Immaculate Conception,English,,,,﻿La Salle County,﻿La Salle County,﻿Mendota,﻿Mendota,﻿IL,,41.547255,-89.117585,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0422,﻿church,[Unnamed Institution],English,,,,﻿Jo Daviess County,,﻿Menomena,,﻿IL,,,,﻿mil.wi.0195,﻿Attended from Sinsinnawa Mound,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0353,﻿church,﻿St. Andrew's,English,,,,﻿Lake County,,﻿Mill Creek,,﻿IL,,,,﻿chi.il.0113,﻿Attended from Waukeegan,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago

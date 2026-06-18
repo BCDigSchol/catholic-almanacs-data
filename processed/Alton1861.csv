@@ -17,7 +17,7 @@
 ﻿alt.il.0028,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿Marion County,﻿Marion County,﻿Centralia,﻿Centralia,﻿IL,,38.528517,-89.131694,,﻿att. by Rev. Thomas Cussack,,﻿t_cusack_001,﻿Rev.,﻿Thomas Cussack,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0030,﻿church,﻿Help of Christians,English,﻿vacant,,,﻿Randolph County,﻿Randolph County,﻿Chester,﻿Chester,﻿IL,,37.923683,-89.821459,,,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0031,﻿church,﻿St. Paul's,English,﻿vacant,,,﻿Madison County,﻿Madison County,﻿Collinsville,﻿Collinsville,﻿IL,,38.666,-89.988118,,﻿attended from Alton,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0295,﻿church,﻿St. Augustin's,English,,"﻿Coffee, or Rochester",,﻿Wabash County,,"﻿Coffee, or Rochester",,﻿IL,,,,﻿alt.il.0072,﻿att. from Mount Carmel,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0295,﻿church,﻿St. Augustin's,English,,"﻿Coffee, or Rochester",,﻿Wabash County,,"﻿Coffee, or Rochester",,﻿IL,,38.350774,-87.822281,﻿alt.il.0072,﻿att. from Mount Carmel,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0032,﻿church,﻿Immaculate Conception,English,,,,﻿Monroe County,﻿Monroe County,﻿Columbia,﻿Columbia,﻿IL,,38.467846,-90.213733,,,,﻿f_blessinger_001,﻿Rev.,﻿F. Blessinger,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0034,﻿church,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Decatur,﻿Decatur,﻿IL,,39.843094,-88.950792,,,,﻿a_vogt_001,﻿Rev.,﻿A. Vogt,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0337,﻿church,[Unnamed Institution],English,"﻿church building, vacant",,,﻿Clinton County,,﻿Dempter,,﻿IL,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
@@ -141,7 +141,7 @@
 ﻿alt.il.0307,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Menard County,,﻿Petersburgh,,﻿IL,,,,﻿alt.il.0057,﻿Attended from Jacksonville,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0300,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Green County,﻿Greene County,﻿Rockbridge,﻿Rockbridge,﻿IL,,,,﻿alt.il.0058,﻿Attended from Jerseyville,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0305,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Marion County,﻿Marion County,﻿Salem,﻿Salem,﻿IL,,,,﻿alt.il.0131,﻿Attended from Vandalia,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0306,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,,,﻿alt.il.0131,﻿Attended from Vandalia,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0306,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,38.612222,-89.122222,﻿alt.il.0131,﻿Attended from Vandalia,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0116,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Shelbyville County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿IL,,39.406428,-88.790069,﻿alt.il.0034,﻿Attended from Decatur,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0302,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Macoupin County,﻿Macoupin County,﻿Shipman,﻿Shipman,﻿IL,,,,﻿alt.il.0023,﻿Attended from Carlinville,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0350,﻿station,[Unnamed Institution],English,﻿Stations occasionally or regularly attended,,,﻿Macoupin County,,﻿Stanton,,﻿IL,,,,﻿alt.il.0061,﻿Attended from Litchfield,,,,,,,,,,,,1861,﻿,﻿,﻿Alton,Alton

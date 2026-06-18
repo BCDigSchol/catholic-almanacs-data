@@ -193,7 +193,7 @@
 ﻿cin.oh.0186,﻿church,﻿St. Paul's,English,,,,﻿Clarke County,,﻿Yellow Springs,,﻿OH,,39.806449,-83.886874,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿j_t_jarboe_002,﻿Rev.,﻿J. T. Jarboe,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿fra_cubero_001,﻿Rev.,﻿F. Cubero,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085,﻿church,﻿St. Nicholas',English,,,,,,﻿Zanesville,,﻿OH,,39.940112,-82.001087,,,,﻿a_hechinger_003,﻿Rev.,﻿A. Hechinger,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0085,﻿church,﻿St. Nicholas',English,,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿a_hechinger_003,﻿Rev.,﻿A. Hechinger,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,﻿Sup.,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecrans,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -262,8 +262,8 @@
 ﻿cin.oh.0031_02,﻿school,﻿St. Mary's School,English,﻿for boys and girls,,,,,﻿Delhi,,﻿OH,,39.109843,-84.633622,,,,,,,,,,﻿student,"﻿Average attendance, 120",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0026_02,﻿school,﻿St. Clement's School,English,﻿for boys and girls,,,,,﻿St. Bernard's,,﻿OH,,39.165988,-84.500267,,,,,,,,,,﻿student,"﻿Av. attend., 60",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0029_02,﻿school,﻿St. James' School,English,﻿for boys and girls,,﻿near Cumminsville,,,﻿White Oak,,﻿OH,,39.205131,-84.601679,,,,,,,,,,﻿student,"﻿Av. attendance, 70",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0030_02,﻿school,﻿St. Joesph School,English,,,,,,﻿Dry Ridge,,﻿OH,,39.261483,-84.618857,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0030_03,﻿school,﻿St. John's School,English,,,,,,﻿Dry Ridge,,﻿OH,,39.261483,-84.618857,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030_02,﻿school,﻿St. Joesph School,English,,,,,,﻿Dry Ridge,,﻿OH,,39.082744,-84.372167,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0030_03,﻿school,﻿St. John's School,English,,,,,,﻿Dry Ridge,,﻿OH,,39.082744,-84.372167,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0297_02,﻿school,﻿St. Francis' School,English,﻿for boys and girls,,,,,﻿Walnut Hills,,﻿OH,,,,,,,,,,,,,﻿student,"﻿Av. attend., 80",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027_02,﻿school,﻿St. Aloysius' School,English,,,,,,﻿Cumminsville,,﻿OH,,39.161291,-84.543496,,,,,,,,,,﻿student,"﻿Average attendance, 90",,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0075_02,﻿school,﻿St. Emanuel's School,English,﻿for boys and girls,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,﻿student,"﻿Average attendance, 350",﻿Under the Sisters of Notre Dame,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

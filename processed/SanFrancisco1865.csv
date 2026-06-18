@@ -34,7 +34,7 @@
 ﻿sanf.ca.0022,﻿church,﻿St. Ann's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,﻿ter_j_smith_001,﻿Rev.,﻿Terence J. Smith,,﻿Pastor,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0023,﻿church,﻿St. Ignatius',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Copperopolis,﻿Copperopolis,﻿CA,,37.981036,-120.641872,﻿sanf.ca.0053,﻿attended from San Andreas,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0024,﻿church,﻿Immaculate Conception,English,,,,﻿Mariposa County,﻿Mariposa County,﻿Coulterville,﻿Coulterville,﻿CA,,37.710748,-120.197213,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0121,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Drytown,﻿Drytown,﻿CA,,,,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0121,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Drytown,﻿Drytown,﻿CA,,38.441111,-120.854444,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0025,﻿church,﻿St. John the Baptist's,English,,,,﻿Sacramento County,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,38.681493,-121.154055,,,,﻿nea_gallagher_001,﻿Rev.,﻿Neal Gallagher,,﻿Pastor,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0026,﻿church,﻿St. James',English,,,,﻿El Dorado County,﻿El Dorado County,﻿George Town,﻿Georgetown,﻿CA,,38.905893,-120.832834,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0027,﻿church,﻿Immaculate Conception,English,,,,﻿El Dorado County,﻿El Dorado County,﻿Grizzly Flat,﻿Grizzly Flats,﻿CA,,38.638237,-120.526365,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -118,6 +118,6 @@
 ﻿sanf.ca.0105,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Pueblo of San Jose,﻿San Jose,﻿CA,,37.33874,-121.885252,,,,,,,,,,﻿student,﻿75 pupils,﻿Conducted by the Sisters of Notre Dame,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0106,﻿school,﻿Free school,English,,﻿attached to St. Ann's Church,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,,,,,,,﻿student,﻿75 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0107,﻿school,﻿Free school,English,﻿for boys,,,,﻿Tuolumne County,﻿Sonora,﻿Sonora,﻿CA,,37.98295,-120.382172,,,,,,,,,,﻿student,﻿60 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,,,,,,,,,,,,﻿student,﻿65 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,38.729755,-120.798611,,,,,,,,,,﻿student,﻿65 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0108,﻿school,﻿Free school,English,﻿for boys,﻿attached to St. Mary's Church,,﻿San Joaquin County,﻿San Joaquin County,﻿Stockton,﻿Stockton,﻿CA,,37.951198,-121.287463,,,,,,,,,,﻿student,﻿60 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0109,﻿school,﻿Free school,English,,,,,﻿Calaveras County,﻿San Andres,﻿San Andreas,﻿CA,,38.19603,-120.680487,,,,,,,,,,﻿student,﻿60 pupils,,,1865,﻿,﻿,﻿San Francisco,SanFrancisco

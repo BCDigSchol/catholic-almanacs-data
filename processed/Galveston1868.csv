@@ -96,7 +96,7 @@
 ﻿gal.tx.0077,﻿church,[Unnamed Institution],English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.503561,-99.507552,,,,﻿mic_suchon_001,﻿Rev.,﻿Michael Souchon,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0077,﻿church,[Unnamed Institution],English,,,,﻿Webb County,﻿Webb County,﻿Laredo,﻿Laredo,﻿TX,,27.503561,-99.507552,,,,﻿l_m_planchet_001,﻿Rev.,﻿L. M. Planchet,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0078,﻿church,[Unnamed Institution],English,,,,﻿Cameron County,,﻿Las Animas,,﻿TX,,26.06975761,-97.73826286,﻿gal.tx.0023,﻿attended from Brownsville,,,,,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0079,﻿chapel,﻿St. Mary's Chapel,English,,,,﻿Lavaca County,﻿Lavaca County,,﻿Halletsville,﻿TX,,29.443853,-96.941093,,,,﻿ant_forest_001,﻿Rev.,﻿Anthony Forest,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0079,﻿chapel,﻿St. Mary's Chapel,English,,,,﻿Lavaca County,﻿Lavaca County,,﻿Halletsville,﻿TX,,29.448272,-96.998309,,,,﻿ant_forest_001,﻿Rev.,﻿Anthony Forest,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0080,﻿church,[Unnamed Institution],English,,,,﻿Liberty County,﻿Liberty County,﻿Liberty,﻿Liberty,﻿TX,,30.057993,-94.795478,,,,﻿j_martinere_001,﻿Rev.,﻿Joseph Martinière,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0080,﻿church,[Unnamed Institution],English,,,,﻿Liberty County,﻿Liberty County,﻿Liberty,﻿Liberty,﻿TX,,30.057993,-94.795478,,,,﻿joh_martinière_001,﻿Rev.,﻿John Martinière,,﻿scholastic,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0081,﻿church,[Unnamed Institution],English,,,,﻿Caldwell County,﻿Caldwell County,﻿Lockart,﻿Lockhart,﻿TX,,29.884944,-97.67,﻿gal.tx.0009,﻿attended from Austin,,,,,,,,,,,,1868,﻿,﻿,﻿Galveston,Galveston
@@ -180,7 +180,7 @@
 ﻿gal.tx.0162,﻿convent,﻿Convent of the Incarnate Word,English,,,,,,﻿Brownsville,﻿Brownsville,﻿TX,,25.918439,-97.508273,,,,,,,,,,﻿student,﻿100 day-scholars,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0163,﻿convent,﻿Convent of the Incarnate Word,English,﻿school just starting,,,,,﻿Victoria,﻿Victoria,﻿TX,,28.79044,-96.99762,,,,,﻿M.,﻿de St. Clair,,﻿Mother-Superior,,﻿religious,﻿6 Sisters,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0164,﻿convent,﻿Ursuline Convent,English,,,,,,﻿Houston,﻿Houston,﻿TX,,29.760077,-95.370111,,,,,﻿Mother,﻿Liguori,,﻿Superior,,﻿religious,﻿4 Sisters,,,1868,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,,,,,,,﻿Madame,﻿de St. André,,﻿Superior,,﻿religious,﻿3 sisters,,,1868,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,,,,,,,,,,,,﻿religious,﻿2 postulants,,,1868,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,30.267222,-97.743056,,,,,﻿Madame,﻿de St. André,,﻿Superior,,﻿religious,﻿3 sisters,,,1868,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0172,﻿monastery,﻿Monastery of the Sisters of Divine Providence,English,,,,,,﻿Austin,﻿Austin,﻿TX,,30.267222,-97.743056,,,,,,,,,,﻿religious,﻿2 postulants,,,1868,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0173,﻿hospital,﻿Sœurs Hospitalières,English,﻿for an infirmary and orphan asylum,,,,,﻿Galveston,﻿Galveston,﻿TX,,,,,,,,﻿Sister,﻿-,,﻿Superior,,﻿religious,﻿3 sisters,,,1868,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0174,﻿school,﻿Female School,English,,,,,,﻿Austin,﻿Austin,﻿TX,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿under the care of the Sisters of Providence,,1868,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0174,﻿school,﻿Female School,English,,,,,,﻿Austin,﻿Austin,﻿TX,,30.267222,-97.743056,,,,,,,,,,﻿religious,﻿3 sisters,﻿under the care of the Sisters of Providence,,1868,﻿,﻿,﻿Galveston,Galveston

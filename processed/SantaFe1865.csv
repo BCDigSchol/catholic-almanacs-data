@@ -96,7 +96,7 @@
 ﻿san.nm.0066,﻿chapel,﻿San Antonio's Chapel,English,,,﻿La Cañada,,,﻿El Quemado,﻿Cordova,﻿NM,,34.972731,-105.032363,﻿san.nm.0063,﻿Attended from Santa Cruz,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0067,﻿chapel,﻿Chapel of N. Senora,English,,,﻿La Cañada,,,﻿Las Truchas,﻿Truchas,﻿NM,,36.044183,-105.812756,﻿san.nm.0063,﻿Attended from Santa Cruz,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0227,﻿church,[Unnamed Institution],English,,﻿Indian Pueblo,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,,,,,,﻿man_chavez_001,﻿Rev.,﻿M. Chavez,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,,,,﻿attended from Santo Domingo,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0120,﻿chapel,﻿Na. Señ. de Guadalupe,English,,,﻿Peña Blanca,,,﻿Peña Blanca,﻿Peña Blanca,﻿NM,,35.572685,-106.337068,,﻿attended from Santo Domingo,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Peña Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,,﻿attended from Santo Domingo,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.402183,-106.443724,,﻿attended from Santo Domingo,,﻿r_medina_001,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0123,﻿chapel,﻿Chapel of San Buenaventura,English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿Cochiti,﻿Cochiti Pueblo,﻿NM,,35.60892,-106.350304,,﻿attended from Santo Domingo,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
@@ -136,7 +136,7 @@
 ﻿san.nm.0156,﻿chapel,﻿Sangre de Cristo,English,,,﻿Tome,,,﻿Valencia,﻿Valencia,﻿NM,,34.972731,-105.032363,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0158,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,34.57395,-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0239,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿La. Peralta,﻿Peralta,﻿NM,,,,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0215,﻿chapel,[Unnamed Institution],English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,,,,,,﻿jj_vaca_001,﻿Rev.,﻿J.J. Vaca,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0215,﻿chapel,[Unnamed Institution],English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,32.314444,-106.778889,,,,﻿jj_vaca_001,﻿Rev.,﻿J.J. Vaca,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,﻿V.G.,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,,,,,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿jb_raverdy_002,﻿Rev.,﻿J.B. Raverdy,﻿Assistant,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,,39.8019,-105.5142,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
@@ -151,9 +151,9 @@
 ﻿den.co.0023,﻿chapel,[Unnamed Institution],English,,,,,﻿Gilpin County,﻿Nevada City,﻿Nevadaville,,﻿CO,39.796344,-105.530464,,﻿Attended from Central City,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0020,﻿chapel,[Unnamed Institution],English,,,,,﻿Clear Creek County,﻿Idaho,﻿Idaho Springs,,,39.742488,-105.513608,,﻿Attended from Central City,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0019,﻿chapel,[Unnamed Institution],English,,,,,﻿Clear Creek County,﻿Empire City,﻿Empire,﻿CO,,39.761376,-105.684448,,﻿Attended from Central City,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,,,,,,,﻿l_bosco_002,﻿Rev.,﻿L. Bosco,,﻿S.J.,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,"﻿attended by several hundred Catholic Indian families, called Papagos, of the Pima tribe",,,,,,,,,,,,,,,﻿Rev.,﻿C. Messea,,﻿S.J.,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,,,,﻿Attended from Tucson,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0224,﻿church,﻿San Agusten,English,,,,,,﻿Tucson,﻿Tucson,﻿AZ,,32.21946,-110.97098,,,,﻿l_bosco_002,﻿Rev.,﻿L. Bosco,,﻿S.J.,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,"﻿attended by several hundred Catholic Indian families, called Papagos, of the Pima tribe",,,,,,,,,32.106877,-111.007983,,,,,﻿Rev.,﻿C. Messea,,﻿S.J.,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,33.679167,-114.476389,,﻿Attended from Tucson,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,,,,,,,﻿Rev.,﻿M. Fleurant,,,,﻿layperson,﻿8000 Navajo,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0242,﻿mission,﻿Navajo Mission,English,,,,,,﻿Bosque Redondo,﻿Bosque Redondo,﻿NM,,,,,,,,,,,,,﻿layperson,﻿400 Mescalero Apaches,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0231,﻿seminary,﻿Preparatory Seminary of San Francisco,English,,,,,,,,,,,,,,,,,,,,,﻿priest,﻿5 seminarians,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
