@@ -1,0 +1,21 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.041805,-87.904118,,,,﻿j_m_henni_001,﻿Rt. Rev.,﻿J. M. Henni,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.041805,-87.904118,,,,﻿m_kundig_001,﻿Very Rev.,﻿M. Kundig,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.041805,-87.904118,,,,﻿p_j_donaghoe_001,﻿Rev.,﻿P. Donaghoe,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0001,﻿cathedral,﻿St. John's Cathedral,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.041805,-87.904118,,,,,﻿Rev.,﻿P. O'Farrell,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0002,﻿church,﻿St. Mary's,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.042173,-87.907964,,,,,﻿Rev.,﻿F. Etschmann,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.066124,-87.913974,,,,﻿f_x_de-coen_002,﻿Rev.,﻿F. X. De Coen,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.066124,-87.913974,,,,﻿d_kenny_002,﻿Rev.,﻿D. Kenny,﻿S.J.,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0004,﻿church,﻿Holy Trinity,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,﻿j_conrad_001,﻿Rev.,﻿J. Conrad,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0005,﻿church,﻿St. Joseph's,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.04987,-87.926109,,,,﻿j_holzhauer_001,﻿Rev.,﻿J. Holzhauer,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0006,﻿church,﻿St. Peter's,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.044007,-87.905226,﻿mil.wi.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0010,﻿church,﻿St. Mary's of the Holy Angels,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.047156,-87.907544,,,,﻿f_x_krautbauer_001,﻿Rev.,﻿F. X. Krautbauer,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Abbottown,,﻿WI,,43.689523,-87.618638,,﻿Attended by Rev. F. Fusseder,,,﻿Rev.,﻿F. Fusseder,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0013,﻿church,﻿St. Anthony's,English,,,,﻿Washington County,﻿Washington County,﻿Addison,﻿Addison,﻿WI,,43.442793,-88.340515,,,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0014,﻿church,﻿SS. Peter and Paul,English,,,,﻿Washington County,﻿Washington County,﻿Addison,﻿Addison,﻿WI,,43.446284,-88.393623,,,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0016,﻿church,﻿St. Martin's,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Ashford,﻿Ashford,﻿WI,,43.586939,-88.370656,,,,﻿m_pickler_001,﻿Rev.,﻿M. Pickler,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0465,﻿church,﻿St. Kilian's,English,,,,﻿Fond du Lac County,,﻿Ashford,,﻿WI,,,,,,,﻿m_pickler_001,﻿Rev.,﻿M. Pickler,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0460,﻿church,﻿St. Joseph's,English,,,,﻿St. Croix County,,﻿Apple River,,﻿WI,,,,,﻿Attended by Rev. N. Mignault,,﻿n_mignault_002,﻿Rev.,﻿N. Mignault,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0018,﻿church,﻿Immaculate Conception,English,,,,﻿Washington County,﻿Washington County,﻿Barton,﻿Barton,﻿WI,,43.460556,-88.236382,,,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0018,﻿church,﻿St. Adelia's,English,,,,﻿Keewannee County,﻿Washington County,﻿Belgium,﻿Barton,﻿WI,,43.460556,-88.236382,,﻿Attended by Fathers of C.S.C.,,,,,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0020,﻿church,﻿St. Thomas',English,,,,﻿Rock County,﻿Rock County,﻿Beloit,﻿Beloit,﻿WI,,42.499446,-89.027951,,,,﻿tho_smith_001,﻿Rev.,﻿Thomas Smith,,,,,,,,1860,﻿,﻿,﻿Milwaukee,Milwaukee
