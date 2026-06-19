@@ -55,34 +55,34 @@
 ﻿lac.wi.0119,﻿station,[Unnamed Institution],English,,,,﻿Bad Axe County,﻿Vernon County,﻿Morriston,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0120,﻿station,[Unnamed Institution],English,,,,﻿Bad Axe County,﻿Vernon County,﻿Wrightstown,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0025,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Buffalo City,﻿Buffalo City,﻿WI,,44.2305638,-91.863468,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0121,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Nelson,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0122,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Little Waumadee,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0121,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Nelson,,,,44.456944,-91.973889,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0122,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Little Waumadee,﻿Waumandee,,,44.303056,-91.705833,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0123,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Mandara,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0024,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Alma,﻿Alma,﻿WI,,44.3215867,-91.9144568,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0026,﻿station,[Unnamed Institution],English,,,,﻿Chippewa County,,﻿Brusch Prairie,﻿Bloomer,﻿WI,,45.1209077,-91.4210511,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0124,﻿station,[Unnamed Institution],English,,,,﻿Chippewa County,,﻿Courtes Oreilles,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0063,﻿station,[Unnamed Institution],English,,,,﻿Chippewa County,,﻿Flambeau,﻿Holocombe,﻿WI,,45.26204084,-91.16075002,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0125,﻿station,[Unnamed Institution],English,,,,﻿Chippewa County,,﻿Springfield,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0126,﻿station,[Unnamed Institution],English,,,,﻿Clark County,,﻿Neilsville,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0127,﻿station,[Unnamed Institution],English,,,,﻿Crawford County,,﻿Boydtown Bluffs,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0125,﻿station,[Unnamed Institution],English,,,,﻿Chippewa County,﻿Eau Claire County,﻿Springfield,,,,44.980833,-92.186389,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0126,﻿station,[Unnamed Institution],English,,,,﻿Clark County,,﻿Neilsville,,,,44.561111,-90.595833,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0127,﻿station,[Unnamed Institution],English,,,,﻿Crawford County,,﻿Boydtown Bluffs,﻿Boydtown,,,43.110556,-90.803611,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0067,﻿station,[Unnamed Institution],English,,,,﻿Douglas County,,﻿Superior City,﻿Superior,﻿WI,,46.70320773,-92.04686186,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0128,﻿station,[Unnamed Institution],English,,,,﻿Dunn County,,﻿Fall City,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0031,﻿station,[Unnamed Institution],English,,,,﻿Eau Claire County,,﻿Adams' Settlement,,﻿WI,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0129,﻿station,[Unnamed Institution],English,,,,﻿Eau Claire County,,﻿Pleasant Valley,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0128,﻿station,[Unnamed Institution],English,,,,﻿Dunn County,,﻿Fall City,,,,44.798614,-91.764651,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0031,﻿station,[Unnamed Institution],English,,,,﻿Eau Claire County,,﻿Adams' Settlement,,﻿WI,,44.813079,-91.605541,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0129,﻿station,[Unnamed Institution],English,,,,﻿Eau Claire County,,﻿Pleasant Valley,,,,44.670278,-91.466667,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0066,﻿station,[Unnamed Institution],English,,,,﻿Jackson County,,﻿Black River Falls,﻿Black River Falls,﻿WI,,44.29479132,-90.85243008,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0130,﻿station,[Unnamed Institution],English,,,,﻿Jackson County,,﻿Garden Valley,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0130,﻿station,[Unnamed Institution],English,,,,﻿Jackson County,,﻿Garden Valley,,,,44.460833,-90.976111,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0069,﻿station,[Unnamed Institution],English,,,,﻿La Crosse County,,﻿Broswick Valley,﻿Stoddard,﻿WI,,43.72826278,-91.15108405,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0131,﻿station,[Unnamed Institution],English,,,,﻿La Crosse County,,﻿Chipmunk,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0132,﻿station,[Unnamed Institution],English,,,,﻿La Crosse County,,﻿Cooley,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0133,﻿station,[Unnamed Institution],English,,,,﻿La Painte County,,﻿Bad River,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0134,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Knowlton,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0135,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Mosinee,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0132,﻿station,[Unnamed Institution],English,,,,﻿La Crosse County,,﻿Cooley,﻿Brunswick,,﻿WI,44.752082,-91.576843,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0133,﻿station,[Unnamed Institution],English,,,,﻿La Pointe County,,﻿Bad River,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0134,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Knowlton,,,,44.716944,-89.679722,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0135,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Mosinee,,,,44.791667,-89.705278,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0039,﻿station,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Toma,﻿Tomah,﻿WI,,43.9797033,-90.5076337,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0070,﻿station,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Tunnel City,﻿Tunnel City,﻿WI,,44.00656041,-90.56605055,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0071,﻿station,[Unnamed Institution],English,,,,﻿Pepin County,,﻿Bear Creek,﻿Durand,﻿WI,,44.64085914,-91.93567119,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0041,﻿station,[Unnamed Institution],English,,,,﻿Pepin County,,﻿Durand,﻿Durand,﻿WI,,44.6263543,-91.965726,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0072,﻿station,[Unnamed Institution],English,,,,﻿Pepin County,,﻿Pepin,﻿Pepin,﻿WI,,44.44299763,-92.1489403,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0136,﻿station,[Unnamed Institution],English,,,,﻿Peirce County,,﻿Martell,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0136,﻿station,[Unnamed Institution],English,,,,﻿Peirce County,,﻿Martell,,,,44.829722,-92.397778,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0044,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿Perrytown,,﻿WI,,44.58919428,-92.48567613,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0043,﻿station,[Unnamed Institution],English,,,,﻿Pierce County,,﻿Prescott,﻿Prescott,﻿WI,,44.7488565,-92.8021471,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0045,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Richland Centre,﻿Richland Center,﻿WI,,43.3347053,-90.3867928,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
@@ -90,13 +90,13 @@
 ﻿lac.wi.0079,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Melancthon Creek,﻿Yuba,﻿WI,,43.51803626,-90.35899805,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0080,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,43.33332748,-90.46645551,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0081,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,,﻿Sister,﻿Bruno,,﻿Directress,,﻿student,﻿pupil,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0138,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Bear Creek,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0138,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Bear Creek,,,,43.33,-90.154444,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0139,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Marble Quarry,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0140,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Sugar Grove,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0054,﻿station,[Unnamed Institution],English,,,,﻿St. Croix County,,﻿Pleasant Valley,﻿Pleasant Valley,﻿WI,,44.91420523,-92.48579584,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0077,﻿station,[Unnamed Institution],English,,,,﻿St. Croix County,,﻿Bauen's Mills,,﻿WI,,45.0497844,-92.3875695,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0057,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Galesville,﻿Galesville,﻿WI,,44.08377532,-91.35846932,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0141,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Hixton,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0141,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Hixton,,,,44.387222,-90.994167,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0142,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Montoville,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0056,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Trempealeau City,﻿Trempealeau City,﻿WI,,44.0135266,-91.4157237,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0078,﻿station,[Unnamed Institution],English,,,,﻿Vernon County,,﻿Woodland,﻿Forest,﻿WI,,43.67912018,-90.50947674,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse

@@ -63,7 +63,7 @@
 ﻿gal.tx.0053,﻿church,[Unnamed Institution],English,,,,﻿Gillespie County,﻿Gillespie County,﻿Fredericksburg,﻿Fredericksburg,﻿TX,,30.275201,-98.871984,,,,﻿pet_barnach_001,﻿Rev.,﻿Peter Barnach,﻿O.S.B.,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0054,﻿church,[Unnamed Institution],English,,,,﻿Colorado County,﻿Colorado County,﻿Frelsburg,﻿Frelsburg,﻿TX,,29.871208,-96.548729,,,,﻿vic_gury_001,﻿Rev.,﻿Victor Gury,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0054,﻿church,[Unnamed Institution],English,,,,﻿Colorado County,﻿Colorado County,﻿Frelsburg,﻿Frelsburg,﻿TX,,29.871208,-96.548729,,,,﻿pet_tarrillon_001,﻿Rev.,﻿Peter Tarillon,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0175,﻿church,[Unnamed Institution],English,,,,﻿Frelsburg,﻿Frelsburg,﻿Garseno,﻿Garceno,﻿TX,,26.412453,-98.940406,﻿gal.tx.0114,﻿Attended from Roma,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0175,﻿church,[Unnamed Institution],English,,,,﻿Frelsburg,﻿Frelsburg,﻿Garseno,﻿Garceno,﻿TX,,,,﻿gal.tx.0114,﻿Attended from Roma,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0055,﻿church,[Unnamed Institution],English,,,,﻿Victoria County,,﻿Garcitas,,﻿TX,,28.761554,-96.684318,﻿gal.tx.0149,﻿Attended from Victoria,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0057,﻿church,[Unnamed Institution],English,,,,﻿Goliad County,﻿Goliad County,﻿Goliad,﻿Goliad,﻿TX,,28.668325,-97.388326,﻿gal.tx.0111,﻿Attended from Refugio,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0058,﻿church,[Unnamed Institution],English,,,,﻿Lavaca County,﻿Lavaca County,﻿Halletsville,﻿Halletsville,﻿TX,,29.443853,-96.941093,﻿gal.tx.0079,"﻿Attended from St. Mary's Chapel, Lavaca Co.",,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
@@ -100,7 +100,7 @@
 ﻿gal.tx.0094,﻿church,[Unnamed Institution],English,,,,﻿Comal County,﻿Comal County,﻿New-Braunfels,﻿New-Braunfels,﻿TX,,29.702566,-98.124063,﻿gal.tx.0124,﻿Attended from San Antonio,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0097,﻿church,[Unnamed Institution],English,,,,﻿Orange County,﻿Orange County,﻿Orange,﻿Orange,﻿TX,,30.092988,-93.736555,﻿gal.tx.0080,﻿Attended from Liberty,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0098,﻿church,[Unnamed Institution],English,,,,﻿Cameron County,,﻿Paiste,,﻿TX,,26.128497,-97.524724,﻿gal.tx.0041,﻿Attended from Corpus Christi,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0099,﻿church,[Unnamed Institution],English,,,,﻿Cameron County,,﻿Palmeto,,﻿TX,,26.20194,-97.75663,﻿gal.tx.0023,﻿Attended from Brownsville,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0099,﻿church,[Unnamed Institution],English,,,,﻿Cameron County,,﻿Palmeto,,﻿TX,,26.20194,-97.524724,﻿gal.tx.0023,﻿Attended from Brownsville,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0100,﻿church,[Unnamed Institution],English,,,,﻿Karnes County,﻿Karnes County,﻿Pana-Maria,﻿Panna Maria,﻿TX,,28.957191,-97.898162,﻿gal.tx.0149,﻿Attended from Victoria,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0101,﻿church,[Unnamed Institution],English,,,,﻿Nueces County,,﻿Para,,﻿TX,,27.769335,-97.481416,﻿gal.tx.0133,﻿Attended from San Patricio,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0102,﻿church,[Unnamed Institution],English,,,,﻿Matagorda County,﻿Matagorda County,﻿Peninsula,﻿Matagorda Peninsula,﻿TX,,28.585159,-96.023775,﻿gal.tx.0021,﻿Attended from Brazoria,,,,,,,,,,,,1866,﻿,﻿,﻿Galveston,Galveston
