@@ -35,7 +35,7 @@
 ﻿bal.md.0028,﻿church,﻿Mountain Church,English,,,,﻿Alleghany County,,﻿Blooming Rose,﻿Friendsville,﻿MD,,39.656667,-79.439167,,,﻿once in three months,,,,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0062,﻿church,﻿St. Peter's,English,,,,﻿Charles County,,﻿Beantown,﻿Waldorf,﻿MD,,38.626512,-76.910548,,,,﻿p_lenaghan_001,﻿Rev.,﻿P. Lenaghan,,,﻿1st and 3d Sundays,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0012,﻿church,﻿St. Francis Xavier,English,,,,﻿Cecil County,,﻿Bohemia,﻿Chesapeake City,﻿MD,,39.530946,-75.807437,,,,﻿geo_villiger_001,﻿Rev.,﻿George Villiger,﻿S.J.,,﻿2d and 4th Sundays,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿wil.de.0012,﻿church,﻿St. Francis Xavier,English,,,,﻿Montgomery County,,﻿Brookville,﻿Chesapeake City,﻿MD,,39.530946,-75.807437,﻿bal.md.0088,﻿Attended from Rockville,﻿5th Sunday,,,,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0267,﻿church,[Unnamed Institution],English,,,,﻿Montgomery County,,﻿Brookville,,﻿MD,,,,﻿bal.md.0088,﻿Attended from Rockville,﻿5th Sunday,,,,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0063,﻿church,﻿St. Mary's,English,,,,﻿Charles County,,﻿Bryantown,﻿Bryantown,﻿MD,,38.555529,-76.842158,,,,﻿joh_gaitley_001,﻿Rev.,﻿John T. Gaitley,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0257,﻿chapel,﻿Carrollton Hall,English,,,,﻿Howard County,,,,﻿MD,,,,﻿bal.md.0129,"﻿Attended by Rev. B. S. Piot, of St. Charles College",,,,,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0084,﻿church,﻿St. Louis,English,,,,﻿Howard County,,﻿Clarksville,﻿Clarksville,﻿MD,,39.206196,-76.945566,﻿bal.md.0129,"﻿Attended by Rev. Hugh F. Griffin, of St. Charles' College",﻿Mass on the last Sunday of the month,,,,,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
@@ -213,11 +213,11 @@
 ﻿bal.md.0259,"﻿convent, novitiate",﻿Convent and Novitiate of the Redemptorists,English,,,,,,﻿Cumberland,,,,,,,,,﻿jos_wuest_001,﻿Rev.,﻿Joseph Wust,﻿C.SS.R.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0259,"﻿convent, novitiate",﻿Convent and Novitiate of the Redemptorists,English,,,,,,﻿Cumberland,,,,,,,,,﻿ber_arant_001,﻿Rev.,﻿Bernard Arant,﻿C.SS.R.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0259,"﻿convent, novitiate",﻿Convent and Novitiate of the Redemptorists,English,,,,,,﻿Cumberland,,,,,,,,,﻿b_eberhart_001,﻿Rev.,﻿Francis Eberhardt,﻿C.SS.R.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0259,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿j_a_bokel_001,﻿Rev.,﻿J. A. Bokel,﻿O.P.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0259,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿nic_d_young_001,﻿Rev.,﻿N. D. Young,﻿O.P.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0259,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿c_d_bowling_001,﻿Rev.,﻿C. D. Bowling,﻿O.P.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0259,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿f_coll_001,﻿Rev.,﻿P. C. Coll,﻿O.P.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0259,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿c_egan_001,﻿Rev.,﻿C. Egan,﻿O.P.,,,﻿religious,"﻿lay-brothers, 9",,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0268,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿j_a_bokel_001,﻿Rev.,﻿J. A. Bokel,﻿O.P.,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0268,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿nic_d_young_001,﻿Rev.,﻿N. D. Young,﻿O.P.,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0268,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿c_d_bowling_001,﻿Rev.,﻿C. D. Bowling,﻿O.P.,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0268,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿f_coll_001,﻿Rev.,﻿P. C. Coll,﻿O.P.,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0268,﻿residence,﻿Dominican Residence,English,,﻿St. Dominic's,,,,﻿Washington,,﻿DC,,,,,,,﻿c_egan_001,﻿Rev.,﻿C. Egan,﻿O.P.,,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0139,﻿convent,﻿Carmelite Convent,English,,﻿62 Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.291676,-76.601786,,,,,﻿Rev. Mother,﻿Antony Lynch,,﻿Prioress,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0140,﻿convent,﻿Convent of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.9089,-77.069401,,,,,﻿Mother,﻿Mary Angela Harrison,,﻿Superior,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0141,﻿convent,﻿Convent of the Visitation,English,,﻿corner Park and Centre streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627,-76.618323,,,,,﻿Mother,﻿Mary Paulina Millard,,﻿Superior,,,,,,1864,﻿,﻿,﻿Baltimore,Baltimore
