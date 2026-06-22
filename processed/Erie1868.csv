@@ -57,7 +57,7 @@
 ﻿erie.pa.0062,﻿church,[Unnamed Institution],English,﻿a chapel,,,﻿Clarion County,,﻿Red Bank,﻿Farmington Township,﻿PA,,41.358073,-79.267667,﻿erie.pa.0013,﻿attended from Clarion,,,,,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0073,﻿church,﻿Immaculate Conception,English,,,,﻿Crawford County,,﻿Summit,﻿Summit Township,﻿PA,,41.666139,-80.276733,,﻿attended from Greenville,,,,,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0068,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿Mercer County,,﻿Sharon,﻿Sharon,﻿PA,,41.232587,-80.514045,,,,﻿joh_h_okeeffe_001,﻿Rev.,﻿John H. O'Keeffe,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0124,﻿church,﻿St. Rose of Lima,English,,,,﻿Mercer County,,﻿Sharon Mines,,﻿PA,,,,,,,﻿t_j_hartmann_001,﻿Rev.,﻿T. J. Hartmann,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0124,﻿church,﻿St. Rose of Lima,English,,,,﻿Mercer County,,﻿Sharon Mines,﻿Hermitage,﻿PA,,41.245994,,,,,﻿t_j_hartmann_001,﻿Rev.,﻿T. J. Hartmann,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0072,﻿church,﻿St. Aloysius',English,,,,﻿McKean County,,﻿Smithport,﻿Smethport,﻿PA,,41.809819,-78.443852,﻿erie.pa.0053,﻿attended from Annin Township,,,,,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,﻿P.O. Benzinger,,﻿Elk County,,﻿St. Mary's,﻿St. Mary's,﻿PA,,41.427374,-78.56094,,,,﻿pau_wenkmann_001,﻿Rev.,﻿Paulinus Wenkmann,﻿O.S.B.,﻿Prior,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,﻿P.O. Benzinger,,﻿Elk County,,﻿St. Mary's,﻿St. Mary's,﻿PA,,41.427374,-78.56094,,,,﻿wen_meyer_001,﻿Rev.,﻿Wendelinus Mayer,﻿O.S.B.,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
@@ -67,8 +67,8 @@
 ﻿erie.pa.0112,﻿church,[Unnamed Institution],English,,,,﻿Cameron County,,﻿Shippen,,﻿PA,,41.541667,-78.241389,﻿erie.pa.0085,"﻿attended from St. Mary's, Elk Co.",,,,,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0076,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,﻿nap_mignault_001,﻿Rev.,﻿Napolean Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0076,﻿church,﻿St. Titus',English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,﻿art_mignault_001,﻿Rev.,﻿Arthur Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0125,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Titusville,,﻿PA,,,,,,,﻿nap_mignault_001,﻿Rev.,﻿Napolean Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0125,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Titusville,,﻿PA,,,,,,,﻿art_mignault_001,﻿Rev.,﻿Arthur Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0125,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Titusville,,﻿PA,,41.65226,,,,,﻿nap_mignault_001,﻿Rev.,﻿Napolean Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0125,﻿church,﻿St. Stephen's,English,,,,﻿Crawford County,,﻿Titusville,,﻿PA,,41.65226,,,,,﻿art_mignault_001,﻿Rev.,﻿Arthur Mignault,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0113,﻿church,﻿St. John's,English,,,,﻿Warren County,,﻿Tideout,,﻿PA,,41.684444,-79.403889,,,,﻿f_j_mcsweeney_001,﻿Rev.,﻿F. J. McSweeney,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0078,﻿church,﻿St. Theresa's,English,,,,﻿Erie County,,﻿Union,﻿Union City,﻿PA,,41.899995,-79.8507,,,,﻿phi_maurel_001,﻿Rev.,﻿Philip Maurel,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0080,﻿church,﻿St. Joseph's,English,,,,﻿Warren County,,﻿Warren,﻿Warren,﻿PA,,41.843949,-79.145044,,,,﻿jos_a_voisard_001,﻿Rev.,﻿Joseph A. Voisard,,,,,,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
@@ -95,10 +95,10 @@
 ﻿erie.pa.0121,﻿school,[Unnamed Institution],English,,,,,,﻿Ceres Township,,﻿PA,,41.95,-78.233056,,,,,,,,,,﻿child,﻿50 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0055_02,﻿school,﻿St. Joseph's,English,,,,,,﻿Oil City,﻿Oil City,﻿PA,,41.434951,-79.704018,,,,,,,,,,﻿child,﻿200 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0106,﻿school,[Unnamed Institution],English,,,,,,﻿Sharon,﻿Sharon,﻿PA,,41.23,-80.498889,,,,,,,,,,﻿child,﻿250 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0122,﻿school,﻿St. Rose of Lima,English,,,,,,﻿Sharon mines,,﻿PA,,,,,,,,,,,,,﻿child,﻿50 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0122,﻿school,﻿St. Rose of Lima,English,,,,,,﻿Sharon mines,,﻿PA,,41.245994,,,,,,,,,,,﻿child,﻿50 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0108,﻿school,﻿St. Teresa's,English,,,,,,﻿Union,﻿Union City,﻿PA,,41.9014,-79.8308,,,,,,,,,,﻿child,﻿100 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0032_02,﻿school,﻿St. Mary's,English,,,,,,﻿Frenchville,﻿Frenchville,﻿PA,,41.104781,-78.220011,,,,,,,,,,﻿child,﻿150 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0127,﻿school,﻿St. Mary's,English,,,,,,﻿Annin Township,,﻿PA,,,,,,,,,,,,,﻿child,﻿100 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0127,﻿school,﻿St. Mary's,English,,,,,,﻿Annin Township,,﻿PA,,41.902751,,,,,,,,,,,﻿child,﻿100 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0057_02,﻿school,﻿SS. Peter and Paul,English,,,,,,﻿Petroleum Centre,﻿Petroleum Center,﻿PA,,41.516171,-79.682275,,,,,,,,,,﻿child,﻿75 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0035_02,﻿school,﻿St. Mary's,English,,﻿Genesee Township,,,,﻿Genesee Township,,﻿PA,,41.990185,-77.868418,,,,,,,,,,﻿child,﻿75 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085_02,﻿school,[Unnamed Institution],English,,﻿Benzinger P.O.,,,,,,﻿PA,,41.427374,-78.56094,,,,,,,,,,﻿child,﻿400 children,,,1868,,,,,,,,,,,,﻿,﻿,﻿Erie,Erie
