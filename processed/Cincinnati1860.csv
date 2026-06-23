@@ -45,7 +45,7 @@
 ﻿col.oh.0042,﻿church,﻿St. Peter's,English,,,﻿Cincinnati,,,﻿Lickrun,,﻿OH,,38.711681,-83.172347,﻿cin.oh.0035,﻿Attended from Mount Pleasant,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0318,﻿church,﻿Chapel of Convent of Divine Will,English,,,﻿Cincinnati,,,,,﻿OH,,,,﻿cin.oh.0310,﻿Attended from St. Xavier's,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0008,﻿church,[Unnamed Institution],English,,﻿Archer's Settlement,,﻿Monroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Arnheim,,﻿OH,,40.351168,-84.371655,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Arnheim,,﻿OH,,38.933402,-83.827426,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,,,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0319,﻿church,[Unnamed Institution],English,,,,﻿Clermont County,,﻿Batavia,,﻿OH,,,,﻿cin.oh.0128,﻿Attended from New Boston,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0301,﻿church,﻿St. Peter's,English,,,,﻿Beliuerit County,,﻿Belair,,﻿OH,,,,,,,﻿j_m_jacquet_002,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -120,7 +120,7 @@
 ﻿cin.oh.0112,﻿church,[Unnamed Institution],English,,,,,,﻿Marion,,﻿OH,,40.58867,-83.128524,﻿cin.oh.0055,﻿Attended from Bellefontaine,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0050,﻿church,﻿St. Clement's,English,,﻿Mattingley's Settlement,,,,,,﻿OH,,40.040556,-82.069444,﻿col.oh.0056,﻿Attended from Newark,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0116,﻿church,﻿St. Michael's,English,,,,,,﻿Miamisburg,,﻿OH,,39.642836,-84.286608,,﻿Attended from Dayton,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0330,﻿church,﻿St. Mary's,English,,,,,,﻿Middletown,,﻿OH,,39.515058,-84.398276,,,,﻿ter_smith_001,﻿Rev.,﻿Terence Smith,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0330,﻿church,﻿St. Mary's,English,,,,,,﻿Middletown,,﻿OH,,,,,,,﻿ter_smith_001,﻿Rev.,﻿Terence Smith,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0119,﻿church,﻿St. Andrew's,English,,,,﻿Clermont County,,﻿Milford,,﻿OH,,39.175338,-84.294382,,,,﻿j_b_odonoghue_001,﻿Rev.,﻿J. B. Donahue,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0306,﻿church,﻿St. John's,English,,,,﻿Monroe County,,﻿Miltonsburg,,﻿OH,,,,,,,﻿j_w_brummer_002,﻿Rev.,﻿J. W. Brummer,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0121,﻿church,﻿St. Augustine's,English,,,,﻿Auglaize County,,﻿Minster,,﻿OH,,40.393103,-84.376061,,,,﻿and_kunkler_001,﻿Very Rev.,﻿Andrew Kunkler,﻿C.PP.S.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -181,12 +181,12 @@
 ﻿cin.oh.0186,﻿church,﻿St. Paul's,English,,,,﻿Clarke County,,﻿Yellow Springs,,﻿OH,,39.806449,-83.886874,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿c_p_montgomery_001,﻿Rev.,﻿C. P. Montgomery,﻿O.S.D.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas Aquinas,English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿fra_cubero_001,﻿Rev.,﻿F. Cubero,﻿O.S.D.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0085,﻿church,﻿St. Nicholas,﻿German,,,,,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿j_f_goetz_001,﻿Rev.,﻿J. F. Goetz,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿joh_quinlan_003,﻿Rev.,﻿John Quinlan,,﻿Sup.,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecranz,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿dav_walker_001,﻿Rev.,﻿David Walker,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0085,﻿church,﻿St. Nicholas,﻿German,,,,,,﻿Zanesville,,﻿OH,,39.940112,-82.001087,,,,﻿j_f_goetz_001,﻿Rev.,﻿J. F. Goetz,,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿joh_quinlan_003,﻿Rev.,﻿John Quinlan,,﻿Sup.,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecranz,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿dav_walker_001,﻿Rev.,﻿David Walker,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0340,﻿college,﻿Mount St. Mary's College,English,,,﻿near Cincinnati,,,,,﻿OH,,,,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecranz,,﻿President,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_kelly_002,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,﻿Provincial,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿c_d_bowling_002,﻿Rev.,﻿C. D. Bowling,﻿O.S.D.,,,,,,,1860,﻿,﻿,﻿Cincinnati,Cincinnati
