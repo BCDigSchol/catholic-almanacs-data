@@ -146,7 +146,7 @@
 ﻿stp.mn.0120,﻿church,[Unnamed Institution],English,﻿church in course of erection,,,﻿Olmstead County,﻿Olmstead County,﻿Rochester,﻿Rochester,﻿MN,,44.012122,-92.480199,,﻿,,﻿tho_ogorman_001,﻿Rev.,﻿Thomas O'Gorman,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0121,﻿church,﻿Church of St. Bridget,English,,,,﻿Olmstead County,﻿Olmstead County,﻿Pleasant Grove,﻿Pleasant Grove,﻿MN,,43.900276,-92.36162,﻿stp.mn.0120,﻿Visited by Rev. Thos. O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0122,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿Marion,﻿Marion,﻿MN,,43.97654,-92.36162,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0312,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿Rockdale,,﻿MN,,,,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0312,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿Rockdale,﻿Rock Dell,﻿MN,,43.920833,-92.638611,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0123,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿Salem,﻿Salem Township,﻿MN,,43.9714,-92.599083,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0124,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿Haverhill,﻿Haverhill Township,﻿MN,,44.052684,-92.36162,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0125,﻿station,[Unnamed Institution],English,,,,﻿Olmstead County,﻿Olmstead County,﻿New-Haven,﻿New Haven Township,﻿MN,,44.161533,-92.599083,﻿stp.mn.0120,﻿Visited by Rev. Thomas O'Gorman,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
@@ -179,11 +179,11 @@
 ﻿stp.mn.0139,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond,﻿Richmond,﻿MN,,45.455285,-94.518118,,﻿,,﻿cor_wittman_001,﻿Rev.,﻿C. Wittman,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0139,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond,﻿Richmond,﻿MN,,45.455285,-94.518118,,﻿,,﻿ans_fraudendorfer_001,﻿Rev.,﻿A. Fraudendorfer,﻿O.S.B.,,﻿Clinton P.O.,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0140,﻿church,﻿Church of St. Joseph,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Joseph,﻿St. Joseph,﻿MN,,45.563993,-94.318649,,﻿,,﻿fra_a_casper_001,﻿Rev.,﻿Antonius Casper,﻿O.S.B.,,﻿Clinton P.O.,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0313,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Munson,,,,,,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0313,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Munson,,,﻿MN,45.45,-94.55,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0142,﻿church,﻿Church of St. James,English,,,,﻿Stearns County,﻿Stearns County,﻿Wakefield,﻿Wakefield,﻿MN,,45.466142,-94.472605,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0141,﻿church,﻿Church of St. Martin,English,,,,﻿Stearns County,﻿Stearns County,﻿New-Munich,﻿New Munich,﻿MN,,45.630243,-94.753623,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0314,﻿church,﻿Church of Holy Cross,English,,,,﻿Stearns County,﻿Stearns County,﻿Oaktown,,﻿MN,,,,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0315,﻿church,﻿Church of St. Nicholas,English,,,,﻿Stearns County,﻿Stearns County,﻿Luxemburg,,﻿MN,,,,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0314,﻿church,﻿Church of Holy Cross,English,,,,﻿Stearns County,﻿Stearns County,﻿Oaktown,﻿Oak Township,﻿MN,,45.616667,-94.7,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0315,﻿church,﻿Church of St. Nicholas,English,,,,﻿Stearns County,﻿Stearns County,﻿Luxemburg,﻿Cold Spring,﻿MN,,45.420102,-94.434544,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0316,﻿church,﻿Church of Help of Christians,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Augustine,,﻿MN,,,,﻿stp.mn.0138,﻿Visited from St. Cloud,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0317,﻿church,[Unnamed Institution],English,,,,﻿Stearns County,﻿Stearns County,﻿St. Wendlin,,﻿MN,,,,﻿stp.mn.0138,﻿Visited from St. Cloud,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0318,﻿station,[Unnamed Institution],English,,,,,,﻿Meyers' Settlement,,﻿MN,,,,﻿stp.mn.0139,﻿Visited from Richmond,,,,,,,,,,,,1868,﻿,﻿,﻿St. Paul,StPaul
