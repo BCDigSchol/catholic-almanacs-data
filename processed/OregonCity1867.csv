@@ -67,10 +67,10 @@
 ﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿on Granite Creek,,,,﻿Placerville,﻿Placerville,﻿ID,﻿ID,43.942778,-115.946111,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,﻿Pastor,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿on Grim's Creek,,,,﻿Centreville,﻿Centerville,﻿ID,﻿ID,43.912778,-115.892222,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,﻿ID,43.968889,-115.846667,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,43.026111,-116.732778,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0007,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,﻿ID,﻿ID,43.016944,-116.733056,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,,,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,43.38,-111.6,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,45.324167,-118.086667,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0010,﻿church,[Unnamed Institution],English,,﻿on Salem River,,,,﻿Florence,﻿Florence,﻿ID,﻿ID,45.501111,-116.028333,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0011,﻿church,[Unnamed Institution],English,,﻿on Salem River,,,,﻿Warren,﻿Warren,﻿ID,﻿ID,45.264167,-115.676389,,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,﻿Rev. Mother,﻿Veronica,,﻿Superioress,,﻿religious,﻿39 Sisters of the Holy Names of Jesus and Mary,,,1867,﻿,﻿,﻿Oregon City,OregonCity

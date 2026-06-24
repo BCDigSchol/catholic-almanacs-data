@@ -94,7 +94,7 @@
 ﻿gal.tx.0124,﻿church,﻿St. Ferdinand's,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.424868,-98.686381,,,,﻿a_faure_001,﻿Rev.,﻿Mr. Faure,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0124,﻿church,﻿St. Ferdinand's,English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.424868,-98.686381,,,,﻿and_farges_001,﻿Rev.,﻿Andrew Farges,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0126,﻿church,﻿St. Mary's,﻿German,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.42541,-98.491109,,,,﻿alt_herman_002,﻿Rev.,﻿Alto Herman,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0177,﻿church,﻿St. Mary's,﻿English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,,,,,,﻿mic_sheehan_002,﻿Rev.,﻿Michael Sheehan,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0177,﻿church,﻿St. Mary's,﻿English,,,,﻿Bexar County,﻿Bexar County,﻿San Antonio,﻿San Antonio,﻿TX,,29.42541,-98.491109,,,,﻿mic_sheehan_002,﻿Rev.,﻿Michael Sheehan,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0127,﻿church,[Unnamed Institution],English,,,,﻿Zapata County,﻿Zapata County,﻿San Bartolo,﻿Zapata,﻿TX,,26.907261,-99.271425,﻿gal.tx.0114,﻿Attended from Roma,,,,,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0170,﻿church,﻿San Francisco de la Espada,English,,,,﻿Bexar County,,,,﻿TX,,29.562047,-98.495179,﻿gal.tx.0131,﻿Attended from San Jose,,,,,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0130,﻿church,[Unnamed Institution],English,,,,﻿Zapata County,﻿Zapata County,﻿San Ignacio,﻿San Ygnacio,﻿TX,,27.042532,-99.44004,﻿gal.tx.0114,﻿Attended from Roma,,,,,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
@@ -122,8 +122,8 @@
 ﻿gal.tx.0149,﻿church,[Unnamed Institution],English,,,,﻿Victoria County,﻿Victoria County,﻿Victoria,﻿Victoria,﻿TX,,28.805267,-97.003598,,,,﻿n_fetlin_001,﻿Rev.,﻿N. Fetlin,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0149,﻿church,[Unnamed Institution],English,,,,﻿Victoria County,﻿Victoria County,﻿Victoria,﻿Victoria,﻿TX,,28.805267,-97.003598,,,,﻿aug_gardet_001,﻿Rev.,﻿Aug. Gardet,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0151,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Washington,﻿Washington-on-the-Brazos,﻿TX,,30.325275,-96.15731,,,,﻿m_gonnard_001,﻿Rev.,﻿M. Gonnard,,,,,,,,1861,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0178,﻿convent,﻿Convent of the Order of St. Benedict,English,﻿established in 1859,,,,,﻿St. Jose,,﻿TX,,,,,,,﻿alt_herman_002,﻿Rev.,﻿Alto Herman,,﻿Prior,,﻿layperson,﻿4 Lay Brothers,,,1861,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0178,﻿convent,﻿Convent of the Order of St. Benedict,English,﻿established in 1859,,,,,﻿St. Jose,,﻿TX,,,,,,,﻿the_grunduer_001,﻿Rev.,﻿Theodorus Grunduer,,,,﻿layperson,﻿4 Lay Brothers,,,1861,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0178,﻿convent,﻿Convent of the Order of St. Benedict,English,﻿established in 1859,,,,,﻿St. Jose,,﻿TX,,29.425,-98.4939,,,,﻿alt_herman_002,﻿Rev.,﻿Alto Herman,,﻿Prior,,﻿layperson,﻿4 Lay Brothers,,,1861,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0178,﻿convent,﻿Convent of the Order of St. Benedict,English,﻿established in 1859,,,,,﻿St. Jose,,﻿TX,,29.425,-98.4939,,,,﻿the_grunduer_001,﻿Rev.,﻿Theodorus Grunduer,,,,﻿layperson,﻿4 Lay Brothers,,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0154,﻿college,﻿St. Mary's College,English,,,,,﻿Galveston County,﻿Galveston,﻿Galveston,﻿TX,,29.307284,-94.775763,,,,,,,,,,﻿layperson,﻿now conducted by two Laymen,﻿will be placed shortly under the care of the Brothers of the Christian Doctrine,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0188,﻿orphanage,﻿St. Joseph's Orphan Home,English,﻿and girls' school,﻿Comal City,,,,﻿New Braunfels,,﻿TX,,,,,,,,﻿Mother,﻿Felicitas,,,,﻿religious,﻿with 2 assistants,﻿3d Order of St. Francis,,1861,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0188,﻿orphanage,﻿St. Joseph's Orphan Home,English,﻿and girls' school,﻿Comal City,,,,﻿New Braunfels,,﻿TX,,,,,,,,,,,,,﻿child,﻿Number of orphans 24,﻿3d Order of St. Francis,,1861,﻿,﻿,﻿Galveston,Galveston

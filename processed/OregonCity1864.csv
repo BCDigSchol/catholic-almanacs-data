@@ -53,8 +53,8 @@
 ﻿boi.id.0003,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Placerville,﻿Placerville,﻿ID,,43.942778,-115.946111,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0004,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,43.912778,-115.892222,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0004,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Centreville,﻿Centerville,﻿ID,,43.912778,-115.892222,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,,,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,,,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,43.026111,-116.732778,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,[Unnamed Institution],English,,,﻿on Boise River,,,﻿Hoggem,,﻿ID,,43.026111,-116.732778,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,43.615833,-116.201667,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,43.615833,-116.201667,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0058,﻿mission,[Unnamed Institution],English,﻿no chapel,﻿Cayous Indian Reservation,,,,﻿Umalilla,﻿Umatilla,﻿OR,,45.670408,-118.68359,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
