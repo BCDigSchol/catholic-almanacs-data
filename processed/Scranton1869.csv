@@ -17,12 +17,12 @@
 ﻿scr.pa.0006,﻿church,﻿St. John Evangelist,English,,,,﻿Luzerne County,﻿Luzerne County,﻿Pittston,﻿Pittston,﻿PA,,41.3227315,-75.7889432,,,,﻿joh_finnan_001,﻿Rev.,﻿John Finnan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0007,﻿church,﻿St. Mary's,﻿German,,,,﻿Luzerne County,﻿Luzerne County,﻿Pittston,﻿Pittston,﻿PA,,41.3379158,-75.7862363,﻿scr.pa.0009,﻿Attended from Wilkesbarre,﻿once a month,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0012,﻿church,﻿St. Gabriel,English,,,,﻿Luzerne County,﻿Luzerne County,﻿Hazleton,﻿Hazleton,﻿PA,,40.9508922,-75.9759411,,,,﻿mic_filan_001,﻿Rev.,﻿Michael Filan,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
-﻿scr.pa.0110,﻿church,﻿St. Mary Help of Christians,English,﻿St. Hippolyte Church?,,,﻿Luzerne County,,﻿Frenchtown,,﻿PA,,41.611944,-80.021667,,﻿Attended from Hazleton,﻿every second Sunday,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
+﻿phi.pa.0280,﻿church,﻿St. Mary Help of Christians,English,,,,﻿Luzerne County,,﻿Frenchtown,,﻿PA,,41.611944,-80.021667,,﻿Attended from Hazleton,﻿every second Sunday,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0111,﻿church,[Unnamed Institution],English,,,,﻿Luzerne County,,﻿Silver Brook,,﻿PA,,,,,﻿Attended from Hazleton,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0013,﻿church,﻿Immaculate Conception,English,,,,﻿Luzerne County,﻿Luzerne County,﻿Eckley,,﻿PA,,40.99523823,-75.85600961,,,,﻿joh_a_mullen_001,﻿Rev.,﻿John A. Mullen,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0013,﻿church,﻿Immaculate Conception,English,,,,﻿Luzerne County,﻿Luzerne County,﻿Eckley,,﻿PA,,40.99523823,-75.85600961,,,,﻿pat_tracy_001,﻿Rev.,﻿Patrick Tracey,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0014,﻿church,﻿St. Patrick's,English,,,,﻿Luzerne County,﻿Luzerne County,﻿White Haven,﻿White Haven,﻿PA,,41.06064,-75.774082,﻿scr.pa.0013,﻿Attended from Eckley,﻿once a month,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
-﻿scr.pa.0112,﻿church,[Unnamed Institution],English,,,,﻿Luzerne County,,﻿Gouldsboro,,﻿PA,,41.24468,-75.447785,,﻿Attended from St. Simon's,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
+﻿phi.pa.0282,﻿church,[Unnamed Institution],English,,,,﻿Luzerne County,,﻿Gouldsboro,,﻿PA,,41.24468,-75.447785,,﻿Attended from St. Simon's,﻿occasionally,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0021,﻿church,﻿St. John the Evangelist,English,,,,﻿Wayne County,﻿Wayne County,﻿Honesdale,﻿Honesdale,﻿PA,,41.569375,-75.253112,,,,﻿joh_j_doherty_001,﻿Rev.,﻿John J. Doherty,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0022,﻿church,﻿St. Mary Magdalene's,﻿German,,,,﻿Wayne County,﻿Wayne County,﻿Honesdale,﻿Honesdale,﻿PA,,41.5767552,-75.2587871,,,,﻿fra_büthe_001,﻿Rev.,﻿Francis Büthe,,﻿Pastor,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0023,﻿church,﻿St. Patrick's,English,,,,﻿Wayne County,﻿Wayne County,﻿Canaan,﻿Canaan Township,﻿PA,,41.5605542,-75.3528779,﻿scr.pa.0021,﻿Attended from Honesdale,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
@@ -36,7 +36,7 @@
 ﻿scr.pa.0032,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Starucca,﻿Starrucca,﻿PA,,41.8998055,-75.4707351,﻿scr.pa.0028,﻿Visited from Rock Lake,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0033,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Aldenville,﻿Aldenville,﻿PA,,41.6467525,-75.3637904,﻿scr.pa.0028,﻿Visited from Rock Lake,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0034,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Lake Como,﻿Lake Como,﻿PA,,41.8498082,-75.3368428,﻿scr.pa.0028,﻿Visited from Rock Lake,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
-﻿scr.pa.0113,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Damascus,,﻿PA,,41.703144,-75.068224,,﻿Visited from Rock Lake,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
+﻿phi.pa.0329,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Damascus,,﻿PA,,41.703144,-75.068224,,﻿Visited from Rock Lake,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0035,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Mount Pleasant,﻿Mount Pleasant Township,﻿PA,,41.73963562,-75.39829224,﻿scr.pa.0028,﻿Visited from Rock Lake,﻿twice a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0036,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Lebanon,﻿Lebanon Township,﻿PA,,41.7354536,-75.2712393,﻿scr.pa.0028,﻿Visited from Rock Lake,﻿twice a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton
 ﻿scr.pa.0037,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Waymart,﻿Waymart,﻿PA,,41.5803625,-75.4082366,,﻿Visited from Carbondale,﻿four times a year,,,,,,,,,,,1869,﻿,﻿,﻿Scranton,Scranton

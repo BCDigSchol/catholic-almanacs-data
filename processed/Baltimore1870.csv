@@ -27,7 +27,7 @@
 ﻿bal.md.0014,﻿church,﻿St. Bridget's,English,,﻿Canton,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28200046,-76.57142274,,,,﻿joh_gaitley_001,﻿Rev.,﻿John Gaitley,﻿P.P.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0015,﻿church,﻿St. Lawrence's,English,,"﻿Fort Avenue, Locus Point",,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.26875224,-76.59255062,,,,﻿pet_mccoy_001,﻿Rev.,﻿Peter McCoy,﻿P.P.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0016,﻿church,﻿St. Mary's Chapel,English,﻿at Seminary,﻿Pennsylvania Avenue,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29582073,-76.62286702,﻿bal.md.0157_02,,,﻿ale_j_elder_001,﻿Rev.,﻿Alexius J. Elder,﻿S.S.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0017,﻿church,﻿Carmelite Chapel,English,,﻿Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.3053328,-76.602235,,,,﻿alp_coppens_001,﻿Rev.,﻿A. Coppens,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0139_02,﻿church,﻿Carmelite Chapel,English,,﻿Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.3053328,-76.602235,,,,﻿alp_coppens_001,﻿Rev.,﻿A. Coppens,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0018,﻿church,﻿Chapel of Visitation Convent,English,,﻿corner of Park and Centre streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627045,-76.61832287,﻿bal.md.0010,﻿Attended from St. Alphonsus',,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0019,﻿church,﻿Chapel of Our Lady of Sorrows,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.2903848,-76.6121893,﻿bal.md.0008,﻿Attended from St. Martin's,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0020,﻿church,﻿Mount Hope Chapel,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.34783437,-76.70732602,﻿bal.md.0009,﻿Attended from Immaculate Conception,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -55,7 +55,7 @@
 ﻿bal.md.0040,﻿church,﻿Church of the Passion,English,,﻿Carroll P.O.,,﻿Baltimore County,,﻿Carrollton,﻿Baltimore,﻿MD,,39.28366785,-76.68071856,,,,﻿charles_001,﻿Very Rev. Father,﻿Charles,,﻿Rector,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0040,﻿church,﻿Church of the Passion,English,,﻿Carroll P.O.,,﻿Baltimore County,,﻿Carrollton,﻿Baltimore,﻿MD,,39.28366785,-76.68071856,,,,,,,,,,,,﻿and other Passionists,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0041,﻿church,﻿St. Agnes',English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,39.2720509,-76.7319161,﻿bal.md.0132,﻿Attended by the Passionist Fathers,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0042,﻿church,﻿Convent of Mount de Sales,English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,39.2720509,-76.7319161,,,,﻿wm_d_parsons_001,﻿Rev.,﻿Wm. D. Parsons,,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0142_02,﻿chapel,﻿Convent of Mount de Sales,English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,39.2720509,-76.7319161,,,,﻿wm_d_parsons_001,﻿Rev.,﻿Wm. D. Parsons,,﻿Chaplain,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0043,﻿church,﻿St. Mary's,English,,,,﻿Baltimore County,,﻿Govanstown,﻿Govans,﻿MD,,39.3639956,-76.6096902,,,,﻿dwi_e_lyman_001,﻿Rev.,﻿Dwight E. Lyman,,﻿Rural Dean,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0044,﻿church,﻿St. Mary's Industrial School,English,,﻿Maiden Choice Lane,,﻿Baltimore County,﻿Baltimore County,,﻿Baltimore,﻿MD,,39.27460723,-76.66906064,﻿bal.md.0132,﻿Attended by Passionist Fathers,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0045,﻿church,﻿St. Bernard's,English,,"﻿Hillen Road, near Homestead",,﻿Baltimore County,,,﻿Baltimore,﻿MD,,39.29628686,-76.60783968,﻿bal.md.0012,"﻿Attended from St. James', Baltimore",,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -251,7 +251,7 @@
 ﻿bal.md.0142,﻿convent,﻿Convent of the Visitation,English,,﻿near Catonsville,,,,﻿Mt. de Sales,﻿Mt. de Sales,﻿MD,,39.2858479,-76.721402,,,,,﻿Mother,﻿Mary Regina Neale,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0143,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.41613434,-77.40696145,,,,,﻿Mother,﻿Mary Loretto Hunter,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0144,﻿convent,﻿Convent of the Visitation,English,,﻿corner of Tenth and G streets,,,,﻿Washington,﻿Washington,﻿DC,,38.89837009,-77.0259977,,,,,﻿Mother,﻿Mary de Sales O'Hara,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0145,﻿convent,﻿Convent of the Immaculate Conception,English,,﻿Poppleton street,,,,,﻿Baltimore,﻿MD,,39.28823726,-76.63187297,,,,,﻿Sister,﻿Mary Alphonsus Atkinson,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_04,﻿convent,﻿Convent of the Immaculate Conception,English,,﻿Poppleton street,,,,,﻿Baltimore,﻿MD,,39.28823726,-76.63187297,,,,,﻿Sister,﻿Mary Alphonsus Atkinson,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0146,﻿convent,﻿Convent of Notre Dame,English,,,,,,,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,,﻿Sister,﻿Augustine,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0147,"﻿academy, novitiate",﻿Mount St. Agnes,English,,,,,,﻿Mount Washington,﻿Mount Washington,﻿MD,,39.37000929,-76.65500884,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0148_01,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿St. Edward's,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,﻿Sister,﻿Mary Augustine Gwynn,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -290,12 +290,12 @@
 ﻿bal.md.0160,﻿college,﻿Calvert College,English,,,,,,﻿New Windsor,﻿New Windsor,﻿MD,,39.5420455,-77.1080376,,,,﻿tj_otoole_001,﻿Rev.,﻿T. O'Toole,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0140_02,﻿academy,﻿Academy of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.91147491,-77.06905881,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0162,﻿academy,﻿Academy of the Visitation,English,,﻿Park street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627045,-76.61832287,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0163,﻿academy,﻿Academy of the Visitation,English,,﻿near Catonsville,,,,﻿Mount de Sales,﻿Mount de Sales,﻿MD,,39.2858479,-76.721402,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0142_03,﻿academy,﻿Academy of the Visitation,English,,﻿near Catonsville,,,,﻿Mount de Sales,﻿Mount de Sales,﻿MD,,39.2858479,-76.721402,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0143_02,﻿academy,﻿Academy of the Visitation,English,,,,﻿Frederick County,,﻿Frederick,﻿Frederick,﻿MD,,39.41613434,-77.40696145,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0165,﻿academy,﻿Academy of the Visitation,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89837009,-77.0259977,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0166,﻿academy,﻿St. Joseph's Academy,English,,﻿near Emmittsburgh,,,,,,﻿MD,,39.70549564,-77.32618376,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0167,﻿academy,﻿Academy of Notre Dame,English,,﻿Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0145_02,﻿academy,﻿Academy of Sisters of Mercy,English,,﻿Poppleton street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.2882492,-76.63187836,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_04.01,﻿academy,﻿Academy of Sisters of Mercy,English,,﻿Poppleton street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.2882492,-76.63187836,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0169,﻿academy,﻿Academy of the Holy Cross,English,,﻿Gough street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28790633,-76.58745203,,,,,﻿Sister,﻿M. Alphonsus,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0170,﻿academy,﻿Academy of Mount St. Agnes,English,,,,,,﻿Mount Washington,﻿Mount Washington,﻿MD,,39.37000929,-76.65500884,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0148_02,﻿academy,﻿St. Edward's Academy,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
