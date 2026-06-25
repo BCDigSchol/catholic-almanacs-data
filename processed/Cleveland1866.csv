@@ -125,7 +125,7 @@
 ﻿cle.oh.0129,﻿church,[Unnamed Institution],English,,,,,﻿Lake County,﻿Painesville,﻿Painesville,﻿OH,,41.724489,-81.245657,,,,﻿cha_coquerelle_001,﻿Rev.,﻿C. Coquerelle,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0134,﻿church,[Unnamed Institution],English,,,,,﻿Ottawa County,﻿Port Clinton,﻿Port Clinton,﻿OH,,41.511995,-82.937692,,,,﻿cha_warde_001,﻿Rev.,﻿Chas. Warde,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0135,﻿church,﻿St. Patrick's,English,,,,﻿Henry County,﻿Lucas County,﻿Providence,﻿Providence,﻿OH,,41.689439,-83.378939,,﻿attended from Napolean,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0326,﻿church,[Unnamed Institution],English,,,,,,﻿Pontiac,,﻿OH,,,,,﻿attended from Monroeville,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0326,﻿church,[Unnamed Institution],English,,,,,,﻿Pontiac,,﻿OH,,41.511995,-82.937692,,﻿attended from Monroeville,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0130,﻿church,[Unnamed Institution],English,,,,,﻿Summit County,﻿Parkham,,﻿OH,,41.091899,-81.559643,﻿cle.oh.0119,﻿attended from Niles,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0141,﻿church,[Unnamed Institution],English,,,,,﻿Cuyahoga County,﻿Rockport,﻿Rocky River,﻿OH,,41.476822,-81.849757,,,,﻿mic_miller_001,﻿Rev.,﻿Michael Miller,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0315,﻿church,[Unnamed Institution],English,,,,,﻿Seneca County,﻿Rome,,﻿OH,,38.665556,-83.379444,,﻿attended from Findley,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
@@ -134,7 +134,7 @@
 ﻿cle.oh.0137,﻿church,[Unnamed Institution],English,,,,,﻿Portage County,﻿Ravenna,﻿Ravenna,﻿OH,,41.157557,-81.242047,,,,﻿p_h_brown_001,﻿Rev.,﻿P. H. Brown,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0140,﻿church,[Unnamed Institution],English,,,,,﻿Ottawa County,﻿Rivière aux Toussaints,,﻿OH,,41.511641,-83.151674,﻿cle.oh.0134,﻿attended from Port Clinton,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels',English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿r_a_sidley_001,﻿Rev.,﻿R. A. Sidley,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿a_herbstrit_001,﻿Rev.,﻿A. Herbstrit,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,41.452222,-82.708889,,,,﻿a_herbstrit_001,﻿Rev.,﻿A. Herbstrit,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0145,﻿church,﻿St. Teresa's,English,,,,,﻿Lorain County,﻿Sheffield,﻿Sheffield,﻿OH,,41.465998,-82.07645,﻿cle.oh.0025,﻿attended from Avon,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0147,﻿church,[Unnamed Institution],English,,,,,﻿Richland County,﻿Shelby Settlement,﻿Bethlehem,﻿OH,,40.756672,-82.518584,,,,﻿d_best_001,﻿Rev.,﻿D. Best,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian's,English,,,,,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.788639,,﻿attended from Thompson,,,,,,,,,,,,1866,﻿,﻿,﻿Cleveland,Cleveland
@@ -223,5 +223,5 @@
 ﻿cle.oh.0190,"﻿asylum, hospital",﻿St. Vincent's Orphan Asylum and Hospital,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿religious,"﻿religious, 12",﻿under the direction of the Sisters of Charity---Gray Nuns,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",﻿St. Vincent's Orphan Asylum and Hospital,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿child,"﻿orphans, 84",﻿under the direction of the Sisters of Charity---Gray Nuns,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",﻿St. Vincent's Orphan Asylum and Hospital,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿patient,"﻿patients, 10",﻿under the direction of the Sisters of Charity---Gray Nuns,,1866,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphans, 20",﻿under the charge of the Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,41.69,-81.051389,,,,,,,,,,﻿child,"﻿orphans, 20",﻿under the charge of the Sisters of the Most Precious Blood,,1866,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0192,﻿hospital,﻿Charity Hospital,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.496324,-81.673701,,,,,,,,,,,,﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1866,﻿,﻿,﻿Cleveland,Cleveland

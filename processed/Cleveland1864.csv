@@ -92,7 +92,7 @@
 ﻿cle.oh.0137,﻿church,[Unnamed Institution],English,,,,,﻿Portage County,﻿Ravenna,﻿Ravenna,﻿OH,,41.157557,-81.242047,﻿cle.oh.0078,﻿Attended from Hudson,,﻿p_h_brown_001,﻿Rev.,﻿P. H. Brown,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0140,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Ottawa County,﻿Rivière aux Toussaints,,﻿OH,,41.511641,-83.151674,﻿cle.oh.0134,﻿attended from Port Clinton,,,,,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels',English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿r_a_sidley_001,﻿Rev.,﻿R. Sidley,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿nic_moes_001,﻿Rev.,﻿N. Moes,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,41.452222,-82.708889,,,,﻿nic_moes_001,﻿Rev.,﻿N. Moes,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0145,﻿church,﻿St. Teresa's,English,,,,,﻿Lorain County,﻿Sheffield,﻿Sheffield,﻿OH,,41.465998,-82.07645,﻿cle.oh.0068,﻿attended from French Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0147,﻿church,[Unnamed Institution],English,,,,,﻿Richland County,﻿Shelby Settlement,﻿Bethlehem,﻿OH,,40.756672,-82.518584,,,,﻿v_arnould_001,﻿Rev. Father,﻿Arnould,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian's,English,,,,,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.788639,,﻿attended from Thompson,,,,,,,,,,,,1864,﻿,﻿,﻿Cleveland,Cleveland
@@ -168,5 +168,5 @@
 ﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,,﻿Cleveland,﻿OH,,41.509884,-81.68151,,,,,,,,,,﻿child,"﻿Orphan girls, 160, including those at St. Joseph's",﻿under the charge of pious ladies,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",[Unnamed Institution],English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿religious,"﻿religious, 12",﻿under the charge of the Gray Sisters,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",[Unnamed Institution],English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿child,"﻿orphans, 60",﻿under the charge of the Gray Sisters,,1864,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphans, 20",﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,41.69,-81.051389,,,,,,,,,,﻿child,"﻿orphans, 20",﻿Sisters of Pretiosissimi Sanguinis,,1864,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0192,﻿hospital,[Unnamed Institution],English,﻿in the course of construction,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.496324,-81.673701,,,,,,,,,,,,﻿Under the charge of Sisters of Charity,,1864,﻿,﻿,﻿Cleveland,Cleveland
