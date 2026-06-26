@@ -167,7 +167,7 @@
 ﻿chi.il.0133,﻿station,[Unnamed Institution],English,,,,﻿Boone County,﻿Boone County,﻿Caledonia,﻿Caledonia,﻿IL,,42.36751527,-88.893422,,﻿from Belvidere,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0134,﻿station,﻿St. Gertrude's,English,,,,﻿Hancock County,﻿Hancock County,﻿Carthage,﻿Carthage,﻿IL,,40.41631971,-91.13632215,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0135,﻿station,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Cass,﻿Darien,﻿IL,,41.74788121,-87.97450348,﻿chi.il.0087,﻿from Napierville,﻿regularly,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0136,﻿station,[Unnamed Institution],English,,,,﻿Jo Daviess County,,﻿Council Hill,﻿Council Hill,﻿IL,,42.48921796,-90.35213035,﻿chi.il.0307,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0136,﻿station,[Unnamed Institution],English,,,,﻿Jo Daviess County,,﻿Council Hill,﻿Council Hill,﻿IL,,42.48921796,-90.35213035,﻿chi.il.0052,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0137,﻿station,[Unnamed Institution],English,,,,﻿Winnebago County,,﻿Cherry Valley,﻿Cherry Valley,﻿IL,,42.2359747,-88.95472789,,﻿Attended from Belvidere,,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0138,﻿station,[Unnamed Institution],English,,,,﻿Livingston County,,﻿Chatsworth,﻿Chatsworth,﻿IL,,40.74731531,-88.31523175,﻿chi.il.0101,﻿from Pontiac,﻿monthly,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0139,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,﻿Marshall,﻿Camping Grove,﻿Saratoga,﻿IL,,41.08988021,-89.55674777,﻿chi.il.0069,﻿Attended from Lacon,﻿monthly,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
@@ -385,7 +385,7 @@
 ﻿chi.il.0304,﻿school,﻿Parochial school,English,"﻿for boys and girls.  Two schools, 40 and 45",,,,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15631108,-87.8733378,,,,,,,,,,﻿student,﻿40,﻿Under the Sisters of the Congregation,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.049,﻿school,﻿Parochial school,English,"﻿for boys and girls.  Two schools, 40 and 45",,,,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.15631108,-87.8733378,,,,,,,,,,﻿student,﻿45,﻿Under the Sisters of the Congregation,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0305,﻿school,﻿Parochial school,﻿German,﻿for boys and girls,,,,,﻿Freeport,﻿Freeport,﻿IL,,42.28535298,-89.60634926,,,,,,,,,,﻿student,﻿125 pupils,﻿Under the Sisters of the Congregation,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0306,﻿school,﻿Parochial schools,﻿German,﻿for boys and girls,,,,,﻿Galena,﻿Galena,﻿IL,,42.41912337,-90.42923658,,,,,,,,,,﻿student,﻿175 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0053_02,﻿school,﻿Parochial schools,﻿German,﻿for boys and girls,,,,,﻿Galena,﻿Galena,﻿IL,,42.41912337,-90.42923658,,,,,,,,,,﻿student,﻿175 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0307,﻿school,﻿Parochial schools,﻿German,﻿for boys and girls,,,,,﻿Henry,﻿Henry,﻿IL,,41.10810877,-89.36352818,,,,,,,,,,﻿student,﻿94 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0308,﻿school,﻿Parochial schools,English,﻿for boys,,,,,﻿Henry,﻿Henry,﻿IL,,41.10810877,-89.36352818,,,,,,,,,,﻿student,﻿100 pupils,﻿Under the Sisters of Notre Dame,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0309,﻿school,﻿Parochial schools,English,,,,,,﻿Joliet,﻿Joliet,﻿IL,,41.55042754,-88.12143239,,,,,,,,,,﻿student,﻿190 pupils,﻿Under the Sisters of the Holy Cross,,1870,﻿,﻿,﻿Chicago,Chicago
@@ -402,10 +402,10 @@
 ﻿chi.il.0320,﻿school,﻿Parochial schools,English,﻿for boys and girls. German church.,,,,,﻿Peru,﻿Peru,﻿IL,,41.3287833,-89.12874304,,,,,,,,,,﻿student,﻿110 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0321,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Rockford,﻿Rockford,﻿IL,,42.26864915,-89.10294173,,,,,,,,,,﻿student,﻿300 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0322,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿La Salle,﻿La Salle,﻿IL,,41.33869046,-89.09488745,,,,,,,,,,,,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0323,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Sterling,﻿Sterling,﻿IL,,41.79416218,-89.69887866,,,,,,,,,,﻿student,﻿98 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0323,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Sterling,﻿Sterling,﻿IL,,41.79416218,-89.69887866,,,,,,,,,,﻿student,﻿98 pupils,﻿Under the Christian Brothers,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0108_02,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Sterling,﻿Sterling,﻿IL,,41.79416218,-89.69887866,,,,,,,,,,﻿student,﻿98 pupils,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0108_02,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Sterling,﻿Sterling,﻿IL,,41.79416218,-89.69887866,,,,,,,,,,﻿student,﻿98 pupils,﻿Under the Christian Brothers,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0324,﻿school,﻿Parochial schools,English,﻿for boys and girls,,,,,﻿Waukegan,﻿Waukegan,﻿IL,,42.37370147,-87.8451929,,,,,,,,,,,,﻿Under lay teachers,,1870,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.90207602,-87.6368849,,,,,﻿Mother,﻿Mary,﻿of the Nativity,﻿Superior,,,,﻿Conducted by the Religious of the Good Shepherd,,1870,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,﻿North Market Street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.90207602,-87.6368849,,,,,﻿Mother,﻿Mary of the Nativity,,﻿Superior,,,,﻿Conducted by the Religious of the Good Shepherd,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0327,﻿asylum,﻿St. Mary's and St. Joseph's Orphan Asylum,English,﻿for boys and girls,﻿Corner of North State and Superior streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.89600177,-87.62763549,,,,,,,,,,,,﻿Under the charge of the Sisters of St. Joseph,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0328,﻿asylum,﻿German Orphan Asylum,English,,,,,,﻿Rose Hill,﻿Rose Hill,﻿IL,,41.99766847,-87.67935105,,,,,,,,,,,,,,1870,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,"﻿Chartered by the State Legislature. Proposed new building, eighteen miles from Chicago, on the C. and M. R.R. Cost $70,000.",,,,,﻿Bridgeport,﻿Bridgeport,﻿IL,,41.8412344,-87.65887064,,,,,,,,,,,,﻿Conducted by the Christian Brothers,,1870,﻿,﻿,﻿Chicago,Chicago

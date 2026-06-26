@@ -228,8 +228,8 @@
 ﻿cin.oh.0156,﻿church,﻿St. Remi's,English,,,,﻿Darke County,,,,﻿OH,,40.233605,-84.408304,﻿cin.oh.0099,﻿Attended from Jacksonville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0170,﻿church,﻿St. Martin's,English,﻿New church building,,,﻿Brown County,,﻿St. Martin's,,﻿OH,,39.212409,-83.893162,,,,﻿wm_cheymol_001,﻿Rev.,﻿Wm. Cheymol,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0170,﻿church,﻿St. Martin's,English,﻿New church building,,,﻿Brown County,,﻿St. Martin's,,﻿OH,,39.212409,-83.893162,,,,﻿f_x_dutton_001,﻿Rev.,﻿F. X. Dutton,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310,﻿church,﻿St. Xavier's,English,,,﻿Eight miles from Chillicothe,,,,,,,,,,﻿Attended from Chillicothe,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310,﻿church,﻿Holy Family's,English,,,﻿Eight miles from Chillicothe,,,,,﻿OH,,,,﻿cin.oh.0099,﻿Attended from Jacksonville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310,﻿church,﻿St. Xavier's,English,,,﻿Eight miles from Chillicothe,,,,,,,39.229761,-82.984531,,﻿Attended from Chillicothe,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310,﻿church,﻿Holy Family's,English,,,﻿Eight miles from Chillicothe,,,,,﻿OH,,39.229761,-82.984531,﻿cin.oh.0099,﻿Attended from Jacksonville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0071,﻿religious institution,[Unnamed Institution],English,,,,﻿Meigs County,,﻿Syracuse,,﻿OH,,38.997579,-81.974027,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0171,﻿church,﻿St. John Baptist's,English,,,,﻿Miami County,,﻿Tippecanoe,,﻿OH,,39.951143,-84.176091,﻿cin.oh.0093,﻿Attended from Greenville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0072,﻿church,﻿St. Ann's,English,,,,﻿Muskingum County,,﻿Taylorsville,,﻿OH,,39.861181,-81.906801,,﻿Attended from Zanesville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -258,20 +258,20 @@
 ﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿lev_adams_001,﻿Rev.,﻿L. Adams,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿b_a_brady_001,﻿Rev.,﻿B. A. Brady,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0085,﻿church,﻿St. Nicholas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.940112,-82.001087,,,,﻿j_j_rauck_001,﻿Rev.,﻿J. J. Rauck,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,"﻿D.D., LL.D.",﻿President,,﻿theologians,﻿Theologians 24,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.082744,-84.372167,,,,,,,,﻿Vice-President,,﻿preparatorians,﻿32 Preparatorians,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,"﻿D.D., LL.D.",﻿President,,﻿theologians,﻿Theologians 24,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mt. St. Mary's of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,,,,,﻿Vice-President,,﻿preparatorians,﻿32 Preparatorians,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Congregation of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ber_dickmann_001,﻿Rev.,﻿B. Dickman,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Congregation of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ant_guggenberger_001,﻿Rev.,﻿A. Guggenberger,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿w_h_hill_002,﻿Rev.,﻿W. H. Hill,﻿S.J.,﻿President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿j_s_verdin_001,﻿Rev.,﻿J. S. Verdin,﻿S.J.,﻿Vice-President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿p_de-meester_002,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿p_a_nogues_002,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿jos_a_fastré_001,﻿Rev.,﻿J. A. Fastré,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿wil_schmidt_001,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿j_h_miles_001,﻿Rev.,﻿T. H. Miles,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿j_walsh_004,﻿Rev.,﻿J. Walsh,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿w_f_boex_001,﻿Rev.,﻿W. F. Boex,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.082744,-84.372167,,,,﻿f_x_weninger_001,﻿Rev.,﻿F. X. Weninger,﻿S.J.,﻿Missionary,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿w_h_hill_002,﻿Rev.,﻿W. H. Hill,﻿S.J.,﻿President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_s_verdin_001,﻿Rev.,﻿J. S. Verdin,﻿S.J.,﻿Vice-President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿p_de-meester_002,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿p_a_nogues_002,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿jos_a_fastré_001,﻿Rev.,﻿J. A. Fastré,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿wil_schmidt_001,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_h_miles_001,﻿Rev.,﻿T. H. Miles,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_walsh_004,﻿Rev.,﻿J. Walsh,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿w_f_boex_001,﻿Rev.,﻿W. F. Boex,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿f_x_weninger_001,﻿Rev.,﻿F. X. Weninger,﻿S.J.,﻿Missionary,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿wil_d_carroll_001,﻿V. Rev.,﻿Wm. D. O'Carroll,,﻿Prov.,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿s_a_clarkson_002,﻿Very Rev.,﻿S. A. Clarkson,,﻿Prior,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_v_daly_003,﻿Rev.,﻿J. V. Daly,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati

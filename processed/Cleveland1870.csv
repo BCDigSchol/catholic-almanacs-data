@@ -53,7 +53,7 @@
 ﻿cle.oh.0043,﻿church,[Unnamed Institution],English,,,,,﻿Fulton County,﻿Clarksville,,﻿OH,,41.5719341,-84.1435136,﻿cle.oh.0154,﻿attended from Stryker,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0044,﻿church,﻿St. Patrick's,English,,,,,﻿Sandusky County,﻿Clyde,﻿Clyde,﻿OH,,41.3000514,-82.9815823,﻿cle.oh.0028,﻿attended from Bellevue,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0045,﻿church,[Unnamed Institution],English,,,,,﻿Ashtabula County,﻿Conneaut,﻿Conneaut,﻿OH,,41.9475551,-80.5542409,﻿cle.oh.0023,﻿attended from Ashtabula,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0046,﻿church,[Unnamed Institution],English,,,,,﻿Van Wert County,﻿Convoy,﻿Convoy,﻿OH,,40.916715,-84.702737,﻿?,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0046,﻿church,[Unnamed Institution],English,,,,,﻿Van Wert County,﻿Convoy,﻿Convoy,﻿OH,,40.916715,-84.702737,﻿cle.oh.0052,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0047,﻿church,[Unnamed Institution],English,,,,,﻿Crawford County,﻿Crawfordville,,﻿OH,,40.8268068,-82.9931607,﻿cle.oh.0117,﻿attended from New Riegel,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0048,﻿church,﻿St. Joseph's,English,,,,,﻿Crawford County,﻿Crestline,﻿Crestline,﻿OH,,40.7875572,-82.7365677,,,,﻿j_p_pitts_001,﻿Rev.,﻿J. P. Pitts,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0049,﻿church,[Unnamed Institution],English,,,,,﻿Summit County,﻿Cuyahoga Falls,﻿Cuyahoga Falls,﻿OH,,41.1339449,-81.4845585,﻿cle.oh.0017,﻿attended from Akron,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -162,7 +162,7 @@
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian's,English,,,,,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.7886395,,,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0149,﻿church,[Unnamed Institution],English,,,,,﻿Lorain County,﻿Shilo,,﻿OH,,41.4116881,-82.12784,﻿cle.oh.0138,﻿attended from Rawsonville,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0150,﻿church,[Unnamed Institution],English,,,,﻿Lucas County,﻿Fulton County,﻿Six-Mile Wood,﻿Delta,﻿OH,,41.573663,-84.0052235,,,,﻿n_schmitz_001,﻿Rev.,﻿N. Schmitz,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0151,﻿church,[Unnamed Institution],English,,,,,﻿Allen County,﻿Spencer,﻿Spencer Township,﻿OH,,40.7208553,-84.375233,﻿?,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0151,﻿church,[Unnamed Institution],English,,,,,﻿Allen County,﻿Spencer,﻿Spencer Township,﻿OH,,40.7208553,-84.375233,﻿cle.oh.0052,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0152,﻿church,[Unnamed Institution],English,,,,,﻿Williams County,﻿Springhills,,﻿OH,,41.5507602,-84.5222189,﻿cle.oh.0154,﻿attended from Stryker,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0153,﻿church,[Unnamed Institution],English,,,,﻿Stark County,﻿Tuscarawas County,﻿Strasburg,﻿Strasburg,﻿OH,,40.5947844,-81.5267864,﻿cle.oh.0096,﻿attended from Louisville,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0154,﻿church,[Unnamed Institution],English,,,,,﻿Williams County,﻿Stryker,﻿Stryker,﻿OH,,41.5036623,-84.4141164,,,,﻿jos_eiler_001,﻿Rev.,﻿Joseph Eiler,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
@@ -184,7 +184,7 @@
 ﻿cle.oh.0168,﻿church,﻿Chapels of Ursuline and Gray Sisters,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.6800973,-83.5957565,﻿cle.oh.0186,﻿attended by the Jesuit fathers,,,,,,,,,,﻿attended by the Jesuit Fathers,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0169,﻿church,[Unnamed Institution],English,,,,,﻿Crawford County,﻿Upper Sandusky,,﻿OH,,40.8272785,-83.2813089,,,,﻿g_peter_001,﻿Rev.,﻿G. Peter,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0170,﻿church,[Unnamed Institution],English,,,,,﻿Lorain County,﻿Vermilion,﻿Vermilion,﻿OH,,41.4219889,-82.3646068,﻿cle.oh.0057,﻿attended from Elyria,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0171,﻿church,[Unnamed Institution],English,,,,,﻿Van Wert County,,,﻿OH,,40.871234,-84.564147,﻿?,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0171,﻿church,[Unnamed Institution],English,,,,,﻿Van Wert County,,,﻿OH,,40.871234,-84.564147,﻿cle.oh.0052,﻿attended from Delphos,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0172,﻿church,[Unnamed Institution],English,,,,,﻿Huron County,﻿Wakeman,﻿Wakeman,﻿OH,,41.2544965,-82.3996114,﻿cle.oh.0121,﻿attended from Norwalk,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0173,﻿church,[Unnamed Institution],English,,,,,﻿Trumbull County,﻿Warren,﻿Warren,﻿OH,,41.2375569,-80.8184166,﻿cle.oh.0119,﻿attended from Niles,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0174,﻿church,[Unnamed Institution],English,,,,,﻿Columbiana County,﻿Wellsville,﻿Wellsville,﻿OH,,40.6028419,-80.6489628,﻿cle.oh.0155,﻿attended from Summitville,,,,,,,,,,,,1870,﻿,﻿,﻿Cleveland,Cleveland

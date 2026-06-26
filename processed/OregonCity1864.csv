@@ -6,7 +6,7 @@
 ﻿ore.or.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿lew_piette_001,﻿Rev.,﻿Lewis Piette,,﻿Chaplain of the Convent,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0002,﻿church,﻿Sacred Heart,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.35561,-122.605853,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0003,﻿church,[Unnamed Institution],English,,,,,,﻿Milwaukee,﻿Milwaukee,﻿OR,,45.442619,-122.63984,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0005,﻿church,[Unnamed Institution],English,,﻿Molala,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0005,﻿church,[Unnamed Institution],English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0007,﻿church,[Unnamed Institution],English,,,,﻿Washington County,,﻿Hillsboro,﻿Hillsboro,﻿OR,,45.520134,-122.989849,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Astoria,﻿Astoria,﻿OR,,45.412054,-122.696575,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainier,﻿Rainier,﻿OR,,46.089135,-122.935978,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
@@ -20,9 +20,9 @@
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,,,,,,﻿Corvallis,﻿Corvallis,﻿OR,,44.572976,-123.278457,,﻿attended from Salem,,,,,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0026,﻿church,[Unnamed Institution],English,,,,,,﻿Albany,﻿Albany,﻿OR,,44.636511,-123.105928,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0033,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Flosking,﻿Fort Hoskins,﻿OR,,44.616971,-124.020727,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0031,﻿church,[Unnamed Institution],English,,﻿Lancaster,,,,﻿Lancaster,﻿Lancaster,﻿OR,,44.25306,-123.19444,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0032,﻿church,[Unnamed Institution],English,,﻿Eugene City,,,,﻿Eugene City,﻿Eugene,﻿OR,,44.052069,-123.086754,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0027,﻿church,[Unnamed Institution],English,,﻿Sentiam,,,,﻿Sentiam,﻿Santiam Junction,﻿OR,,44.4359,-121.941566,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0031,﻿church,[Unnamed Institution],English,,,,,,﻿Lancaster,﻿Lancaster,﻿OR,,44.25306,-123.19444,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Eugene City,﻿Eugene,﻿OR,,44.052069,-123.086754,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0027,﻿church,[Unnamed Institution],English,,,,,,﻿Sentiam,﻿Santiam Junction,﻿OR,,44.4359,-121.941566,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0038,﻿church,[Unnamed Institution],English,,,,,,﻿Oakland,﻿Oakland,﻿OR,,43.422063,-123.29841,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0034,﻿chapel,[Unnamed Institution],English,,,,,,﻿Roseburg,﻿Roseburg,﻿OR,,43.216221,-123.357341,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0035,﻿church,[Unnamed Institution],English,,,﻿in the Interior,,,﻿Cañonville,﻿Canyonville,﻿OR,,42.927318,-123.278537,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
@@ -30,7 +30,7 @@
 ﻿ore.or.0040,﻿church,[Unnamed Institution],English,,,,,,﻿Umpqua City,﻿Umpqua,﻿OR,,43.367451,-123.454694,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0041,﻿church,[Unnamed Institution],English,,,,,,﻿Empire City,﻿Coos Bay,﻿OR,,43.367221,-124.213132,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0043,﻿church,[Unnamed Institution],English,,,,,,﻿Port Oxford,﻿Port Oxford,﻿OR,,43.804133,-120.554201,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0042,﻿church,[Unnamed Institution],English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0042,﻿church,[Unnamed Institution],English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,,,43.513874,-123.804062,,,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0045,﻿church,﻿St. Joseph's,English,,,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,﻿f_x_blanchet_001,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0048,﻿church,[Unnamed Institution],English,,,,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440125,-122.926155,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0047,﻿church,[Unnamed Institution],English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.804133,-120.554201,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity

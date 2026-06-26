@@ -29,7 +29,7 @@
 ﻿stp.mn.0375,﻿church,﻿St. John,English,,,,﻿Monongalia County,,﻿Diamond Lake,,﻿MN,,,,,﻿Visited from St. Joseph's Prairie,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0133,﻿church,[Unnamed Institution],﻿Irish,,,,﻿Rice County,﻿Rice County,﻿East Prairie,,﻿MN,,44.288405,-93.185061,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,"﻿A new fine stone church. Mass at 10 A.M.; Catechism, 2 1/2 P.M., on Sundays about 200 children attending",,,﻿Hennepin County,﻿Hennepin County,﻿Falls of St. Anthony,﻿St. Anthony,﻿MN,,45.020891,-93.509457,,,,﻿joh_mcdermott_002,﻿Rev.,﻿J. McDermott,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0071,﻿church,﻿St. Boniface Church,﻿German,,,,,﻿Hennepin County,,﻿St. Anthony,﻿MN,,,,,﻿Visited from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0071,﻿church,﻿St. Boniface Church,﻿German,,,,,﻿Hennepin County,,﻿St. Anthony,﻿MN,,45.020557,-93.217933,,﻿Visited from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0129,﻿church,﻿Immaculate Conception,"﻿French, Irish, and German",﻿A beautiful stone church nearly completed,,,﻿Rice County,﻿Rice County,﻿Faribault,﻿Faribault,﻿MN,,44.294964,-93.268827,,,,﻿geo_keller_001,﻿Rev.,﻿G. Keller,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0376,﻿church,[Unnamed Institution],English,,,,﻿Hennepin County,,﻿Flambourg,,﻿MN,,,,,﻿Visited from St. Paul,﻿regularly,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0137,﻿church,[Unnamed Institution],English,,﻿near the Sioux Agency,,,﻿Nicollet County,﻿Fort Ridgely,﻿Fort Ridgely,﻿MN,,44.453366,-94.734795,﻿stp.mn.0012,﻿Visited from Mankato,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
@@ -76,8 +76,8 @@
 ﻿stp.mn.0385,﻿church,[Unnamed Institution],English,,,,﻿Goodhue County,,﻿Oak Spring,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,﻿regularly,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0147,﻿church,[Unnamed Institution],﻿Irish,,,,﻿Steel County,﻿Steele County,﻿Owatona,﻿Owatonna,﻿MN,,44.08793,-93.226018,﻿stp.mn.0129,﻿Visited from Faribault,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0356,﻿church,﻿Immaculate Conception,English,,,,﻿Hennepin County,,﻿Palestine,,﻿MN,,,,,,,,﻿Rev.,﻿Fr. Hürtts,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0217_02,﻿mission,﻿St. Joseph's,English,,"﻿St. Joseph's, Pimbina, on the Red River of the North, in the new Territory of Decotah",,﻿Dacotah County,,﻿Pimbina,,,﻿ND,,,,,,,﻿Rev.,﻿Jos. Goiffou,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0217_01,﻿mission,﻿Church of the Assumption,English,,"﻿30 miles West from Pimbina, Territory of Dacotah, (Half-breeds and Canadians)",,,,,,,﻿ND,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0217_02,﻿mission,﻿St. Joseph's,English,,"﻿St. Joseph's, Pimbina, on the Red River of the North, in the new Territory of Decotah",,﻿Dacotah County,,﻿Pimbina,,,﻿ND,46.715817,-92.513266,,,,,﻿Rev.,﻿Jos. Goiffou,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0217_01,﻿mission,﻿Church of the Assumption,English,,"﻿30 miles West from Pimbina, Territory of Dacotah, (Half-breeds and Canadians)",,,,,,,﻿ND,46.715817,-92.513266,,,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0357,﻿church,[Unnamed Institution],English,,,,﻿Goodhue County,,﻿Pine Island,,﻿MN,,,,,﻿Visited from Wabashaw,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0387,﻿church,[Unnamed Institution],English,,,,﻿Washington County,,﻿Point Douglas,,﻿MN,,,,﻿stp.mn.0032,﻿Attended from Hastings,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0087,﻿church,[Unnamed Institution],English,,,,﻿Houston County,,﻿Riceford,﻿Riceford,﻿MN,,43.57597,-91.726097,,﻿Visited from Winona,﻿regularly,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
@@ -89,7 +89,7 @@
 ﻿stp.mn.0193,﻿church,[Unnamed Institution],English,,,,﻿Wabashaw County,﻿Wabasha County,﻿Sand Prairie,﻿Kellogg,﻿MN,,44.351379,-91.973395,﻿stp.mn.0186,﻿Visited from Wabashaw,﻿regularly,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0161,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Scott County,﻿Scott County,﻿St. Benedict,﻿Helena Township,﻿MN,,44.587634,-93.601521,﻿stp.mn.0149,﻿Attended from Shakopee,,,,,,,,﻿family,﻿45 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0022,﻿chapel,﻿St. Bernard,English,,,,﻿Carver County,﻿Carver County,,﻿Benton Township,﻿MN,,44.767274,-93.845173,﻿stp.mn.0149,﻿Attended from Shakopee,﻿monthly,,,,,,,﻿family,﻿35 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0320,﻿chapel,﻿St. Boniface,English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Boniface,﻿St. Bonifacius,﻿MN,,44.194964,-91.871825,﻿stp.mn.0149,﻿Attended from Shakopee,﻿monthly,,,,,,,﻿family,﻿35 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0320,﻿chapel,﻿St. Boniface,English,,,,﻿Hennepin County,﻿Hennepin County,﻿St. Boniface,﻿St. Bonifacius,﻿MN,,,,﻿stp.mn.0149,﻿Attended from Shakopee,﻿monthly,,,,,,,﻿family,﻿35 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0138,﻿church,﻿St. Clotilda,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Cloud,﻿St. Cloud,﻿MN,,45.557945,-94.16324,,,,,﻿Rev. Father,﻿Benedict Haindl,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0138,﻿church,﻿St. Clotilda,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Cloud,﻿St. Cloud,﻿MN,,45.557945,-94.16324,,,,﻿ans_fraudendorfer_001,﻿Rev.,﻿Anscharius Frauenhoffer,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0388,﻿church,﻿SS. Henry and Kunegund,English,﻿church in process of erection,,,﻿Lesueur County,,,,﻿MN,,,,﻿stp.mn.0149,﻿Visited from Shakopee,﻿occasionally,,,,,,,﻿family,﻿30 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
@@ -99,16 +99,16 @@
 ﻿stp.mn.0156,﻿church,[Unnamed Institution],English,,,,﻿Scott County,﻿Scott County,﻿St. Mary's,﻿Marystown,﻿MN,,44.720796,-93.541343,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0163,﻿chapel,﻿St. Scholastica,English,,,,﻿Lesueur County,﻿Lesueur County,,﻿Heidelberg,﻿MN,,44.597317,-93.621463,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0096,﻿chapel,[Unnamed Institution],English,﻿church in process of erection,,,﻿Lesueur County,﻿Le Sueur County,﻿St. Thomas,﻿Derrynane Township,﻿MN,,44.508502,-93.7232,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,﻿family,﻿75 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,,,,,,,﻿Rev.,﻿Clem. Staub,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,,,,,,,﻿Rev.,﻿Magnus Mayer,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,,,,,,,﻿Rev.,﻿Eberhard Gahr,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,45.563993,-94.318649,,,,,﻿Rev.,﻿Clem. Staub,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,45.563993,-94.318649,,,,,﻿Rev.,﻿Magnus Mayer,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,45.563993,-94.318649,,,,,﻿Rev.,﻿Eberhard Gahr,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0281,﻿church,﻿St. James,English,,﻿Jacobi Settlement,,﻿Stearns County,﻿Stearns County,,,﻿MN,,,,,﻿Visited from St. Joseph's Prairie,﻿regularly,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0024,﻿chapel,﻿St. Victoria,English,,,,﻿Carver County,﻿Carver County,,﻿Laketown Township,﻿MN,,44.854658,-93.661907,﻿stp.mn.0149,﻿Visited from Shakopee,﻿monthly,,,,,,,﻿family,﻿35 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0153,﻿church,﻿St. Wenceslaus,English,,,,﻿Scott County,﻿Scott County,,﻿New Prague,﻿MN,,44.54403,-93.574235,,,,,,,,,,﻿family,﻿80 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0182,﻿church,﻿Nativity of B.V.,English,,,,﻿Waseca County,﻿Waseca County,﻿St. Mary,﻿St. Mary's,﻿MN,,44.058436,-93.601521,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0116,﻿church,[Unnamed Institution],English,,,,﻿Nicollet County,﻿Nicollet County,﻿St. Peter,﻿St. Peter,﻿MN,,44.332054,-93.976611,﻿stp.mn.0012,﻿Visited from Mankato,﻿occasionally,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shakopee,,﻿MN,,,,,,,﻿cor_wittman_001,﻿Rev.,﻿C. Wittman,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shakopee,,﻿MN,,,,,,,,﻿Rev.,﻿B. Riss,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.795299,-93.529065,,,,﻿cor_wittman_001,﻿Rev.,﻿C. Wittman,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.795299,-93.529065,,,,,﻿Rev.,﻿B. Riss,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0337,﻿church,﻿St. Patrick's,English,﻿Mass at 11 A.M.; Catechism at 3 P.M.,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,,,,,,,﻿Rev.,﻿J. H. McCullough,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0360,﻿church,[Unnamed Institution],English,,,,﻿Waseca County,,﻿Silver Lake,,﻿MN,,,,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0203,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Stillwater,﻿Stillwater,﻿MN,,45.051158,-92.806301,,,,,﻿Rev.,﻿Thomas McManus,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
@@ -124,20 +124,20 @@
 ﻿stp.mn.0363,﻿church,﻿St. Thomas,English,﻿Service two Sundays in every month,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,,,,,,﻿m_prendergast_002,﻿Rev.,﻿Michael Prendergast,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0365,﻿church,[Unnamed Institution],﻿Irish and German,,,,﻿Waseca County,,﻿Woodstock,,﻿MN,,,,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0025,﻿church,﻿Young America,English,﻿church contemplated,,,﻿Carver County,﻿Carver County,,﻿Norwood Young American,﻿MN,,44.780929,-93.912913,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,﻿family,﻿24 families,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0210&0214&0216,﻿mission,﻿The Mission among the Chippeway Indians,English,﻿Measures are being matured for the establishment of a Mission among the Sioux at Red Wood; another among the Winnebagoes on their reserve.,"﻿near Mille Lake, Sandy Lake, Beech Lake, &c.",,,,,,,,,,,,,,﻿Rev.,﻿Francis Pierz,,,"﻿who through his 70th year of age, and 30th of Indian Missionary life, is full of the ardor and energy of youh, and his zeal is still successful in gaining these poor children of nature to Christ",,,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,,,,,,,﻿Very Rev.,﻿Benedict Haindl,,﻿Prior,,﻿father,﻿9 fathers,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,,,,,,,,,,,,﻿religious,﻿8 lay brothers,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,,,,,,,,,,,,﻿postulants,﻿2 postulants,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0225_04,﻿consecrated life institution,﻿Sisters of St. Joseph,English,﻿established in this Diocese since 1851,,,,,,﻿St. Paul,﻿MN,,,,,,,,﻿Sister,﻿Seraphim,,﻿Superior,,﻿member,﻿19 members,,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0225_04,﻿consecrated life institution,﻿Sisters of St. Joseph,English,﻿established in this Diocese since 1851,,,,,,﻿St. Paul,﻿MN,,,,,,,,,,,,,﻿postulants,﻿3 postulants,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0210&0214&0216,﻿mission,﻿The Mission among the Chippeway Indians,English,﻿Measures are being matured for the establishment of a Mission among the Sioux at Red Wood; another among the Winnebagoes on their reserve.,"﻿near Mille Lake, Sandy Lake, Beech Lake, &c.",,,,,,,,46.073744,-93.661115,,,,,﻿Rev.,﻿Francis Pierz,,,"﻿who through his 70th year of age, and 30th of Indian Missionary life, is full of the ardor and energy of youh, and his zeal is still successful in gaining these poor children of nature to Christ",,,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,45.579768,-94.393892,,,,,﻿Very Rev.,﻿Benedict Haindl,,﻿Prior,,﻿father,﻿9 fathers,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,45.579768,-94.393892,,,,,,,,,,﻿religious,﻿8 lay brothers,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_03&0228_04,"﻿seminary, convent",﻿Convent and Preparatory Seminary,English,,﻿near St. Cloud,,,,,,﻿MN,,45.579768,-94.393892,,,,,,,,,,﻿postulants,﻿2 postulants,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0225_04,﻿consecrated life institution,﻿Sisters of St. Joseph,English,﻿established in this Diocese since 1851,,,,,,﻿St. Paul,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Seraphim,,﻿Superior,,﻿member,﻿19 members,,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0225_04,﻿consecrated life institution,﻿Sisters of St. Joseph,English,﻿established in this Diocese since 1851,,,,,,﻿St. Paul,﻿MN,,44.949124,-93.115405,,,,,,,,,,﻿postulants,﻿3 postulants,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_05,﻿hospital,﻿St. Joseph's Hospital,English,﻿It is a commodious four-story stone building,﻿near the centre of the city,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,,,,,,,,﻿under the charge of the Sisters of St. Joseph,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_02,﻿academy,﻿St. Joseph's Academy for Young Ladies,English,,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,﻿Sister,﻿Seraphim,,﻿Superior,,﻿pupil,﻿60 pupils,﻿under the charge of the Sisters of St. Joseph,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0305,﻿academy,﻿St. Mary's Female Academy,English,,,,,,﻿St. Anthony's Falls,,﻿MN,,,,,,,,﻿Sister,﻿Ursula,,﻿Superior,,,,﻿under the charge of the Sisters of St. Joseph,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0225_03,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿St. Paul,,﻿MN,,44.949124,-93.115405,,,,,,,,,,﻿orphan,﻿21 orphans,﻿under charge of the Sisters of St. Joseph,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,,,,,,,﻿Sister,﻿Willibalda,,﻿Abbess,,﻿sister,﻿6 sisters,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,,,,,,,,,,,,﻿novice,﻿4 novices,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,,,,,,,,,,,,﻿postulant,﻿8 postulants,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,,,,,,,,,,,,﻿pupil,﻿40 pupils,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.563993,-94.318649,,,,,﻿Sister,﻿Willibalda,,﻿Abbess,,﻿sister,﻿6 sisters,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.563993,-94.318649,,,,,,,,,,﻿novice,﻿4 novices,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.563993,-94.318649,,,,,,,,,,﻿postulant,﻿8 postulants,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0140_02&0140_03,"﻿convent, academy",﻿Convent and Academy,English,,,,﻿Stearns County,,﻿St. Cloud,,﻿MN,,45.563993,-94.318649,,,,,,,,,,﻿pupil,﻿40 pupils,﻿Nuns of St. Benedict,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0396,﻿academy,﻿Academy for Young Ladies,English,"﻿These Sisters are a branch from the Mother House in Tullow, Ireland.",,,,,﻿Winona,,﻿MN,,,,,,,,,,,,,﻿children,﻿100 children,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0397,﻿free school,[Unnamed Institution],English,"﻿These Sisters are a branch from the Mother House in Tullow, Ireland.",﻿Free School,,,,﻿Winona,,﻿MN,,,,,,,,,,,,,﻿children,﻿100 children,,,1861,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0001_02,﻿school,[Unnamed Institution],English,﻿Cathedral Free Schools,,,,,﻿St. Paul,,﻿MN,,44.945918,-93.096646,,,,,,,,,,﻿child,﻿250 children,﻿taught of St. Joseph,,1861,﻿,﻿,﻿St. Paul,StPaul

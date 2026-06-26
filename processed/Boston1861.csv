@@ -33,9 +33,9 @@
 ﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.12529527,-71.10801661,,,,,﻿Rev.,﻿J. Flattely,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.12529527,-71.10801661,,,,,﻿Rev.,﻿T. McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿Church of Immaculate Conception,English,"﻿Stations - Canton, Milton, and Dorchester",﻿Stoughton,,,,﻿Stoughton,﻿Boston,﻿MA,,42.12529527,-71.10801661,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0054,﻿station,﻿St. Mary's,English,,,,,,﻿Canton,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0235,﻿station,[Unnamed Institution],English,,,,,,﻿Milton,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0245,﻿station,[Unnamed Institution],English,,,,,,﻿Dorchester,,﻿MA,,,,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0054,﻿station,﻿St. Mary's,English,,,,,,﻿Canton,,﻿MA,,42.1578,-71.1456,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0235,﻿station,[Unnamed Institution],English,,,,,,﻿Milton,,﻿MA,,42.275011,-71.067846,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0245,﻿station,[Unnamed Institution],English,,,,,,﻿Dorchester,,﻿MA,,42.3081,-71.062,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Church of the Holy Redeemer,English,﻿(E. B.),,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,﻿jam_fitton_001,﻿Rev.,﻿J. Fitton,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Point Shirley,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Winthrop,,,,﻿Winthrop,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

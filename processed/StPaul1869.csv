@@ -38,7 +38,7 @@
 ﻿stp.mn.0204,﻿church,﻿St. Mary,﻿German,,,,﻿Washington County,﻿Washington County,﻿Stillwater,,,,45.05208,-92.809727,,﻿,,﻿wil_lette_001,﻿Rev.,﻿William Lette,,,,,,,,1869,37.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0205,﻿station,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Oakdale,,,,44.963022,-92.964936,﻿stp.mn.0204,﻿Visited by Rev. William Lette,,,,,,,,,,,,1869,38.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0206,﻿station,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Malone,,,,44.756915,-92.820045,﻿stp.mn.0203,﻿Visited by Rev. Thomas Murray,,,,,,,,,,,,1869,39.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0112,﻿station,[Unnamed Institution],English,,"﻿Chisago, Isanti, Pine, and Kennebec",,﻿Chisago County,,﻿Princeton,,,,45.569965,-93.5816278,﻿stp.mn.0073,﻿Visited by Rev. Prosper Maurer,,,,,,,,,,,,1869,40.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0112,﻿station,[Unnamed Institution],English,,"﻿Chisago, Isanti, Pine, and Kennebec",,﻿Chisago County,,﻿Princeton,,,,45.569965,-93.581628,﻿stp.mn.0073,﻿Visited by Rev. Prosper Maurer,,,,,,,,,,,,1869,40.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0027,﻿station,[Unnamed Institution],English,,"﻿Chisago, Isanti, Pine, and Kennebec",,﻿Chisago County,﻿Chisago County,﻿Taylor's Falls,,,,45.401906,-92.652429,﻿stp.mn.0203,﻿Visited by Rev. Thomas Murray,,,,,,,,,,,,1869,41.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0028,﻿station,[Unnamed Institution],English,,"﻿Chisago, Isanti, Pine, and Kennebec",,﻿Chisago County,﻿Chisago County,﻿Sunrise,,,,45.546905,-92.854936,﻿stp.mn.0203,﻿Visited by Rev. Thomas Murray,,,,,,,,,,,,1869,42.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0030,﻿station,[Unnamed Institution],English,,"﻿Chisago, Isanti, Pine, and Kennebec",,﻿Chisago County,﻿Chisago County,﻿Rusheba,,,,45.696164,-92.911209,﻿stp.mn.0203,﻿Visited by Rev. Thomas Murray,,,,,,,,,,,,1869,43.0,﻿,﻿,﻿St. Paul,StPaul
@@ -88,7 +88,7 @@
 ﻿stp.mn.0119,﻿church,﻿Church of St. George,English,,,,﻿Nicolet County,﻿Nicollet County,﻿West-Newton,,,,44.403576,-94.541814,﻿stp.mn.0017,﻿Visited by Rev. Wm. Kibler,,,,,,,,,,,,1869,87.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0137,﻿station,[Unnamed Institution],English,,,,﻿Renville County,﻿Nicollet County,﻿Fort Ridgly,,,,44.453366,-94.734795,﻿stp.mn.0017,﻿Visited by Rev. Wm. Kibler,,,,,,,,,,,,1869,88.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0012,﻿church,﻿Church of St. Philip,English,,,,﻿Blue Earth County,﻿Blue Earth County,﻿Mankato,,,,44.163578,-93.9994,,﻿,,﻿v_sommereisen_001,﻿Rev.,﻿V. Sommereisen,,,,,,,,1869,89.0,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0048,﻿church,﻿Church of St. John Baptist,English,,,,﻿Blue Earth County,,﻿Minnesota Lake,,,,43.8409654,-93.831085,﻿stp.mn.0012,﻿Visited by Rev. V. Sommereisen,,,,,,,,,,,,1869,90.0,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0048,﻿church,﻿Church of St. John Baptist,English,,,,﻿Blue Earth County,,﻿Minnesota Lake,,,,43.840965,-93.831085,﻿stp.mn.0012,﻿Visited by Rev. V. Sommereisen,,,,,,,,,,,,1869,90.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0013,﻿station,[Unnamed Institution],English,,﻿Agency,,﻿Blue Earth County,﻿Faribault County,﻿Winnebago,,,,44.076634,-93.858574,﻿stp.mn.0012,﻿Visited by Rev. V. Sommereisen,,,,,,,,,,,,1869,91.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0014,﻿station,[Unnamed Institution],English,,,,﻿Blue Earth County,﻿Blue Earth County,﻿Watowan,,,,44.025576,-94.22841,﻿stp.mn.0012,﻿Visited by Rev. V. Sommereisen,,,,,,,,,,,,1869,92.0,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0017,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Brown County,﻿Brown County,﻿New-Ulm,,,,44.314439,-94.459302,,﻿,,﻿wm_kibler_001,﻿Rev.,﻿Wm. Kibler,,,,,,,,1869,93.0,﻿,﻿,﻿St. Paul,StPaul
