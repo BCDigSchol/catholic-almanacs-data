@@ -10,7 +10,7 @@
 ﻿bal.md.0005,﻿church,﻿St. John's,English,,﻿Eager and Valley streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.301051,-76.604589,,,,﻿ber_j_mcmanus_001,﻿Rev.,﻿Bernard J. McManus,﻿P.P.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0006,﻿church,﻿St. Ignatius',English,,﻿corner of Calvert and Madison streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.298431,-76.613058,,,,﻿jos_ocallaghan_001,﻿Rev.,﻿Joseph O'Callaghan,﻿S.J.,,﻿and other Priests of Loyola College,,,﻿and other priests of Loyola College,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0007,﻿church,﻿St. Joseph's,English,,﻿corner of Barre and Howard streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.283171,-76.617769,,,,﻿mic_slattery_001,﻿Rev.,﻿Michael Slattery,﻿P.P.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0007,﻿church,﻿St. Joseph's,English,,﻿corner of Barre and Howard streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.283171,-76.617769,,,,﻿wil_mahony_002,﻿Rev.,﻿William Mahony,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0007,﻿church,﻿St. Joseph's,English,,﻿corner of Barre and Howard streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.283171,-76.617769,,,,﻿wm_mahony_001,﻿Rev.,﻿William Mahony,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0009,﻿church,﻿Immaculate Conception,English,,﻿Mosher and Division streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.303579,-76.630765,,,,﻿jos_j_giustiniani_001,﻿Rev.,﻿J. Giustiniani,﻿C.M.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0009,﻿church,﻿Immaculate Conception,English,,﻿Mosher and Division streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.303579,-76.630765,,,,﻿den_leyden_002,﻿Rev.,﻿Dennis Leyden,﻿C.M.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0010,﻿church,﻿St. Alphonsus',﻿German,,﻿corner of Saratoga and Park streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.293259,-76.617952,,,,﻿geo_ruland_003,﻿Rev.,﻿George Ruland,﻿C.SS.R.,﻿Rector,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
@@ -133,7 +133,7 @@
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿sta_ferté_001,﻿Rev.,﻿Stanislaus Ferté,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿alp_flammant_001,﻿Rev.,﻿Alphonsus J. Flammant,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿pau_f_dissez_001,﻿Rev.,﻿P. F. Dissez,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿m_lequerré_001,﻿Rev.,﻿M. Lequerré,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿urb_lequerre_001,﻿Rev.,﻿M. Lequerré,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Theological Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,39.36054,-76.639792,,,,﻿ale_j_elder_001,﻿Rev.,﻿A. J. Elder,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0157_02,﻿seminary,﻿Mount St. Mary's Theological Seminary,English,,﻿near Emmitsburg,,,,,,﻿MD,,39.679965,-77.35494,,,,﻿joh_h_mccaffrey_001,﻿Very Rev.,﻿John McCaffrey,﻿D.D.,﻿President,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0157_02,﻿seminary,﻿Mount St. Mary's Theological Seminary,English,,﻿near Emmitsburg,,,,,,﻿MD,,39.679965,-77.35494,,,,﻿hen_mcmurdie_001,﻿Rev.,﻿Henry McMurdie,,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
@@ -172,7 +172,7 @@
 ﻿bal.md.0133,﻿novitiate,﻿Novitiate of the Society of Jesus,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.416489,-77.406617,,,,﻿geo_schneider_001,﻿Rev.,﻿Geo. Schneider,﻿S.J.,﻿Instructor,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0133,﻿novitiate,﻿Novitiate of the Society of Jesus,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.416489,-77.406617,,,,﻿j_b_de-wolf_001,﻿Rev.,﻿J. B. De Wolf,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0133,﻿novitiate,﻿Novitiate of the Society of Jesus,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.416489,-77.406617,,,,﻿ale_l_hitselberger_001,﻿Rev.,﻿A. L. Hitselberger,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0133,﻿novitiate,﻿Novitiate of the Society of Jesus,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.416489,-77.406617,,,,﻿a_j_ward_001,﻿Rev.,﻿A. J. Ward,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0133,﻿novitiate,﻿Novitiate of the Society of Jesus,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.416489,-77.406617,,,,﻿jam_a_ward_001,﻿Rev.,﻿A. J. Ward,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0139,﻿convent,﻿Carmelite Convent,English,,﻿62 Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.305333,-76.602235,,,,,﻿Rev. Mother,﻿Alexia Smith,,﻿Prioress,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0140,﻿convent,﻿Convent of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.9089,-77.069401,,,,,﻿Mother,﻿Mary Joseph Keating,,﻿Superior,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0141,﻿convent,﻿Convent of the Visitation,English,,﻿corner Park and Centre streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627,-76.618323,,,,,﻿Mother,﻿Mary Leonard Neale,,﻿Superior,,,,,,1861,﻿,﻿,﻿Baltimore,Baltimore

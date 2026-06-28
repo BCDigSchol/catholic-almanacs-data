@@ -108,7 +108,7 @@
 ﻿san.nm.0105,﻿church,﻿San Juan de los Cavalleros,English,,﻿Indian Pueblo,﻿San Juan de los Cavalleros,,,,﻿Ohkay Owingeh,﻿NM,,36.052801,-106.070579,,,,﻿f_boucard_001,﻿Rev.,﻿F. Boucard,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0107,﻿chapel,﻿Chapel of Na. Sen. de la Soledad,English,,,﻿San Juan de los Cavalleros,,,﻿La Villita,﻿La Villita,﻿NM,,34.972731,-105.032363,﻿san.nm.0091,﻿Attended from San Juan,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0109,﻿chapel,﻿Chapel of Na. Sen. de Guadalupe,English,,,﻿San Juan de los Cavalleros,,,﻿La Jolla,﻿La Joya,﻿NM,,34.345639,-106.845692,﻿san.nm.0091,﻿Attended from San Juan,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0229,﻿chapel,[Unnamed Institution],English,,,,,,﻿San Antonio,﻿San Antonio,﻿NM,,34.345,-106.846667,﻿san.nm.0091,﻿Attended from San Juan,,﻿joh_guérin_001,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0229,﻿chapel,[Unnamed Institution],English,,,,,,﻿San Antonio,﻿San Antonio,﻿NM,,,,﻿san.nm.0091,﻿Attended from San Juan,,﻿joh_guérin_001,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0112,﻿chapel,[Unnamed Institution],English,,,﻿San Juan de los Cavalleros,,,﻿El Embudo,﻿Embudo,﻿NM,,36.207523,-105.961132,﻿san.nm.0091,﻿Attended from San Juan,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0111,﻿chapel,[Unnamed Institution],English,,,﻿San Juan de los Cavalleros,,,﻿Chamita,﻿Chamita,﻿NM,,36.075301,-106.104067,﻿san.nm.0091,﻿Attended from San Juan,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0113,﻿church,[Unnamed Institution],English,,﻿Parish Church,﻿San Miguel del Vado,,,﻿San Miguel del Vado,﻿Ribera/San Miguel del Vado,﻿NM,,35.364998,-105.449987,,,,﻿jua_guérin_002,﻿Rev.,﻿Juan Guerin,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
@@ -120,7 +120,7 @@
 ﻿san.nm.0118,﻿chapel,[Unnamed Institution],English,,,﻿San Miguel del Vado,,,﻿Bernal,﻿Bernal,﻿NM,,35.392823,-105.317509,﻿san.nm.0133,﻿Attended from San Miguel,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0133,﻿church,﻿Parish Church of San Miguel,English,,,﻿Socorro,,,﻿Socorro,﻿Socorro,﻿NM,,34.0584,-106.891416,,,,﻿ben_bernard_001,﻿Rev.,﻿Benito Bernard,﻿Assistant,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0236,﻿church,[Unnamed Institution],English,,,﻿Socorro,,,﻿San Lorenzo,﻿San Lorenzo,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0229,﻿church,[Unnamed Institution],English,,,﻿Socorro,,,﻿La Jolla,﻿La Joya,﻿NM,,34.345,-106.846667,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0229,﻿church,[Unnamed Institution],English,,,﻿Socorro,,,﻿La Jolla,﻿La Joya,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0230,﻿church,[Unnamed Institution],English,,,﻿Socorro,,,﻿La Jollita,﻿La Jollita,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,﻿gab_ussel_001,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0136,﻿chapel,[Unnamed Institution],English,,,﻿Socorro,,,﻿El Sabino,﻿Sabinal,﻿NM,,34.15803,-106.916072,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0237,﻿chapel,[Unnamed Institution],English,,,,,,﻿Valverde,﻿Val Verde,﻿NM,,,,﻿san.nm.0133,﻿Attended from Socorro,,,,,,,,,,,,1865,﻿,﻿,﻿Santa Fe,SantaFe

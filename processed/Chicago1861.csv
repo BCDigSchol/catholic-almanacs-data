@@ -20,7 +20,7 @@
 ﻿chi.il.0013,﻿church,﻿St. James',English,"﻿Residence, Carville",﻿Carville,,,,﻿Chicago,﻿Chicago,﻿IL,,41.843843,-87.617451,,,,﻿pet_corcoran_001,﻿Rev.,﻿Peter Corcoran,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0009,﻿church,﻿St. Bridget's,English,"﻿Residence, Carville. High Mass at 10 1/2; Vespers, 3.",﻿Bridgeport,,,,﻿Chicago,﻿Chicago,﻿IL,,41.841201,-87.65945,,,,﻿joh_h_grogan_001,﻿Rev.,﻿John H. Grogan,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0006,﻿church,﻿Immaculate Conception,English,"﻿Residence, 497 North Franklin street. High Mass at 10 1/2; Vespers, 3.",﻿Corner of North Franklin and Schiller streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.908438,-87.636397,,,,﻿wil_edwards_001,﻿Rev.,﻿William Edwards,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0012,﻿church,﻿St. Columbkille's,English,"﻿Residence, Indiana street, adjoining church. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Paulina and Owen streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.6654,-87.617363,,,,﻿edw_kenney_001,﻿Rev.,﻿Edward Kenney,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0012,﻿church,﻿St. Columbkille's,English,"﻿Residence, Indiana street, adjoining church. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Paulina and Owen streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.882897,-87.652048,,,,﻿edw_kenney_001,﻿Rev.,﻿Edward Kenney,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0010,﻿church,﻿St. John's,English,"﻿Residence at the church. High Mass at 10 1/2; Vespers, 3.",﻿Corner of Clark and Old streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.857961,-87.629995,,,,﻿joh_waldron_001,﻿Rev.,﻿John Waldron,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,41.713287,-89.328133,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clarke,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.760585,-88.320071,,,,﻿w_power_001,﻿Rev.,﻿W. A. Power,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -109,8 +109,8 @@
 ﻿chi.il.0386,﻿church,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Warsaw,,﻿IL,,,,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0115,﻿church,﻿St. Rose of Lima,English,,,,﻿Will County,,﻿Wilmington,﻿Wilmington,﻿IL,,41.304076,-88.143401,,,,﻿hya_indthout_001,﻿Rev.,﻿Hyacinth Indthout,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0058,﻿church,[Unnamed Institution],English,,,,﻿McHenry County,,﻿Woodstock,﻿Hartland,﻿IL,,42.378193,-88.490353,﻿chi.il.0058,﻿Attended from Hartland,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,﻿IL,,,,,,,﻿jam_dillon_001,﻿Rev.,﻿James Dillon,,﻿President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,﻿IL,,,,,,,﻿p_cooney_002,﻿Rev.,﻿P. Cooney,﻿SS.C.,﻿Vice President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,﻿IL,,41.896601,-87.62705,,,,﻿jam_dillon_001,﻿Rev.,﻿James Dillon,,﻿President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,﻿IL,,41.896601,-87.62705,,,,﻿p_cooney_002,﻿Rev.,﻿P. Cooney,﻿SS.C.,﻿Vice President,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0429,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿religious,﻿10 brothers,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0429,﻿parochial school,﻿Parochial School for Boys,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿student,﻿740 students,﻿Under direction of the Brothers of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,﻿religious,﻿20 religious,﻿Under the direction of the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
