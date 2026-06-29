@@ -1,772 +1,772 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
-,,,English,,,,,,,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,SanFrancisco,SanFrancisco
+﻿sanf.ca.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,﻿corner of California and Dupont sts.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.792652,﻿-122.405867,,,,,﻿Most Rev.,﻿Joseph S. Alemany,﻿D.D.,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,﻿corner of California and Dupont sts.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.792652,﻿-122.405867,,,,﻿jam_crooke_001,﻿Very Rev.,﻿James Croke,﻿V.G.,﻿Rector,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,﻿corner of California and Dupont sts.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.792652,﻿-122.405867,,,,,﻿Rev.,﻿John H. Harrington,,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,﻿corner of California and Dupont sts.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.792652,﻿-122.405867,,,,,﻿Rev.,﻿James S. Cotter,,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0002,﻿church,"﻿Mission of Dolores, St. Francis",English,,,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.764324,﻿-122.427032,,,,﻿joh_j_prendergast_001,﻿Rev.,﻿Richard Carroll,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0002,﻿church,"﻿Mission of Dolores, St. Francis",English,,,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.764324,﻿-122.427032,,,,,﻿Rev.,﻿John J. Prendergast,,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0003,﻿church,﻿St. Francis of Assisium,﻿Spanish,﻿Sermon in Spanish at 8 1/2 o'clock,﻿Vallejo sreet,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.798964,﻿-122.407721,,,,,﻿Very Rev.,﻿Peter Magagnotto,﻿V.G.,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0003,﻿church,﻿St. Francis of Assisium,﻿Spanish,﻿Sermon in Spanish at 8 1/2 o'clock,﻿Vallejo sreet,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.798964,﻿-122.407721,,,,,﻿Rev.,﻿Thomas Cian,,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0004,﻿church,﻿St. Patrick's,English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.785588,﻿-122.403508,,,,,﻿Rev.,﻿John Maginnis,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0004,﻿church,﻿St. Patrick's,English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.785588,﻿-122.403508,,,,﻿mic_kling_001,﻿Rev.,﻿Michael King,,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0005,﻿church,﻿St. Ignatius',English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.784929,﻿-122.406863,,,,,﻿Rev.,﻿A. Maraschi,﻿S.J.,﻿Pastor,﻿and others of thes same Society,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0005,﻿church,﻿St. Ignatius',English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Nicholas Grassi,﻿S.J.,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0005,﻿church,﻿St. Ignatius',English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Paul Raffo,﻿S.J.,﻿Assistant Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0006,﻿church,﻿Notre Dame des Victoires,﻿French,﻿Sermon in French,﻿Bush street,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.79059,﻿-122.406449,,,,,﻿Rev.,﻿Dominic Blaire,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0007,﻿church,﻿St. Boniface,﻿German,﻿Sermon in Germ.,﻿Sutter st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,﻿37.78167,﻿-122.413081,,,,﻿seb_wolf_001,﻿Rev.,﻿Sebastian Wolf,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0014,﻿church,﻿St. Michael's,English,,,,﻿Calaveras County,﻿Calaveras County,﻿Angels,﻿City of Angels,﻿CA,,﻿38.067783,﻿-120.53853,﻿sanf.ca.0053,﻿attended from San Andres,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0015,﻿church,﻿St. Teresa,English,,,,﻿Placer County,﻿Placer County,﻿Auburn,﻿Auburn,﻿CA,,﻿38.933558,﻿-121.100354,,﻿attended from Folsom,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0019,﻿church,﻿St. Martin's,English,,,,﻿Amador County,﻿Amador County,﻿Butte City,﻿Butte City,﻿CA,,﻿38.325762,﻿-120.737048,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0120,﻿church,﻿St. James',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Campo Seco,﻿Campo Seco,﻿CA,,﻿38.222656,﻿-120.857252,﻿sanf.ca.0053,﻿attended from San Andres,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0120,﻿church,﻿St. Patrick's,English,,,,﻿Nevada County,﻿Calaveras County,﻿Cherokee,﻿Campo Seco,﻿CA,,﻿#REF!,﻿#REF!,,﻿attended from Grass Valley,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0021,﻿church,[Unnamed Institution],English,,,,﻿El Dorado County,﻿El Dorado County,﻿Coloma,﻿Coloma,﻿CA,,﻿38.799921,﻿-120.890292,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0022,﻿church,﻿St. Anne's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,﻿38.03076,﻿-120.404527,,,,,﻿Rev.,﻿Peter Grey,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0020,﻿church,[Unnamed Institution],English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Chinese Camp,﻿Chinese Camp,﻿CA,,﻿37.870451,﻿-120.429455,﻿sanf.ca.0068,﻿attended from Sonora,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0020,﻿church,﻿St. Mary's,English,,,,﻿Sierra County,﻿Tuolumne County,﻿Downieville,﻿Chinese Camp,﻿CA,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Cornelius Delahunty,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0121,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Drytown,﻿Drytown,﻿CA,,﻿38.441111,﻿-120.854444,﻿sanf.ca.0077,﻿attended from Volcano,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0025,﻿church,﻿St. John Baptist,English,,,,﻿Sacramento County,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,﻿38.681493,﻿-121.154055,,,,,﻿Rev.,﻿J. A. Gallaher,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0025,﻿church,﻿St. John Baptist,English,,,,﻿Sierra County,﻿Sacramento County,﻿Forest City,﻿Folsom,﻿CA,,﻿#REF!,﻿#REF!,,﻿attended from Downieville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0025,﻿church,﻿St. Joseph's,English,,,,﻿Placer County,﻿Sacramento County,﻿Forest Hill,﻿Folsom,﻿CA,,﻿#REF!,﻿#REF!,,﻿attended from Placerville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0025,﻿church,﻿St. Patrick's,English,,,,﻿Shasta County,﻿Sacramento County,﻿French Gulch,﻿Folsom,﻿CA,,﻿#REF!,﻿#REF!,,﻿attended from Weaverville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0026,﻿church,[Unnamed Institution],English,,,,﻿El Dorado County,﻿El Dorado County,﻿Georgetown,﻿Georgetown,﻿CA,,﻿38.905893,﻿-120.832834,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0026,﻿church,﻿St. Mary's,English,,,,﻿Sierra County,﻿El Dorado County,﻿Goodyear's Bar,﻿Georgetown,﻿CA,,﻿#REF!,﻿#REF!,,﻿attended from Downieville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0026,﻿church,﻿St. Patrick's,English,,,,﻿Nevada County,﻿El Dorado County,﻿Grass Valley,﻿Georgetown,﻿CA,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Thomas J. Dalton,,﻿Pastor,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Imm. Conception,English,,,,﻿El Dorado County,﻿El Dorado County,﻿Grizly Flat,﻿Grizzly Flats,﻿CA,,﻿38.638237,﻿-120.526365,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,﻿Attended from Weaverville,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0027,﻿church,﻿Assumption,English,,,,﻿Shasta County,﻿El Dorado County,﻿Horsetown,﻿Grizzly Flats,﻿CA,,﻿#REF!,﻿#REF!,,,,,,,,,,,,,,1861,﻿,﻿,﻿San Francisco,SanFrancisco
