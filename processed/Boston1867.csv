@@ -50,7 +50,7 @@
 ﻿bos.ma.0047,﻿church,﻿St. Thomas Aquinas',English,,,,,,"﻿Bridgewater, South",﻿South Bridgewater,﻿MA,,41.997624,-70.988202,,,,﻿m_t_maguire_001,﻿Rev.,﻿M. Maguire,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0046,﻿church,﻿St. Patrick's,English,,,,,,"﻿Bridgewater, North",﻿North Bridgewater,﻿MA,,41.990352,-70.975054,,,,﻿t_b_mcnulty_001,﻿Rev.,﻿T. B. McNulty,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0039,﻿church,﻿St. Joseph's,English,,,,,,﻿Barré,﻿Barre,﻿MA,,42.42139,-72.104682,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0039,﻿church,﻿St. Joseph's,English,﻿church building,,,,,﻿Brookfield,﻿Barre,﻿MA,,42.42139,-72.104682,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0039,﻿church,﻿St. Joseph's,English,﻿church building,,,,,﻿Brookfield,﻿Barre,﻿MA,,42.213889,-72.102778,﻿bos.ma.0180,﻿Attended from Ware,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0038,﻿church,[Unnamed Institution],English,,,,,,﻿Barnstable,﻿Barnstable,﻿MA,,41.700321,-70.300202,﻿bos.ma.0154,﻿Attended from Sandwich,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0045,﻿church,[Unnamed Institution],English,,,,,,﻿Braintree,﻿Braintree,﻿MA,,42.207902,-71.004001,﻿bos.ma.0146,﻿Attended from Quincy,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0055,﻿church,﻿St. Mary's,English,,,,,,﻿Charlestown,﻿Charlestown,﻿MA,,42.373967,-71.061543,,,,﻿geo_a_hamilton_002,﻿Rev.,﻿George A. Hamilton,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -80,7 +80,7 @@
 ﻿bos.ma.0075,﻿church,﻿St. Bernard's,English,,﻿(new church building),,,,﻿Fitchburgh,﻿Fitchburg,﻿MA,,42.57735,-71.784495,,,,﻿cor_m_foley_001,﻿Rev.,﻿Cornelius Foley,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0074,﻿church,﻿St. Mary's,English,,,,,,﻿Fall River,﻿Fall River,﻿MA,,41.698991,-71.157545,,,,﻿edw_murphy_001,﻿Rev.,﻿Edward Murphy,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0080,﻿church,﻿St. Ann's,English,,,,,,﻿Gloucester,﻿Gloucester,﻿MA,,42.615934,-70.663068,,,,﻿lui_acquarone_001,﻿Rev.,﻿Luigi Acquarone,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0080,﻿church,﻿St. Peter's,English,,,,,,﻿Great Barrington,﻿Gloucester,﻿MA,,42.615934,-70.663068,,,,﻿pet_menietti_001,﻿Rev.,﻿Peter Menietti,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0080,﻿church,﻿St. Peter's,English,,,,,,﻿Great Barrington,﻿Gloucester,﻿MA,,42.197782,-73.358448,,,,﻿pet_menietti_001,﻿Rev.,﻿Peter Menietti,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0081,﻿church,﻿St. Philip's,English,,,,,,﻿Grafton,﻿Grafton,﻿MA,,42.204838,-71.688938,﻿bos.ma.0192,﻿Attended from St. Ann's Worcester,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0084,﻿church,﻿St. Mary's,English,,,,,,﻿Groton,﻿Groton,﻿MA,,42.611202,-71.574515,﻿bos.ma.0075,﻿Attended from Fitchburgh,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Greenfield,﻿Greenfield,﻿MA,,42.587915,-72.59941,﻿bos.ma.0134,﻿Attended from Northampton,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -89,7 +89,7 @@
 ﻿bos.ma.0088,﻿church,[Unnamed Institution],English,﻿church lot bought,,,,,﻿Hingham,﻿Hingham,﻿MA,,42.241817,-70.889759,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0092,﻿church,﻿St. Jerome's,English,,,,,,﻿Holyoke,﻿Holyoke,﻿MA,,42.209661,-72.608279,,,,﻿p_j_harkins_001,﻿Rev.,﻿P. J. Harkins,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0086,﻿church,﻿Holy Trinity,English,,,,,,﻿Harwick,﻿Harwich,﻿MA,,41.669628,-70.100297,﻿bos.ma.0154,﻿Attended from Sandwich,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0086,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,﻿Harwich,﻿MA,,41.669628,-70.100297,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0086,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,﻿Harwich,﻿MA,,42.437944,-73.12789,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0096,﻿church,[Unnamed Institution],English,,﻿Hyde Park,,,,﻿Hyde Park,﻿Boston,﻿MA,,42.255662,-71.125585,,﻿Attended from Dorchester,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0091,﻿church,[Unnamed Institution],English,,,,,,﻿Holliston,﻿Holliston,﻿MA,,42.201263,-71.424718,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0242,﻿church,[Unnamed Institution],English,,,,,,﻿Hadley,,﻿MA,,42.341667,-72.588889,﻿bos.ma.0092,﻿Attended from Holyoke,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -143,8 +143,8 @@
 ﻿bos.ma.0147,﻿church,﻿St. Mary's,English,,,,,,﻿Randolph,﻿Randolph,﻿MA,,42.168711,-71.032548,,,,﻿jam_mcglew_001,﻿Rev.,﻿James McGlew,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0147,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.168711,-71.032548,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O. Beirne,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0147,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.168711,-71.032548,,,,﻿w_j_denvir_001,﻿Rev.,﻿W. J. J. Denvir,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0147,﻿church,﻿St. Francis de Sales',English,﻿(new church building),,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.168711,-71.032548,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0147,﻿church,﻿St. Francis de Sales',English,﻿(new church building),,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.168711,-71.032548,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0147,﻿church,﻿St. Francis de Sales',English,﻿(new church building),,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.333637,-71.090345,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0147,﻿church,﻿St. Francis de Sales',English,﻿(new church building),,,,,﻿Roxbury,﻿Randolph,﻿MA,,42.333637,-71.090345,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,﻿mic_hartney_001,﻿Rev.,﻿Michael Hartney,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0152,﻿church,﻿Immaculate Conception,English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.519747,-70.895463,,,,﻿jam_quinlan_001,﻿Rev. Father,﻿Quinlan,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0151,﻿church,﻿St. James',English,,,,,,﻿Salem,﻿Salem,﻿MA,,42.520512,-70.905132,,,,﻿w_j_daly_001,﻿Rev.,﻿W. J. Daly,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -206,7 +206,7 @@
 ﻿bos.ma.0214,﻿house,﻿Home for Destitute Roman Catholic Children,English,"﻿established in July, 1864",﻿No. 10 Common street,,,,﻿Boston,﻿Boston,﻿MA,,42.373861,-71.060156,,,,,﻿Sister,﻿Almida,,﻿Sister-Servant,,﻿religious,﻿3 Sisters of Charity,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0214,﻿house,﻿Home for Destitute Roman Catholic Children,English,"﻿established in July, 1864",﻿No. 10 Common street,,,,﻿Boston,﻿Boston,﻿MA,,42.373861,-71.060156,,,,,,,,,,﻿child,﻿35 children,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0214,﻿house,﻿Home for Destitute Roman Catholic Children,English,"﻿established in July, 1864",﻿No. 10 Common street,,,,﻿Boston,﻿Boston,﻿MA,,42.373861,-71.060156,,,,,,,,,,﻿child,﻿250 children,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0214,﻿convent,﻿Convent of the Sisters of Mercy,English,"﻿charged with the care and instruction of the poor and the sick. They have 8 Sunday-schools,  and Sodalities and Confraternities for females, young and old. They have also opened a hospital on their own grounds for the sick of their own sex.",﻿No. 10 Common street,,,,﻿Worcester,﻿Boston,﻿MA,,42.373861,-71.060156,,,,,,,,,,﻿child,﻿250 children,﻿Sisters of Mercy,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0214,﻿convent,﻿Convent of the Sisters of Mercy,English,"﻿charged with the care and instruction of the poor and the sick. They have 8 Sunday-schools,  and Sodalities and Confraternities for females, young and old. They have also opened a hospital on their own grounds for the sick of their own sex.",﻿No. 10 Common street,,,,﻿Worcester,﻿Boston,﻿MA,,42.263651,-71.789641,,,,,,,,,,﻿child,﻿250 children,﻿Sisters of Mercy,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Convent,English,"﻿have charge of Sunday-schools, night-schools, and of a newly-erected hospital for females",,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,﻿Mother,﻿Jerome Shubrick,,﻿Superioress,,﻿religious,﻿4 choir Sisters of Mercy,﻿4 choir Sisters of Mercy,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192_02,﻿convent,﻿St. Ann's Convent,English,"﻿have charge of Sunday-schools, night-schools, and of a newly-erected hospital for females",,,,,﻿Worcester,﻿Worcester,﻿MA,,42.157506,-71.882202,,,,,,,,,,﻿religious,﻿1 lay sister,﻿4 choir Sisters of Mercy,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,"﻿academy, school",﻿Notre Dame Academy and Boarding-School,English,,,,,,﻿Roxbury,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿student,﻿60 pupils,,,1867,﻿,﻿,﻿Boston,Boston
