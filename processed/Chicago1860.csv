@@ -22,7 +22,7 @@
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.760585,-88.320071,,,,,﻿Rev.,﻿John Boyle,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0123,﻿church,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,,﻿IL,,42.08205,-88.370096,﻿chi.il.0045,﻿Attended from Elgin,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0440,﻿church,﻿St. Anne's,English,﻿interdicted,,,﻿Iroquois County,,﻿Beaver,,,,,,,,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,﻿IL,,,,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,﻿IL,,40.79487,-89.46304,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLane County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525,-88.994229,,,,﻿t_kennedy_002,﻿Rev.,﻿Thomas Kennedy,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLane County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525,-88.994229,,,,,﻿Rev.,﻿John Tierny,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Maternity B.V.M.,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.156489,-87.876276,,,,,﻿Rev.,﻿A. Maillaux,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -37,7 +37,7 @@
 ﻿chi.il.0416,﻿church,[Unnamed Institution],English,,,,﻿Dewitt County,,﻿Clinton,,﻿IL,,,,﻿chi.il.0031,﻿Attended from Bloomington,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,,﻿Dixon,﻿Dixon,﻿IL,,41.837361,-89.483878,,,,,﻿Rev.,﻿Michael Forde,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0417,﻿church,[Unnamed Institution],English,,,,﻿Gundy County,,﻿Dresden,,﻿IL,,,,﻿chi.il.0086,﻿Attended from Morris,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0380,﻿church,[Unnamed Institution],English,,,,﻿Vermillion County,,﻿Danville,,﻿IL,,,,﻿chi.il.0428,﻿Attended from Urbana,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0380,﻿church,[Unnamed Institution],English,,,,﻿Vermillion County,,﻿Danville,,﻿IL,,40.120824,-87.621286,﻿chi.il.0428,﻿Attended from Urbana,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,,﻿IL,,,,﻿mil.wi.0457,﻿Attended from Sinsinnawa Mound College,,,﻿Rev.,﻿Mr. Geraghty,﻿O.S.D.,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0418,﻿church,﻿St. John the Baptist,English,,,,﻿McHenry County,,﻿Dutchtown,,﻿IL,,,,,,,﻿tho_fraunhofer_002,﻿Rev.,﻿Mr. Fraunhofer,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0145,﻿church,﻿St. Ann's,English,,,,﻿Lake County,,﻿Dwyer's Settlement,,﻿IL,,42.288255,-87.857961,﻿chi.il.0338,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -54,7 +54,7 @@
 ﻿chi.il.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cook County,,﻿Gross Point,﻿Wilmette,﻿IL,,42.079354,-87.721917,,,,,﻿Rev.,﻿Anthony Kopp,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0349,﻿church,[Unnamed Institution],English,,,,﻿Rock Island County,,﻿Hampton,,﻿IL,,41.555556,-90.404722,,,,﻿j_a_alleman_001,﻿Rev.,﻿J. G. Alleman,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0058,﻿church,﻿St. Anthony,English,,,,﻿McHenry County,,﻿Hartland and Woodstock,﻿Hartland,﻿IL,,42.378193,-88.490353,,,,,﻿Rev.,﻿James Maher,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0381,﻿church,[Unnamed Institution],English,,,,﻿Putnam County,,﻿Hennepin,,﻿IL,,,,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0381,﻿church,[Unnamed Institution],English,,,,﻿Putnam County,,﻿Hennepin,,﻿IL,,41.24691,-89.33956,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0061,﻿church,﻿St. Mary's,English,,,,﻿Marshall County,,﻿Henry,﻿Henry,﻿IL,,41.111425,-89.356478,,,,,﻿Rev.,﻿Walter A. Power,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0169,﻿church,[Unnamed Institution],English,,,,﻿La Salle County,,﻿Homer,,﻿IL,,41.467555,-89.083377,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0170,﻿church,[Unnamed Institution],English,,,,﻿Stevenson County,,﻿Irish Grove,,﻿IL,,42.379997,-89.407746,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -67,7 +67,7 @@
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿Michael O'Reilly,﻿C.M.,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿J. Moré,﻿C.M.,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0377,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,,﻿L'Erable,,﻿IL,,,,,,,,﻿Rev.,﻿Mr. Brissard,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0377,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,,﻿L'Erable,,﻿IL,,40.902698,-87.846695,,,,,﻿Rev.,﻿Mr. Brissard,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.154571,-89.367972,﻿chi.il.0031,﻿Attended from Bloomington,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0075,﻿church,﻿St. Denis',English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,41.585151,-88.056978,,,,﻿m_hurley_001,﻿Rev.,﻿Michael Hurley,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. Bridget's,English,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,42.383105,-88.242148,,,,﻿tho_fraunhofer_002,﻿Rev.,﻿Mr. Fraunhofer,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
@@ -91,7 +91,7 @@
 ﻿chi.il.0425,﻿church,﻿St. Charles,English,,,,﻿Lee County,,﻿Palestine Grove,,﻿IL,,,,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0093,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.694837,-89.584525,,,,,﻿Rev.,﻿Henry Coyle,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0094,﻿church,[Unnamed Institution],﻿German,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.689067,-89.604392,,,,,﻿Rev.,﻿Mr. Niebuhr,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0383,﻿church,[Unnamed Institution],English,,,,﻿Lee County,,﻿Perkins Grove,,﻿IL,,,,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0383,﻿church,[Unnamed Institution],English,,,,﻿Lee County,,﻿Perkins Grove,,﻿IL,,41.599664,-89.304626,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0426,﻿church,[Unnamed Institution],English,,,,﻿Cook County,,﻿Ridgeville,,﻿IL,,,,﻿chi.il.0198,﻿Attended from New Trier,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0427,﻿church,[Unnamed Institution],English,,,,﻿Cook County,,﻿Richtown,,﻿IL,,,,﻿chi.il.0090,﻿Attended from New Strasburg,,,,,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,42.271242,-89.085029,,,,,﻿Rev.,﻿J. Boulger,,,,,,,,1860,﻿,﻿,﻿Chicago,Chicago

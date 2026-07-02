@@ -29,10 +29,10 @@
 ﻿chi.il.0012,﻿church,﻿St. Columbkille's,English,"﻿Residence, Indiana street, adjoining church",﻿Corner of Paulina and Indiana streets,,,,﻿Chicago,﻿Chicago,﻿IL,,41.882897,-87.652048,,,,,﻿Rev.,﻿Thomas C. Bourk,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0014,﻿church,﻿St. Louis',English,"﻿Residence, Bishop's house","﻿Sherman street, near Polk",,,,﻿Chicago,﻿Chicago,﻿IL,,41.872248,-87.632559,,﻿Attended from the Bishop's House,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0027,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,﻿Lee County,﻿Amboy,﻿Amboy,﻿IL,,41.713287,-89.328133,,,,﻿m_j_clarke_001,﻿Rev.,﻿Michael J. Clarke,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0373,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,,﻿Apple River,,,,,,,,,,﻿Rev.,﻿Peter Corcoran,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0373,﻿church,﻿St. Mary's,English,,,,﻿Jo Daviess County,,﻿Apple River,,,,42.500278,-90.093056,,,,,﻿Rev.,﻿Peter Corcoran,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0029,﻿church,﻿Sacred Heart,English,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.760585,-88.320071,,,,,﻿Rev.,﻿Michael O'Sullivan,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0030,﻿church,[Unnamed Institution],﻿German,,,,﻿Kane County,,﻿Aurora,﻿Aurora,﻿IL,,41.761358,-88.303203,,,,﻿j_westcamp_001,﻿Rev.,﻿Mr. Westcamp,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,,,,,,,,,﻿Rev.,﻿Thos. Fraunhofer,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,,,40.79487,-89.46304,,,,,﻿Rev.,﻿Thos. Fraunhofer,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525,-88.994229,,,,﻿t_kennedy_002,﻿Rev.,﻿Thomas Kennedy,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525,-88.994229,,,,﻿pet_campbell_001,﻿Rev.,﻿P. Campbell,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.156489,-87.876276,,,,,﻿Rev.,﻿P. Ducroux,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -58,7 +58,7 @@
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿Mark Anthony,﻿C.M.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿Edward Hennessy,﻿C.M.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,41.331781,-89.095748,,,,,﻿Rev.,﻿Mr. Gleeson,﻿C.M.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0377,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,,﻿L'Erable,,,,,,,,,﻿jac_coté_001,﻿Rev.,﻿J. Coté,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0377,﻿church,﻿St. John the Baptist,English,,,,﻿Iroquois County,,﻿L'Erable,,,,40.902698,-87.846695,,,,﻿jac_coté_001,﻿Rev.,﻿J. Coté,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,40.154571,-89.367972,,,,,﻿Rev.,﻿Mr. Martini,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0075,﻿church,﻿St. Denis',English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,41.585151,-88.056978,,,,﻿m_hurley_001,﻿Rev.,﻿Michael Hurley,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. John the Baptist,English,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,42.383105,-88.242148,,,,,﻿Rev.,﻿Hermann Liermann,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -79,7 +79,7 @@
 ﻿chi.il.0095,﻿church,﻿St. Patrick's,English,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.685765,-89.609782,,,,,﻿Rev.,﻿P. McQuire,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0094,﻿church,[Unnamed Institution],﻿German,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.689067,-89.604392,,,,,﻿Rev.,﻿Henry Boers,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0098,﻿church,[Unnamed Institution],﻿German,,,,﻿La Salle County,,﻿Peru,﻿Peru,﻿IL,,41.328327,-89.13152,,,,,﻿Rev.,﻿Mr. Kallamer,﻿C.M.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0379,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petites Isles,,,,,,,,,,﻿Rev.,﻿Peter Parradis,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0379,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petites Isles,,,,41.192605,-87.774868,,,,,﻿Rev.,﻿Peter Parradis,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,42.271242,-89.085029,,,,,﻿Rev.,﻿John P. Donnelan,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,41.50861,-90.568896,,,,,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,41.914073,-88.318451,,,,,﻿Rev.,﻿P. J. R. Murphy,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -96,7 +96,7 @@
 ﻿chi.il.0123,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Barrens,﻿Rutland Township,﻿IL,,42.08205,-88.370096,﻿chi.il.0045,﻿Attended from Elgin,﻿twice a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0392,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Blue Island,,,,,,﻿chi.il.0008,"﻿Attended from St. Joseph's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0341,﻿station,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Bromfield,,,,40.840009,-89.888733,﻿chi.il.0093,﻿Attended from Peoria,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0366,﻿station,[Unnamed Institution],English,,,,,,﻿Bristol Station,,,,,,﻿chi.il.0029,﻿Attended from Aurora,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0366,﻿station,[Unnamed Institution],English,,,,,,﻿Bristol Station,,,,41.685556,-88.428056,﻿chi.il.0029,﻿Attended from Aurora,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0348,﻿station,﻿Immaculate Conception,English,,,,﻿Lake County,,﻿Buffalo Grove,,,,42.154163,-87.964225,﻿chi.il.0078,﻿Attended from McHenry,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0136,﻿station,[Unnamed Institution],English,,,,﻿Jo Daviess County,,﻿Council Hill,﻿Council Hill,﻿IL,,42.489218,-90.35213,﻿chi.il.0052,﻿Attended from Galena,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0135,﻿station,﻿St. Patrick's,English,,,,﻿Du Page County,,﻿Cass,﻿Darien,﻿IL,,41.747881,-87.974503,﻿chi.il.0087,﻿Attended from Naperville,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -107,7 +107,7 @@
 ﻿chi.il.0143,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,﻿Peoria County,﻿Chillicothe,﻿Chillicothe,﻿IL,,40.920625,-89.489591,﻿chi.il.0069,﻿Attended from Lacon,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0393,﻿station,[Unnamed Institution],English,,,,﻿De Witt County,,﻿Chuton,,,,,,﻿chi.il.0031,﻿Attended from Bloomington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0394,﻿station,[Unnamed Institution],English,,,,﻿Fulton County,,﻿Canton,,,,,,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0380,﻿station,﻿St. Patrick's,English,,,,﻿Vermillion County,,﻿Danville,,,,,,﻿chi.il.0037,﻿Attended from Champaign,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0380,﻿station,﻿St. Patrick's,English,,,,﻿Vermillion County,,﻿Danville,,,,40.120824,-87.621286,﻿chi.il.0037,﻿Attended from Champaign,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0145,﻿station,[Unnamed Institution],English,,,,﻿Lake County,,﻿Dwyer's Settlement,﻿Lake Bluff,﻿IL,,42.288255,-87.857961,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0343,﻿station,﻿St. Patrick's,English,,,,﻿Livingston County,,﻿Dwight,,,,41.098333,-88.424722,﻿chi.il.0115,﻿Attended from Wilmington,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0147,﻿station,[Unnamed Institution],English,,,,﻿Lee County,,﻿East-Grove,﻿East Grove Township,﻿IL,,41.585519,-89.447417,﻿chi.il.0097,﻿Attended from Amboy,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -119,10 +119,10 @@
 ﻿chi.il.0158,﻿station,[Unnamed Institution],English,,,,﻿Kane County,﻿Kane County,﻿Geneva,﻿Geneva,﻿IL,,41.866037,-88.347458,﻿chi.il.0109,﻿Attended from St. Charles,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0349,﻿station,[Unnamed Institution],English,,,,﻿Rock Island County,,﻿Hampton,,,,41.555556,-90.404722,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0165,﻿station,﻿St. Thomas',English,,,,﻿Cook County,,﻿Harlem,﻿Forest Park,﻿IL,,41.879476,-87.81367,﻿chi.il.0012,"﻿Attended from St. Columbkille's, Chicago",,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0381,﻿station,﻿St. Anthony's,English,,,,﻿Putnam County,,﻿Hennepin,,,,,,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0381,﻿station,﻿St. Anthony's,English,,,,﻿Putnam County,,﻿Hennepin,,,,41.24691,-89.33956,﻿chi.il.0061,﻿Attended from Henry,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0169,﻿station,[Unnamed Institution],English,,,,﻿La Salle County,,﻿Homer,﻿Troy Grove,﻿IL,,41.467555,-89.083377,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0170,﻿station,﻿St. Patrick's,English,,,,﻿Stephenson County,,﻿Irish Grove,﻿Davis,﻿IL,,42.379997,-89.407746,﻿chi.il.0049,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0382,﻿station,[Unnamed Institution],English,,,,﻿Mercer County,,﻿Kertsburgh,,,,,,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0382,﻿station,[Unnamed Institution],English,,,,﻿Mercer County,,﻿Kertsburgh,,,,41.100278,-90.935278,﻿chi.il.0104,﻿Attended from Rock Island,﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0350,﻿station,﻿St. Mary's,English,,,,﻿Henry County,,﻿Kewanee,,,,41.243832,-89.914629,﻿chi.il.0069,﻿Attended from Lacon,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0176,﻿station,﻿St. Mary's,English,,,,﻿Kane County,,﻿Lodi,﻿Maple Park,﻿IL,,41.907722,-88.601925,﻿chi.il.0040,﻿Attended from De Kalb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0351,﻿station,﻿St. Patrick's,English,,,,﻿Ogle County,,﻿Lane,,,,41.921725,-89.07009,﻿chi.il.0041,﻿Attended from Dixon,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -144,7 +144,7 @@
 ﻿chi.il.0204,﻿station,[Unnamed Institution],English,,,,,﻿Ford County,﻿Paxton,﻿Paxton,﻿IL,,40.460086,-88.095533,﻿chi.il.0037,﻿Attended from Champaign City,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0205,﻿station,[Unnamed Institution],English,,,,,﻿Ogle County,﻿Polo,﻿Polo,﻿IL,,41.985857,-89.578193,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0207,﻿station,[Unnamed Institution],English,,,,﻿Bureau County,,﻿Princetown,﻿Princeton,﻿IL,,41.36851,-89.473156,﻿chi.il.0081,﻿Attended from Mendota,﻿Once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0383,﻿station,[Unnamed Institution],English,,,,﻿Lee County,,﻿Perkins Grove,,,,,,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0383,﻿station,[Unnamed Institution],English,,,,﻿Lee County,,﻿Perkins Grove,,,,41.599664,-89.304626,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0208,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Rock Island Junction,﻿Blue Island,﻿IL,,41.648491,-87.685284,﻿chi.il.0024,"﻿Attended from St. James', Chicago",﻿occasionally,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0212,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Richville,﻿Evanston,﻿IL,,42.044482,-87.688825,﻿chi.il.0004,"﻿Attended from St. Joseph's, Chicago",﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0209,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,﻿McHenry County,﻿Richmond,﻿Richmond,﻿IL,,42.490151,-88.306211,﻿chi.il.0078,﻿Attended from McHenry,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago

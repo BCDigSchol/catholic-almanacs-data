@@ -68,8 +68,8 @@
 ﻿cin.oh.0213_02,﻿chapel,﻿Chapel of St. Aloysius' Orphan Asylum,English,,,﻿Cincinnati,,,,,﻿OH,,39.171622,-84.469217,,,,﻿j_g_nordmeier_002,﻿Rev.,﻿Nordmeier,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0008,﻿church,﻿St. Michael's,English,,﻿Archer's Settlement,,﻿Monroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,﻿Brown County,,﻿Arnheim,,﻿OH,,38.933402,-83.827426,﻿cin.oh.0147,﻿Attended from Ripley,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,,,,﻿Attended from Chillicothe,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0301,﻿church,﻿St. Mary's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,,,,,,﻿j_m_jacquet_002,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,39.329167,-82.096111,,﻿Attended from Chillicothe,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0301,﻿church,﻿St. Mary's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.012948,-80.744982,,,,﻿j_m_jacquet_002,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0055,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,,﻿Bellefontaine,,﻿OH,,40.361164,-83.759656,,,,﻿joh_coveney_001,﻿Rev.,﻿Jno. Coveney,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056,﻿church,﻿St. Michael's,English,,,,﻿Shelby County,,﻿Berlin,,﻿OH,,40.351437,-84.373839,,,,﻿mar_meyer_001,﻿Rev.,﻿A. M. Meyer,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0057,﻿religious institution,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Blanchester,,﻿OH,,39.293117,-83.98882,﻿cin.oh.0170,﻿Attended from St. Martin's,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -296,7 +296,7 @@
 ﻿cin.oh.0201,﻿boarding school,﻿Boarding School of Maria-Huelf,English,,,,﻿Auglaize County,,﻿Minster,,﻿OH,,40.395018,-84.379086,,,,,,,,,,,,﻿Directed by the Sisters of the Precious Blood,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0204,﻿convent,﻿Convent of the Sisters of St. Clare,English,,﻿Third street,,,,﻿Cincinnati,,﻿OH,,39.218139,-84.478242,,,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0206,﻿convent,﻿Convent of the Good Shepard,English,,﻿Bank street,,,,﻿Cincinnati,,﻿OH,,39.10303,-84.511969,,,,,﻿Sister,﻿Mary of St. Joseph's,,﻿Superior,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0315,﻿hospital,﻿St. John's Hospital,English,,﻿McFarland Street,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Charity,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0315,﻿hospital,﻿St. John's Hospital,English,,﻿McFarland Street,,,,﻿Cincinnati,,﻿OH,,39.098688,-84.51677,,,,,,,,,,,,﻿Under the Sisters of Charity,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0210,﻿hospital,﻿St. Mary's Hospital,English,,﻿Betts street,,,,﻿Cincinnati,,﻿OH,,39.110716,-84.527383,,,,,,,,,,,,﻿Under the Sisters of St. Francis,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0212,﻿orphanage,﻿St. Peter's Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,39.161938,-84.542719,,,,,,,,,,﻿child,"﻿Number of orphans, 350",﻿Under the Sisters of Charity,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0213,﻿orphanage,﻿St. Aloysius' Orphan Asylum,English,,﻿four miles from Cincinnati,,,,,,﻿OH,,39.171622,-84.469217,,,,,,,,,,,,,,1865,﻿,﻿,﻿Cincinnati,Cincinnati
