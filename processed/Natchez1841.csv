@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nat.ms.0001,﻿station,[Unnamed Institution],English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,﻿#REF!,﻿#REF!,,,,﻿jos_n_brogard_001,﻿Rev.,﻿Joseph Brogard,,,,,,,,1841,,"﻿https://en.wikipedia.org/wiki/St._Mary_Basilica,_Natchez",﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿station,[Unnamed Institution],English,,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.558655,-91.401318,,,,﻿jos_n_brogard_001,﻿Rev.,﻿Joseph Brogard,,,,,,,,1841,,"﻿https://en.wikipedia.org/wiki/St._Mary_Basilica,_Natchez",﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0079,﻿station,[Unnamed Institution],English,,,,,,﻿Vicksburg,,﻿MS,,,,,,,﻿m_d_oreilly_901,﻿Rev.,﻿M. D. O'Reilly,,,,,,,,1841,,,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0079,﻿station,[Unnamed Institution],English,,,,,,﻿Vicksburg,,﻿MS,,,,,,,﻿#REF!,,,,,,,,,,1841,,,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0079,﻿station,[Unnamed Institution],English,,,,,,﻿Vicksburg,,﻿MS,,,,,,,﻿#REF!,,,,,,,,,,1841,,,﻿,﻿,﻿Natchez,Natchez

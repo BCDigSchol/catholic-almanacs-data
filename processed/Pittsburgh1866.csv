@@ -109,7 +109,7 @@
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,40.494513,-79.92644,,,,﻿j_shell_001,﻿Rev.,﻿J. Shell,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,"﻿(Adams P.O.,)",,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,40.505085,-79.936356,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,﻿Rector,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,"﻿(Adams P.O.,)",,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,40.505085,-79.936356,,,,﻿joh_scanlon_001,﻿Rev.,﻿John Scanlan,,﻿Assistant,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0164,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,,,﻿pit.pa.0030,﻿Benedictines from Carrolltown,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0164,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿Summerhill,﻿Summerhill,﻿PA,,40.412312,-78.755421,﻿pit.pa.0030,﻿Benedictines from Carrolltown,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿t_ryan_001,﻿Rev.,﻿T. Ryan,,﻿Rector,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿j_bigham_001,﻿Rev.,﻿J. Bigham,,﻿Assistant,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0096,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,40.38951,-79.87532,,,,﻿wil_a_nolan_001,﻿Rev.,﻿W. Nolan,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -167,7 +167,7 @@
 ﻿pit.pa.0122,﻿monastery,﻿St. Francis' Monastery,English,﻿Principal House,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504054,-78.637745,,,,,﻿Brother,﻿Bonaventure Lynch,,﻿Superior of the Order,,﻿religious,﻿twenty professed brothers,﻿Brothers of the Third Order of St. Francis.,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0122,﻿monastery,﻿St. Francis' Monastery,English,﻿Principal House,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504054,-78.637745,,,,,,,,,,﻿religious,﻿three novices,﻿Brothers of the Third Order of St. Francis.,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0029_02,﻿monastery,[Unnamed Institution],English,,,,﻿Indiana County,,﻿Cameron's Bottom,,﻿PA,,40.594647,-78.915857,,,,,﻿Bro.,﻿Giles Carroll,,,,﻿religious,﻿six professed brothers,﻿Brothers of the Third Order of St. Francis.,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0162,﻿house,[Unnamed Institution],English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,,﻿Brother,﻿Vincent Welsted,,﻿Superior,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0162,﻿house,[Unnamed Institution],English,,,,,,﻿Pittsburgh,,﻿PA,,40.439722,-79.976389,,,,,﻿Brother,﻿Vincent Welsted,,﻿Superior,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123,﻿convent,﻿St. Xavier's,English,﻿Mother-House,"﻿near Latrobe, (St. Vincent's P.O.)",,﻿Westmoreland County,,,,﻿PA,,40.282376,-79.416154,,,,,﻿Sister,﻿M. Scholastica Geoghegan,,﻿Superior,,,,﻿Sisters of Mercy,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0124,﻿convent,﻿St. Mary's Convent,English,,﻿Webster street,,,,﻿Pittsburgh,,﻿PA,,40.440911,-79.993964,,,,,﻿Sister,﻿M. J. Evangelist,,﻿Superior,,,,﻿Sisters of Mercy,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0052_02,﻿convent,﻿St. Mary's Convent,English,"﻿There are also under the care of the Sisters the educational and charitable institutions already mentioned. There are 122 Sisters in the diocese, including the novices.",,,,,﻿Hollidaysburgh,,﻿PA,,40.451979,-78.393738,,,,,﻿Sister,﻿M. F. Xavier Maher,,﻿Superior,,﻿religious,"﻿122 sisters in the diocese, including the novices",﻿Sisters of Mercy,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -195,8 +195,8 @@
 ﻿pit.pa.0147,﻿school,[Unnamed Institution],﻿German,﻿school taught by lay teachers,,,,,﻿Butler,,﻿PA,,40.862318,-79.890779,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0082_02,﻿school,﻿Our Lady Help of Christians,﻿German,﻿school taught by lay teachers,,,﻿Allegheny County,,﻿Robinson Township,﻿Rochester,﻿PA,,40.702288,-80.286451,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0149,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Blairsville,,﻿PA,,40.432626,-79.258078,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0160,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Johnstown,,﻿PA,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0160,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Johnstown,,﻿PA,,40.326111,-78.919444,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0150,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Altoona,,﻿PA,,40.515982,-78.403869,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0161,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Jefferson,,﻿PA,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0161,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Jefferson,,﻿PA,,39.930278,-80.058889,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0151,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿Latrobe,,﻿PA,,40.31464,-79.381807,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0152,﻿school,[Unnamed Institution],English,﻿school taught by lay teachers,,,,,﻿St. Augustine,,﻿PA,,40.61303,-78.577542,,,,,,,,,,,,,,1866,﻿,﻿,﻿Pittsburgh,Pittsburgh

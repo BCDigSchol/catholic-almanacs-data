@@ -165,7 +165,7 @@
 ﻿chi.il.0196,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,,﻿Murray's Settlement,﻿Hartland,﻿IL,,42.372284,-88.501741,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0197,﻿station,﻿St. Mary's,English,,,,﻿Rock Island,﻿Rock Island County,﻿Moline,﻿Moline,﻿IL,,41.5053,-90.523612,﻿chi.il.0104,﻿Attended from Rock Island,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0353,﻿station,﻿St. Michael's,English,,,,﻿Lake County,,﻿Mill Creek,,,,42.430556,-87.997778,,﻿Attended from Waukeegan,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0385,﻿station,[Unnamed Institution],English,,,,﻿Stephenson County,,﻿New-Dublin,,,,,,,﻿Attended from Apple River,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0385,﻿station,[Unnamed Institution],English,,,,﻿Stephenson County,,﻿New-Dublin,,,,42.30315,-89.807288,,﻿Attended from Apple River,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,﻿Cook County,,﻿New-Trier,﻿New Trier Township,﻿IL,,40.633125,-89.398528,﻿chi.il.0056,﻿Attended from Chicago,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0200,﻿station,[Unnamed Institution],English,,,,﻿Ogle County,﻿Ogle County,﻿Oregon,﻿Oregon,﻿IL,,42.008194,-89.331283,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0201,﻿station,[Unnamed Institution],English,,,,﻿Henderson County,﻿Henderson County,﻿Oquaka,﻿Oquawka,﻿IL,,40.936718,-90.95362,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
@@ -180,7 +180,7 @@
 ﻿chi.il.0208,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Rock Island Junction,﻿Blue Island,﻿IL,,41.648491,-87.685284,﻿chi.il.0024,"﻿Attended from St. James', Chicago",,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0209,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,﻿McHenry County,﻿Richmond,﻿Richmond,﻿IL,,42.490151,-88.306211,﻿chi.il.0078,﻿Attended from McHenry,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0212,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Ridgeville,﻿Evanston,﻿IL,,42.044482,-87.688825,﻿chi.il.0004,﻿Attended from Chicago,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.367,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Rose Hill,,,,,,﻿chi.il.0004,﻿Attended from Chicago,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0367,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Rose Hill,,,,39.104167,-88.15,﻿chi.il.0004,﻿Attended from Chicago,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0213,﻿station,[Unnamed Institution],English,,,,﻿Cook County,,﻿Sagganah and Summit,﻿Summit,﻿IL,,41.787177,-87.812422,﻿chi.il.0075,﻿Attended from Lockport,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0214,﻿station,[Unnamed Institution],English,,,,﻿Jo Daviess County,﻿Jo Daviess County,﻿Scales Mound,﻿Scales Mound,﻿IL,,42.47644,-90.252303,﻿chi.il.0053,﻿Attended from (German church) Galena,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0215,﻿station,[Unnamed Institution],English,,,,﻿Bureau County,﻿Bureau County,﻿Sheffield,﻿Sheffield,﻿IL,,41.358292,-89.738498,﻿chi.il.0080,﻿Attended from Mendota,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
@@ -201,7 +201,7 @@
 ﻿chi.il.0229,﻿station,﻿St. Patrick's,English,,,,﻿De Witt County,﻿De Witt County,﻿Waupela,﻿Wapella,﻿IL,,40.21711,-88.959867,﻿chi.il.0046,﻿Attended from El Paso,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0230,﻿station,[Unnamed Institution],English,,,,﻿Lee County,﻿Lee County,﻿Willow Creek,﻿Twelvemile Corner,﻿IL,,41.795282,-88.94393,﻿chi.il.0098,﻿Attended from Peru,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0231,﻿station,[Unnamed Institution],English,,,,﻿Winnebago County,,﻿Winnebago,,﻿IL,,42.26645,-89.239753,﻿chi.il.0103,﻿Attended from Rockford,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0386,﻿station,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Warsaw,,,,,,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0386,﻿station,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Warsaw,,,,40.361667,-91.420556,﻿chi.il.0077,﻿Attended from Macomb,,,,,,,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿joh_mcmullen_001,﻿Rev.,﻿John McMullen,﻿D.D.,﻿President,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿j_mcgovern_001,﻿Rev.,﻿J. McGovern,﻿D.D.,﻿Vice-President,,,,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,,,﻿Daniel Brainard,﻿M.D.,"﻿President, Medical Department",,,,,,1866,﻿,﻿,﻿Chicago,Chicago
@@ -255,7 +255,7 @@
 ﻿chi.il.0258,﻿convent,﻿Convent of the Good Shepherd,English,,﻿Corner of Market and Hill streets,,,﻿La Salle County,﻿Chicago,﻿Mendota,﻿IL,,41.902076,-87.636885,,,,,,,,,,﻿religious,﻿2 novice,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0259,﻿convent,﻿Convent of the Sisters of Charity,English,,"﻿Huron street, near Cass",,,,﻿Chicago,﻿Kickapoo,﻿IL,,41.894957,-87.625471,,,,,﻿Sister,﻿Ann Regina,,﻿Superioress,,﻿religious,﻿9 religious,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0260,﻿convent,﻿Convent of the Sisters of St. Joseph,English,,,,,,﻿Bloomington,﻿Richland Township,﻿IL,,40.485477,-88.994654,,,,,,,,,,﻿religious,﻿7 professed sisters,,,1866,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0387,﻿convent,﻿Convent of the Sisters of the Congregation,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,,,,,,,,,,﻿Sister,﻿St. Alexis de St. Joseph,,﻿Superioress,,﻿religious,﻿8 professed sisters,,,1866,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0387,﻿convent,﻿Convent of the Sisters of the Congregation,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,,,,41.170833,-87.873333,,,,,﻿Sister,﻿St. Alexis de St. Joseph,,﻿Superioress,,﻿religious,﻿8 professed sisters,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0262,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,﻿Grundy County,,﻿Morris,﻿Teutopolis,﻿IL,,41.361444,-88.414192,,,,,,,,,,﻿religious,﻿8 professed sisters,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0262,﻿convent,﻿Convent of the Sisters of the Holy Cross,English,,,,﻿Grundy County,,﻿Morris,﻿Teutopolis,﻿IL,,41.361444,-88.414192,,,,,,,,,,﻿religious,﻿1 postulant,,,1866,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0264,﻿convent,﻿St. Joseph's Convent of the Sisters of Mercy,English,,,,,,﻿Ottawa,﻿Chicago,﻿IL,,41.350375,-88.839435,,,,,﻿Mother,﻿Mary Paula,,﻿Superior,,﻿religious,﻿8 professed sisters,,,1866,﻿,﻿,﻿Chicago,Chicago
