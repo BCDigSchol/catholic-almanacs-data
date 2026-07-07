@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿s_h_rosecrans_001,﻿Rt. Ref.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,﻿Rt. Ref.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿fra_gonesse_001,﻿Rev.,﻿Francis Gonesse,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿p_j_daly_001,﻿Rev.,﻿P. J. Daly,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿ger_h_ahrens_001,﻿Rev.,﻿G. H. Ahrens,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus

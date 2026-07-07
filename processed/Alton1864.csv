@@ -49,7 +49,7 @@
 ﻿alt.il.0061,﻿church,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Litchfield,﻿Litchfield,﻿IL,,39.175326,-89.654258,,,,﻿cha_gonant_001,﻿Rev.,﻿Charles Gonant,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0063,﻿church,[Unnamed Institution],English,,,,﻿Fayette County,﻿Fayette County,﻿London or Howard's Point,﻿Wrights Corner,﻿IL,,39.131018,-88.865679,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0065,﻿church,﻿St. Mary's,English,,﻿Monroe City P.O.,,﻿Madison County,﻿Monroe County,﻿Madonnaville,﻿Madonaville,﻿IL,,38.264615,-90.246954,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alti.il.0327,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Marine,﻿Marinetown,﻿IL,,,,﻿alt.il.0054,﻿Attended from Edwardsville,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0327,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Marine,﻿Marinetown,﻿IL,,38.760646,-89.775419,﻿alt.il.0054,﻿Attended from Edwardsville,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0067,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,39.387497,-87.694521,,,,﻿h_hoven_001,﻿Rev.,﻿H. Hoven,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0068,﻿church,﻿Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,38.491205,-89.791783,,,,﻿p_rosendahl_001,﻿Rev.,﻿P. Rosendahl,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0069,﻿church,﻿Imm. Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,39.48309,-88.372825,,,,﻿tho_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangan,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
@@ -79,7 +79,7 @@
 ﻿alt.il.0095,﻿church,﻿St. Francis Solanus,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.939549,-91.388669,,,,﻿ans_müller_001,﻿Rev.,﻿Anselmus Mueller,﻿O.S.F.,,,,,﻿Franciscan Fathers,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Randolph County,﻿Randolph County,﻿Red Bud,﻿Red Bud,﻿IL,,38.207406,-89.995711,,,,﻿joh_f_mohr_001,﻿Rev.,﻿John F. Mohr,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0335,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,38.9571,-89.9688,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0115,﻿church,[Unnamed Institution],English,,,,﻿Gallatin County,﻿Gallatin County,﻿Shawneetown,﻿Shawneetown,﻿IL,,37.735639,-88.138151,,,,﻿j_larmer_001,﻿Rev.,﻿J. Larmer,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0115,﻿church,[Unnamed Institution],English,,,,﻿Gallatin County,﻿Gallatin County,﻿Shawneetown,﻿Shawneetown,﻿IL,,37.735639,-88.138151,,,,﻿joh_larmer_001,﻿Rev.,﻿J. Larmer,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0116,﻿church,[Unnamed Institution],English,,,,﻿Shelby County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿IL,,39.406428,-88.790069,,,,﻿t_cusack_001,﻿Rev.,﻿Th. Cussack,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.793802,-89.648891,,,,﻿j_fitzgibbon_002,﻿Rev.,﻿J. Fitzgibbon,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0120,﻿church,﻿Immaculate Conception,English,,,,﻿Sangamon County,﻿Sangamon County,﻿Springfield,﻿Springfield,﻿IL,,39.793802,-89.648891,,,,﻿f_h_zabel_001,﻿Rev.,﻿J. W. Zabel,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Alton,Alton
@@ -110,7 +110,7 @@
 ﻿alt.il.0141,﻿station,[Unnamed Institution],English,,,,﻿Alexander County,﻿Alexander County,﻿Unity,﻿Unity,﻿IL,,37.149772,-89.272857,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0144,﻿station,[Unnamed Institution],English,,,,﻿Brown County,﻿Brown County,﻿Versailles,﻿Versailles,﻿IL,,39.885048,-90.655961,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0317,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Chandlersville,﻿Chandlersville,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0297,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Virginia,﻿Virginia,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0133,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Virginia,﻿Virginia,﻿IL,,39.951,-90.207455,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0318,﻿station,[Unnamed Institution],English,,,,﻿Clark County,﻿Clark County,﻿Castlefine,﻿Castlefine,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0319,﻿station,[Unnamed Institution],English,,,,﻿Clay County,﻿Clay County,﻿Xenia,﻿Xenia,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0130,﻿station,[Unnamed Institution],English,,,,﻿Clinton County,﻿Clinton County,﻿Trenton,﻿Trenton,﻿IL,,38.605604,-89.682037,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
@@ -120,7 +120,7 @@
 ﻿alt.il.0322,﻿station,[Unnamed Institution],English,,,,﻿Fayette County,﻿Fayette County,﻿Windsor,﻿Windsor,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0159,﻿station,[Unnamed Institution],English,,,,﻿Gallatin County,﻿Gallatin County,﻿Equality,﻿Equality,﻿IL,,37.733936,-88.343376,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0160,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Greenfield,﻿Greenfield,﻿IL,,39.343658,-90.212614,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0300,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Rockbridge,﻿Rockbridge,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0101,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Rockbridge,﻿Rockbridge,﻿IL,,39.26919,-90.207021,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0162,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Whitehall,﻿White Hall,﻿IL,,39.436992,-90.403177,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0323,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Delhi,﻿Delhi,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0301,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,38.976389,-90.425833,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
@@ -128,20 +128,20 @@
 ﻿alt.il.0017,﻿station,[Unnamed Institution],English,,,,﻿Macoupin County,﻿Macoupin County,﻿Brighton,﻿Brighton,﻿IL,,39.048333,-90.141667,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0019,﻿station,[Unnamed Institution],English,,,,﻿Macoupin County,﻿Macoupin County,﻿Bunkerhill,﻿Bunkerhill,﻿IL,,39.042824,-89.951769,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0177,﻿station,[Unnamed Institution],English,,,,﻿Macoupin County,﻿Macoupin County,﻿Nilwood,﻿Nilwood,﻿IL,,39.398106,-89.808709,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0302,﻿station,[Unnamed Institution],English,,,,﻿Macoupin County,﻿Macoupin County,﻿Shipman,﻿Shipman,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0303,﻿station,[Unnamed Institution],English,,,,﻿Macoipin County,﻿Macoupin County,﻿Virden,﻿Virden,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0304,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Odin,﻿Odin,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0305,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Salem,﻿Salem,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0117,﻿station,[Unnamed Institution],English,,,,﻿Macoupin County,﻿Macoupin County,﻿Shipman,﻿Shipman,﻿IL,,39.117546,-90.044273,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0132,﻿station,[Unnamed Institution],English,,,,﻿Macoipin County,﻿Macoupin County,﻿Virden,﻿Virden,﻿IL,,39.500887,-89.767875,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0080,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Odin,﻿Odin,﻿IL,,38.617271,-89.052287,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0113,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Salem,﻿Salem,﻿IL,,38.627207,-88.953939,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,38.612222,-89.122222,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0307,﻿station,[Unnamed Institution],English,,,,﻿Menard County,﻿Menard County,﻿Petersburg,﻿Petersburg,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0088,﻿station,[Unnamed Institution],English,,,,﻿Menard County,﻿Menard County,﻿Petersburg,﻿Petersburg,﻿IL,,40.004214,-89.850877,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0308,﻿station,[Unnamed Institution],English,,,,﻿Menard County,﻿Menard County,﻿Robinson's Mills,﻿Robinson's Mills,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0324,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Butler,﻿Butler,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0325,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Gillespie,﻿Gillespie,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0309,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Hillsboro,﻿Hillsboro,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0055,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Hillsboro,﻿Hillsboro,﻿IL,,39.154703,-89.492011,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0186,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Meredosia,﻿Meredosia,﻿IL,,39.831158,-90.559571,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0310,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Waverly,﻿Waverly,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0135,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Waverly,﻿Waverly,﻿IL,,39.591716,-89.952885,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0206,﻿station,[Unnamed Institution],English,,,,﻿Scott County,﻿Scott County,﻿Naples,﻿Naples,﻿IL,,39.757269,-90.607349,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0313,﻿station,[Unnamed Institution],English,,,,﻿St. Clair County,﻿St. Clair County,﻿O'Fallon,﻿O'Fallon,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0082,﻿station,[Unnamed Institution],English,,,,﻿St. Clair County,﻿St. Clair County,﻿O'Fallon,﻿O'Fallon,﻿IL,,38.591606,-89.908882,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0326,﻿station,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Fairfield,,﻿IL,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0213,﻿station,[Unnamed Institution],English,,,,﻿White County,﻿White County,﻿Carmi,﻿Carmi,﻿IL,,38.09088,-88.158649,,,,,,,,,,,,,,1864,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,"﻿A community of reformed Franciscans of the stricter observance, have, since 1858, established a Convent at Teutopolis, Effingham co., Ill. They form a branch of the Westphalian Province of this Order.",,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.133097,-88.471992,,,,﻿mat_hiltermann_001,﻿Very Rev.,﻿Mathias Hiltermann,,﻿Superior,,,,,,1864,﻿,﻿,﻿Alton,Alton

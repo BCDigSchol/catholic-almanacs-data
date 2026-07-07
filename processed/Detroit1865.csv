@@ -29,7 +29,7 @@
 ﻿det.mi.0027,﻿church,[Unnamed Institution],English,,,,﻿St. Joseph's County,﻿Berrien County,﻿Bertrand,﻿Bertrand,﻿MI,,42.093858,-86.489546,﻿det.mi.0125,﻿attended from Niles,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0028,﻿church,[Unnamed Institution],English,,,,﻿Calhoun County,﻿Calhoun County,﻿Battle Creek,﻿Battle Creek,﻿MI,,42.207391,-85.023346,﻿det.mi.0109,﻿attended from Marshall,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0029,﻿church,[Unnamed Institution],English,,,,﻿Oakland County,﻿Oakland County,﻿Birmingham,﻿Birmingham,﻿MI,,42.546701,-83.211319,﻿det.mi.0141,﻿attended from Pontiac,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0210,﻿church,[Unnamed Institution],English,,,,﻿Lenawee County,,﻿Blissfield,,,,,,﻿det.mi.0114,﻿attended from Monroe,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0210,﻿church,[Unnamed Institution],English,,,,﻿Lenawee County,,﻿Blissfield,,,,41.831667,-83.863889,﻿det.mi.0114,﻿attended from Monroe,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0030,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Blue Bush,﻿Monroe,﻿MI,,41.992235,-83.46562,﻿det.mi.0160,﻿attended from Stony Creek,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0031,﻿church,[Unnamed Institution],English,,,,﻿Kent County,﻿Kent County,﻿Bowne,﻿Bowne Township,﻿MI,,42.829078,-85.375625,﻿det.mi.0081,﻿attended from Grattan,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0032,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Brest,﻿Stony Point,﻿MI,,41.941434,-83.26493,﻿det.mi.0114,﻿attended from Monroe,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
@@ -113,7 +113,7 @@
 ﻿det.mi.0119,﻿church,[Unnamed Institution],English,,,,﻿Muskegon County,﻿Muskegon County,﻿Muskegon,﻿Muskegon,﻿MI,,43.235674,-86.248749,,,,﻿fer_allgayer_001,﻿Rev.,﻿F. Algayer,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0120,﻿church,[Unnamed Institution],English,,,,﻿Muskegon County,﻿Muskegon County,﻿Muskegon Dams,,﻿MI,,43.234181,-86.248392,﻿det.mi.0119,﻿attended from Muskegon,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0121,﻿church,[Unnamed Institution],English,,,,﻿Calhoun County,﻿Calhoun County,﻿New-Bedford,﻿Bedford Charter Township,﻿MI,,42.395317,-85.23222,﻿det.mi.0109,﻿attended from Marshall,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0212,﻿church,[Unnamed Institution],English,,﻿Belle River P.O.,,﻿St. Clair County,,﻿Newport,,,,,,,,,﻿aug_j_lambert_001,﻿Rev.,﻿Aug. J. Lambert,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0212,﻿church,[Unnamed Institution],English,,﻿Belle River P.O.,,﻿St. Clair County,,﻿Newport,,,,42.717778,-82.496944,,,,﻿aug_j_lambert_001,﻿Rev.,﻿Aug. J. Lambert,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0122,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Newport,﻿Newport,﻿MI,,42.002267,-83.308542,,,,﻿gil_gerard_001,﻿Rev.,﻿Gilbert Gerard,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0123,﻿church,﻿Immaculate Conception B.M.V.,English,,,,﻿Berrien County,﻿Berrien County,﻿New-Buffalo,﻿New Buffalo,﻿MI,,41.79393,-86.743915,﻿det.mi.0125,﻿attended from Niles,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0124,﻿church,[Unnamed Institution],English,,,,﻿Muskegon County,﻿Newaygo County,﻿Newaygo,﻿Newaygo,﻿MI,,43.419743,-85.800051,﻿det.mi.0119,﻿attended from Muskegon,,,,,,,,,,,,1865,﻿,﻿,﻿Detroit,Detroit

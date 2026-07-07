@@ -168,19 +168,19 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_martin_001,﻿Rev.,﻿E. Martin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminary,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿f_quin_001,﻿Rev.,﻿F. Quin,,﻿Professor,,﻿student,"﻿students, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿cathedral,[Unnamed Institution],English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0001_02,﻿cathedral,[Unnamed Institution],English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0001_02,﻿cathedral,[Unnamed Institution],English,,﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,,,,,,,﻿priest,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,[Unnamed Institution],English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0004_02,﻿school,[Unnamed Institution],English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0004_02,﻿school,[Unnamed Institution],English,,﻿St. Peter's,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿priest,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿priest,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,﻿Brother,﻿Thomas,,﻿Superior,,﻿student,"﻿in all, 1500 pupils",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿brother,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,﻿West side,,,,,,﻿OH,,,,,,,,,,,,,﻿priest,"﻿brothers, 6",﻿Christian Brothers,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0330,﻿school,﻿St. Joseph's School,English,,,,,,,,,,,,,,,,,,,,,,,﻿directed by a pious gentleman,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,﻿Mother of the Annunciation,,﻿Superior,,﻿religious,"﻿religious, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿religious,"﻿Novices, 10",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿pupils in the academy, 50",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿day school pupil,"﻿day school pupils, 150",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿free school,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿day school pupils, 150",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0187_03,﻿academy,﻿Ursuline Academy,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.49932,-81.69436,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0007_02,﻿free school,[Unnamed Institution],English,,﻿Immaculate Conception,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.514753,-81.66101,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0006_02,﻿free school,[Unnamed Institution],English,,﻿St. Bridget's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.408659,-81.759543,,,,,,,,,,﻿student,"﻿pupils, 100",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0010_02,﻿free school,[Unnamed Institution],English,,﻿St. Mary's,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.490575,-81.6946,,,,,,,,,,﻿child,"﻿children, 300",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -191,14 +191,14 @@
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿religious,"﻿novices, 6",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿student,"﻿pupils, 30",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿student,"﻿pay-scholars, 100",,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿free school,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0188,"﻿convent, academy",﻿Ursuline Convent and Academy,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.657864,-83.532393,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162_02,﻿academy,﻿Ursuline Academy,English,,﻿St. Francis of Sales,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.662799,-83.598385,,,,,,,,,,﻿student,"﻿pay-scholars, 100",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162_02,﻿academy,﻿Ursuline Academy,English,,﻿St. Francis of Sales,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.662799,-83.598385,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,"﻿academy, church",﻿Ursuline Academy,English,,﻿St. Aloysius',,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.373889,-83.650833,,,,,,,,,,﻿student,"﻿pay-scholars, 100",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300_02,"﻿academy, church",﻿Ursuline Academy,English,,﻿St. Aloysius',,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.373889,-83.650833,,,,,,,,,,﻿student,"﻿free schools, 250",,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0164_02,﻿academy,﻿Ursuline Academy,English,,﻿St. Patrick's,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.648991,-83.546027,,,,,,,,,,,﻿200,,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0158_02&cle.oh.0159_02,﻿school,[Unnamed Institution],English,,,,﻿Seneca County,,﻿Tiffin,,﻿OH,,41.117257,-83.183866,,,,,,,,,,﻿pay school,"﻿pay schools, 60",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0158_02&cle.oh.0159_02,﻿school,[Unnamed Institution],English,,,,﻿Seneca County,,﻿Tiffin,,﻿OH,,41.117257,-83.183866,,,,,,,,,,﻿free school,"﻿free schools, 200",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0158_02&cle.oh.0159_02,﻿school,[Unnamed Institution],English,,,,﻿Seneca County,,﻿Tiffin,,﻿OH,,41.117257,-83.183866,,,,,,,,,,﻿student,"﻿pay schools, 60",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0158_02&cle.oh.0159_02,﻿school,[Unnamed Institution],English,,,,﻿Seneca County,,﻿Tiffin,,﻿OH,,41.117257,-83.183866,,,,,,,,,,﻿student,"﻿free schools, 200",﻿Ursuline Sisters,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143_02,﻿school,[Unnamed Institution],English,﻿The Ladies of the Sacred Heart of Mary conduct the female schools.  The male department is taught by lay teachers,﻿Holy Angels' Church,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,,,,,,,﻿student,﻿200,﻿Sacred Heart of Mary,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0144_02,﻿school,[Unnamed Institution],English,﻿The Ladies of the Sacred Heart of Mary conduct the female schools.  The male department is taught by lay teachers,﻿St. Joseph's Church,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.451648,-82.708714,,,,,,,,,,﻿student,﻿200,﻿Sacred Heart of Mary,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0302_02,﻿boarding school,[Unnamed Institution],English,,,,,﻿Seneca County,﻿New Reigel,,﻿OH,,41.051444,-83.318534,,,,,,,,,,﻿student,﻿20 pupils,﻿Sisters of Pretiosissimi Sanguinis,,1865,﻿,﻿,﻿Cleveland,Cleveland
@@ -210,7 +210,7 @@
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,﻿S. Augustine,,﻿Mother Superioress,,﻿religious,"﻿Religious, 25",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿religious,"﻿Novices, 10",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0191,﻿asylum,﻿St. Vincent's Asylum,English,,﻿West Side,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.477815,-81.708829,,,,,,,,,,﻿child,"﻿Orphan boys, 100",﻿Under the charge of Sisters of Charity of the Order of St. Augustine,,1865,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,,﻿Cleveland,﻿OH,,41.509884,-81.68151,,,,﻿l_boucher_001,﻿Miss,﻿L. Boucher,,﻿Matron,,﻿lady,"﻿Ladies, 30",﻿under the charge of pious ladies,,1865,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,,﻿Cleveland,﻿OH,,41.509884,-81.68151,,,,,﻿Miss,﻿L. Boucher,,﻿Matron,,﻿religious,"﻿Ladies, 30",﻿under the charge of pious ladies,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0193,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,,,,﻿Cleveland,﻿OH,,41.509884,-81.68151,,,,,,,,,,﻿child,"﻿Orphan girls, 160, including those at St. Joseph's",﻿under the charge of pious ladies,,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",﻿St. Vincent's Orphan Asylum and Hospital,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿religious,"﻿religious, 12",﻿under the direction of the Sisters of Charity (Gray Nuns),,1865,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0190,"﻿asylum, hospital",﻿St. Vincent's Orphan Asylum and Hospital,English,,,,,,﻿Toledo,﻿Toledo,﻿OH,,41.669769,-83.542102,,,,,,,,,,﻿child,"﻿orphans, 84",﻿under the direction of the Sisters of Charity (Gray Nuns),,1865,﻿,﻿,﻿Cleveland,Cleveland

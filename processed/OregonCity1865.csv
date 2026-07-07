@@ -11,12 +11,12 @@
 ﻿ore.or.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainier,﻿Rainier,﻿OR,,46.089135,-122.935978,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0011,﻿church,[Unnamed Institution],English,,,,,,﻿St. Helen,﻿St. Helen,﻿OR,,45.858964,-122.82123,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0012,﻿church,[Unnamed Institution],English,,,,,,﻿Columbia Bottom,,﻿OR,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,,,,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Cascades,﻿Cascades,﻿OR,,45.255556,-122.834722,,﻿attended from Portland,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G. Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,﻿1847,,﻿French Prairie,﻿Marion County,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿a_libar_001,﻿Rev.,﻿A. Lebas,,﻿Assistant,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0005,﻿church,[Unnamed Institution],English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from St. Louis,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0015,﻿church,[Unnamed Institution],English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,,﻿OR,,45.262342,-122.840374,﻿ore.or.0014,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,,,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Butteville,﻿Butteville,﻿OR,,45.255556,-122.834722,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0017,﻿church,﻿St. John the Evangelist,English,"﻿blessed April 10, 1864",,,,,﻿Salem,﻿Salem,﻿OR,,44.942898,-123.035096,,,,﻿seb_goens_001,﻿Rev.,﻿Sebastian Goens,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0025,﻿church,﻿St. Mary's Church,English,"﻿blessed Feb. 17th, 1861",,,,,﻿Corvallis,﻿Corvallis,﻿OR,,44.572976,-123.278457,,﻿attended from Salem,,,,,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0026,﻿church,[Unnamed Institution],English,,,,,,﻿Albany,﻿Albany,﻿OR,,44.636511,-123.105928,﻿ore.or.0025,﻿attended from Salem,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
@@ -42,7 +42,7 @@
 ﻿ore.or.0047,﻿church,[Unnamed Institution],English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.804133,-120.554201,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0049,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsburgh,﻿Williams,﻿OR,,42.218735,-123.273955,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0050,﻿church,[Unnamed Institution],English,,,,,,﻿Athhouse,﻿Althouse,﻿OR,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0084,﻿church,[Unnamed Institution],English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,,,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0084,﻿church,[Unnamed Institution],English,,,﻿Allen Gulch,﻿Josephine County,,﻿Crescent City,﻿Crescent City,﻿CA,,41.756111,-124.201667,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0018,﻿church,﻿St. Michael's Church,English,"﻿Oct. 12th, 1862",﻿Indian Reservation,,﻿Yamhill County,,﻿Grand Round,﻿Grand Ronde,﻿OR,,45.060113,-123.609277,,,,﻿a_s_croquet_001,﻿Rev.,﻿A. T. Croquet,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's Church,English,,,,﻿Yamhill County,,,,﻿OR,,45.177198,-123.23953,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0020,﻿church,[Unnamed Institution],English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.243473,-123.112148,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1865,﻿,﻿,﻿Oregon City,OregonCity

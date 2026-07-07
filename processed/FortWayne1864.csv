@@ -20,7 +20,7 @@
 ﻿for.in.0023,﻿church,﻿St. Mary's,English,,,,﻿Whitley County,﻿Whitley County,﻿Columbia City,﻿Columbia City,﻿IN,,41.151888,-85.48549,﻿for.in.0103,﻿attended from New Haven,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0187,﻿church,[Unnamed Institution],English,,,,﻿Newton County,﻿Newton County,﻿Carpenter's Station,﻿Carpenter's Station,﻿IN,,,,﻿for.in.0081,﻿attended from Logansport,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0188,﻿church,[Unnamed Institution],English,,,,﻿Hamilton County,﻿Hamilton County,﻿Cicero,﻿Cicero,﻿IN,,40.1275,-86.023056,﻿for.in.0109,﻿attended from Peru,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0189,﻿church,[Unnamed Institution],English,,,,﻿White County,﻿White County,﻿Chalmers,﻿Chalmers,﻿IN,,,,﻿for.in.0030,﻿attended from Crawfordsville,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0189,﻿church,[Unnamed Institution],English,,,,﻿White County,﻿White County,﻿Chalmers,﻿Chalmers,﻿IN,,40.6625,-86.867778,﻿for.in.0030,﻿attended from Crawfordsville,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0031,﻿church,[Unnamed Institution],English,,,,﻿Lake County,﻿Lake County,﻿Crown Point,﻿Crown Point,﻿IN,,41.416981,-87.365313,﻿for.in.0139,﻿attended from Turkey Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0028,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Fountain County,﻿Fountain County,﻿Covington,﻿Covington,﻿IN,,40.141705,-87.394736,﻿for.in.0006,﻿attended from Attica,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0029,﻿church,[Unnamed Institution],English,,,,﻿Lake County,﻿Lake County,﻿Cedar Lake,﻿Cedar Lake,﻿IN,,41.364758,-87.441147,﻿for.in.0150,﻿attended from West-Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
@@ -54,7 +54,7 @@
 ﻿for.in.0077,﻿church,[Unnamed Institution],English,,,,﻿Lake County,﻿Lake County,﻿Lowell,﻿Lowell,﻿IN,,41.291424,-87.42059,﻿for.in.0139,﻿attended from Turkey Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0078,﻿church,﻿St. Joseph's,English,,,,﻿St. Joseph's County,﻿St. Joseph County,﻿Lowell,﻿South Bend,﻿IN,,41.676355,-86.25199,,,,﻿j_le-moniere_001,﻿Rev.,﻿J. Le Moniere,﻿C.SS.C,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0079,﻿church,﻿St. Patrick's,English,,,,﻿Wabash County,﻿Wabash County,﻿Lagro,﻿Lagro,﻿IN,,40.8381,-85.730261,,,,﻿joh_ryan_001,﻿Rev.,﻿John Ryan,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0193,﻿church,﻿St. Mary's,English,,,,﻿Allen County,﻿Allen County,﻿Leo,﻿Leo,﻿IN,,,,﻿for.in.0102,﻿attended from New France,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0193,﻿church,﻿St. Mary's,English,,,,﻿Allen County,﻿Allen County,﻿Leo,﻿Leo,﻿IN,,41.215,-85.015556,﻿for.in.0102,﻿attended from New France,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0080,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Noble County,﻿Noble County,﻿Ligonier,﻿Ligonier,﻿IN,,41.465882,-85.587485,﻿for.in.0045,﻿attended from Goshen,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0081,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Cass County,﻿Cass County,﻿Logansport,﻿Logansport,﻿IN,,40.754484,-86.356666,,,,﻿jos_b_force_001,﻿Rev.,﻿Jos. B. Force,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0083,﻿church,﻿St. Joseph's,English,,,,﻿Porter County,﻿Lake County,﻿Lake Station,﻿Lake Station,﻿IN,,41.575037,-87.238925,﻿for.in.0139,﻿attended from Turkey Creek,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
@@ -127,5 +127,5 @@
 ﻿for.in.0180,﻿academy,﻿St. Augustine's Academy,English,,,,,,﻿Fort Wayne,,﻿IN,,41.074019,-85.137975,,,,,﻿Sister,﻿Vincent,,﻿Superior,,﻿student,﻿150 pupils,﻿kept by the Sisters of Providence,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0202,﻿institute,﻿St. Mary's Female Institute,﻿German,,,,,,﻿Fort Wayne,,﻿IN,,,,,,,,﻿Sister,﻿Catharine,,﻿Superior,,﻿student,﻿120 pupils,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0181,﻿academy,﻿St. Ignatius' Academy,English,,,,,,﻿Lafayette,,﻿IN,,40.416702,-86.875287,,,,,﻿Sister,﻿Eugenia,,﻿Superior,,,,﻿kept by the Sisters of Providence,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
-﻿for.in.0199,﻿academy,﻿Poor Sisters of St. Francis,English,,,,,,﻿Hesse Cassel,,﻿IN,,,,,,,,﻿Sister,﻿Hildegard,,﻿Superior,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
+﻿for.in.0199,﻿academy,﻿Poor Sisters of St. Francis,English,,,,,,﻿Hesse Cassel,,﻿IN,,40.977222,-85.072222,,,,,﻿Sister,﻿Hildegard,,﻿Superior,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne
 ﻿for.in.0182,﻿convent,﻿Convent Sisters of Precious Blood,English,,﻿St. Mary's Home,,﻿Jay County,,,,﻿IN,,40.446529,-85.023346,,,,,,,,,,,,,,1864,﻿,﻿,﻿Fort Wayne,FortWayne

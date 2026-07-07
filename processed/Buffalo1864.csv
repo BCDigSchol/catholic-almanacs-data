@@ -105,7 +105,7 @@
 ﻿roc.ny.0028,﻿church,﻿St. Patrick's,English,"﻿the Redemptorist Fathers have charge of the following German stations: Auburn, Webster, Brockport, Scottsville, Lyons, Seneca Falls, Geneva, Waterloo, Canandaigua, Corning, Elmira, Mount Morris",,,﻿Livingston,,﻿Mount Morris,,﻿NY,,42.725618,-77.874169,,,,﻿dan_moore_001,﻿Rev.,﻿Daniel Moore,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0018,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Monroe,,﻿Mumfordville,,﻿NY,,42.976653,-77.855771,﻿roc.ny.0017,﻿Attended from Scottsville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0044,﻿church,[Unnamed Institution],English,,,,﻿Wayne,,﻿Newark,,﻿NY,,43.04326,-77.095967,﻿roc.ny.0043,﻿Attended from Clifton Springs,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿New Fane,,,,,,43.286723,-78.710312,,,,﻿mulholland_002,﻿Hugh,﻿Mulholland,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿New Fane,,,,,,43.286723,-78.710312,,,,,﻿Hugh,﻿Mulholland,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0037,﻿church,﻿St. John's,English,﻿brick church,,,﻿Erie County,,﻿Northbush,﻿Tonawanda,﻿NY,,42.988685,-78.872397,﻿buf.ny.0008,﻿Attended from St. Mary's Buffalo,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0090,﻿church,﻿St. Mary of the Cataract,English,﻿stone church,,,﻿Niagara County,,﻿Niagara Falls,﻿Niagara Falls,﻿NY,,43.084917,-79.05729,,,,﻿p_j_cannon_001,﻿Rev.,﻿P. J. Cannon,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0185,﻿church,﻿Holy Angels,English,﻿frame church,,,﻿Allegany County,,﻿Nunda,,﻿NY,,42.9975,-78.434722,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -126,7 +126,7 @@
 ﻿buf.ny.0062,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,42.162005,-78.975317,﻿buf.ny.0067,﻿Attended from Jamestown,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,﻿stone church,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.16005,-77.619701,,,,﻿m_obrien_002,﻿Very Rev.,﻿M. O'Brien,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0001,﻿cathedral,﻿St. Patrick's,English,﻿stone church,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.16005,-77.619701,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0228,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Monroe,,﻿Rochester,,﻿NY,,,,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0228,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.153353,-77.605691,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159434,-77.60657,,,,﻿l_holzer_002,﻿Rev.,﻿L. Holzer,﻿C.S.S.R.,﻿Superior,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0006,﻿church,﻿St. Peter's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.155075,-77.626425,,,,﻿j_sadler_001,﻿Rev.,﻿J. Sadler,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0008,﻿church,﻿St. Mary's,﻿French,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159031,-77.60895,,,,﻿h_de-regge_001,﻿Rev.,﻿de Reggie,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -164,7 +164,7 @@
 ﻿roc.ny.0056,﻿church,﻿St. James',English,﻿Frame church,,,﻿Cayuga,,﻿Westport,,﻿NY,,43.044822,-76.564334,﻿roc.ny.0048,﻿Attended from Auburn,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,﻿Frame church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,42.963167,-78.748932,,,,﻿a_hechinger_001,﻿Rev.,﻿Hechenger,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0095,﻿church,﻿St. Bernard's,English,﻿frame church,,,﻿Niagara County,,﻿Youngstown,﻿Youngstown,﻿NY,,43.24935,-79.047503,﻿buf.ny.0089,﻿Attended from New Fane,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0171,﻿seminary,﻿Diocesan Seminary,English,,﻿at the Rt. Rev. Bishop's house,,,,,,,,,,,,,,,,,,,﻿priest,"﻿whole number of seminarists there and at other seminaries, 21",,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0171,﻿seminary,﻿Diocesan Seminary,English,,﻿at the Rt. Rev. Bishop's house,,,,,,,,42.882803,-78.878283,,,,,,,,,,﻿priest,"﻿whole number of seminarists there and at other seminaries, 21",,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0121,﻿seminary,﻿Ecclesiastical Seminary of Our Lady of Angels,English,,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,43.138821,-79.039408,,,,﻿j_asmuth_001,﻿Rev.,﻿J. Asmuth,﻿C.M.,﻿Pres.,,,,﻿under the charge of the Reverend Fathers of the Congregation of the Mission,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",﻿Franciscan College and Convent,English,,"﻿Postulants wishing to be recieved into the Order must apply to Superior, Very Rev. Pamfilo de Magliano.",,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,42.08763,-78.489337,,,,﻿pam_de-magliano_001,﻿Very Rev.,﻿Pamfilo de Magliano,﻿O.S.F,﻿Custos Provincial,,﻿professed scholastic,﻿5 professed scholastics,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",﻿Franciscan College and Convent,English,,"﻿Postulants wishing to be recieved into the Order must apply to Superior, Very Rev. Pamfilo de Magliano.",,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,42.08763,-78.489337,,,,﻿gia_da-gombitelli_001,﻿Rev.,﻿Giacomoo da Gombitelli,﻿O.S.F,﻿Vice President,,﻿religious,﻿4 professed lay brothers,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -222,7 +222,7 @@
 ﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,,,,,,,﻿student,﻿70 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0213_02,﻿school,﻿St. Francis Xavier's,﻿German,﻿Male,,,,,﻿Blackrock,,﻿NY,,42.930653,-78.898295,,,,,,,,,,﻿student,﻿100 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0226,﻿school,[Unnamed Institution],English,,,,,,﻿Batavia,,﻿NY,,42.998611,-78.184167,,,,,,,,,,﻿student,﻿120 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0227,﻿school,[Unnamed Institution],English,﻿Male and Female,,,,,﻿Canandaigua,,﻿NY,,,,,,,,,,,,,﻿student,﻿150 pupils,﻿under the Sisters of St. Joseph,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0227,﻿school,[Unnamed Institution],English,﻿Male and Female,,,,,﻿Canandaigua,,﻿NY,,42.8875,-77.281667,,,,,,,,,,﻿student,﻿150 pupils,﻿under the Sisters of St. Joseph,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0153,﻿school,[Unnamed Institution],English,﻿Male and Female,,,,,﻿Corning,,﻿NY,,42.142852,-77.05469,,,,,,,,,,﻿student,﻿150 pupils,﻿under secular teachers,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0085_02,﻿school,﻿St. John's,English,﻿Male and Female,,,,,﻿Lockport,,﻿NY,,43.173731,-78.683745,,,,,,,,,,﻿student,﻿300 pupils,﻿under secular teachers,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0156,﻿school,﻿St. John's,English,,,,,,﻿Dunkirk,,﻿NY,,42.479502,-79.333932,,,,,,,,,,﻿student,﻿120 pupils,﻿under the Sisters of St. Joseph,,1864,﻿,﻿,﻿Buffalo,Buffalo

@@ -136,7 +136,7 @@
 ﻿chi.il.0195,﻿station,﻿St. Patrick's,English,,,,﻿Kankakee County,,﻿Momenee,﻿Momence,﻿IL,,41.163852,-87.667846,﻿chi.il.0100,﻿Attended from Petites Isles,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0396,﻿station,[Unnamed Institution],English,,,,﻿Warren County,,﻿Monmouth,,,,,,﻿chi.il.0054,﻿Attended from Galesburgh,﻿once a month,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0194,﻿station,[Unnamed Institution],English,,,,﻿McHenry County,,﻿Marengo,﻿Marengo,﻿IL,,42.257989,-88.60955,﻿chi.il.0045,﻿Attended from Elgin,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0385,﻿station,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿New-Dublin,,,,,,﻿chi.il.0049,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0385,﻿station,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿New-Dublin,,,,42.30315,-89.807288,﻿chi.il.0049,﻿Attended from Freeport,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0198,﻿station,﻿St. Henry's,English,,,,,,﻿New-Trier,﻿New Trier Township,﻿IL,,40.633125,-89.398528,﻿chi.il.0049,﻿Attended from Freeport,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0200,﻿station,[Unnamed Institution],English,,,,,﻿Ogle County,﻿Oregon,﻿Oregon,﻿IL,,42.008194,-89.331283,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0201,﻿station,[Unnamed Institution],English,,,,﻿Anderson County,﻿Henderson County,﻿Oquaka,﻿Oquawka,﻿IL,,40.936718,-90.95362,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
@@ -160,12 +160,12 @@
 ﻿chi.il.0219,﻿station,﻿St. Mary's,English,,,,﻿McDonough,﻿McDonough County,﻿Tennessee,﻿Tennessee,﻿IL,,40.409907,-90.84148,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0224,﻿station,[Unnamed Institution],English,,,,﻿Will County,,﻿Twelve Mile Grove,﻿Wilton Center,﻿IL,,41.351533,-87.959594,﻿chi.il.0115,﻿Attended from Wilmington,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0226,﻿station,[Unnamed Institution],English,,,,﻿Jo Daviess County,,﻿Vinegar Hill,﻿Vinegar Hill Township,﻿IL,,42.500434,-90.426383,﻿mil.wi.0457,﻿Attended from Sinsinawa Md. College,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0386,﻿station,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Warsaw,,,,,,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0386,﻿station,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Warsaw,,,,40.361667,-91.420556,﻿chi.il.0077,﻿Attended from Macomb,﻿regularly,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿joh_mcmullen_001,﻿Rev.,﻿John McMullen,﻿D.D.,"﻿President, Member of Theology Department, Vice President of Board of Trustees",,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿j_mcgovern_001,﻿Rev.,﻿J. McGovern,﻿D.D.,"﻿Vice-President, Rector, Member of Theology Department",,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿tha_j_butler_001,﻿Rev.,﻿Thaddeus J. Butler,﻿D.D.,﻿Member of Theology Department,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,,,﻿Daniel Brainard,﻿M.D.,"﻿President, Medical Department",,,,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,﻿hen_booth_001,﻿Hon.,﻿Henry Booth,,"﻿Principal, Law Department",,﻿law student,﻿180 Law students,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0368,﻿seminary,﻿University of St. Mary of the Lake,English,,,,,,﻿Chicago,,,,41.896601,-87.62705,,,,,﻿Hon.,﻿Henry Booth,,"﻿Principal, Law Department",,﻿law student,﻿180 Law students,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿geo_roesch_003,﻿Rev.,﻿George Roesch,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿alb_schaeffler_002,﻿Rev.,﻿Albert Schaeffler,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿jac_nagel_003,﻿Rev.,﻿R. F. Jacob Nagel,﻿C.SS.R.,,,﻿religious,﻿2 professed Lay Brothers,,,1864,﻿,﻿,﻿Chicago,Chicago

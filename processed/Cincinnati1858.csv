@@ -30,7 +30,7 @@
 ﻿cin.oh.0015,﻿church,﻿Christ Church,English,,﻿Fulton,,,,﻿Cincinnati,,﻿OH,,39.103118,-84.51202,,,,﻿ab_mcmabon_001,﻿Rev.,﻿Ab. McMahon,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0297,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Cincinnati,,﻿OH,,39.127034,-84.475185,,,,﻿j_schmidt_002,﻿Rev.,﻿J. Schmidt,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0194_03,﻿chapel,﻿Chapel of the Sisters of Charity,English,,,,,,﻿Cincinnati,,﻿OH,,39.113044,-84.578604,﻿cin.oh.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0040_02,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,"﻿About 600 young girls hear Mass here, and are instructed on Sundays",,,,,﻿Cincinnati,,﻿OH,,39.103335,-84.509335,﻿cin.oh.0001,"﻿Attended by a Jesuit Father, and also from the Cathedral",,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0040,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,"﻿About 600 young girls hear Mass here, and are instructed on Sundays",,,,,﻿Cincinnati,,﻿OH,,39.103335,-84.509335,﻿cin.oh.0001,"﻿Attended by a Jesuit Father, and also from the Cathedral",,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027,﻿church,﻿St. Aloysius,English,,,﻿Cincinnati,,,﻿Cumminsville,﻿Cincinnati,﻿OH,,39.161291,-84.543496,,,,﻿a_m_tübbe_001,﻿Rev.,﻿A. M. Tübbe,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0031,﻿church,﻿Our Lady of Victories,English,,,﻿Cincinnati,,,﻿Delhi,,﻿OH,,39.109843,-84.633622,,﻿Attended from Cincinnati,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0033,﻿church,﻿Fourteen Holy Patrons,English,,,﻿Cincinnati,,,﻿Lockland,,﻿OH,,39.225979,-84.446061,,,,﻿jos_wittler_001,﻿Rev.,﻿Joseph Wittler,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -213,7 +213,7 @@
 ﻿cin.oh.0008_02,﻿school,﻿St. Paul's School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.109871,-84.506724,,,,,,,,,,,,﻿girls under the Sisters of Notre Dame,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0010_02,﻿school,﻿St. Philomena's School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.09651,-84.509308,,,,,,,,,,,,﻿girls under the Sisters of Notre Dame,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009_02,﻿school,﻿St. Joseph's School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.10908,-84.527496,,,,,,,,,,,,﻿girls under the Sisters of Notre Dame,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0040_02,"﻿school, free school",﻿Free School,English,"﻿at Mother House of the Sisters of Notre Dame, where all the Sisters attending the above schools reside",,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103335,-84.509335,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0040_02,"﻿school, free school",﻿Free School,English,"﻿at Mother House of the Sisters of Notre Dame, where all the Sisters attending the above schools reside",,,,,,﻿Cincinnati,﻿OH,,39.103335,-84.509335,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0011_02,﻿school,﻿St. Augustine's School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.119301,-84.529993,,,,,,,,,,,,﻿girls taught by Sisters of the Good Shepard,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0001_03,"﻿school, parish school",﻿St. Patrick's Parish School,English,﻿for girls,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,﻿Sister,﻿Mary Augusta,,﻿Superior,,,,﻿Under the Sisters of Notre Dame,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0002_02,﻿school,﻿Holy Cross German School,English,,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
