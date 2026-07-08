@@ -184,10 +184,10 @@
 ﻿san.nm.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Yuma,﻿Yuma,﻿AZ,,34.544313,-112.467285,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿tuc.az.0001,﻿church,[Unnamed Institution],English,,,,,,﻿La Paz,﻿La Paz,﻿AZ,,33.679167,-114.476389,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿tuc.az.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Weaver,﻿Weaver,﻿AZ,,34.155,-112.706944,,﻿Attended from Prescott,,,,,,,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,﻿Brother,﻿Cipriano,,﻿Director,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,﻿cipriano_tuc.az_001,﻿Brother,﻿Cipriano,,﻿Director,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,,,﻿Under the direction of the Christian Brothers,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0159,﻿college,﻿San Miguel College,English,,,,,,,,﻿NM,,35.683659,-105.937666,,,,,,,,,,﻿student,﻿about 300 pupils,﻿Under the direction of the Christian Brothers,,1869,﻿,﻿,﻿Santa Fé,SantaFe
-﻿san.nm.0160,﻿convent,﻿Convent and Academy of Our Lady of Light,English,,,,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.685387,-105.937262,,,,,﻿Mother,﻿Mary Magdalen Hayden,,﻿Superior,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
+﻿san.nm.0160,﻿convent,﻿Convent and Academy of Our Lady of Light,English,,,,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.685387,-105.937262,,,,﻿m-magdalen_hayden_san.nm_001,﻿Mother,﻿Mary Magdalen Hayden,,﻿Superior,,,,,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0160,﻿convent,﻿Convent and Academy of Our Lady of Light,English,,,,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.685387,-105.937262,,,,,,,,,,,,﻿Under the direction of the Sisters of Loretto,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0160,﻿convent,﻿Convent and Academy of Our Lady of Light,English,,,,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.685387,-105.937262,,,,,,,,,,﻿student,﻿about 200 pupils,﻿Under the direction of the Sisters of Loretto,,1869,﻿,﻿,﻿Santa Fé,SantaFe
 ﻿san.nm.0161,﻿hospital,﻿St. Vincent's Hospital and Orphan Asylum,English,,,,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.68685,-105.935604,,,,,,,,,,,,﻿Directed by the Sisters of Charity,,1869,﻿,﻿,﻿Santa Fé,SantaFe

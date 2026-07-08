@@ -1,15 +1,15 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,,﻿Rt. Ref.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿s_h_rosecrans__001,﻿Rt. Ref.,﻿S. H. Rosecrans,﻿D.D.,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿fra_gonesse_001,﻿Rev.,﻿Francis Gonesse,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿p_j_daly_001,﻿Rev.,﻿P. J. Daly,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Columbus,,﻿OH,,39.968885,-82.991711,,,,﻿ger_h_ahrens_001,﻿Rev.,﻿G. H. Ahrens,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0002,﻿church,﻿Holy Cross,﻿German,,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,﻿j_b_hemsteger_001,﻿Very Rev.,﻿J. B. Hemsteger,﻿V.G.,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0002,﻿church,﻿Holy Cross,﻿German,,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,,,﻿—,,﻿Assistant,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0002,﻿church,﻿Holy Cross,﻿German,,,,,,﻿Columbus,,﻿OH,,39.958679,-82.993266,,,,﻿_col.oh_001,,﻿—,,﻿Assistant,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0003,﻿church,﻿St. Mary's,﻿German,,,,,,﻿Columbus,,﻿OH,,39.948684,-82.994742,,,,﻿f_x_specht_001,﻿Rev.,﻿F. X. Specht,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089_02,﻿chapel,﻿Chapel of St. Francis' Hospital,English,,,,,,﻿Columbus,,﻿OH,,39.961176,-82.998794,,,,﻿b_hillebrand_001,﻿Rev.,﻿B. Hillebrand,,﻿Chaplain,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0088_02,﻿chapel,﻿Chapel at the Convent of the Good Shepard,English,,,,,,﻿Columbus,,﻿OH,,39.961176,-82.998794,﻿col.oh.0001,﻿Attended from St. Patrick's,,,,,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0087_02,﻿chapel,﻿Chapel at the Academy of St. Mary's of the Springs,English,,,,,,﻿Columbus,,﻿OH,,39.961176,-82.998794,,,,﻿o_m_clarkson_001,﻿Rev.,﻿O. M. Clarkson,﻿O.P.,﻿Chaplain,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0007,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,,,,﻿Columbus,,﻿OH,,39.961176,-82.998794,﻿col.oh.0002,﻿Attended from Holy Cross,,,﻿Sister,﻿Mary Ligouri,,﻿Superior of the sisters of Notre Dame,,﻿religious,﻿9 sisters,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0007,﻿chapel,﻿Chapel of the Sisters of Notre Dame,English,,,,,,﻿Columbus,,﻿OH,,39.961176,-82.998794,﻿col.oh.0002,﻿Attended from Holy Cross,,﻿m-ligouri_col.oh_001,﻿Sister,﻿Mary Ligouri,,﻿Superior of the sisters of Notre Dame,,﻿religious,﻿9 sisters,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0008,﻿settlement,[Unnamed Institution],English,,﻿Archres Settlement,,﻿Munroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0009,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,39.32924,-82.101255,,,,﻿j_e_mcswiny_001,﻿Rev.,﻿J. E. McSwiny,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0011,﻿church,﻿St. John's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.016184,-80.742305,,﻿Attended by Rev. J. M. Jacquet,,﻿j_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
@@ -83,10 +83,10 @@
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_v_edlen_001,﻿Rev.,﻿J. V. Edlen,﻿V.P.,,,﻿religious,﻿eleven lay-brothers,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿lev_adams_001,﻿Rev.,﻿Lev. Adams,﻿V.P.,,,﻿religious,﻿eleven lay-brothers,,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿d_h_noon_001,﻿Rev.,﻿D. H. Noon,,,,﻿religious,﻿eleven lay-brothers,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0087,﻿academy,﻿St. Mary's of the Springs Academy,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,,﻿Mother,﻿Rose,,﻿Superior,,﻿religious,﻿26 sisters,﻿Conducted by the Sisters of St. Dominic,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0087,﻿academy,﻿St. Mary's of the Springs Academy,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,﻿rose_col.oh_001,﻿Mother,﻿Rose,,﻿Superior,,﻿religious,﻿26 sisters,﻿Conducted by the Sisters of St. Dominic,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0087,﻿academy,﻿St. Mary's of the Springs Academy,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,,,,,,,﻿student,﻿80 pupils,﻿Conducted by the Sisters of St. Dominic,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0088,﻿convent,﻿Convent of the Sisters of the Good Shepard,English,,,﻿near Columbus,,,﻿Franklin,,﻿OH,,39.961176,-82.998794,,,,,﻿Sister,﻿Gertrude,,﻿Superior,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
-﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,,﻿Sister,﻿Desideria,,﻿Superior,,﻿religious,﻿14 sisters,﻿Franciscan Sisters of the Poor,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0088,﻿convent,﻿Convent of the Sisters of the Good Shepard,English,,,﻿near Columbus,,,﻿Franklin,,﻿OH,,39.961176,-82.998794,,,,﻿gertrude_col.oh_001,﻿Sister,﻿Gertrude,,﻿Superior,,,,,,1869,﻿,﻿,﻿Columbus,Columbus
+﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,﻿desideria_col.oh_001,﻿Sister,﻿Desideria,,﻿Superior,,﻿religious,﻿14 sisters,﻿Franciscan Sisters of the Poor,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0089,﻿hospital,﻿St. Francis' Hospital,English,,,,,,,,﻿OH,,39.961176,-82.998794,,,,﻿b_hillebrand_001,﻿Rev.,﻿B. Hillebrand,,﻿Chaplain,,﻿religious,﻿14 sisters,﻿Franciscan Sisters of the Poor,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿student,﻿240 pupils,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus
 ﻿col.oh.0001_02,﻿school,"﻿St. Patrick's Schools, for boys",English,,,,,,,﻿Columbus,﻿OH,,39.968885,-82.991711,,,,,,,,,,﻿religious,﻿9 sisters teaching the parish schools,﻿Sisters of Notre Dame,,1869,﻿,﻿,﻿Columbus,Columbus

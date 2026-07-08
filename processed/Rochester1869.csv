@@ -53,9 +53,9 @@
 ﻿roc.ny.0053,﻿church,﻿St. Patrick's,English,,,,﻿Cayuga,,﻿Aurora,,﻿NY,,42.918956,-76.72634,,,,﻿b_mccool_002,﻿Rev.,﻿B. McCool,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0054,﻿church,﻿St. Bernard's,English,,,,﻿Cayuga,,﻿Scipio,,﻿NY,,42.918956,-76.72634,,,,﻿b_mccool_002,﻿Rev.,﻿B. McCool,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0055,﻿church,﻿St. Mary's of the Lake,English,,,,﻿Cayuga,,﻿Northville,,﻿NY,,42.665159,-76.622441,,,,﻿b_mccool_002,﻿Rev.,﻿B. McCool,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.044822,-76.564334,,,,﻿jam_oconnor_001,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0057,﻿church,﻿St. John's,English,,,,﻿Cayuga,,﻿Port Byron,,﻿NY,,43.03487,-76.62629,,,,﻿jam_oconnor_001,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0058,﻿church,﻿St. Michael's,English,,,,﻿Cayuga,,﻿Montezuma,,﻿NY,,42.918956,-76.72634,,,,﻿jam_oconnor_001,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0056,﻿church,﻿St. Joseph's,English,,,,﻿Cayuga,,﻿Weedsport,,﻿NY,,43.044822,-76.564334,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0057,﻿church,﻿St. John's,English,,,,﻿Cayuga,,﻿Port Byron,,﻿NY,,43.03487,-76.62629,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0058,﻿church,﻿St. Michael's,English,,,,﻿Cayuga,,﻿Montezuma,,﻿NY,,42.918956,-76.72634,,,,﻿jam_oconnor_002,﻿Rev.,﻿James O'Connor,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0059,﻿church,﻿St. Michael's,English,,,,﻿Yates,,﻿Penn Yan,,﻿NY,,42.661161,-77.057173,,,,﻿den_english_001,﻿Rev.,﻿Denis English,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0060,﻿church,﻿Immaculate Conception,English,,,,﻿Tompkins,,﻿Ithaca,,﻿NY,,42.440141,-76.500322,,,,﻿jam_tuohey_001,﻿Rev.,﻿James Tuohey,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0061,﻿church,﻿St. Patrick's,English,,,,﻿Tompkins,,﻿McLean,,﻿NY,,42.552016,-76.291044,,,,﻿jam_tuohey_001,﻿Rev.,﻿James Tuohey,,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
@@ -67,13 +67,13 @@
 ﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159328,-77.606426,,,,﻿fra_n_van-emstede_001,﻿Rev.,﻿Franc. Nichol. Van Emstede,﻿C.SS.R.,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159328,-77.606426,,,,﻿jul_kuenzer_002,﻿Rev.,﻿Julius Kuenzer,﻿C.SS.R.,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent,English,﻿the Redemptorist Fathers attend the Germans in many places within the Diocese,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.159328,-77.606426,,,,﻿joh_b_keuhn_001,﻿Rev.,﻿John Bl. Keuhn,﻿C.SS.R.,,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0066,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,,﻿Madam,﻿Hanratty,,﻿Superior,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0067,"﻿convent, academy",﻿Convent and Academy of Our Lady of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.15352,-77.606058,,,,,﻿Mother,﻿M. Camillus Kelly,,﻿Superior,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.148933,-77.637113,,,,,﻿Sister,﻿Hieronymo O'Brien,,﻿Superior,,﻿religious,﻿15 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0066,"﻿convent, academy",﻿Convent and Academy of the Sacred Heart,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,﻿hanratty_roc.ny_001,﻿Madam,﻿Hanratty,,﻿Superior,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0067,"﻿convent, academy",﻿Convent and Academy of Our Lady of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.15352,-77.606058,,,,﻿m-camillus_kelly_roc.ny_001,﻿Mother,﻿M. Camillus Kelly,,﻿Superior,,,,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.148933,-77.637113,,,,﻿hieronymo_obrien_roc.ny_001,﻿Sister,﻿Hieronymo O'Brien,,﻿Superior,,﻿religious,﻿15 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0068,﻿hospital,﻿St. Mary's Hospital,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.148933,-77.637113,,,,,,,,,,﻿patient,﻿300 patients on average,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.149914,-77.635686,,,,,﻿Sister,﻿Stanislas,,﻿Superior,,﻿religious,﻿7 Sisters of St. Joseph,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.149914,-77.635686,,,,﻿stanislas_roc.ny_001,﻿Sister,﻿Stanislas,,﻿Superior,,﻿religious,﻿7 Sisters of St. Joseph,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0069,﻿asylum,﻿St. Mary's Boys' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.149914,-77.635686,,,,,,,,,,﻿child,﻿130 boys,,,1869,﻿,﻿,﻿Rochester,Rochester
-﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.16005,-77.619701,,,,,﻿Sister,﻿Beatrice Duffy,,﻿Superior,,﻿religious,﻿9 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
+﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.16005,-77.619701,,,,﻿beatrice_duffy_roc.ny_001,﻿Sister,﻿Beatrice Duffy,,﻿Superior,,﻿religious,﻿9 Sisters of Charity,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0001_04,﻿asylum,﻿St. Patrick's Girls' Orphan Asylum,English,,,,﻿Monroe County,,,﻿Rochester,﻿NY,,43.16005,-77.619701,,,,,,,,,,﻿child,﻿80 girls,,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0071,﻿asylum,﻿St. Joseph's Orphan Asylum,﻿German,,,,,,,,﻿NY,,43.160162,-77.606679,,,,,,,,,,,,﻿in charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Rochester,Rochester
 ﻿roc.ny.0072,﻿asylum,﻿St. Mary's Orphan Asylum,English,,,,﻿Ontario,,﻿Canandaigua,,﻿NY,﻿NY,42.883961,-77.278385,,,,,,,,,,﻿child,﻿20 orphans,﻿Under the care of the Sisters of St. Joseph,,1869,﻿,﻿,﻿Rochester,Rochester

@@ -245,21 +245,21 @@
 ﻿bal.md.0138,﻿convent,﻿Convent of the Order of our Blessed Lady of Mount Carmel,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65281572,-78.76737815,,,,﻿cyr_knoll_001,﻿Very Rev.,﻿Cyril Knoll,,,,﻿student,﻿1 Professed student,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0138,﻿convent,﻿Convent of the Order of our Blessed Lady of Mount Carmel,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65281572,-78.76737815,,,,﻿norbert_001,﻿Rev. Father,﻿Norbert,,,,﻿religious,﻿5 novices,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0138,﻿convent,﻿Convent of the Order of our Blessed Lady of Mount Carmel,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65281572,-78.76737815,,,,,,,,,,﻿religious,﻿8 lay-brothers,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0139,﻿convent,﻿Carmelite Convent,English,,﻿62 Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29167595,-76.6017861,,,,,﻿Rev. Mother,﻿Ignatius Bauduy,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0140,﻿convent,﻿Convent of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.91147491,-77.06905881,,,,,﻿Mother,﻿Mary Augustine Cleary,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0141,﻿convent,﻿Convent of the Visitation,English,,﻿corner of Park and Centre streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627045,-76.61832287,,,,,﻿Mother,﻿Mary Leonard Neale,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0142,﻿convent,﻿Convent of the Visitation,English,,﻿near Catonsville,,,,﻿Mt. de Sales,﻿Mt. de Sales,﻿MD,,39.2858479,-76.721402,,,,,﻿Mother,﻿Mary Regina Neale,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0143,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.41613434,-77.40696145,,,,,﻿Mother,﻿Mary Loretto Hunter,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0144,﻿convent,﻿Convent of the Visitation,English,,﻿corner of Tenth and G streets,,,,﻿Washington,﻿Washington,﻿DC,,38.89837009,-77.0259977,,,,,﻿Mother,﻿Mary de Sales O'Hara,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0004_04,﻿convent,﻿Convent of the Immaculate Conception,English,,﻿Poppleton street,,,,,﻿Baltimore,﻿MD,,39.28823726,-76.63187297,,,,,﻿Sister,﻿Mary Alphonsus Atkinson,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0146,﻿convent,﻿Convent of Notre Dame,English,,,,,,,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,,﻿Sister,﻿Augustine,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0139,﻿convent,﻿Carmelite Convent,English,,﻿62 Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29167595,-76.6017861,,,,﻿ign_bauduy_001,﻿Rev. Mother,﻿Ignatius Bauduy,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0140,﻿convent,﻿Convent of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.91147491,-77.06905881,,,,﻿m-augustine_cleary_bal.md_001,﻿Mother,﻿Mary Augustine Cleary,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0141,﻿convent,﻿Convent of the Visitation,English,,﻿corner of Park and Centre streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627045,-76.61832287,,,,﻿m-leonard_neale_bal.md_001,﻿Mother,﻿Mary Leonard Neale,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0142,﻿convent,﻿Convent of the Visitation,English,,﻿near Catonsville,,,,﻿Mt. de Sales,﻿Mt. de Sales,﻿MD,,39.2858479,-76.721402,,,,﻿m-regina_neale_bal.md_001,﻿Mother,﻿Mary Regina Neale,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0143,﻿convent,﻿Convent of the Visitation,English,,,,,,﻿Frederick,﻿Frederick,﻿MD,,39.41613434,-77.40696145,,,,﻿m-loretto_hunter_bal.md_001,﻿Mother,﻿Mary Loretto Hunter,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0144,﻿convent,﻿Convent of the Visitation,English,,﻿corner of Tenth and G streets,,,,﻿Washington,﻿Washington,﻿DC,,38.89837009,-77.0259977,,,,﻿m-de-sales_ohara_bal.md_001,﻿Mother,﻿Mary de Sales O'Hara,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_04,﻿convent,﻿Convent of the Immaculate Conception,English,,﻿Poppleton street,,,,,﻿Baltimore,﻿MD,,39.28823726,-76.63187297,,,,﻿m-alphonsus_atkinson_bal.md_001,﻿Sister,﻿Mary Alphonsus Atkinson,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0146,﻿convent,﻿Convent of Notre Dame,English,,,,,,,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,﻿augustine_bal.md_001,﻿Sister,﻿Augustine,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0147,"﻿academy, novitiate",﻿Mount St. Agnes,English,,,,,,﻿Mount Washington,﻿Mount Washington,﻿MD,,39.37000929,-76.65500884,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0148_01,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿St. Edward's,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,﻿Sister,﻿Mary Augustine Gwynn,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0149,﻿convent,﻿St. Joseph's Sisterhood,English,,,,,,﻿Emmittsburgh,﻿Emmittsburg,﻿MD,,39.7045417,-77.3269307,,,,,﻿Mother,﻿Mary Euphemia Blenkinsop,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0148_01,﻿convent,﻿Convent of the Sisters of Mercy,English,,﻿St. Edward's,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,﻿m-augustine_gwynn_bal.md_001,﻿Sister,﻿Mary Augustine Gwynn,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0149,﻿convent,﻿St. Joseph's Sisterhood,English,,,,,,﻿Emmittsburgh,﻿Emmittsburg,﻿MD,,39.7045417,-77.3269307,,,,﻿m-euphemia_blenkinsop_bal.md_001,﻿Mother,﻿Mary Euphemia Blenkinsop,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0150,﻿convent,﻿School Sisters of Notre Dame,English,,"﻿Aisquith street, near St. James' Church",,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0151,﻿convent,﻿St. Alphonsus' Convent of Notre Dame,English,,﻿102 W. Saratoga street,,,,,﻿Baltimore,﻿MD,,39.29292894,-76.61726381,,,,,﻿Sister,﻿Anastasia,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0152,﻿convent,﻿Convent of the Good Shepherd,English,,﻿corner of Mount and Hollins streets,,,,,﻿Baltimore,﻿MD,,39.28724944,-76.6435664,,,,,﻿Mother,﻿Mary of St. Joseph,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0153,﻿convent,﻿Oblate Sisters of Providence,English,,﻿Richmond street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.32592076,-76.57666455,,,,,﻿Sister,﻿Mary Louisa Noel,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0151,﻿convent,﻿St. Alphonsus' Convent of Notre Dame,English,,﻿102 W. Saratoga street,,,,,﻿Baltimore,﻿MD,,39.29292894,-76.61726381,,,,﻿anastasia_bal.md_001,﻿Sister,﻿Anastasia,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0152,﻿convent,﻿Convent of the Good Shepherd,English,,﻿corner of Mount and Hollins streets,,,,,﻿Baltimore,﻿MD,,39.28724944,-76.6435664,,,,﻿m-of-the-st-joseph_bal.md_001,﻿Mother,﻿Mary of St. Joseph,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0153,﻿convent,﻿Oblate Sisters of Providence,English,,﻿Richmond street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.32592076,-76.57666455,,,,﻿m-louisa_noel_bal.md_001,﻿Sister,﻿Mary Louisa Noel,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0154,﻿college,﻿Georgetown College,English,,,,,,,,﻿DC,,38.9089151,-77.0723461,,,,﻿ber_maguire_001,﻿Rev.,﻿Bernard Maguire,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0154,﻿college,﻿Georgetown College,English,,,,,,,,﻿DC,,38.9089151,-77.0723461,,,,﻿p_healy_001,﻿Rev.,﻿P. Healy,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0154,﻿college,﻿Georgetown College,English,,,,,,,,﻿DC,,38.9089151,-77.0723461,,,,﻿jam_curley_001,﻿Rev.,﻿J. Curley,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -284,9 +284,9 @@
 ﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.3476737,-76.6172375,,,,﻿joh_smith_001,﻿Rev.,﻿John Smith,﻿S.J.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0157,﻿college,﻿Mount St. Mary's College,English,,﻿near Emmittsburgh,,,,,﻿Emmitsburg,﻿MD,,39.6799914,-77.3486971,,,,﻿joh_h_mccaffrey_001,﻿Rev.,﻿John McCaffrey,﻿D.D.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0157,﻿college,﻿Mount St. Mary's College,English,,﻿near Emmittsburgh,,,,,﻿Emmitsburg,﻿MD,,39.6799914,-77.3486971,,,,﻿joh_mccloskey_001,﻿Rev.,﻿John McCloskey,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0158,﻿academy,﻿Rock Hill Academy,English,,,,,,﻿Ellicott's Mills,﻿Ellicott City,﻿MD,,39.26598469,-76.79660899,,,,,﻿Brother,﻿Bettelin,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0158,﻿academy,﻿Rock Hill Academy,English,,,,,,﻿Ellicott's Mills,﻿Ellicott City,﻿MD,,39.26598469,-76.79660899,,,,﻿bettelin_bal.md_001,﻿Brother,﻿Bettelin,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0159,﻿college,﻿Borromeo College,English,,,,,,﻿Pikesville,﻿Pikesville,﻿MD,,39.3742729,-76.7224727,,,,﻿e_q_waldron_001,﻿Rev.,﻿E. Q. S. Waldron,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0160,﻿college,﻿Calvert College,English,,,,,,﻿New Windsor,﻿New Windsor,﻿MD,,39.5420455,-77.1080376,,,,,﻿Mr.,﻿A. H. Baker,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0160,﻿college,﻿Calvert College,English,,,,,,﻿New Windsor,﻿New Windsor,﻿MD,,39.5420455,-77.1080376,,,,﻿a_h_baker_bal.md_001,﻿Mr.,﻿A. H. Baker,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0160,﻿college,﻿Calvert College,English,,,,,,﻿New Windsor,﻿New Windsor,﻿MD,,39.5420455,-77.1080376,,,,﻿tj_otoole_001,﻿Rev.,﻿T. O'Toole,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0140_02,﻿academy,﻿Academy of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.91147491,-77.06905881,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0162,﻿academy,﻿Academy of the Visitation,English,,﻿Park street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29627045,-76.61832287,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -296,7 +296,7 @@
 ﻿bal.md.0166,﻿academy,﻿St. Joseph's Academy,English,,﻿near Emmittsburgh,,,,,,﻿MD,,39.70549564,-77.32618376,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0167,﻿academy,﻿Academy of Notre Dame,English,,﻿Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30087754,-76.60190086,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0004_04.01,﻿academy,﻿Academy of Sisters of Mercy,English,,﻿Poppleton street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.2882492,-76.63187836,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0169,﻿academy,﻿Academy of the Holy Cross,English,,﻿Gough street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28790633,-76.58745203,,,,,﻿Sister,﻿M. Alphonsus,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0169,﻿academy,﻿Academy of the Holy Cross,English,,﻿Gough street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28790633,-76.58745203,,,,﻿m-alphonsus_bal.md_001,﻿Sister,﻿M. Alphonsus,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0170,﻿academy,﻿Academy of Mount St. Agnes,English,,,,,,﻿Mount Washington,﻿Mount Washington,﻿MD,,39.37000929,-76.65500884,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0148_02,﻿academy,﻿St. Edward's Academy,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0001_03,﻿academy,﻿Academy of St. Joseph and Male Parish [School] of the Cathedral,English,,"﻿Calvert Hall, corner of Saratoga and Little Sharp streets",,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.2928269,-76.61610388,,,,,,,,,,,,﻿St. Joseph's Community of Brothers of the Christian Schools,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -313,7 +313,7 @@
 ﻿bal.md.0183,﻿school,﻿St. Laurence's Schools,English,,,,,,,﻿Jessup,﻿MD,,39.14087572,-76.75766624,,,,,,,,,,﻿student,"﻿Pupils, 75",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0007_02,﻿school,﻿St. Joseph's Male Parish School,English,,﻿79 Barre street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28300173,-76.6160398,,,,,,,,,,﻿student,"﻿Pupils, 150",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0007_03,﻿school,﻿St. Joseph's Female Parish School,English,,﻿73 Barre street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28300265,-76.61601905,,,,,,,,,,﻿student,"﻿Pupils, 250",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0186,﻿school,﻿St. Mary's Parish School,English,,,,,,﻿Annapolis,﻿Annapolis,﻿MD,,38.97509753,-76.48788701,,,,,﻿Sister,﻿Augustine,,,,﻿student,"﻿Pupils, 150",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0186,﻿school,﻿St. Mary's Parish School,English,,,,,,﻿Annapolis,﻿Annapolis,﻿MD,,38.97509753,-76.48788701,,,,﻿augustine_bal.md_001,﻿Sister,﻿Augustine,,,,﻿student,"﻿Pupils, 150",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0011_02,﻿school,﻿St. Michael's Male Parish School,English,,,,,,,﻿Baltimore,﻿MD,,39.29068355,-76.59011813,,,,,,,,,,﻿religious,﻿5 lay-teachers,﻿one Sister of Notre Dame,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0011_02,﻿school,﻿St. Michael's Male Parish School,English,,,,,,,﻿Baltimore,﻿MD,,39.29068355,-76.59011813,,,,,,,,,,﻿student,"﻿Pupils, 617",﻿one Sister of Notre Dame,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0011_03,﻿school,﻿St. Michael's Female Parish School,English,,,,,,,,,,39.29068355,-76.59011813,,,,,,,,,,﻿student,"﻿Pupils, 613",,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -329,11 +329,11 @@
 ﻿bal.md.0026_02,﻿school,﻿School at SS. Peter and Paul's,﻿German,,﻿SS. Peter and Paul's,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65284738,-78.76709151,,,,,,,,,,﻿student,"﻿Pupils, 220",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0122_02,﻿school,﻿St. Aloysius' Parish Schools,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90154749,-77.00943865,,,,,,,,,,﻿student,"﻿Pupils, 600",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0200,﻿school,﻿St. Mary's Parish School,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89945842,-77.01864292,,,,,,,,,,﻿student,﻿110 Pupils,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0117_02,﻿school,﻿St. Matthew's Institute,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,,﻿Brother,﻿Tobias,,,,﻿student,﻿100 students,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0117_02,﻿school,﻿St. Matthew's Institute,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,﻿tobias_bal.md_001,﻿Brother,﻿Tobias,,,,﻿student,﻿100 students,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0117_05,﻿school,﻿St. Matthew's Parochial School,English,,"﻿K street, between Fourteenth and Fifteenth streets",,,,﻿Washington,﻿Washington,﻿DC,,38.90289002,-77.03323483,,,,,,,,,,﻿teacher,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0117_04,﻿school,﻿St. Matthew's School for Girls,English,,"﻿Fifteenth street, near H",,,,﻿Washington,﻿Washington,﻿DC,,38.90042443,-77.03478137,,,,,﻿Sister,﻿Sebastian,,,,﻿teacher,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0117_04,﻿school,﻿St. Matthew's School for Girls,English,,"﻿Fifteenth street, near H",,,,﻿Washington,﻿Washington,﻿DC,,38.90042443,-77.03478137,,,,﻿sebastian_bal.md_001,﻿Sister,﻿Sebastian,,,,﻿teacher,﻿100 scholars,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124_02,﻿school,﻿School for Boys,English,,﻿at Trinity Church,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.9071682,-77.06996884,,,,,,,,,,﻿student,"﻿Pupils, 200",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0205,﻿school,"﻿St. Vincent's School, for Girls",English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89896467,-76.99268075,,,,,﻿Sister,﻿Mary Blanche,,,,﻿student,"﻿Pupils, 260",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0205,﻿school,"﻿St. Vincent's School, for Girls",English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89896467,-76.99268075,,,,﻿m-blanche_bal.md_001,﻿Sister,﻿Mary Blanche,,,,﻿student,"﻿Pupils, 260",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0206,﻿school,"﻿St. Joseph's School, for Boys",English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90021858,-76.99001348,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0207,﻿school,﻿Parochial School of St. Patrick,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.89794594,-77.02572018,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0208,﻿school,﻿St. Stephen's Parochial Schools,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90332164,-77.05312075,,,,,,,,,,﻿child,"﻿Boys, 150",,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -341,7 +341,7 @@
 ﻿bal.md.0208,﻿school,﻿St. Stephen's Parochial Schools,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90332164,-77.05312075,,,,,,,,,,﻿student,"﻿Sunday-schools, 350 boys and girls",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0025_03,"﻿academy, school",﻿St. Edward's Academy and Parochial Schools,English,,﻿adjoining St. Patrick's Church,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0025_02,﻿school,﻿St. Patrick's Female Parish School,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65538189,-78.76416442,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0213,﻿academy,﻿Carroll Hall Academy,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,,﻿Professor,﻿John Butler,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0213,﻿academy,﻿Carroll Hall Academy,English,,,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65533587,-78.76443767,,,,﻿john_butler_bal.md_001,﻿Professor,﻿John Butler,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0214,﻿school,﻿School at SS. Peter and Paul's,﻿German,,﻿SS. Peter and Paul's,,,,﻿Cumberland,﻿Cumberland,﻿MD,,39.65284738,-78.76709151,,,,,,,,,,﻿student,"﻿Pupils, 220",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0215,﻿school,﻿St. Aloysius' Parish Schools,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.90154749,-77.00943865,,,,,,,,,,﻿student,"﻿Number of pupils, 600",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124_02,﻿school,﻿School for Boys,English,,﻿at Trinity Church,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.9071682,-77.06996884,,,,,,,,,,﻿student,"﻿Pupils, 200",,,1870,﻿,﻿,﻿Baltimore,Baltimore
@@ -352,22 +352,22 @@
 ﻿bal.md.0143_03,﻿school,﻿Benevolent School for Girls,English,,﻿at the Visitation Convent,,,,﻿Frederick,﻿Frederick,﻿MD,,39.41613434,-77.40696145,,,,,,,,,,﻿student,"﻿Pupils, 70",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0224,﻿school,﻿School for Colored Children,English,,"﻿St. Martin's, 15th street",,,,﻿Washington,﻿Washington,﻿DC,,38.90420166,-77.03450586,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0225,﻿school,﻿St. Mary's School for Colored Children,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.9071923,-77.0368707,,,,,,,,,,﻿student,"﻿Pupils, 32",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0226,﻿school,﻿St. Joseph's School of Industry,English,,"﻿Waverly Terrace, Franklin Square, corner of Carey and Lexington streets",,,,,﻿Baltimore,﻿MD,,39.29094199,-76.63838177,,,,,﻿Sister,﻿Veronica,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0001_04,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,﻿Franklin street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29525877,-76.61737503,,,,,﻿Sister,﻿Louise,,,,﻿child,"﻿Orphans, 125",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0226,﻿school,﻿St. Joseph's School of Industry,English,,"﻿Waverly Terrace, Franklin Square, corner of Carey and Lexington streets",,,,,﻿Baltimore,﻿MD,,39.29094199,-76.63838177,,,,﻿veronica_bal.md_001,﻿Sister,﻿Veronica,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0001_04,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,﻿Franklin street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29525877,-76.61737503,,,,﻿louise_bal.md_001,﻿Sister,﻿Louise,,,,﻿child,"﻿Orphans, 125",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0003_04,﻿asylum,﻿St. Vincent's Male Orphan Asylum,English,,﻿Front street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.29141772,-76.60611014,,,,,,,,,,﻿child,"﻿Orphans, 72",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0229,﻿school,﻿St. Mary's Industrial School for Boys,English,,"﻿near Frederick Road, two miles from the city",,,,﻿Carrollton,﻿Baltimore,﻿MD,,39.27460723,-76.66906064,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0002_04,﻿asylum,﻿Asylum for Boys,English,,﻿adjoining St. Patrick's Church,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28496351,-76.56734049,,,,,,,,,,﻿patient,"﻿Number of inmates, 60",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0231,﻿asylum,﻿St. Anthony's Orphan Asylum,English,,﻿Central Avenue,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30101088,-76.60009216,,,,,﻿Sister,﻿Rosamunda,,,,﻿child,"﻿Orphans, boys and girls, 140",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0232,﻿asylum,﻿St. Vincent's Female Asylum,English,,"﻿10th street, between F and G",,,,﻿Washington,﻿Washington,﻿DC,,38.89789012,-77.02575709,,,,,﻿Sister,﻿Mary Blanche Rooney,,,,﻿child,"﻿Orphans, 145",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0003_05,﻿asylum,﻿St. Vincent's Infant Asylum,English,,﻿corner of Division and Townsend streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30202131,-76.63064718,,,,,﻿Sister,﻿Maria,,,,﻿child,"﻿Number of infants, 70",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0234,﻿asylum,﻿St. Joseph's Male Orphan Asylum,English,,﻿10th and F streets,,,,﻿Washington,﻿Washington,﻿DC,,38.8974009,-77.02610807,,,,,﻿Sister,﻿Mary of the Circumcision,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0231,﻿asylum,﻿St. Anthony's Orphan Asylum,English,,﻿Central Avenue,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30101088,-76.60009216,,,,﻿rosamunda_bal.md_001,﻿Sister,﻿Rosamunda,,,,﻿child,"﻿Orphans, boys and girls, 140",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0232,﻿asylum,﻿St. Vincent's Female Asylum,English,,"﻿10th street, between F and G",,,,﻿Washington,﻿Washington,﻿DC,,38.89789012,-77.02575709,,,,﻿m-blanche_rooney_bal.md_001,﻿Sister,﻿Mary Blanche Rooney,,,,﻿child,"﻿Orphans, 145",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0003_05,﻿asylum,﻿St. Vincent's Infant Asylum,English,,﻿corner of Division and Townsend streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.30202131,-76.63064718,,,,﻿maria_bal.md_001,﻿Sister,﻿Maria,,,,﻿child,"﻿Number of infants, 70",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0234,﻿asylum,﻿St. Joseph's Male Orphan Asylum,English,,﻿10th and F streets,,,,﻿Washington,﻿Washington,﻿DC,,38.8974009,-77.02610807,,,,﻿m-of-the-the-circumcision_bal.md_001,﻿Sister,﻿Mary of the Circumcision,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0235,﻿asylum,﻿Orphan Asylum for Colored Girls,English,,﻿Richmond street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.32592076,-76.57666455,,,,,,,,,,﻿child,"﻿Number of girls, 25",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0236,﻿hospital,﻿St. Joseph's German Hospital,English,,﻿Caroline and Hoffman streets,,,,,﻿Baltimore,,,39.30658488,-76.59861291,,,,,﻿Sister,﻿Clara,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0237,﻿asylum,﻿St. Ann's Infant Asylum,English,,﻿corner of K street and Pennsylvania Avenue,,,,﻿Washington,﻿Washington,﻿DC,,38.90266571,-77.05143577,,,,,﻿Sister,﻿Arsenia,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0238,﻿infirmary,﻿Baltimore Infirmary,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28732987,-76.62372843,,,,,﻿Sister,﻿Ursula,,,,﻿patient,"﻿Average number of patients, 100",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0236,﻿hospital,﻿St. Joseph's German Hospital,English,,﻿Caroline and Hoffman streets,,,,,﻿Baltimore,,,39.30658488,-76.59861291,,,,﻿clara_bal.md_001,﻿Sister,﻿Clara,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0237,﻿asylum,﻿St. Ann's Infant Asylum,English,,﻿corner of K street and Pennsylvania Avenue,,,,﻿Washington,﻿Washington,﻿DC,,38.90266571,-77.05143577,,,,﻿arsenia_bal.md_001,﻿Sister,﻿Arsenia,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0238,﻿infirmary,﻿Baltimore Infirmary,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.28732987,-76.62372843,,,,﻿ursula_bal.md_001,﻿Sister,﻿Ursula,,,,﻿patient,"﻿Average number of patients, 100",,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0244,﻿infirmary,﻿Mount Hope Institution,English,,﻿in the north-western suburbs of Baltimore,,,,,﻿Baltimore,,,39.34783437,-76.70732602,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0049,﻿hospital,﻿Mount Hope Retreat,English,,"﻿six miles from the city, on the Reistertown Road",,,,,,,,39.34783437,-76.70732602,,,,﻿j_monaghan_001,﻿Rev.,﻿J. Monaghan,﻿C.M.,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0239,﻿hospital,﻿St. Agnes' Hospital,English,,"﻿Lanvale Road, near Northern Avenue",,,,,,,,39.271944,-76.672778,,,,,﻿Sister,﻿Mary Ann McAleer,,,,﻿patient,"﻿Number of inmates, 100",,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0240,﻿hospital,﻿Providence Hospital,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.88419859,-77.00283929,,,,,﻿Sister,﻿Loretto,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0241,﻿house,﻿House of the Good Shepherd,English,,"﻿25 S. Mount street, corner of Hollins street",,,,,﻿Baltimore,,,39.28724944,-76.6435664,,,,,﻿Mother,﻿Mary of St. Joseph,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0239,﻿hospital,﻿St. Agnes' Hospital,English,,"﻿Lanvale Road, near Northern Avenue",,,,,,,,39.271944,-76.672778,,,,﻿m-ann_mcaleer_bal.md_001,﻿Sister,﻿Mary Ann McAleer,,,,﻿patient,"﻿Number of inmates, 100",,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0240,﻿hospital,﻿Providence Hospital,English,,,,,,﻿Washington,﻿Washington,﻿DC,,38.88419859,-77.00283929,,,,﻿loretto_bal.md_001,﻿Sister,﻿Loretto,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0241,﻿house,﻿House of the Good Shepherd,English,,"﻿25 S. Mount street, corner of Hollins street",,,,,﻿Baltimore,,,39.28724944,-76.6435664,,,,﻿m-of-the-st-joseph_bal.md_001,﻿Mother,﻿Mary of St. Joseph,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0242,﻿asylum,﻿Asylum of the Little Sisters of the Poor,English,,,,,,,﻿Baltimore,,,39.3049597,-76.60499112,,,,,,,,,,,,,,1870,﻿,﻿,﻿Baltimore,Baltimore

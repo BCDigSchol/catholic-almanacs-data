@@ -33,7 +33,7 @@
 ﻿erie.pa.0055,﻿church,﻿St. Joseph's,English,,,,﻿Venango County,,﻿Oil City,﻿Oil City,﻿PA,,41.434951,-79.704018,,,,﻿joh_d_coady_001,﻿Very Rev.,﻿J. D. Coady,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0055,﻿church,﻿St. Joseph's,English,,,,﻿Venango County,,﻿Oil City,﻿Oil City,﻿PA,,41.434951,-79.704018,,,,﻿dav_snively_001,﻿Rev.,﻿David Snively,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0022,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Cranberry Township,﻿Cranberry Township,﻿PA,,41.389661,-79.829674,,,,﻿dav_snively_001,﻿Rev.,﻿D. Snively,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0029,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Franklin,﻿Franklin,﻿PA,,41.397836,-79.831444,,,,,,﻿Arthur Mignault,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0029,﻿church,[Unnamed Institution],English,,,,﻿Venango County,,﻿Franklin,﻿Franklin,﻿PA,,41.397836,-79.831444,,,,﻿arthur_mignault_erie.pa_001,,﻿Arthur Mignault,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0137,﻿church,﻿St. Bernard's,English,,,,﻿Venango County,,﻿Neilsburgh,,﻿PA,,,,,,,﻿nap_mignault_001,﻿Rev.,﻿N. Mignault,,,﻿of Titusville,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0058,﻿church,[Unnamed Institution],English,﻿new city and new church,,,﻿Venango County,,﻿Pithole City,﻿Pithole,﻿PA,,41.520894,-79.586994,,,,﻿joh_l_finucane_001,﻿Rev.,﻿J. L. Finucane,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0013,﻿church,﻿Immaculate Conception,English,,,,﻿Clarion County,,﻿Clarion,,﻿PA,,41.213385,-79.381244,,,,﻿joh_koch_001,﻿Rev.,﻿John Koch,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
@@ -67,8 +67,8 @@
 ﻿erie.pa.0084,﻿station,[Unnamed Institution],English,,,,﻿Warren County,,﻿Youngsville,﻿Youngsville,﻿PA,,41.852281,-79.31866,,,,,,,,,,,,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085_03,﻿priory,﻿Benedictine Priory,English,,﻿Benzinger P. O.,,,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427374,-78.56094,,,,﻿fer_m_wolf_001,﻿Rev.,﻿F. M. Wolf,﻿O.S.B.,﻿Prior,,﻿priest,﻿3 priests,,,1866,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085_03,﻿priory,﻿Benedictine Priory,English,,﻿Benzinger P. O.,,,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427374,-78.56094,,,,,,,,,,﻿religious,﻿12 lay brothers,,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0090,﻿convent,﻿St. Joseph's Convent of the Benedictine Nuns,English,,﻿Benzinger P.O.,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,,﻿Mother,﻿Theresa M. Vogel,﻿O.S.B.,﻿Prioress,,﻿religious,﻿30 sisters,,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,,﻿Benzinger P.O.,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,,﻿Sister,﻿Mary Glenn,﻿O.S.B.,﻿Directress,,,,﻿conducted by the Benedictine Nuns,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0119,﻿orphanage,﻿Orphanage at Meadville,English,,,,,,﻿Meadville,,﻿PA,,41.65,-80.15,,,,,﻿Sister,﻿Agnes,,﻿Sister-Servant,,,,﻿Sisters of St. Joseph,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0141,﻿hospital,﻿St. Vincent's Hospital,English,,﻿Fourth street,,,,﻿Erie,,﻿PA,,42.134499,-80.078338,,,,,﻿Sister,﻿-----,,﻿Sister-Servant,,,,﻿Sisters of St. Joseph,,1866,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0001_02&0001_03,"﻿academy, school",﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,﻿Erie,,﻿PA,,42.132666,-80.083745,,,,,﻿Sister,﻿Augustine Shortz,,﻿Directress,,,,﻿conducted by the Benedictine Nuns,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0090,﻿convent,﻿St. Joseph's Convent of the Benedictine Nuns,English,,﻿Benzinger P.O.,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,﻿theresa_m_vogel_erie.pa_001,﻿Mother,﻿Theresa M. Vogel,﻿O.S.B.,﻿Prioress,,﻿religious,﻿30 sisters,,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0093,﻿academy,﻿St. Benedict's Academy,English,,﻿Benzinger P.O.,,﻿Elk County,﻿Elk County,﻿St. Mary's,﻿St. Marys,﻿PA,,41.427765,-78.570214,,,,﻿m-glenn_erie.pa_001,﻿Sister,﻿Mary Glenn,﻿O.S.B.,﻿Directress,,,,﻿conducted by the Benedictine Nuns,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0119,﻿orphanage,﻿Orphanage at Meadville,English,,,,,,﻿Meadville,,﻿PA,,41.65,-80.15,,,,﻿agnes_erie.pa_001,﻿Sister,﻿Agnes,,﻿Sister-Servant,,,,﻿Sisters of St. Joseph,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0141,﻿hospital,﻿St. Vincent's Hospital,English,,﻿Fourth street,,,,﻿Erie,,﻿PA,,42.134499,-80.078338,,,,﻿_erie.pa_001,﻿Sister,﻿-----,,﻿Sister-Servant,,,,﻿Sisters of St. Joseph,,1866,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0001_02&0001_03,"﻿academy, school",﻿Academy and School of St. Joseph,English,,﻿Fourth and Fifth streets,,,,﻿Erie,,﻿PA,,42.132666,-80.083745,,,,﻿augustine_shortz_erie.pa_001,﻿Sister,﻿Augustine Shortz,,﻿Directress,,,,﻿conducted by the Benedictine Nuns,,1866,﻿,﻿,﻿Erie,Erie
