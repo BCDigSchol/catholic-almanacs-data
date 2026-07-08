@@ -69,7 +69,7 @@
 ﻿alb.ny.0095,﻿church,﻿Holy Cross,English,,,,﻿Oneida County,﻿Oneida County,﻿Deerfield,﻿Deerfield,﻿NY,,43.189494,-75.142863,﻿alb.ny.0196,﻿attended from Newport,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0098,﻿church,﻿St. Joseph's,English,,,,﻿Broome County,﻿Delaware County,﻿Deposit,﻿Deposit,﻿NY,,42.061667,-75.425408,,,,﻿jam_sweeny_001,﻿Rev.,﻿James Sweeny,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0099,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿Durhamville,﻿Durhamville,﻿NY,,43.122123,-75.670037,﻿alb.ny.0234,﻿attended from Rome,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0414,﻿church,﻿St. Francis of Assisium,﻿German,,,,﻿Oneida County,﻿Oneida County,﻿Durhamville,﻿Durhamville,﻿NY,,,,﻿alb.ny.0320,"﻿attended from the Franciscan Convent, Syracuse",,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0414,﻿church,﻿St. Francis of Assisium,﻿German,,,,﻿Oneida County,﻿Oneida County,﻿Durhamville,﻿Durhamville,﻿NY,,43.132708,-75.656687,﻿alb.ny.0320,"﻿attended from the Franciscan Convent, Syracuse",,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0389,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,﻿Jefferson County,﻿Evans' Mills,,﻿NY,,44.088611,-75.807222,﻿alb.ny.0306,﻿attended from Cape Vincent,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0390,﻿church,[Unnamed Institution],English,,,,,,﻿Fayette,,﻿NY,,42.85,-76.866667,﻿alb.ny.0062,﻿attended from Cazenovia,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0113,﻿church,﻿St. Mary's,English,,,,﻿Oneida County,﻿Oneida County,﻿Florence,﻿Florence,﻿NY,,43.438403,-75.749353,,,,﻿joh_ludden_001,﻿Rev.,﻿John Ludden,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
@@ -217,9 +217,9 @@
 ﻿alb.ny.0321,﻿convent,﻿St. Joseph's Convent,English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,﻿joh_r_kroeger_001,﻿Rev.,﻿John R. Kroeger,﻿O.M.C.,,,﻿religious,﻿1 brother,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0415,﻿convent,﻿Convent of the Brothers of the Third Order of St. Francis,English,,,,,,,,,,,,,,,,﻿Ven. Bro.,﻿John Cullinan,﻿O.M.C.,﻿Superior,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0010,﻿convent,﻿Convent and Academy of the Sacred Heart,English,,﻿Kenwood,,,,﻿Albany,﻿Albany,﻿NY,,42.623691,-73.773177,,,,,﻿Madame,﻿Henretty,,﻿Superior,,﻿student,﻿74,﻿Ladies of the Sacred Heart,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0406,﻿convent,﻿Convent of Sisters of Mercy,English,,﻿East-Albany,,,,﻿Albany,,﻿NY,,,,,,,,﻿Sister,﻿Monica,,﻿Superior,,﻿religious,"﻿religious, 7",,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0406,﻿convent,﻿Convent of Sisters of Mercy,English,,﻿East-Albany,,,,﻿Albany,,﻿NY,,42.6525,-73.757222,,,,,﻿Sister,﻿Monica,,﻿Superior,,﻿religious,"﻿religious, 7",,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0363,﻿convent,﻿Convent of Sisters of Third Order of St. Francis,﻿German,,,,,,,﻿Syracuse,﻿NY,,43.023894,-76.150389,,,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0407,﻿convent,﻿Convents of Sisters of Third Order of St. Francis,﻿German,,,,,,,﻿Utica,﻿NY,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0407,﻿convent,﻿Convents of Sisters of Third Order of St. Francis,﻿German,,,,,,,﻿Utica,﻿NY,,43.100833,-75.2325,,,,,,,,,,,,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0363,"﻿convent, novitiate",﻿Mother House and Novitiate of St. Anthony of Padua,﻿German,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.023894,-76.150389,,,,,﻿Mother,﻿Antonia M. Eulenstein,,﻿Superior,,﻿religious,"﻿professed, 2",,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0363,"﻿convent, novitiate",﻿Mother House and Novitiate of St. Anthony of Padua,﻿German,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.023894,-76.150389,,,,,﻿Sister,﻿Clementina Rouchel,,﻿Mistress of Novices,,﻿religious,"﻿novices, 8",,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,,,,,,,,﻿Under the charge of Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
@@ -227,7 +227,7 @@
 ﻿alb.ny.0339,﻿asylum,[Unnamed Institution],English,﻿for Girls,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,﻿Sister,﻿Aloysia,,﻿Superior,,﻿child,﻿1? orphans,﻿Under Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0326,﻿asylum,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.718925,-73.687503,,,,,﻿Brother,﻿Cecilian,,﻿Superior,,﻿child,﻿102 boys,﻿Under Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0341,﻿asylum,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,﻿Sister,﻿Mary Agnes,,﻿Superior,,﻿child,﻿70 girls,﻿Under Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0408,﻿asylum,[Unnamed Institution],English,,,,,,﻿Utica,,﻿NY,,,,,,,,﻿Brother,﻿Justin,,﻿Superior,,﻿child,﻿70 boys,﻿Under Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0408,﻿asylum,[Unnamed Institution],English,,,,,,﻿Utica,,﻿NY,,43.100833,-75.2325,,,,,﻿Brother,﻿Justin,,﻿Superior,,﻿child,﻿70 boys,﻿Under Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0343,﻿asylum,[Unnamed Institution],English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,,﻿Sister,﻿Perpetua,,﻿Superior,,﻿child,﻿98 girls,﻿Under Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0335,﻿academy,﻿City House,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.648769,-73.753572,,,,,﻿M.,﻿Alicia,,﻿Superior,,﻿student,﻿70,﻿Ladies of the Sacred Heart,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0324,﻿academy,[Unnamed Institution],English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,﻿Brother,﻿Urbin,,﻿Director,,﻿student,﻿353 pupils,﻿Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
@@ -238,17 +238,17 @@
 ﻿alb.ny.0001_03,﻿school,﻿Cathedral School,English,,﻿Cathedral,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.647478,-73.759623,,,,,,,,,,﻿child,﻿170 boys,﻿Christian Brother,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0001_03,﻿school,﻿Cathedral School,English,,﻿Cathedral,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.647478,-73.759623,,,,,,,,,,﻿religious,﻿two Christian Brothers,﻿Christian Brother,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0337,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿child,﻿200 girls,﻿Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0409,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,,,,,,,﻿Mr.,﻿John Moloney,,﻿Assistant,,﻿child,﻿150 boys,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0409,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.651864,-73.752808,,,,,﻿Mr.,﻿John Moloney,,﻿Assistant,,﻿child,﻿150 boys,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0336_01&0336_02,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,,﻿M. Alicia,,﻿Superior,,﻿child,﻿130 girls,﻿Ladies of Sacred Heart,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0372,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Schenectady,﻿NY,,43.454703,-76.498443,,,,,,,,,,﻿student,﻿270 pupils,﻿Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0325,﻿school,﻿St. John's,English,,,,,﻿Albany County,﻿Schenectady,﻿Albany,﻿NY,,42.705719,-73.797425,,,,,,,,,,﻿student,﻿540 pupils,﻿Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0338,﻿school,﻿St. John's,English,,,,,﻿Albany County,﻿Schenectady,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,﻿Sister,﻿Mary Felix,,﻿Superior,,﻿child,﻿450 girls,﻿Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0005_02,﻿school,﻿Holy Cross,﻿German and French,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿child,﻿200 girls,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0410,﻿school,﻿Holy Cross,English,,,,,,﻿Schenectady,,﻿NY,,,,,,,,﻿Mr.,﻿Singer,,,,﻿child,﻿170 boys,,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0410,﻿school,﻿Holy Cross,English,,,,,,﻿Schenectady,,﻿NY,,42.814167,-73.937222,,,,,﻿Mr.,﻿Singer,,,,﻿child,﻿170 boys,,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0374,﻿school,[Unnamed Institution],English,﻿Boys and girls,,,,﻿Albany County,﻿East Albany,﻿Albany,﻿NY,,42.627645,-73.755818,,,,,,,,,,,,﻿Sisters of Mercy,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0350,﻿school,﻿St. Peter's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.723215,-73.688874,,,,,,,,,,﻿student,﻿500 pupils,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0327,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,43.310178,-73.642107,,,,,,,,,,﻿child,﻿300 boys,﻿Christian Brothers,,1865,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,,,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿child,﻿300 girls,﻿Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.731667,-73.6925,,,,,﻿Sister,﻿Agatha,,﻿Superior,,﻿child,﻿300 girls,﻿Sisters of Charity,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0349,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,,,,,,﻿student,﻿450 boys and girls,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0354,﻿school,﻿St. Bernard's,English,,,,,﻿Albany County,﻿Cohoes,﻿Cohoes,﻿NY,,42.774245,-73.700119,,,,,﻿Sister,﻿Gonzaga,,﻿Superior,,﻿student,﻿600 boys and girls,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0358,﻿school,[Unnamed Institution],English,,,,,﻿Saratoga County,﻿Saratoga,﻿Saratoga Springs,﻿NY,,43.08313,-73.784565,,,,,﻿Sister,﻿Leona,,﻿Superior,,﻿student,﻿350 boys and girls,﻿Sisters of St. Joseph,,1865,﻿,﻿,﻿Albany,Albany
