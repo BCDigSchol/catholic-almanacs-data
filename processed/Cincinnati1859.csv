@@ -17,7 +17,7 @@
 ﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿ott_jair_001,﻿Rev.,﻿Otto Jair,﻿O.S.F.,,﻿These Fathers attend several stations near the city.,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿ans_koch_002,﻿Rev.,﻿Anselm Koch,﻿O.S.F.,,﻿These Fathers attend several stations near the city.,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿a_gstir_001,﻿Rev.,﻿A. Gstir,﻿O.S.F.,,﻿These Fathers attend several stations near the city.,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿f_hobzer_001,﻿Rev.,﻿F. Hobzer,﻿O.S.F.,,﻿These Fathers attend several stations near the city.,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0007,﻿church,﻿St. John Baptist,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.114207,-84.517127,,,,﻿f_holzer_001,﻿Rev.,﻿F. Hobzer,﻿O.S.F.,,﻿These Fathers attend several stations near the city.,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿eng_stehle_001,﻿Rev.,﻿Engelbert Stehlé,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0009,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.10908,-84.527496,,,,﻿wm_sommer_001,﻿Rev.,﻿Wm. Sommer,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0010,﻿church,﻿St. Philomena's,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.09651,-84.509308,,,,﻿aug_m_többé_001,﻿Rev.,﻿A. Tobbe,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -83,9 +83,9 @@
 ﻿cin.oh.0093,﻿church,﻿St. Charles',English,,,,,,﻿Greenville,,﻿OH,,40.105657,-84.689749,,﻿Attended from Nazareth and Piqua,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0094,﻿church,﻿St. Stephen's,English,,,,﻿Baker County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿e_eberhard_001,﻿Rev.,﻿E. Eberhard,﻿O.S.F.,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0095,﻿church,﻿St. Mary's,English,,,,﻿Baker County,,﻿Hamilton,,﻿OH,,39.399501,-84.561335,,,,﻿eug_corcoran_001,﻿Rev.,﻿Eugene Corcoran,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0097,﻿church,﻿St. John Baptist's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,﻿cin.oh.0007,"﻿Attended by Rev. B. Menge, Cincinnati",,﻿b_menge_001,﻿Rev.,﻿B. Menge,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0097,﻿church,﻿St. John Baptist's,English,,,,﻿Hamilton County,,﻿Harrison,,﻿OH,,39.253697,-84.7916,﻿cin.oh.0007,"﻿Attended by Rev. B. Menge, Cincinnati",,﻿ber_m_mengé_001,﻿Rev.,﻿B. Menge,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0098,﻿church,﻿St. Mary's,English,,,,﻿Highland County,,﻿Hillsborough,,﻿OH,,39.202287,-83.611587,,,,﻿j_b_odonoghue_001,﻿Rev.,﻿J. B. O'Donoghue,,,﻿who visits various stations on the Chillicothe Railroad,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0037,﻿church,﻿St. Lawrence,English,,,,,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿wm_o_higgins_001,﻿Rev.,﻿Wm. O. Higgins,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0037,﻿church,﻿St. Lawrence,English,,,,,,﻿Ironton,,﻿OH,,38.537635,-82.682562,,,,﻿wil_ohiggins_001,﻿Rev.,﻿Wm. O. Higgins,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0036,﻿church,﻿St. Patrick's,English,,,,,,﻿Jackson Township,,﻿OH,,39.764135,-82.25833,,﻿Attended by the Dominican Fathers,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0035,﻿church,﻿Church of Holy Name,English,,,,﻿Meigs County,,﻿Jacksonville,,﻿OH,,39.052017,-82.636554,﻿col.oh.0081,﻿Attended from Wilkesville,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0039,﻿church,﻿St. Mary and St. Elizabeth,English,,,,﻿Coshocton County,,﻿Kilbuck,,﻿OH,,40.495065,-81.984591,﻿col.oh.0056,﻿Attended from Newark,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -178,7 +178,7 @@
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's Seminary of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecranz,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's Seminary of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿w_j_barry_001,﻿Rev.,﻿W. J. Barry,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's Seminary of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿fra_j_pabisch_001,﻿Rev.,﻿F. Pabisch,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's Seminary of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿f_j_goetz_001,﻿Rev.,﻿F. J. Goetz,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0189,﻿seminary,﻿Theological Seminary,English,,﻿Mount St. Mary's Seminary of the West,﻿near Cincinnati,,,,,﻿OH,,39.11066,-84.561634,,,,﻿j_f_goetz_001,﻿Rev.,﻿F. J. Goetz,,,,﻿priest,﻿40 seminarians — 4 at the Preparatory Seminary of St. Thomas,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0340,﻿college,﻿Mount St. Mary's College,English,,,﻿near Cincinnati,,,,,﻿OH,,,,,,,﻿s_h_rosecrans_002,﻿Rev.,﻿S. H Rosecranz,,﻿President,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_kelly_002,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,﻿Provincial,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿c_d_bowling_002,﻿Rev.,﻿C. D. Bowling,﻿O.S.D.,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -249,7 +249,7 @@
 ﻿cin.oh.0350,﻿charitable institution,﻿St. John's Hotel for Invalids,English,,,,,,﻿Cincinnati,,﻿OH,,,,,,,﻿sophia_gilmore_cin.oh_001,﻿Sister,﻿Sophia Gilmore,,﻿Sister-servant,,,,﻿Under the charge of the Sisters of Charity,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0351,"﻿asylum, female orphan asylum",﻿St. Peter's Female Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,﻿m-augustine_cin.oh_001,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0352,"﻿male orphan asylum, asylum",﻿St. Joseph's Male Orphan Asylum,English,,,,,,﻿Cumminsville,,﻿OH,,,,,,,﻿m-augustine_cin.oh_001,﻿Sister,﻿Mary Augustine,,﻿Sister-servant,,,,﻿Under the Sisters of Charity,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0353,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,﻿German,,,,,,﻿Cincinnati,,﻿OH,,,,,,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0213,﻿asylum,﻿St. Aloysius' German Male and Female Orphan Asylums,﻿German,,,,,,﻿Cincinnati,,﻿OH,,39.171622,-84.469217,,,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0354,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Minster,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters Pretiosissimi Sanguinis,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0355,﻿house,﻿House of the Good Shepard,English,﻿for the reformation of penitent women,,,,,,,﻿OH,,,,,,,,,,,,,,,﻿Under the Sisters of Our Lady of Charity of the Good Shepard,,1859,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0075_03,﻿asylum,﻿Orphan Asylum,English,﻿Attached to Emanuel Church,,,,,﻿Dayton,,﻿OH,,39.758948,-84.191607,,,,,,,,,,,,,,1859,﻿,﻿,﻿Cincinnati,Cincinnati

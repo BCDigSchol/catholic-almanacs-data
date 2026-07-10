@@ -105,7 +105,7 @@
 ﻿roc.ny.0028,﻿church,﻿St. Patrick's,English,"﻿the Redemptorist Fathers have charge of the following German stations: Auburn, Webster, Brockport, Scottsville, Lyons, Seneca Falls, Geneva, Waterloo, Canandaigua, Corning, Elmira, Mount Morris",,,﻿Livingston,,﻿Mount Morris,,﻿NY,,42.725618,-77.874169,,,,﻿dan_moore_001,﻿Rev.,﻿Daniel Moore,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0018,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Monroe,,﻿Mumfordville,,﻿NY,,42.976653,-77.855771,﻿roc.ny.0017,﻿Attended from Scottsville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0044,﻿church,[Unnamed Institution],English,,,,﻿Wayne,,﻿Newark,,﻿NY,,43.04326,-77.095967,﻿roc.ny.0043,﻿Attended from Clifton Springs,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿New Fane,,,,,,43.286723,-78.710312,,,,﻿mulholland_roc.ny_001,﻿Hugh,﻿Mulholland,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿New Fane,,,,,,43.286723,-78.710312,,,,﻿hugh_mulholland_roc.ny_001,,﻿Hugh Mulholland,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0037,﻿church,﻿St. John's,English,﻿brick church,,,﻿Erie County,,﻿Northbush,﻿Tonawanda,﻿NY,,42.988685,-78.872397,﻿buf.ny.0008,﻿Attended from St. Mary's Buffalo,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0090,﻿church,﻿St. Mary of the Cataract,English,﻿stone church,,,﻿Niagara County,,﻿Niagara Falls,﻿Niagara Falls,﻿NY,,43.084917,-79.05729,,,,﻿p_j_cannon_001,﻿Rev.,﻿P. J. Cannon,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0185,﻿church,﻿Holy Angels,English,﻿frame church,,,﻿Allegany County,,﻿Nunda,,﻿NY,,42.9975,-78.434722,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -150,7 +150,7 @@
 ﻿roc.ny.0012,﻿church,[Unnamed Institution],English,,,,﻿Monroe,,﻿Spencerport,,﻿NY,,43.18645,-77.803897,﻿roc.ny.0011,﻿Attended from Brockport,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0041,﻿church,﻿St. John's,English,﻿frame church,,,﻿Erie County,,﻿Springbrook,﻿Springbrook,﻿NY,,42.818115,-78.675584,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hines,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0225,﻿church,﻿St. Michael's,English,﻿frame church,,,﻿Cayuga County,,﻿Springport,,,,42.83889,-76.68555,,,,﻿joh_touhy_001,﻿Rev.,﻿John Touhey,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0042,﻿church,﻿St. Aloysius',English,﻿frame church,,,﻿Erie County,,﻿Springville,﻿Springville,﻿NY,,42.509956,-78.669394,﻿buf.ny.0221,﻿Attended from East-China,,﻿_buf.ny_001,﻿Attended from Eden,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0042,﻿church,﻿St. Aloysius',English,﻿frame church,,,﻿Erie County,,﻿Springville,﻿Springville,﻿NY,,42.509956,-78.669394,﻿buf.ny.0221,﻿Attended from East-China,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0093,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,42.887425,-78.86424,,,,﻿cha_d_mcmullen_001,﻿Rev.,﻿Charles D. McMullen,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0043,﻿church,﻿Sacred Heart,English,﻿frame church,,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,43.020335,-78.880315,,,,﻿fh_ulrich_001,﻿Rev.,﻿F.H. Ulrich,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿frame church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.697493,-78.747621,,,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo

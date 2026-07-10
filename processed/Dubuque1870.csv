@@ -76,7 +76,7 @@
 ﻿dub.ia.0069,﻿church,﻿Holy Cross,English,,﻿P.O. Pin Oak,,﻿Dubuque County,﻿Dubuque County,﻿Glassnevin,﻿Holy Cross,﻿IA,,42.60108451,-90.9970882,,,,﻿dan_maloney_001,﻿Rev.,﻿Daniel Maloney,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0070,﻿church,﻿St. Joseph's,English,,,,﻿Dubuque County,﻿Dubuque County,,,﻿IA,,42.5831975,-90.8836303,﻿dub.ia.0069,"﻿attended from Holy Cross, Glassnevin",,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0071,﻿church,﻿St. Patrick's,English,,,,﻿Delaware County,﻿Delaware County,﻿Colesburg,﻿Colesburg,﻿IA,,42.63729709,-91.20373366,﻿dub.ia.0069,"﻿attended from Holy Cross, Glassnevin",,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0072,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Georgetown,﻿Georgetown,﻿IA,,41.01381097,-92.95568514,,,,﻿mr_malone_001,﻿Rev.,﻿Mr. Malone,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0072,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,﻿Monroe County,﻿Georgetown,﻿Georgetown,﻿IA,,41.01381097,-92.95568514,,,,﻿malone_001,﻿Rev. Mr.,﻿Malone,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0073,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Frederick,,﻿IA,,41.08830735,-92.67805642,﻿dub.ia.0072,﻿attended from Georgetown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0074,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Albia,﻿Albia,﻿IA,,41.0300078,-92.811307,﻿dub.ia.0072,﻿attended from Georgetown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0075,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Melrose,﻿Melrose,﻿IA,,40.9749527,-93.0494741,﻿dub.ia.0072,﻿attended from Georgetown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
@@ -107,7 +107,7 @@
 ﻿dub.ia.0099,﻿station,[Unnamed Institution],English,,,,,﻿Poweshiek County,﻿Brooklin,﻿Brooklyn,﻿IA,,41.7315717,-92.4453638,﻿dub.ia.0097,﻿attended from Marshaltown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0100,﻿station,[Unnamed Institution],English,,,,,﻿Benton County,﻿Belle Plain,﻿Belle Plaine,﻿IA,,41.8955529,-92.2757404,﻿dub.ia.0097,﻿attended from Marshaltown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0101,﻿station,[Unnamed Institution],English,,,,,﻿Marshall County,﻿State Centre,﻿State Center,﻿IA,,42.01494513,-93.16521164,﻿dub.ia.0097,﻿attended from Marshaltown,,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0102,﻿church,﻿Church of Sacred Heart,English,,,,,﻿Jones County,﻿Monticello,﻿Monticello,﻿IA,,42.24495491,-91.19637472,,,,﻿dj_cogan_001,﻿Rev.,﻿D.J. Cogan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0102,﻿church,﻿Church of Sacred Heart,English,,,,,﻿Jones County,﻿Monticello,﻿Monticello,﻿IA,,42.24495491,-91.19637472,,,,﻿d_j_cogan_001,﻿Rev.,﻿D. J. Cogan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0103,﻿church,﻿St. Alphonsus',English,,,,﻿Henry County,﻿Henry County,﻿Mount Pleasant,﻿Mount Pleasant,﻿IA,,40.96103896,-91.55742233,,,,﻿f_walsh_001,﻿Rev.,﻿F. Walsh,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0104,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,﻿Jefferson County,﻿Fairfield,﻿Fairfield,﻿IA,,41.0076114,-91.9636914,﻿dub.ia.0103,﻿attended from Mount Pleasant,﻿once a month,,,,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0105,﻿church,﻿St. Mary's,English,,,,﻿Clayton County,﻿Clayton County,﻿McGregor,﻿McGregor,﻿IA,,43.01829474,-91.18274621,,,,﻿b_c_lenehan_001,﻿Very Rev.,﻿B. C. Lenehan,,,,,,,,1870,﻿,﻿,﻿Dubuque,Dubuque

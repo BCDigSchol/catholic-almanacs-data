@@ -2,7 +2,6 @@
 ﻿vin.in.0001,﻿cathedral,﻿Cathedral of St. Francis Xavier,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.679024,-87.53415,,,,﻿mau_de-st-palais_001,﻿Rt. Rev.,﻿Maurice de St. Palais,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0001,﻿cathedral,﻿Cathedral of St. Francis Xavier,English,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.679024,-87.53415,,,,﻿e_audran_001,﻿Rev.,﻿E. Audran,,﻿Pastor,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.528632,,,,﻿w_angeln_001,﻿Rev.,﻿W. Engeln,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0002,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Knox County,,﻿Vincennes,﻿Vincennes,﻿IN,,38.677269,-87.528632,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chasse,,"﻿Vincennes, Director of the Asylums",,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0005,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Aurora,﻿Aurora,﻿IN,,39.057002,-84.90134,﻿vin.in.0222,﻿Visited from Pipe Creek,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0016,﻿church,﻿St. Michael's,English,﻿brick,,,﻿Franklin County,,﻿Brookville,﻿Brookville,﻿IN,,39.416809,-85.013073,﻿vin.in.0147,﻿Attended from St. Mary's of the Rocks,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0011,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Vanderburgh County,,﻿Blue Grass,﻿Evansville,﻿IN,,37.952432,-87.493694,﻿vin.in.0036,"﻿Visited by the clergy of the Church of the Assumption, Evansville",,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
@@ -79,7 +78,7 @@
 ﻿vin.in.0139,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Clark County,﻿Clark County,,,﻿IN,,38.44929,-85.725637,﻿vin.in.0098,﻿Attended from New Albany,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0140,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Crawford County,,,,﻿IN,,38.305455,-86.459209,﻿vin.in.0133,﻿Attended from St. Bernard's,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0141,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Dearborn County,,,,﻿IN,,39.292985,-84.957842,,,,﻿h_keoring_001,﻿Rev.,﻿H. Keoring,,,﻿St. Leo's P.O.,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0142,﻿church,﻿St. Joseph's,English,﻿brick church,,,﻿Vanderburgh County,,,,﻿IN,,37.976877,-87.600637,,﻿Attended from St. James',,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0142,﻿church,﻿St. Joseph's,English,﻿brick church,,,﻿Vanderburgh County,,,,﻿IN,,37.976877,-87.600637,﻿vin.in.0136,﻿Attended from St. James',,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0145,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Daviess County,,,,﻿IN,,38.702024,-87.142289,,,,﻿j_mougin_001,﻿Rev.,﻿J. Mougin,,,﻿Loogootee P.O.,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0147,﻿church,﻿St. Mary of the Rocks,English,﻿log church,,,﻿Franklin County,,,,﻿IN,,39.348812,-85.108517,,,,﻿jas_weissemberger_001,﻿Rev.,﻿Jas. Weissemberger,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0148,﻿church,﻿St. Mary of the Woods,English,﻿brick church,,,﻿Vigo County,﻿Vigo County,,﻿Terre Haute,﻿IN,,39.510725,-87.466973,,,,﻿joh_corbe_001,﻿Very Rev.,﻿John Corbe,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
@@ -96,7 +95,7 @@
 ﻿vin.in.0254,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Jennings County,,﻿Vernon,,﻿IN,,39.07,-84.895278,﻿vin.in.0131,﻿Attended from St. Ann's,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0266,﻿church,[Unnamed Institution],English,,,,﻿Switzerland County,,﻿Vevay,,﻿IN,,,,﻿vin.in.0081,﻿Attended from Madison,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0267,﻿church,[Unnamed Institution],English,,,,﻿Scott County,,﻿Vienna,,﻿IN,,,,﻿vin.in.0071,﻿Attended from Jeffersonvile,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0171,﻿church,﻿St. Simon's,English,,,,﻿Daviess County,﻿Daviess County,﻿Washington,﻿Washington,﻿IN,,38.661096,-87.182171,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chassé,,,﻿of Vincennes,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0171,﻿church,﻿St. Simon's,English,,,,﻿Daviess County,﻿Daviess County,﻿Washington,﻿Washington,﻿IN,,38.661096,-87.182171,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chassé,,﻿Director of Asylums,﻿of Vincennes,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0173,﻿church,﻿St. Philomena's,English,,,,﻿Dearborn County,﻿Dearborn County,﻿Wolf Creek,﻿Brookville,﻿IN,,39.391492,-85.048533,﻿vin.in.0147,﻿Attended from St. Mary's of the Rocks,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0175,﻿church,﻿St. Martin's,English,,,,,﻿Dearborn County,﻿Yorkville,﻿Yorkville,﻿IN,,39.203838,-84.966797,﻿vin.in.0100,﻿Attended from New Alsace,,,,,,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0242,﻿seminary,﻿St. Charles' Ecclesiastical Seminary,English,,﻿near Vincennes,,,,﻿Highland,,﻿IN,,38.6775,-87.501944,,,,﻿joh_gueguen_001,﻿Rev.,﻿John Gueguen,,﻿Sup.,,﻿student,﻿17 students,,,1859,﻿,﻿,﻿Vincennes,Vincennes
@@ -105,7 +104,7 @@
 ﻿vin.in.0176,﻿monastery,﻿St. Meinrad's Benedictine Monastery,English,,﻿near Ferdinand,,,,﻿Ferdinand,,﻿IN,,38.171079,-86.809195,,,,﻿ulr_christen_001,﻿Rev.,﻿Uldaric Christen,﻿O.S.B.,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿monastery,﻿St. Meinrad's Benedictine Monastery,English,,﻿near Ferdinand,,,,﻿Ferdinand,,﻿IN,,38.171079,-86.809195,,,,﻿bed_connor_001,﻿Rev.,﻿Bede Connor,﻿O.S.B.,,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿monastery,﻿St. Meinrad's Benedictine Monastery,English,,﻿near Ferdinand,,,,﻿Ferdinand,,﻿IN,,38.171079,-86.809195,,,,﻿joh_c_toffa_001,﻿Very Rev.,﻿John Chrysostom Toffa,﻿O.S.B.,﻿Prior,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0287,﻿monastery,﻿Brothers of the Christian Doctrine,English,"﻿Parent House, at Vezelize near Nancy, France",﻿near Enschburg,,,,﻿Enschburg,,﻿IN,,,,,,,﻿john_mary_vin.in_001,﻿Brother,﻿John Mary,,﻿Sup.,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0287,﻿consecrated life institution,﻿Brothers of the Christian Doctrine,English,"﻿Parent House, at Vezelize near Nancy, France",﻿near Enschburg,,,,﻿Enschburg,,﻿IN,,,,,,,﻿john_mary_vin.in_001,﻿Brother,﻿John Mary,,﻿Sup.,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0284,﻿mother house,﻿Mother House of the Sisters of Providence,English,,"﻿St. Mary's of the Woods, near Terre Haute",,,﻿Vigo County,﻿Terre Haute,﻿Terre Haute,﻿IN,,,,,,,﻿m-cecilia_bailly_vin.in_001,﻿Mother,﻿Mary Cecilia Bailly,,﻿Superior,,,,,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0268,﻿institute,﻿Female Institute of St. Mary's of the Woods,English,,,,,﻿Vigo County,,﻿Terre Haute,﻿IN,,,,,,,,,,,,,,,﻿directed by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0269,﻿academy,﻿Young Ladies' School,English,,,,,,﻿South Madison,,﻿IN,,,,,,,﻿st_charles_vin.in_001,﻿Sister,﻿St. Charles,,﻿Sup.,,,,﻿directed by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
@@ -118,9 +117,11 @@
 ﻿vin.in.0285,﻿female academy,﻿Young Ladies' School,English,,,,,,﻿Columbus,,﻿IN,,,,,,,﻿theodore_vin.in_001,﻿Sister,﻿Theodore,,﻿Sup.,,,,﻿directed by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0286,"﻿school, day school",﻿Day School,English,,,,,,﻿New Alsace,,﻿IN,,,,,,,﻿alphonse_vin.in_001,﻿Sister,﻿Alphonse,,﻿Sup.,,,,﻿directed by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0278,﻿female academy,﻿Young Ladies' School,English,,,,,,﻿Washington,,﻿IN,,,,,,,﻿elizabeth_vin.in_001,﻿Sister,﻿Elizabeth,,﻿Sup.,,,,﻿directed by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0287&vin.in.0300,"﻿institute, convent, academy",﻿Convent and Academy of the Sisters of the Third Order of St. Francis,English,,,,,,﻿Oldenburg,﻿Oldenburgh,﻿IN,,,,,,,﻿theresa_vin.in_001,﻿Mother,﻿Theresa,,﻿Sup.,,,,﻿Sisters of the Third Order of St. Francis,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0199&vin.in.0300,"﻿institute, convent, academy",﻿Convent and Academy of the Sisters of the Third Order of St. Francis,English,,,,,,﻿Oldenburg,﻿Oldenburgh,﻿IN,,39.339773,-85.204406,,,,﻿theresa_vin.in_001,﻿Mother,﻿Theresa,,﻿Sup.,,,,﻿Sisters of the Third Order of St. Francis,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0016_02,﻿school,[Unnamed Institution],English,,,,,﻿Franklin County,﻿Brookville,﻿Brookville,﻿IN,,39.416809,-85.013073,,,,,,,,,,,,﻿directed by the Sisters of the Third Order of St. Francis,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0280,﻿school,[Unnamed Institution],English,,,,,,﻿Cross Road,,﻿IN,,,,,,,,,,,,,,,﻿directed by the Sisters of the Third Order of St. Francis,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0281,﻿school,[Unnamed Institution],English,,,,,,﻿St. Joseph's,,﻿IN,,,,,,,,,,,,,,,﻿directed by the Sisters of the Third Order of St. Francis,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Male Orphan Asylum,English,,,,,,﻿Vincennes,,﻿IN,,38.677269,-87.528632,,,,﻿joachim_vin.in_001,﻿Sister,﻿Joachim,,﻿Sup.,,,,﻿conducted by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Male Orphan Asylum,English,,,,,,﻿Vincennes,,﻿IN,,38.677269,-87.528632,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chasse,,"﻿Vincennes, Director of the Asylums",,,,﻿conducted by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0183,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Vincennes,﻿Vincennes,﻿IN,,39.510725,-87.466973,,,,﻿m-margaret_vin.in_001,﻿Sister,﻿Mary Margaret,,﻿Sup.,,,,﻿conducted by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0183,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Vincennes,﻿Vincennes,﻿IN,,39.510725,-87.466973,,,,﻿j_b_chassé_001,﻿Rev.,﻿J. B. Chasse,,"﻿Vincennes, Director of the Asylums",,,,﻿conducted by the Sisters of Providence,,1859,﻿,﻿,﻿Vincennes,Vincennes
