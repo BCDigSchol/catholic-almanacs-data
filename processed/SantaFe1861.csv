@@ -13,4 +13,24 @@
 ﻿san.nm.0009,﻿chapel,﻿N. Senora de los Angeles,English,,,,﻿Santa Fé County,,﻿Pecos,﻿Pecos,﻿NM,,35.549994,-105.689158,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0219,﻿chapel,[Unnamed Institution],English,,,,﻿Santa Fé County,,﻿Placer de Dolores,,﻿NM,,35.453428,-106.078962,,﻿Attended from Santo Domingo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0219,﻿chapel,﻿San Jose,English,,,,﻿Santa Fé County,,﻿La Cienega,,﻿NM,,35.453428,-106.078962,,﻿Attended from Santa Fe,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0011,﻿chapel,﻿Chapel of San Diego,English,﻿Pueblo Indians,,,﻿Santa Fé County,,﻿Tesuque,﻿Tesuque Pueblo,﻿NM,,35.82501,-105.978414,,﻿Attended from Santa Fe,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0011,﻿chapel,﻿San Diego,English,﻿Pueblo Indians,,,﻿Santa Fé County,,﻿Tesuque,﻿Tesuque Pueblo,﻿NM,,35.82501,-105.978414,,﻿Attended from Santa Fe,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0010,﻿chapel,﻿San Isidro,English,,,,﻿Santa Fé County,,﻿Rio Tesuque,﻿Tesuque,﻿NM,,35.757876,-105.924082,,﻿Attended from Santa Fe,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0013,﻿church,﻿Santa Rosa,English,,,﻿Albiquiu,,,﻿Albiquiu,﻿Abiquiu,﻿NM,,36.209999,-106.290624,,,,﻿ram_salazar_001,﻿Rev.,﻿Ramon Salazar,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0014,﻿chapel,[Unnamed Institution],English,﻿fine church,,﻿Albiquiu,,,﻿El Rito,﻿El Rito,﻿NM,,36.344236,-106.188487,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0233,﻿chapel,﻿Nepomuceno,English,,,﻿Albiquiu,,,﻿San Juan,,﻿NM,,,,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0015,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿Los Ancones,﻿Ancones,﻿NM,,36.423908,-106.063076,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0016,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿Servieta,,﻿NM,,36.553302,-105.935549,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0017,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿El Jo Caliente,﻿Ojo Caliente,﻿NM,,36.302922,-106.047583,﻿san.nm.0012,﻿Attended from Abiquiu,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0022,﻿church,﻿San Felipe de Neri,English,,,﻿Alburquerque,,,﻿Alburquerque,﻿Albuquerque,﻿NM,,35.096779,-106.670085,,,,﻿jos_m_courdet_001,﻿Rev.,﻿Joseph M. Coudert,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0023,﻿chapel,﻿San Jose,English,,,﻿Alburquerque,,,﻿Los Ranchos de Alburq.,﻿Los Ranchos de Albuquerque,﻿NM,,35.161989,-106.642804,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0024,﻿chapel,﻿N. Senora del Carmen,English,,,﻿Alburquerque,,,﻿El Rancho,﻿Albuquerque,﻿NM,,35.168856,-106.617979,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0025,﻿chapel,﻿Natividad N. Sonora,English,,,﻿Alburquerque,,,﻿Lalameda,﻿Alameda,﻿NM,,34.972731,-105.032363,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0026,﻿chapel,﻿San Antonio,English,,,﻿Alburquerque,,,﻿San Antonio,﻿San Antonio,﻿NM,,34.972731,-105.032363,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0027,﻿chapel,﻿San Jose,English,,,﻿Alburquerque,,,﻿Los Barelos,﻿Albuquerque,﻿NM,,35.042073,-106.646815,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0029,﻿chapel,﻿San Jose,English,,,﻿Albiquiu,,,﻿Los Ranchos de Atrisco,﻿Albuquerque,﻿NM,,35.042073,-106.646815,﻿san.nm.0022,﻿Attended from Alburquerque,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0151,﻿church,﻿N. Sonora de Delores,English,,,﻿Taos,,,﻿Arroyo Hondo,﻿Arroyo Hondo,﻿NM,,36.536139,-105.669897,,,,﻿tho_hayes_001,﻿Rev.,﻿Thomas Hayes,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0153,﻿chapel,﻿Santa Trinidad,English,,,﻿Taos,,,﻿Arroyo Seco,﻿Arroyo Seco,﻿NM,,36.516693,-105.569176,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0143,﻿chapel,﻿San Antonio,English,,,,,,﻿San Antonio,﻿Taos,﻿NM,,36.406769,-105.581464,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿den.co.0062,﻿church,[Unnamed Institution],English,﻿church built,,,,﻿Costilla County,﻿Rio Colorado,,,﻿CO,,,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿den.co.0024,﻿church,[Unnamed Institution],English,,,,,﻿Costilla County,﻿La Costilla,,,﻿CO,37.182517,-105.236122,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
+﻿den.co.0029,﻿church,[Unnamed Institution],English,,,,,﻿Costilla County,﻿La Culebra,﻿San Acasio,,﻿CO,37.209662,-105.566525,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1861,﻿,﻿,﻿Santa Fe,SantaFe
