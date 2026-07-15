@@ -116,23 +116,23 @@
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,,,,,,﻿Ferdinand,,﻿IN,,38.171079,-86.809195,,,,﻿mar_marty_001,﻿Rev.,﻿Martinus Marty,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿St. Meinrad's Benedictine Convent,English,,,,,,﻿Ferdinand,,﻿IN,,38.171079,-86.809195,,,,﻿fin_mundwiler_001,﻿Rev.,﻿Fintanus Mundwyler,﻿O.S.B.,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0176,﻿convent,﻿Brothers of the Christian Doctrine,English,"﻿Parent House, at Vezelize near Nancy, France",,,,,﻿Enschburg,,﻿IN,,38.171079,-86.809195,,,,﻿john_mary_vin.in_001,﻿Brother,﻿John Mary,,﻿Superior,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0178,"﻿institute, house",﻿St. Mary's Institute,English,"﻿At St. Mary's, Vigo County. For particulars, address Superior",﻿near Terre Haute,,﻿Vigo County,,,,﻿IN,,39.510538,-87.460586,,,,,﻿Sister,﻿Mary Cecilia,,﻿Superioress,,,﻿The Sisters of Providence,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0178,"﻿institute, house",﻿St. Mary's Institute,English,"﻿At St. Mary's, Vigo County. For particulars, address Superior",﻿near Terre Haute,,﻿Vigo County,,,,﻿IN,,39.510538,-87.460586,,,,﻿m-cecilia_vin.in_001,﻿Sister,﻿Mary Cecilia,,﻿Superioress,,,﻿The Sisters of Providence,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0268,﻿institute,﻿Female Institute for St. Mary's of the Woods,English,,,,,,,,,,,,,,,,,,,,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0269,﻿academy,﻿Young Ladies' Academy,English,,,,,,﻿South Madison,,,,,,,,,,﻿Sister,﻿Felix,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0270,﻿day school,﻿Day School,English,,,,,,﻿North Madison,,,,,,,,,,﻿Sister,﻿Michel,,﻿Supeior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0271,﻿female academy,﻿Young Ladies' Academy and School,English,,,,,,﻿Terre Haute,,,,,,,,,,﻿Sister,﻿Mary Antoinette,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0272,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Evansville,,,,,,,,,,﻿Sister,﻿St. Alphonsus,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0273,﻿day school,﻿Day School,English,,,,,,﻿Lanesville,,,,,,,,,,﻿Sister,﻿Martina,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0274,﻿day school,﻿Day School,English,,,,,,﻿Jasper,,,,,,,,,,﻿Sister,﻿Bruno,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0275,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Vincennes,,,,,,,,,,﻿Sister,﻿Mary Margaret,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0276,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Indianapolis,,,,,,,,,,﻿Sister,﻿Mary Ambrose,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0277,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿New Albany,,,,,,,,,,﻿Sister,﻿St. Charles,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0278,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Washington,,,,,,,,,,﻿Sister,﻿Eugene,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0279,﻿female academy,﻿Young Ladies Academy,English,,,,,,﻿Cannelton,,,,,,,,,,﻿Sister,﻿Bonaventura,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0269,﻿academy,﻿Young Ladies' Academy,English,,,,,,﻿South Madison,,,,,,,,,﻿felix_vin.in_001,﻿Sister,﻿Felix,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0270,﻿day school,﻿Day School,English,,,,,,﻿North Madison,,,,,,,,,﻿michel_vin.in_001,﻿Sister,﻿Michel,,﻿Supeior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0271,﻿female academy,﻿Young Ladies' Academy and School,English,,,,,,﻿Terre Haute,,,,,,,,,﻿m-antoinette_vin.in_001,﻿Sister,﻿Mary Antoinette,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0272,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Evansville,,,,,,,,,﻿st-alphonsus_vin.in_001,﻿Sister,﻿St. Alphonsus,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0273,﻿day school,﻿Day School,English,,,,,,﻿Lanesville,,,,,,,,,﻿martina_vin.in_001,﻿Sister,﻿Martina,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0274,﻿day school,﻿Day School,English,,,,,,﻿Jasper,,,,,,,,,﻿bruno_vin.in_001,﻿Sister,﻿Bruno,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0275,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Vincennes,,,,,,,,,﻿m-margaret_vin.in_001,﻿Sister,﻿Mary Margaret,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0276,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Indianapolis,,,,,,,,,﻿m-ambrose_vin.in_001,﻿Sister,﻿Mary Ambrose,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0277,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿New Albany,,,,,,,,,﻿st-charles_vin.in_001,﻿Sister,﻿St. Charles,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0278,﻿female academy,﻿Young Ladies' Academy,English,,,,,,﻿Washington,,,,,,,,,﻿eugene_vin.in_001,﻿Sister,﻿Eugene,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0279,﻿female academy,﻿Young Ladies Academy,English,,,,,,﻿Cannelton,,,,,,,,,﻿bonaventura_vin.in_001,﻿Sister,﻿Bonaventura,,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0199&vin.in.0300,﻿institute,﻿Convent and Academy of the Sisters of the Third Order of St. Francis,English,,,,,,﻿Oldenburgh,﻿Oldenburgh,﻿IN,,39.339773,-85.204406,,,,,,,,,,,,﻿under charge of the Sisters of St. Francis.,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0280&0016_02,﻿school,[Unnamed Institution],English,,,,,,﻿Brookville Cross Roads,,,,,,,,,,,,,,,,,﻿under charge of the Sisters of St. Francis.,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0281,﻿school,﻿St. Joseph's,English,,,,,,,,,,,,,,,,,,,,,,,﻿under charge of the Sisters of St. Francis.,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Orphan Asylum for Boys,English,﻿Near Vincennes,,,,,﻿Vincennes,,,,38.677269,-87.528632,,,,,﻿Sister,﻿M. Joachim,﻿Sister of Providence,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Orphan Asylum for Boys,English,﻿Near Vincennes,,,,,﻿Vincennes,,,,38.677269,-87.528632,,,,,﻿Rev.,﻿A. Deydier,,﻿Chaplain,﻿Vincennes P.O.,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Orphan Asylum for Boys,English,﻿Near Vincennes,,,,,﻿Vincennes,,,,38.677269,-87.528632,,,,﻿m-joachim_vin.in_001,﻿Sister,﻿M. Joachim,﻿Sister of Providence,﻿Superior,,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0182,﻿male orphan asylum,﻿St. Vincent's Orphan Asylum for Boys,English,﻿Near Vincennes,,,,,﻿Vincennes,,,,38.677269,-87.528632,,,,﻿a_deydier_001,﻿Rev.,﻿A. Deydier,,﻿Chaplain,﻿Vincennes P.O.,,,﻿The Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0282,﻿male orphan asylum,﻿Male Orphan Asylum,English,﻿Near Vincennes,,,,,﻿Highland,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0183,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Vincennes,﻿Vincennes,﻿IN,,39.510725,-87.466973,,,,,﻿Sister,﻿Mary Margaret,,﻿Superior,,,,﻿directed by the Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0183,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Vincennes,﻿Vincennes,﻿IN,,39.510725,-87.466973,,,,﻿m-margaret_vin.in_001,﻿Sister,﻿Mary Margaret,,﻿Superior,,,,﻿directed by the Sisters of Providence,,1861,﻿,﻿,﻿Vincennes,Vincennes

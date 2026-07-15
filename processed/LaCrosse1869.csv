@@ -89,7 +89,7 @@
 ﻿lac.wi.0137,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Har's Creek,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0079,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Melancthon Creek,﻿Yuba,﻿WI,,43.51803626,-90.35899805,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0080,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Mullandy Creek,,﻿WI,,43.33332748,-90.46645551,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0081,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,,﻿Sister,﻿Bruno,,﻿Directress,,﻿student,﻿pupil,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0081,﻿station,[Unnamed Institution],English,,,,﻿Richland County,,﻿Pine Creek,﻿Richland Center,﻿WI,,43.41008072,-90.57915495,,,,﻿bruno_lac.wi_001,﻿Sister,﻿Bruno,,﻿Directress,,﻿student,﻿pupil,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0138,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Bear Creek,,,,43.33,-90.154444,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0139,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Marble Quarry,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0140,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Sugar Grove,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
@@ -100,7 +100,7 @@
 ﻿lac.wi.0142,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Montoville,,,,,,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0056,﻿station,[Unnamed Institution],English,,,,﻿Trempealeau County,,﻿Trempealeau City,﻿Trempealeau City,﻿WI,,44.0135266,-91.4157237,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0078,﻿station,[Unnamed Institution],English,,,,﻿Vernon County,,﻿Woodland,﻿Forest,﻿WI,,43.67912018,-90.50947674,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
-﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,,﻿Sister,﻿Mary Sophia,,﻿Directress,,﻿student,﻿300,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
+﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,﻿m-sophia_lac.wi_001,﻿Sister,﻿Mary Sophia,,﻿Directress,,﻿student,﻿300,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0082,﻿school,﻿St. Joseph's Parish School,English,,,,,,﻿La Crosse,﻿La Crosse,﻿WI,,43.80585313,-91.23661416,,,,,,,,,,﻿religious,﻿4,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0083,﻿school,﻿St. Mary's Parish School,English,﻿Directed by a lay teacher.,,,,,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93579099,-91.38720784,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse
 ﻿lac.wi.0083,﻿school,﻿103,English,﻿Directed by a lay teacher.,,,,,﻿Chippewa Falls,﻿Chippewa Falls,﻿WI,,44.93579099,-91.38720784,,,,,,,,,,,,,,1869,﻿,﻿,﻿La Crosse,LaCrosse

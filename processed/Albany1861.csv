@@ -61,7 +61,7 @@
 ﻿alb.ny.0084,﻿church,﻿St. Joseph's,English,,,,﻿Clinton County,﻿Clinton County,﻿Corbeau,﻿Coopersville,﻿NY,,44.943095,-73.407912,﻿alb.ny.0064,"﻿attended by Rev. F. Edward Vancampenhoudt, of Champlain",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0085,﻿church,﻿St. Mary's,English,,,,﻿Cortland County,﻿Cortland County,﻿Cortland,﻿Cortland,﻿NY,,42.60626,-76.160041,﻿alb.ny.0200,﻿attended from Norwich,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0086,﻿church,﻿St. ------,English,,,,﻿Greene County,﻿Greene County,﻿Coxsackie,﻿Coxsackie,﻿NY,,42.353381,-73.804496,,,,﻿m_roche_001,﻿Rev.,﻿Maurice Roche,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0394,﻿church,﻿St. Stephen's,English,,,,﻿Lewis County,﻿Lewis County,﻿Croghan,,﻿NY,,43.970278,-75.356667,,,,,﻿Rev.,﻿Clement Mutsaers,﻿O.M.C.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0394,﻿church,﻿St. Stephen's,English,,,,﻿Lewis County,﻿Lewis County,﻿Croghan,,﻿NY,,43.970278,-75.356667,,,,﻿cle_mutsaers_001,﻿Rev.,﻿Clement Mutsaers,﻿O.M.C.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿Essex County,﻿Essex County,﻿Crownpoint,﻿Crown Point,﻿NY,,43.950335,-73.437067,﻿alb.ny.0226,﻿attended from Port Henry,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0094,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Daynesville,,﻿NY,,43.903192,-75.493234,﻿alb.ny.0088,﻿attended from Croghan,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0095,﻿church,﻿Holy Cross,English,,,,﻿Oneida County,﻿Oneida County,﻿Deerfield,﻿Deerfield,﻿NY,,43.189494,-75.142863,﻿alb.ny.0196,﻿attended from Newport,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -227,7 +227,7 @@
 ﻿alb.ny.0327,﻿academy,﻿St. Joseph's Academy,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,43.310178,-73.642107,,,,,,,,,,﻿religious,"﻿Brothers, 9",﻿directed by the Brothers of the Christian Schools,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0325,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.705719,-73.797425,,,,,,,,,,﻿religious,"﻿Religious, 3",﻿Brothers of the Christian Schools,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0325,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.705719,-73.797425,,,,,,,,,,﻿student,"﻿pupils, 360",﻿Brothers of the Christian Schools,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0426,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,,,,,,,﻿Sr.,﻿Ann Matilda,,﻿Superior,,﻿religious,"﻿religious, 4",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0426,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,,,,,,﻿ann_matilda_alb.ny_001,﻿Sr.,﻿Ann Matilda,,﻿Superior,,﻿religious,"﻿religious, 4",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0426,﻿school,﻿St. Joseph's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 270",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0366,﻿school,﻿St. Joseph's,﻿German,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,﻿bernidina_alb.ny_001,﻿Sister,﻿Bernidina,,﻿Superior,,﻿religious,"﻿religious, 5",﻿Sisters of the Third Order of St. Francis,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0366,﻿school,﻿St. Joseph's,﻿German,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,,,,,,,﻿student,"﻿girls, 200",﻿Sisters of the Third Order of St. Francis,,1861,﻿,﻿,﻿Albany,Albany
@@ -247,5 +247,5 @@
 ﻿alb.ny.0339,﻿asylum,﻿St. Vincent's Asylum for Girls,English,﻿for girls,﻿North Pearl street,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,﻿m-aloisia_alb.ny_001,﻿Sister,﻿Mary Aloisia,,﻿Serv't,,﻿religious,﻿9 Sisters of Charity,﻿Under the care of Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0339,﻿asylum,﻿St. Vincent's Asylum for Girls,English,﻿for girls,﻿North Pearl street,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿child,﻿97 orphans,﻿Under the care of Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,﻿Sister,﻿_____,,﻿Sister-servant,,﻿patient,﻿50 patients,﻿In charge of the Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,﻿Dr.,﻿Burton,,﻿Physician,,﻿patient,﻿50 patients,﻿In charge of the Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,,﻿Dr.,﻿Halebell,,﻿Physician,,﻿patient,﻿50 patients,﻿In charge of the Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,﻿burton_alb.ny_001,﻿Dr.,﻿Burton,,﻿Physician,,﻿patient,﻿50 patients,﻿In charge of the Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0340,﻿hospital,[Unnamed Institution],English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,﻿halebell_alb.ny_001,﻿Dr.,﻿Halebell,,﻿Physician,,﻿patient,﻿50 patients,﻿In charge of the Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany

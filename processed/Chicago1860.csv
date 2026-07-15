@@ -123,15 +123,15 @@
 ﻿chi.il.0434,﻿select school,﻿Select Parochial School,English,,,,,,,,,,,,,,,﻿euphrasia_chi.il_001,﻿Mother,﻿Euphrasia,,﻿Superioress,,﻿student,﻿380 students,﻿Conducted by the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0434,﻿select school,﻿Select Parochial School,English,,,,,,,,,,,,,,,,,,,,,﻿religious,﻿22 religious,﻿Conducted by the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0442,﻿school,﻿St. Philomena's School,English,,,,,,﻿Bourbonais,,,,,,,,,﻿m-euphrosyne_chi.il_001,﻿Sister,﻿M. Euphrosyne,,﻿Superioress,,﻿student,﻿300 pupils,﻿Under direction of the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,﻿Sister,﻿Mary Ursula,,﻿Superioress,,﻿religious,﻿8 religious,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,﻿m-ursula_chi.il_001,﻿Sister,﻿Mary Ursula,,﻿Superioress,,﻿religious,﻿8 religious,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿child,﻿54 orphans,﻿Under the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Sister,﻿Mary Louisa,,﻿Superioress,,﻿child,﻿43 orphans,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,﻿m-louisa_chi.il_001,﻿Sister,﻿Mary Louisa,,﻿Superioress,,﻿child,﻿43 orphans,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,,,,,,﻿religious,﻿5 religious,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,41.845722,-87.61886,,,,,﻿Sister,﻿Mary Alphonsus,,﻿Superioress,,﻿religious,﻿10 sisters,﻿Under the charge of the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,41.845722,-87.61886,,,,﻿m-alphonsus_chi.il_001,﻿Sister,﻿Mary Alphonsus,,﻿Superioress,,﻿religious,﻿10 sisters,﻿Under the charge of the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,41.845722,-87.61886,,,,,,,,,,﻿patient,﻿50 patients,﻿Under the charge of the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,41.902076,-87.636885,,,,,,,,,,﻿layperson,﻿25 penitents,﻿Conducted by the Religious of the Good Shepherd,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,41.902076,-87.636885,,,,,,,,,,﻿religious,﻿4 religious,﻿Conducted by the Religious of the Good Shepherd,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0409,﻿convent,﻿St. Joseph's Convent of Mercy,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,,,﻿St. Mary Xavier,,﻿Superioress,,﻿religious,﻿7 religious,,,1860,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0414,﻿school,﻿St. Joseph's School,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,,﻿Sister,﻿Mary Euphrasia,,﻿Directress,,﻿student,﻿100 pupils,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0409,﻿convent,﻿St. Joseph's Convent of Mercy,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,﻿st-mary_xavier_chi.il_001,,﻿St. Mary Xavier,,﻿Superioress,,﻿religious,﻿7 religious,,,1860,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0414,﻿school,﻿St. Joseph's School,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,﻿m-euphrasia_chi.il_001,﻿Sister,﻿Mary Euphrasia,,﻿Directress,,﻿student,﻿100 pupils,﻿Conducted by the Sisters of Mercy,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0438,﻿school,﻿School of the Holy Name,English,,,,,,,,,,,,,,,,,,,,,﻿student,﻿250 pupils,﻿by the Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0439,﻿school,﻿Industrial School,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿student,﻿20 pupils,﻿under Sisters of the Holy Cross,,1860,﻿,﻿,﻿Chicago,Chicago

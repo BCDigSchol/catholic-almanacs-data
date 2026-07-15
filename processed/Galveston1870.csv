@@ -48,7 +48,7 @@
 ﻿gal.tx.0038,﻿church,[Unnamed Institution],English,,,,﻿Colorado County,﻿Colorado County,﻿Columbus,﻿Columbus,﻿TX,,29.706623,-96.539693,﻿gal.tx.0054,﻿attended from Frelsburgh,,,,,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0039,﻿church,[Unnamed Institution],English,,,,﻿Brazoria County,﻿Brazoria County,﻿Columbia,﻿West Columbia,﻿TX,,29.143858,-95.645225,﻿gal.tx.0063,﻿attended from Houston,,,﻿Rev.,,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0040,﻿church,[Unnamed Institution],English,,,,﻿Bexar County,,﻿Concepcion,,﻿TX,,29.391252,-98.491182,﻿gal.tx.0124,﻿attended from San Antonio,,,,,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0041,﻿church,[Unnamed Institution],English,,,,﻿Nueces County,﻿Nueces County,﻿Corpus Christi,﻿Corpus Christi,﻿TX,,27.800583,-97.396381,,,,,﻿Rev.,﻿Peter Berthet,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0041,﻿church,[Unnamed Institution],English,,,,﻿Nueces County,﻿Nueces County,﻿Corpus Christi,﻿Corpus Christi,﻿TX,,27.800583,-97.396381,,,,﻿pet_berthet_001,﻿Rev.,﻿Peter Berthet,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0042,﻿church,[Unnamed Institution],English,,,,﻿Harris County,﻿Harris County,﻿Cypress City,﻿Cypress,﻿TX,,29.971691,-95.693786,﻿gal.tx.0063,﻿attended from Houston,,,,,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0043,﻿church,[Unnamed Institution],English,,,,﻿Dallas County,﻿Dallas County,﻿Dallas,﻿Dallas,﻿TX,,32.776664,-96.796988,﻿gal.tx.0092,﻿attended from Nacogdoches,,,,,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0044,﻿church,[Unnamed Institution],English,,,,﻿Uvalde County,﻿Medina County,﻿Dhanis,﻿D'Hanis,﻿TX,,29.330485,-99.280792,,,,﻿l_barbarin_001,﻿Rev.,﻿L. Barbarin,,,,,,,,1870,﻿,﻿,﻿Galveston,Galveston
@@ -204,4 +204,4 @@
 ﻿gal.tx.0164,﻿convent,﻿Sisters of Providence,English,,,,,,﻿Houston,﻿Houston,﻿TX,,29.770491,-95.338289,,,,﻿st-joseph_gal.tx_001,﻿Sister,﻿St. Joseph,,﻿Superior,,﻿religious,﻿8 Sisters,,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0165,﻿school,[Unnamed Institution],English,﻿Female School,,,,,﻿Houston,﻿Houston,﻿TX,,29.760077,-95.370111,,,,﻿de-st_ange_gal.tx_001,﻿Madame,﻿de St. Ange,,﻿Superior,,﻿religious,"﻿Sisters, 3",﻿under the direction of the Sisters of the Incarnate Word,,1870,﻿,﻿,﻿Galveston,Galveston
 ﻿gal.tx.0166,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,29.301348,-94.797696,,,,,,,,,,﻿religious,"﻿Sisters, 2",﻿under the direction of the Sœurs Hospitalières,,1870,﻿,﻿,﻿Galveston,Galveston
-﻿gal.tx.0167,﻿infirmary,﻿St. Mary's Infirmary,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,29.307284,-94.775763,,,,,﻿Mother,﻿St. Joseph,,﻿Superior,,﻿religious,"﻿Sisters, 12",﻿under the direction of the Sœurs Hospitalières,,1870,﻿,﻿,﻿Galveston,Galveston
+﻿gal.tx.0167,﻿infirmary,﻿St. Mary's Infirmary,English,,,,,,﻿Galveston,﻿Galveston,﻿TX,,29.307284,-94.775763,,,,﻿st-joseph_gal.tx_001,﻿Mother,﻿St. Joseph,,﻿Superior,,﻿religious,"﻿Sisters, 12",﻿under the direction of the Sœurs Hospitalières,,1870,﻿,﻿,﻿Galveston,Galveston

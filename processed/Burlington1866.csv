@@ -55,14 +55,14 @@
 ﻿bur.vt.0059,﻿church,[Unnamed Institution],English,,,,﻿Chittenden County,﻿Chittenden County,﻿Williston,﻿Williston,﻿VT,,44.449602,-73.111,﻿bur.vt.0001,﻿Visited from Burlington,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0060,﻿church,[Unnamed Institution],English,,,,﻿Windsor County,﻿Windsor County,﻿Windsor,﻿Windsor,﻿VT,,43.48,-72.386568,﻿bur.vt.0012,﻿Attended from Brattleboro,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0062,﻿church,[Unnamed Institution],English,,,,﻿Windsor County,﻿Windsor County,﻿Woodstock,﻿Woodstock,﻿VT,,43.624244,-72.518511,﻿bur.vt.0037,﻿Attended from Northfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,﻿Sister,﻿Teresa of Jesus,,﻿Sister-Servant,,﻿religious,﻿11 Sisters,﻿Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.487834,-73.202685,,,,﻿teresa_of-jesus_bur.vt_001,﻿Sister,﻿Teresa of Jesus,,﻿Sister-Servant,,﻿religious,﻿11 Sisters,﻿Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,,,,,,﻿child,﻿85 orphans,﻿Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0071,﻿school,﻿St. Mary's Boys' School,English,﻿kept by a lay teacher,,,,﻿Chittenden County,﻿Burlington,﻿Burlington,﻿VT,,44.480365,-73.214373,,,,,,,,,,﻿attendee,﻿100 attendance,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0072,﻿school,﻿St. Mary's Schools,English,,,,,,,,﻿VT,,44.498056,-73.185556,,,,,,,,,,﻿student,﻿130 pupils,﻿Kept by Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0073,﻿school,﻿St. Mary's Schools,English,,,,,,,,,,44.498056,-73.185556,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0075,﻿school,﻿Schools for Boys and Girls,English,﻿girls,,,,,﻿Winooski Village,,﻿VT,,44.49160055,-73.18580377,,,,,,,,,,﻿student,"﻿Number of pupils, 90",﻿Taught by Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0076,﻿school,[Unnamed Institution],English,﻿boys,,,,,,,,,44.498056,-73.185556,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,﻿Miss,﻿Lambert,,,,﻿assistant,﻿2 assistants,,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.487834,-73.202685,,,,﻿lambert_bur.vt_001,﻿Miss,﻿Lambert,,,,﻿assistant,﻿2 assistants,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,,,,,,﻿student,"﻿Average number, 100",,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0067,﻿school,﻿St. Peter's Catholic School,English,,,,,﻿Rutland County,﻿East Rutland,﻿Rutland,﻿VT,,43.603074,-72.985656,,,,,,,,,,﻿student,"﻿Average attendance, 150",,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0068,﻿school,﻿St. Bridget's Schools,English,﻿For boys and girls,,,,﻿Rutland County,,﻿West Rutland,﻿VT,,43.596747,-73.052748,,,,,,,,,,﻿student,"﻿Average attendance, 250",,,1866,﻿,﻿,﻿Burlington,Burlington

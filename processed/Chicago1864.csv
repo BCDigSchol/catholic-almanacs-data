@@ -169,21 +169,21 @@
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿geo_roesch_003,﻿Rev.,﻿George Roesch,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿alb_schaeffler_002,﻿Rev.,﻿Albert Schaeffler,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007_2,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,41.91214,-87.640934,,,,﻿jac_nagel_003,﻿Rev.,﻿R. F. Jacob Nagel,﻿C.SS.R.,,,﻿religious,﻿2 professed Lay Brothers,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,﻿Mother,﻿Francis De Sales,,﻿Superioress,,,,﻿Under the direction of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0400,"﻿convent, academy",﻿Convent and Academy of St. Francis Xavier,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,﻿francis_de-sales_chi.il_001,﻿Mother,﻿Francis De Sales,,﻿Superioress,,,,﻿Under the direction of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0399,﻿school,﻿St. Mary's Girls' Free School,English,,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0401,﻿school,﻿St. John's Select and Free School,English,,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,41.845722,-87.61886,,,,,﻿Mother,﻿M. Borromeo,,﻿Directress,,﻿patient,﻿60 patients,﻿Under the charge of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0330,﻿hospital,﻿Chicago Mercy Hospital,English,,,,,,,,,,41.845722,-87.61886,,,,﻿m-borromeo_chi.il_001,﻿Mother,﻿M. Borromeo,,﻿Directress,,﻿patient,﻿60 patients,﻿Under the charge of the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,,,,,,,,﻿Conducted by the Sisters of Mercy,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,,,,,,,﻿Sister,﻿S. M. Joachima,,﻿Superior,,﻿student,﻿238 girls (scholars),,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,,,,,,﻿s_m_joachima_chi.il_001,﻿Sister,﻿S. M. Joachima,,﻿Superior,,﻿student,﻿238 girls (scholars),,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,,,,,,,,,,,,﻿teacher,﻿2 secular teachers,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0422,﻿school,﻿Sisters of Notre Dame,﻿German,,,,,,,,,,,,,,,,,,,,,﻿child,﻿272 boys,,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0242,﻿seminary,﻿Academy of the Sacred Heart,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.869737,-87.659131,,,,,﻿Madame,﻿M. J. Gallway,,﻿Superior,,﻿religious,﻿33 religious,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0242,﻿seminary,﻿Academy of the Sacred Heart,English,,,,,,﻿Chicago,﻿Chicago,﻿IL,,41.869737,-87.659131,,,,﻿m-j_gallway_chi.il_001,﻿Madame,﻿M. J. Gallway,,﻿Superior,,﻿religious,﻿33 religious,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0403,﻿school,﻿Holy Family Free and Select Schools,English,,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Religious of the Sacred Heart,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0404,﻿school,﻿Holy Family Free and Select Schools,English,﻿for boys,,,,,,,,,,,,,,,,,,,,,,﻿Conducted by the Lay Brothers of the Society of Jesus,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0421,﻿school,﻿Holy Name Free and Select Schools,English,,,,,,,,,,,,,,,,,,,,,,,﻿Under the direction of the Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0286,﻿school,﻿St. Patrick's Free and Select School,English,﻿for boys,,,,,﻿Chicago,﻿Rose Hill,﻿IL,,41.879426,-87.644337,,,,,,,,,,,,﻿Under the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0287,﻿school,﻿St. Patrick's School,English,﻿for girls,,,,,﻿Chicago,﻿Bridgeport,﻿IL,,41.877617,-87.814319,,,,,,,,,,,,﻿Directed by Sisters of Charity,,1864,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0406,﻿school,﻿St. Joseph's Parochial Schools,English,﻿free and select,,,,,,,,,,,,,,,﻿Sister,﻿M. Barbara,,,,﻿student,﻿300 pupils,,,1864,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0406,﻿school,﻿St. Joseph's Parochial Schools,English,﻿free and select,,,,,,,,,,,,,,﻿m-barbara_chi.il_001,﻿Sister,﻿M. Barbara,,,,﻿student,﻿300 pupils,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0420,﻿school,﻿St. Michael's Parochial Schools,English,﻿free and select,,,,,,,,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0329,"﻿asylum, school",﻿Chicago Reform and Industrial School,English,﻿Chartered by the State Legislature.,,,,,﻿Bridgeport,,,,41.841234,-87.658871,,,,,,,,,,,,﻿Conducted by the Christian Brothers,,1864,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,41.902076,-87.636885,,,,,,,,,,﻿layperson,﻿80 penitents,﻿Conducted by the Religious of the Good Shepherd,,1864,﻿,﻿,﻿Chicago,Chicago

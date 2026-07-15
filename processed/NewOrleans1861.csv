@@ -79,7 +79,7 @@
 ﻿new.la.0081,﻿church,﻿St. Philomena's Church,English,,,,,,﻿Thibodeaux,﻿Thibodeaux,﻿LA,,29.795763,-90.822871,,,,﻿t_venissat_001,﻿Rev.,﻿T. Venissat,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0082,﻿church,﻿St. John the Evangelist,English,,,,,,﻿Vermilionville,﻿Vermilionville,﻿LA,,30.22409,-92.019843,,,,﻿e_foltier_001,﻿Rev.,﻿J. Foltier,,﻿Pastor,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0087,﻿church,[Unnamed Institution],English,,,,,,﻿Washington,﻿Washington,﻿LA,,30.616307,-92.057063,﻿new.la.0063,﻿Attended from Opelousas,,,,,,,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0157,﻿seminary,﻿Ecclesiastical Seminary,English,,,,,,﻿New Orleans,,﻿LA,,29.95617442,-90.08379581,,,,,﻿Rev.,﻿A. Verrina,﻿C.M.,﻿Assistant and Treasurer,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0157,﻿seminary,﻿Ecclesiastical Seminary,English,,,,,,﻿New Orleans,,﻿LA,,29.95617442,-90.08379581,,,,﻿a_verrina_001,﻿Rev.,﻿A. Verrina,﻿C.M.,﻿Assistant and Treasurer,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0157,﻿seminary,﻿Ecclesiastical Seminary,English,,,,,,﻿New Orleans,,﻿LA,,29.95617442,-90.08379581,,,,﻿s_lavizeri_001,﻿Rev.,﻿S. Lavizeri,﻿C.M.,﻿Prof. of Dogmatic Theology,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿tha_anwander_002,﻿Rev.,﻿Thaddeus Anwander,﻿C.SS.R.,﻿Rector,,﻿religious,﻿seven lay brothers,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0090,﻿convent,﻿Redemptorist Convent,English,,,﻿Lafayette,,,﻿New Orleans,,﻿LA,,29.929105,-90.074541,,,,﻿ale_cvitkovicz_001,﻿Rev.,﻿Alexander Cvitkovicz,﻿C.SS.R.,,,﻿religious,﻿seven lay brothers,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
@@ -91,7 +91,7 @@
 ﻿new.la.0089,﻿college,﻿St. Charles' College,English,,,,,,﻿Grand Coteau,,﻿LA,,30.418336,-92.043368,,,,﻿fel_benausse_001,﻿Very Rev.,﻿Anselm Usannaz,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,﻿corner of Baronne and Common streets,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿ant_jourdan_001,﻿Rev.,﻿Anth. Jourdan,﻿S.J.,﻿President,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0088,﻿college,﻿College of the Immaculate Conception,English,,﻿corner of Baronne and Common streets,,,,﻿New Orleans,,﻿LA,,29.953016,-90.072315,,,,﻿alo_curioz_001,﻿Rev.,﻿Aloysius Curioz,﻿S.J.,﻿Superior of the MIssion,,,,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
-﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,﻿Mother,﻿Seraphim,,﻿Superior,,﻿student,﻿12 day scholars,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
+﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,﻿seraphim_new.la_001,﻿Mother,﻿Seraphim,,﻿Superior,,﻿student,﻿12 day scholars,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿student,﻿130 boarders,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿child,﻿36 orphans,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
 ﻿new.la.0106,﻿convent,﻿Ursuline Convent,English,,,,,,﻿New Orleans,,﻿LA,,29.959487,-90.030462,,,,,,,,,,﻿religious,﻿choir sisters,,,1861,﻿,﻿,﻿New Orleans,NewOrleans
