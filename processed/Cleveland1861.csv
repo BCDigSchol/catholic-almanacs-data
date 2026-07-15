@@ -100,10 +100,10 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_m_ocallaghan_001,﻿Rev.,﻿E. O'Callaghan,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_carroll_001,﻿Rev.,﻿J. P. Carroll,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿school,﻿Cathedral School,English,"﻿They conduct two Pay Schools and two Free Schools; pupils, 400",﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,﻿litz_cle.oh_001,﻿Brother,﻿Litz,,﻿Superior,,﻿religious,"﻿religious, 5",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_03,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_04,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_03,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_04,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0352,﻿school,﻿St. Patrick's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0353,﻿school,﻿St. Mary's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 175",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,﻿St. Peter's School,English,﻿for boys,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿student,"﻿pupils, 250",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
