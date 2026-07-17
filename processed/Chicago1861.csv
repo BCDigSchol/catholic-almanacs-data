@@ -48,7 +48,7 @@
 ﻿chi.il.0155,﻿church,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Fountain Green,,﻿IL,,40.483002,-90.968704,﻿chi.il.0088,﻿Attended from Nauvoo,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,42.292533,-89.615769,,,,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0049,﻿church,﻿St. Mary's,English,,,,﻿Stephenson County,,﻿Freeport,﻿Freeport,﻿IL,,42.292533,-89.615769,,,,﻿pet_fischer_001,﻿Rev.,﻿Peter Fischer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0395,﻿church,[Unnamed Institution],English,,,,﻿Whiteside County,,﻿Fulton,,﻿IL,,,,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0395,﻿church,[Unnamed Institution],English,,,,﻿Whiteside County,,﻿Fulton,,﻿IL,,41.8725,-90.157778,﻿chi.il.0041,﻿Attended from Dixon,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0052,﻿church,﻿St. Michael's,English,,,,﻿Jo Daviess County,,﻿Galena,﻿Galena,﻿IL,,42.415314,-90.430437,,,,﻿joh_larkin_002,﻿Rev.,﻿John Larkin,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0053,﻿church,﻿St. Mary's,﻿German,,,,﻿Jo Daviess County,,﻿Galena,﻿Galena,﻿IL,,42.419502,-90.42846,,,,﻿mr_herderer_001,﻿Rev.,﻿Mr. Herderer,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0054,﻿church,﻿St. Patrick's,English,,,,﻿Knox County,﻿Knox County,﻿Galesburgh,﻿Galesburg,﻿IL,,40.93661,-90.376258,,,,﻿j_oneill_001,﻿Rev.,﻿J. O'Neill,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -128,7 +128,7 @@
 ﻿chi.il.0406,﻿school,﻿St. Joseph's Parochial School,English,﻿German,,,,,,,,,,,,,,﻿m-barbara_chi.il_001,﻿Sister,﻿M. Barbara,,﻿Directress,,﻿student,﻿300 students,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0436,﻿school,﻿Cathedral Parochial School,English,,,,,,,,,,,,,,,﻿m-of-st-augusta_chi.il_001,﻿Sister,﻿M. of St. Augusta,,﻿Directress,,﻿student,﻿250 students,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0417,﻿school,﻿Parochial Schools,English,,,,﻿Gundy County,,﻿Bourbonnais Grove,,﻿IL,,,,,,,﻿alexis_d_joseph_chi.il_001,﻿Sister,﻿Alexis de St. Joseph,,﻿Superioress,,,,"﻿Under direction of the Sisters of Congregation, from Montreal",,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0407,﻿school,﻿Academy for Young Ladies,English,,,,﻿Grundy County,,﻿Morris,,﻿IL,,,,,,,,,,,,,,,﻿By the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0407,﻿school,﻿Academy for Young Ladies,English,,,,﻿Grundy County,,﻿Morris,,﻿IL,,41.38,-88.424444,,,,,,,,,,,,﻿By the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0437,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,﻿Chicago,,﻿IL,,,,,,,﻿m-ursula_chi.il_001,﻿Sister,﻿Mary Ursula,,﻿Superioress,,﻿religious,﻿8 religious,﻿Under the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,﻿m-louisa_chi.il_001,﻿Sister,﻿Mary Louisa,,﻿Superioress,,﻿child,﻿43 orphans,﻿Conducted by the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0423,﻿asylum,﻿St. Mary's Female Orphan Asylum,﻿German,,,,﻿La Salle County,,﻿Chicago,﻿Chicago,﻿IL,,,,,,,,,,,,,﻿religious,﻿5 religious,﻿Conducted by the Sisters of Mercy,,1861,﻿,﻿,﻿Chicago,Chicago

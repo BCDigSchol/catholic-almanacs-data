@@ -45,9 +45,9 @@
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.394432,-71.031958,,,,﻿joh_a_conlin_001,﻿Rev.,﻿John Conlin,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0113,﻿church,﻿St. Mary's,English,,,,,,﻿Lynn,﻿Lynn,﻿MA,,42.462989,-70.950702,﻿bos.ma.0058,﻿Attended from Chelsea,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0125,﻿church,[Unnamed Institution],English,﻿church about to be built,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,,,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Bierne,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿wm_j_denvir_001,﻿Rev.,﻿W. J. Denin,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,,,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,42.323889,-71.087778,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Bierne,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,42.323889,-71.087778,,,,﻿wm_j_denvir_001,﻿Rev.,﻿W. J. Denin,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0244,﻿church,﻿St. Joseph's,English,,,,,,﻿Roxbury,,﻿MA,,42.323889,-71.087778,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.2485,-71.1772,﻿bos.ma.0244,﻿Attended from St. Joseph's Roxbury,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0067,﻿church,﻿St. Catharine's,English,,,,,,﻿South Dedham,﻿Dedham,﻿MA,,42.243609,-71.167654,﻿bos.ma.0244,﻿Attended from St. Joseph's Roxbury,,,,,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0212,﻿chapel,﻿Chapel of the Angel Guardian,English,﻿church about to be built,,,,,﻿Roxbury,﻿Boston,﻿MA,,42.360083,-71.05888,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,,1864,,,,,,,,,,,﻿,﻿,﻿Boston,Boston

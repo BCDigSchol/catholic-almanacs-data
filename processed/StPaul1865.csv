@@ -17,7 +17,7 @@
 ﻿stp.mn.0059,﻿church,﻿Church of ---,English,,,,﻿Freeborn County,﻿Steele County,﻿Beaver Lake,﻿Berlin Township,﻿MN,,43.875377,-93.359045,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0063,﻿church,[Unnamed Institution],English,,,,﻿Goodhue County,﻿Goodhue County,﻿Bell Creek,﻿Belle Creek Township,﻿MN,,44.420421,-92.702154,,﻿Visited from Wabashaw,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0151,﻿church,﻿St. Martin,English,,,,﻿Scott County,﻿Scott County,﻿Belle Plaine,﻿Belle Plaine,﻿MN,,44.623041,-93.768404,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0335,﻿church,[Unnamed Institution],English,,,,﻿Benton County,,﻿Belle Prairie,﻿Belle Prairie,﻿MN,,,,,﻿Visited from Crow-Wing,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0335,﻿church,[Unnamed Institution],English,,,,﻿Benton County,﻿Morrison County,﻿Belle Prairie,﻿Belle Prairie,﻿MN,,46.021944,-94.2825,,﻿Visited from Crow-Wing,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0323,﻿church,[Unnamed Institution],English,,,,﻿Dakota County,,﻿Bell Wood,,﻿MN,,44.67272,-92.85247,,﻿Visited from Hastings,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0161,﻿church,[Unnamed Institution],English,,,,﻿Scott County,﻿Scott County,﻿St. Benedict,﻿Helena Township,﻿MN,,44.587634,-93.601521,﻿stp.mn.0153,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0022,﻿church,﻿St. Bernard's,English,,,,﻿Carver County,﻿Carver County,﻿Benton,﻿Benton Township,﻿MN,,44.767274,-93.845173,﻿stp.mn.0019,﻿Visited from Waconia,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -52,7 +52,7 @@
 ﻿stp.mn.0271,﻿church,[Unnamed Institution],English,,,,﻿Steel County,﻿Steele County,﻿Deerfield,,﻿MN,,44.1675,-93.359722,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0096,﻿church,[Unnamed Institution],English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿Derrynane,﻿Derrynane Township,﻿MN,,44.508502,-93.7232,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0133,﻿church,[Unnamed Institution],English,,,,﻿Rice County,﻿Rice County,﻿East-Prairie,,﻿MN,,44.288405,-93.185061,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0336,﻿church,[Unnamed Institution],English,,,,﻿Rice County,,﻿Erin,,﻿MN,,,,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0336,﻿church,[Unnamed Institution],English,,,,﻿Rice County,,﻿Erin,,﻿MN,,44.421944,-93.465278,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0129,﻿church,﻿Immaculate Conception,English,,,,﻿Rice County,﻿Rice County,﻿Faribault,﻿Faribault,﻿MN,,44.294964,-93.268827,,,,﻿geo_keller_001,﻿Rev.,﻿G. Keller,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0129,﻿church,﻿Immaculate Conception,English,,,,﻿Rice County,﻿Rice County,﻿Faribault,﻿Faribault,﻿MN,,44.294964,-93.268827,,,,﻿alo_seel_001,﻿Rev.,﻿Al. Seel,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0329,﻿church,﻿St. John Evangelist,English,,,,﻿Sibley County,,﻿Faribault,,﻿MN,,44.294444,-93.2625,,﻿Visited from Henderson,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -155,7 +155,7 @@
 ﻿stp.mn.0163,﻿church,[Unnamed Institution],English,,,,﻿Le Sueur County,,﻿St. Scholastica,,﻿MN,,44.597317,-93.621463,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0149,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.795299,-93.529065,,,,﻿ben_haindl_001,﻿Rev.,﻿Benedict Heindl,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0149,﻿church,﻿St. Mark's,English,,,,﻿Scott County,,﻿Shakopee,,﻿MN,,44.795299,-93.529065,,,,﻿ale_berghold_001,﻿Rev.,﻿Al. Berghold,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0337,﻿church,﻿St. Patrick's,English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,,,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0337,﻿church,﻿St. Patrick's,English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,44.363911,-93.412949,,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0296,﻿church,[Unnamed Institution],English,,,,﻿Dakota County,﻿Dakota County,﻿Spring Lake,,﻿MN,,44.760833,-92.962778,﻿stp.mn.0032,﻿Visited from Hastings,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0203,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Stillwater,﻿Stillwater,﻿MN,,45.051158,-92.806301,,,,﻿tho_murray_001,﻿Rev.,﻿Thomas Murray,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0028,﻿church,[Unnamed Institution],English,,,,﻿Chicago County,﻿Chisago County,﻿Sunrise,﻿Sunrise,﻿MN,,45.546905,-92.854936,﻿stp.mn.0203,﻿Visited from Stillwater,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
@@ -163,7 +163,7 @@
 ﻿stp.mn.0027,﻿church,[Unnamed Institution],English,,,,﻿Chicago County,﻿Chisago County,﻿Taylor's Falls,﻿Taylors Falls,﻿MN,,45.401906,-92.652429,﻿stp.mn.0203,﻿Visited from Stillwater,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0096,﻿church,[Unnamed Institution],English,,,,﻿Le Sueur County,﻿Le Sueur County,﻿St. Thomas,﻿Derrynane Township,﻿MN,,44.508502,-93.7232,﻿stp.mn.0153,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0061,﻿church,[Unnamed Institution],English,,,,﻿Freeborn County,﻿Freeborn County,﻿Twin Lake,﻿Twin Lakes,﻿MN,,43.559678,-93.422988,﻿stp.mn.0129,﻿Visited from Faribault,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0332,﻿church,﻿St. Vendelinus,English,,,,﻿Stearns County,,,,﻿MN,,,,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0285,﻿church,﻿St. Vendelinus,English,,,,﻿Stearns County,,,,﻿MN,,45.666111,-94.377778,,﻿Visited from New-Prague,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0186,﻿church,﻿St. Felix,English,,,,﻿Wabashaw County,﻿Wabasha County,﻿Wabashaw,﻿Wabasha,﻿MN,,44.381067,-92.032476,,,,﻿fel_tissot_001,﻿Rev.,﻿F. Tissot,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0019,﻿church,﻿St. Joseph,English,,,,﻿Carver County,﻿Carver County,﻿Waconia,﻿Waconia,﻿MN,,44.849456,-93.785881,,,,﻿geo_sherer_001,﻿Rev.,﻿G. Sherer,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0021,﻿church,﻿Immaculate Conception,English,,,,﻿Carver County,﻿Carver County,﻿Watertown,﻿Watertown,﻿MN,,44.964929,-93.849179,,﻿Visited from Waconia,,,,,,,,,,,,1865,﻿,﻿,﻿St. Paul,StPaul

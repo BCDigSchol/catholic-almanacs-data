@@ -318,11 +318,11 @@
 ﻿mil.wi.0250,﻿station,[Unnamed Institution],English,,,,﻿Rock County,﻿Rock County,﻿Fulton,﻿Fulton,﻿WI,,42.808062,-89.127614,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0140,﻿station,[Unnamed Institution],English,,,,﻿Rock County,,﻿Sugar Creek,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0252,﻿station,[Unnamed Institution],English,,,,﻿Rock County,﻿Rock County,﻿Spring Valley,﻿Spring Valley,﻿WI,,42.658342,-89.308449,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0455,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Baraboo,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0455,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Baraboo,,﻿WI,,43.425,-89.655556,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0139,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Marble Quarry,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0140,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Sugar Grove,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0479,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Lelandsville,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0456,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Westford,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0456,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Westford,,﻿WI,,43.423333,-89.998889,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0099,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Ironton,,﻿WI,,43.521389,-90.146944,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0099,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Winfield,,﻿WI,,43.521389,-90.146944,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0409,﻿station,[Unnamed Institution],English,,,,﻿St. Croix County,,﻿St. Croix Falls,,﻿WI,,45.411944,-92.638889,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -354,7 +354,7 @@
 ﻿lac.wi.0105,﻿station,[Unnamed Institution],English,,,,﻿Dunn County,,﻿Menomonee,,﻿WI,,44.879167,-91.917056,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0029,﻿station,[Unnamed Institution],English,,,,﻿Calumet County,,﻿Brothertown,,﻿WI,,43.978368,-88.275314,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0345,﻿station,[Unnamed Institution],English,,,,﻿Calumet County,,﻿Harrison,,﻿WI,,44.134167,-88.291667,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0454,﻿station,[Unnamed Institution],English,,,,﻿Calumet County,,﻿Holstein,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0454,﻿station,[Unnamed Institution],English,,,,﻿Calumet County,,﻿Holstein,,﻿WI,,43.948056,-88.090833,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0012,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,﻿Buffalo County,﻿Fountainlitz,,﻿WI,,44.130112,-91.716359,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0376,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Womandy,,﻿WI,,44.301702,-91.706978,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0056,﻿station,[Unnamed Institution],English,,,,﻿Buffalo County,,﻿Trompleau Valley,,﻿WI,,44.013527,-91.415724,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -394,18 +394,18 @@
 ﻿mil.wi.0442,﻿consecrated life institution,﻿House of the Sisters of the Third Order of St. Francis Seraph,English,,,,,,﻿Nojoshing,,﻿WI,,42.969722,-87.876667,,,,,,,,,,﻿religious,﻿7 postulants,﻿Sisters of the Third Order of St. Francis Seraph,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0292,﻿house,﻿House of Dominican Sisters of the Third Order,English,,,,﻿Lafayette County,,﻿Benton,,﻿WI,,42.567259,-90.378844,,,,﻿m-joanna_m-joanna _mil.wi_001,﻿Sister,﻿M. Joanna,,﻿Sup.,,﻿religious,﻿14 sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0292,﻿house,﻿House of Dominican Sisters of the Third Order,English,,,,﻿Lafayette County,,﻿Benton,,﻿WI,,42.567259,-90.378844,,,,,,,,,,﻿religious,"﻿novices, -",,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿l_power_001,﻿Rev.,﻿L. Power,,"﻿O.P., President",,﻿student,"﻿Eccles. students, 3",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿m_b_fortune_002,﻿Rev.,﻿M. B. Fortune,,"﻿O.P., Treas.",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿g_gaelking_001,﻿Rev.,﻿G. Gaelking,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿l_egan_001,﻿Rev.,﻿L. Egan,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿f_rendeler_001,﻿Rev.,﻿F. Rendeler,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿w_henrican_001,﻿Rev.,﻿W. Henrican,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿b_cevera_001,﻿Rev.,﻿B. Cevera,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,,,,,,﻿b_mcgovern_001,﻿Rev.,﻿B. McGovern,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿l_power_001,﻿Rev.,﻿L. Power,,"﻿O.P., President",,﻿student,"﻿Eccles. students, 3",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿m_b_fortune_002,﻿Rev.,﻿M. B. Fortune,,"﻿O.P., Treas.",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿g_gaelking_001,﻿Rev.,﻿G. Gaelking,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿l_egan_001,﻿Rev.,﻿L. Egan,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿f_rendeler_001,﻿Rev.,﻿F. Rendeler,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿w_henrican_001,﻿Rev.,﻿W. Henrican,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿b_cevera_001,﻿Rev.,﻿B. Cevera,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0457,﻿college,﻿Sinsinawa Mound College,English,,,,﻿,,,,﻿WI,,42.523611,-90.539167,,,,﻿b_mcgovern_001,﻿Rev.,﻿B. McGovern,,"﻿O.P., Professor",,﻿student,"﻿pupils, 49",﻿Under the care of Fathers of the Order of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0319,﻿academy,﻿St. Aloysius' Academy,English,,﻿Second Street,,,,﻿Milwaukee,,﻿WI,,43.066124,-87.913974,,,,﻿f_x_de-coen_002,﻿Rev.,﻿F. X. De Coen,﻿S.J.,﻿President,,,,﻿Under the care of Fathers of the Society of Jesus,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0292_03,﻿female academy,﻿Santa Clara Female Academy,English,,,,﻿Lafayette County,,﻿Benton,,﻿WI,,42.567259,-90.378844,,,,﻿m-joanna_mil.wi_001,﻿Sister,﻿M. Joanna,,﻿Sup.,,﻿student,﻿80 pupils,﻿Under the direction of Dominican Sisters,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0480,﻿academy,﻿St. Mary's Academy,English,,,,﻿Crawford County,,﻿Prairie du Chien,,﻿WI,,,,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by Sisters of St. Dominic,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0458,﻿school,﻿St. Joseph's Female School,English,,,,,,﻿Milwaukee,,﻿WI,,,,,,,﻿frances_mil.wi_001,﻿Sister,﻿Frances,,﻿Superior,,﻿student,﻿60 pupils,﻿Conducted by Daughters of Charity,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0458,﻿school,﻿St. Joseph's Female School,English,,,,,,﻿Milwaukee,,﻿WI,,43.042736,-87.903207,,,,﻿frances_mil.wi_001,﻿Sister,﻿Frances,,﻿Superior,,﻿student,﻿60 pupils,﻿Conducted by Daughters of Charity,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0010_02,﻿school,﻿Academy and Day School of St. Mary of the Holy Angels,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.047156,-87.907544,,,,﻿m-theophila_mil.wi_001,﻿Sister,﻿Mary Theophila,,﻿Superior,,﻿religious,﻿6 religious,﻿Conducted by the School Sisters of Notre Dame,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0010_02,﻿school,﻿Academy and Day School of St. Mary of the Holy Angels,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.047156,-87.907544,,,,,,,,,,﻿student,﻿150 pupils,﻿Conducted by the School Sisters of Notre Dame,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0264,﻿school,﻿St. Mary's German and English Day School,English,,,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.042173,-87.907964,,,,﻿m-joachima_mil.wi_001,﻿Sister,﻿Mary Joachima,,﻿Superior,,﻿religious,﻿3 sisters,﻿Conducted by the School Sisters of Notre Dame,,1861,﻿,﻿,﻿Milwaukee,Milwaukee

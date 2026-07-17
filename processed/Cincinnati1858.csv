@@ -5,7 +5,7 @@
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,39.103509,-84.519506,,,,﻿d_l_senez_001,﻿Rev.,﻿D. L. Senez,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001,﻿cathedral,﻿Cathedral of St. Peter's,English,"﻿Cathedral Chapel in the basement, attended by a congregation of 1200 or 1500, including the youth of the Cathedral congregation",,,,,﻿Cincinnati,,﻿OH,,39.103509,-84.519506,,,,﻿tho_j_coppinger_001,﻿Rev.,﻿Thomas J. J. Coppinger,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿cha_driscol_001,﻿Rev.,﻿Charles Driscol,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿fra_acmal_001,﻿Rev.,﻿Francis Acmal,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿fra_acmal_002,﻿Rev.,﻿Francis Acmal,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿ben_masselis_001,﻿Rev.,﻿Benedict Masselis,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿r_roelof_001,﻿Rev.,﻿Romanus Roelef,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0002,﻿church,﻿St. Francis Xavier,English,,,,,,﻿Cincinnati,,﻿OH,,39.104302,-84.509612,,,,﻿f_x_weninger_001,﻿Rev.,﻿F. X. Weninger,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -119,7 +119,7 @@
 ﻿cin.oh.0129,﻿church,[Unnamed Institution],English,,,,,,﻿New Paris,,﻿OH,,39.855486,-84.790321,﻿cin.oh.0137,﻿Attended from Oxford,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0130,﻿church,﻿St. Peter and Paul,English,,,,﻿Shelby County,,﻿Newport,,﻿OH,,40.296312,-84.36901,,﻿Attended from Dayton,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0131,﻿church,﻿St. Peter's,English,,,,﻿Clermont County,,﻿New Richmond,,﻿OH,,38.948676,-84.279937,,﻿Attended from Cincinnati,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0137,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Oxford,,﻿OH,,39.506997,-84.745231,,,,﻿t_j_smith_001,﻿Rev.,﻿T. J. Smith,,,"﻿who also attends Eaton and Euphemia, &c.",,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0137,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Oxford,,﻿OH,,39.506997,-84.745231,,,,﻿t_j_smith_002,﻿Rev.,﻿T. J. Smith,,,"﻿who also attends Eaton and Euphemia, &c.",,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0136,﻿church,[Unnamed Institution],English,,,,,,﻿Osborne,,﻿OH,,39.697399,-83.889706,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0309,﻿church,﻿St. Philomena's,English,,﻿Perrin's Mills,,﻿Clermont County,,,,﻿OH,,39.127734,-84.185484,,,,﻿lou_navarron_001,﻿Rev.,﻿Louis Navarron,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0138,﻿church,﻿St. Peter and St. Paul,English,,,,,,﻿Petersburg,,﻿OH,,40.497197,-84.162994,﻿cin.oh.0090,﻿Attended from Freyburg,,,,,,,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -202,7 +202,7 @@
 ﻿cin.oh.0359,"﻿school, convent",﻿Convent and School of Mariahelp,English,,,,,,﻿New Egypt,,﻿OH,,,,,,,,,,,,,,,﻿under Sisters Pretiosissimi Sanguinis,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0195,﻿academy,﻿Young Ladies' Academy,English,,"﻿St. Martin's, near Fayettville",,,,,,﻿OH,,39.214192,-83.891431,,,,﻿julia_chatfield_cin.oh_001,﻿Sister,﻿Julia Chatfield,,﻿Superior,﻿of the Assumption,,,﻿Under the Ursuline Nuns,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0001_02&0001_03,﻿school,﻿Cathedral School,English,﻿for boys; and school for girls,,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.103509,-84.519506,,,,,,,,,,,,﻿Under the Sisters of Charity,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0310_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.229761,-82.984531,,,,﻿f_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0310_02,﻿school,﻿St. Xavier's School,English,﻿for boys,,,,,﻿Cincinnati,﻿Cincinnati,﻿OH,,39.229761,-82.984531,,,,﻿fra_acmal_001,﻿Rev.,﻿F. Acmal,﻿S.J.,﻿Director,,,,,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0005_02,﻿school,﻿Holy Trinity School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.099897,-84.523622,,,,,,,,,,,,﻿boys under the Brothers of St. Mary's Society,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0005_02,﻿school,﻿Holy Trinity School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.099897,-84.523622,,,,,,,,,,,,﻿girls under the Sisters of Notre Dame,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0006_02,﻿school,﻿St. Mary's School,English,﻿for boys; and for girls,,,,,,﻿Cincinnati,﻿OH,,39.109579,-84.512349,,,,,,,,,,,,﻿boys under the Brothers of St. Mary's Society,,1858,﻿,﻿,﻿Cincinnati,Cincinnati
