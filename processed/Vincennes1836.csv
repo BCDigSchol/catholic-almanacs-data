@@ -6,14 +6,14 @@
 ﻿vin.in.9005,﻿church,[Unnamed Institution],English,,﻿Duchee River,,,,,,﻿IN,,,,,,﻿occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,,,,,﻿[visited] every other Sunday [by] Rev. Jos. Ferneding,﻿jos_ferneding_001,﻿Rev.,﻿Jos. Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.9005,﻿church,﻿St. Joseph's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,"﻿https://files.ecatholic.com/36674/documents/2024/7/TheFoundingoftheSt.JosephHessenCasselv2.pdf?t=1722438041000 , https://staging.stjoehc.org/general-information/history-of-parish/history-joseph-hessen/",﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,,,﻿Huntingdon,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,﻿visited occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Pleasant,,﻿IN,,,,,,﻿visited occasionally,,,,,,,,,,,1836,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9009,﻿church,[Unnamed Institution],English,,,,,,﻿Madison,,﻿IN,,,,,,﻿visited occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9010,﻿church,﻿St. Paul's,English,﻿a large German congregation,,,﻿Dearborn County,,﻿New Alsace,,﻿IN,,,,,,﻿attended every other Sunday Rev. Joseph Freneding,﻿jos_ferneding_001,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9011,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,,,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",﻿ign_a_reynolds_901,﻿Rev.,﻿Ignatius Reynolds,,,﻿of Ky.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0217,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,,,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0217,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,,,,,"﻿attended occasionally [by] Rev. Ignatius Reynolds, of Ky., and Rev. Joseph Ferneding",﻿jos_ferneding_001,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0109,﻿church,[Unnamed Institution],English,,,,,﻿Miami County,﻿Peru,,﻿IN,,,,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9013,﻿church,[Unnamed Institution],English,,,,,,﻿Miamiport,,﻿IN,,,,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9014,﻿church,[Unnamed Institution],English,,,,,,﻿Wabashtown,,﻿IN,,,,,,﻿occasionally visited by Rev. M. Ruff,﻿mat_f_ruff_901,﻿Rev.,﻿M. Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
@@ -29,7 +29,7 @@
 ﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,,,,﻿Culver,﻿IN,,,,,,,﻿s_t_badin_901,﻿Rev.,﻿S. T. Badin,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,,,,﻿Culver,﻿IN,,,,,,,﻿deseille_902,﻿Rev. Mr.,﻿Descilles,,,﻿of Mich.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9022,﻿station,[Unnamed Institution],English,,﻿Ohio River,,,,,,﻿IN,,,,,"﻿visited by Rev. Elisha Durbin and Rev. Charles Coomes, of Kentucky.",,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9022,﻿station,[Unnamed Institution],English,,﻿Ohio River,,,,,,﻿IN,,,,,,,,﻿Rev.,﻿Charles Coomes,,,﻿of Kentucky.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9022,﻿station,[Unnamed Institution],English,,﻿Ohio River,,,,,,﻿IN,,,,,,,﻿cha_coomes_901,﻿Rev.,﻿Charles Coomes,,,﻿of Kentucky.,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0164,﻿church,[Unnamed Institution],English,,,,,,﻿Terrehaute,﻿Terre Haute,﻿IN,,,,,,﻿occasionally attended,,,,,,,,,,,1836,﻿https://www.stjoeup.org/about-us,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9024,﻿church,[Unnamed Institution],English,,,,,,﻿Merom,,﻿IN,,,,,,﻿occasionally attended,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0066,﻿church,[Unnamed Institution],English,,,,,,﻿Lafayette,,﻿IN,,,,,,﻿occasionally attended,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes

@@ -18,9 +18,9 @@
 ﻿har.ct.0001,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,﻿RI,45.803247,-68.411805,,,,﻿joh_corry_901,﻿Rev.,﻿John Corry,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
 ﻿har.ct.0026,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Providence County,﻿Pawtucket,﻿Pawtucket,﻿RI,﻿RI,44.906318,-66.991038,,,,﻿joh_corry_901,﻿Rev.,﻿John Corry,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
 ﻿har.ct.0025,﻿church,﻿St. Joseph's,English,"﻿To this mission are attached New Bedford, Wareham, Sandwich and Nantucket",,,,﻿Newport County,﻿Newport,﻿Newport,﻿RI,﻿RI,44.058583,-69.532416,,,,﻿con_lee_901,﻿Rev.,﻿Constantine Lee,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0129,﻿mission,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Bristol County,﻿New Bedford,﻿New Bedford,﻿MA,﻿MA,41.6646,-70.925787,﻿har.ct.0025,﻿attached to St. Joseph's,,,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0181,﻿mission,[Unnamed Institution],English,,,,,,﻿Wareham,,,﻿MA,42.37838279,-71.23379168,﻿har.ct.0025,﻿attached to St. Joseph's,,,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0154,﻿mission,[Unnamed Institution],English,,,,,﻿Barnstable County,﻿Sandwich,﻿Sandwich,﻿MA,﻿MA,41.819256,-71.416594,﻿har.ct.0025,﻿attached to St. Joseph's,,,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0129,﻿mission,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Bristol County,﻿New Bedford,﻿New Bedford,﻿MA,﻿MA,41.6646,-70.925787,﻿har.ct.0025,﻿attached to St. Joseph's,,﻿joh_d_brady_901,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0181,﻿mission,[Unnamed Institution],English,,,,,,﻿Wareham,,,﻿MA,42.37838279,-71.23379168,﻿har.ct.0025,﻿attached to St. Joseph's,,﻿jam_smyth_001,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0154,﻿mission,[Unnamed Institution],English,,,,,﻿Barnstable County,﻿Sandwich,﻿Sandwich,﻿MA,﻿MA,41.819256,-71.416594,﻿har.ct.0025,﻿attached to St. Joseph's,,﻿pat_flood_001,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿mission,[Unnamed Institution],English,,,,,,﻿Nantucket,,,﻿MA,,,﻿har.ct.0025,﻿attached to St. Joseph's,,,,,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
 ﻿har.ct.0132,﻿church,﻿Trinity church,English,,,,,﻿Hartford County,﻿Hartford,﻿Hartford,﻿CT,﻿CT,44.942709,-68.652277,,,,﻿joh_brady_901,﻿Rev.,﻿John Brady,,,,,,,,1839,"﻿middletown : https://en.wikipedia.org/wiki/Saint_John_Church_(Middletown,_Connecticut) ;",﻿,﻿,﻿Boston,Boston
 ﻿har.ct.0097,﻿church,﻿Christ's Church,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,﻿CT,43.383461,-72.372075,,,,﻿jam_smyth_901,﻿Rev.,﻿James Smyth,,,,,,,,1839,,﻿,﻿,﻿Boston,Boston
