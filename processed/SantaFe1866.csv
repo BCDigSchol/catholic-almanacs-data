@@ -6,7 +6,7 @@
 ﻿san.nm.0002,﻿chapel,﻿Chapel of N. Sen. del Rosario,English,,,﻿Santa Fé,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.694414,-105.947463,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0003,﻿chapel,﻿Chapel of Na. Senora de Guadelupe,English,,,﻿Santa Fé,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.68691,-105.944978,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0004,﻿chapel,﻿Chapel of San Miguel,English,,,﻿Santa Fé,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.683511,-105.937693,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0005,﻿chapel,﻿Chapel of Na. Señora de la Luz,English,,,﻿Santa Fé,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.674809,-105.915497,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0160_02,﻿chapel,﻿Chapel of Na. Señora de la Luz,English,,,﻿Santa Fé,,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.685387,-105.937262,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0006,﻿chapel,﻿Chapel of San Isidro,English,,,﻿Santa Fé,﻿Santa Fe,,﻿Aguafria,﻿Aguafria,﻿NM,,35.658339,-106.01428,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0007,﻿chapel,﻿Chapel of San José,English,,,﻿Santa Fé,,,﻿Cienega,﻿Cienega,﻿NM,,35.563995,-106.122801,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0008,﻿chapel,﻿Chapel of N. Sen. de los Remedios,English,,,﻿Santa Fé,,,﻿Galisteo,﻿Galisteo,﻿NM,,35.395378,-105.94695,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -95,7 +95,7 @@
 ﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Peña Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.084783,-107.522465,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.402183,-106.443724,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0123,﻿chapel,﻿Chapel of San Buenaventura,English,,﻿Indian Pueblo,﻿Peña Blanca,,,﻿Cochiti,﻿Cochiti Pueblo,﻿NM,,35.60892,-106.350304,,﻿Attended from San Domingo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0099,﻿chapel,[Unnamed Institution],English,,,,,,﻿Santa Clara,﻿Santa Clara Pueblo,﻿NM,,35.974546,-106.090472,,,,﻿r_medina_001,﻿Rev.,﻿Ramon Medina,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0099,﻿chapel,[Unnamed Institution],English,,,,,,﻿Santa Clara,﻿Santa Clara Pueblo,﻿NM,,35.974546,-106.090472,,,,﻿ram_medina_001,﻿Rev.,﻿Ramon Medina,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0100,﻿chapel,﻿Chapel of San José,English,,,﻿San Ildefonzo,,,﻿Chama,﻿Chama,﻿NM,,36.902791,-106.579217,﻿san.nm.0098,﻿Attended from San Ildefonzo,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0101,﻿chapel,[Unnamed Institution],English,,,﻿San Ildefonzo,,,﻿Los Ranchitos,﻿Española,﻿NM,,35.948945,-106.074048,﻿san.nm.0099,﻿Attended from Santa Clara,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0098,﻿church,[Unnamed Institution],English,,"﻿Parish Church, Indian Pueblo",﻿San Ildefonzo,,,﻿San Ildefonzo,﻿San Ildefonzo Pueblo,﻿NM,,35.891969,-106.118358,﻿san.nm.0099,﻿Attended from Santa Clara,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
