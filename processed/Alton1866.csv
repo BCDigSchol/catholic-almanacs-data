@@ -54,7 +54,7 @@
 ﻿alt.il.0061,﻿church,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Litchfield,﻿Litchfield,﻿IL,,39.175326,-89.654258,,,,﻿cha_gonant_001,﻿Rev.,﻿Ch. Gonant,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0063,﻿church,[Unnamed Institution],English,,,,﻿Fayette County,﻿Fayette County,﻿London or Howard's Point,﻿Wrights Corner,﻿IL,,39.131018,-88.865679,﻿alt.il.0127,﻿Attended from Teutopolis,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0065,﻿church,﻿St. Mary's,English,,,,﻿Madison County,﻿Monroe County,﻿Madonnaville,﻿Madonaville,﻿IL,,38.264615,-90.246954,,,,﻿l_hinssen_001,﻿Rev.,﻿L. Hinssen,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0327,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,,﻿Marinetown,﻿Marinetown,﻿IL,,38.760646,-89.775419,﻿alt.il.0054,﻿Attended from Highland,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0327,﻿church,﻿St. Elizabeth's,English,,,,﻿Madison County,,﻿Marinetown,﻿Marinetown,﻿IL,,,,﻿alt.il.0054,﻿Attended from Highland,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0067,﻿church,﻿St. Patrick's,English,,,,﻿Clark County,﻿Clark County,﻿Marshall,﻿Marshall,﻿IL,,39.387497,-87.694521,,,,﻿a_b_rinckes_001,﻿Rev.,﻿A. B. Rinckes,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0068,﻿church,﻿Holy Childhood of Jesus,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Maskoutah,﻿Mascoutah,﻿IL,,38.491205,-89.791783,,,,﻿p_rosendahl_001,﻿Rev.,﻿P. Rosendahl,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0069,﻿church,﻿Immaculate Conception,English,,,,﻿Coles County,﻿Coles County,﻿Mattoon,﻿Mattoon,﻿IL,,39.48309,-88.372825,,,,﻿th_f_mangan_001,﻿Rev.,﻿Th. Fr. Mangon,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -82,7 +82,7 @@
 ﻿alt.il.0094,﻿church,﻿St. Lawrence's,English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.934465,-91.361503,,,,﻿pet_mcgirr_001,﻿Rev.,﻿P. McGirr,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0095,﻿church,﻿St. Francis Solanus',English,,,,﻿Adams County,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.939549,-91.388669,,,,﻿fer_bergmeyer_001,﻿Rev.,﻿Ferd. Bergmeyer,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0100,﻿church,﻿St. John Baptist's,English,,,,﻿Randolph County,﻿Randolph County,﻿Red Bud,﻿Red Bud,﻿IL,,38.207406,-89.995711,,,,﻿joh_f_mohr_001,﻿Rev.,﻿John F. Mohr,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0335,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,38.9571,-89.9688,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0335,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Ridgely,﻿Ridgely,﻿IL,,,,﻿alt.il.0222,﻿Attended from Alton,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0115,﻿church,﻿Immaculate Conception,English,,,,﻿Gallatin County,﻿Gallatin County,﻿Shawneetown,﻿Shawneetown,﻿IL,,37.735639,-88.138151,,,,﻿s_wegener_001,﻿Rev.,﻿Sylv. Wegener,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0116,﻿church,﻿Immaculate Conception,English,,,,﻿Shelby County,﻿Shelby County,﻿Shelbyville,﻿Shelbyville,﻿IL,,39.406428,-88.790069,,,,﻿jul_turmel_001,﻿Rev.,﻿Jul. Turmel,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0118,﻿church,﻿St. Dominic's,English,,,,﻿Clinton County,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,38.608929,-89.529094,,,,﻿aug_reineke_001,﻿Rev.,﻿Aug. Reinecke,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -112,7 +112,7 @@
 ﻿alt.il.0141,﻿station,[Unnamed Institution],English,,,,﻿Alexander County,﻿Alexander County,﻿Unity,﻿Unity,﻿IL,,37.149772,-89.272857,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0144,﻿station,[Unnamed Institution],English,,,,﻿Brown County,﻿Brown County,﻿Versailles,﻿Versailles,﻿IL,,39.885048,-90.655961,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0145,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Arenzville,﻿Arenzville,﻿IL,,39.876992,-90.373457,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0296,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Ashland,﻿Ashland,﻿IL,,39.8875,-90.004444,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0296,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Ashland,﻿Ashland,﻿IL,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0133,﻿station,[Unnamed Institution],English,,,,﻿Cass County,﻿Cass County,﻿Virginia,﻿Virginia,﻿IL,,39.951,-90.207455,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0150,﻿station,[Unnamed Institution],English,,,,﻿Clay County,﻿Clay County,﻿Clay City,﻿Clay City,﻿IL,,38.688659,-88.354212,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0045,﻿station,[Unnamed Institution],English,,,,﻿Clay County,﻿Clay County,﻿Flora,﻿Flora,﻿IL,,38.675337,-88.488619,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -123,7 +123,7 @@
 ﻿alt.il.0160,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Greenfield,﻿Greenfield,﻿IL,,39.343658,-90.212614,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0101,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Rockbridge,﻿Rockbridge,﻿IL,,39.26919,-90.207021,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0162,﻿station,[Unnamed Institution],English,,,,﻿Greene County,﻿Greene County,﻿Whitehall,﻿White Hall,﻿IL,,39.436992,-90.403177,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0301,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,38.976389,-90.425833,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0301,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Jersey County,﻿Grafton,﻿Grafton,﻿IL,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0168,﻿station,[Unnamed Institution],English,,,,﻿Jersey County,﻿Madison County,﻿Jersey Landing,﻿Godfrey,﻿IL,,38.9803,-90.302031,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0171,﻿station,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Maroa,﻿Maroa,﻿IL,,40.036426,-88.957026,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0172,﻿station,[Unnamed Institution],English,,,,﻿Macon County,﻿Macon County,﻿Niantic,﻿Niantic,﻿IL,,39.85393,-89.166194,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -136,7 +136,7 @@
 ﻿alt.il.0180,﻿station,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Venice,﻿Venice,﻿IL,,38.672273,-90.169832,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0080,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Odin,﻿Odin,﻿IL,,38.617271,-89.052287,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0113,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Salem,﻿Salem,﻿IL,,38.627207,-88.953939,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,38.612222,-89.122222,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0088,﻿station,[Unnamed Institution],English,,,,﻿Menard County,﻿Menard County,﻿Petersburgh,﻿Petersburgh,﻿IL,,40.004214,-89.850877,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0308,﻿station,[Unnamed Institution],English,,,,﻿Menard County,﻿Menard County,﻿Robinson's Mills,﻿Robinson's Mills,﻿IL,,40.075278,-89.988333,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0055,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Hillsborough,﻿Hillsborough,﻿IL,,39.154703,-89.492011,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -152,7 +152,7 @@
 ﻿alt.il.0200,﻿station,[Unnamed Institution],English,,,,﻿St. Clair County,﻿St. Clair County,﻿Caseyville,﻿Caseyville,﻿IL,,38.636716,-90.025661,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0082,﻿station,[Unnamed Institution],English,,,,﻿St. Clair County,﻿St. Clair County,﻿O'Fallon,﻿O'Fallon,﻿IL,,38.591606,-89.908882,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0206,﻿station,[Unnamed Institution],English,,,,﻿Scott County,﻿Scott County,﻿Naples,﻿Naples,﻿IL,,39.757269,-90.607349,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0314,﻿station,[Unnamed Institution],English,,,,﻿Washington County,,﻿Ashley,﻿Ashley,﻿IL,,38.328889,-89.189444,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0314,﻿station,[Unnamed Institution],English,,,,﻿Washington County,,﻿Ashley,﻿Ashley,﻿IL,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0213,﻿station,[Unnamed Institution],English,,,,﻿White County,﻿White County,﻿Carmi,﻿Carmi,﻿IL,,38.09088,-88.158649,,,,,,,,,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.133097,-88.471992,,,,﻿kil_schlosser_001,﻿Very Rev.,﻿Kilian Schlosser,﻿O.S.F.,﻿Commissarius and Guardian,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0216,﻿convent,﻿St. Teresa's Convent of the Franciscan Fathers,English,,,,﻿Effingham County,﻿Effingham County,﻿Teutopolis,﻿Teutopolis,﻿IL,,39.133097,-88.471992,,,,﻿dam_hennewig_001,﻿Rev.,﻿Damian Hennewig,﻿O.S.F.,﻿Vicarius,,,,,,1866,﻿,﻿,﻿Alton,Alton
@@ -173,7 +173,7 @@
 ﻿alt.il.0222,"﻿convent, school","﻿Ursuline Convent of the Holy Family, Female Academy, Boarding, and Day School",English,﻿The nuns conduct also the Parish Schools of the congregation at Alton,,,,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.907401,-90.197094,,,,﻿josephine_bruiding_alt.il_001,﻿Mother,﻿Josephine Bruiding,,﻿Superior,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0223,﻿academy,﻿Young Ladies' Academy of the Immaculate Conception,English,﻿Connected with the academy is the Parish School of the congregation at Belleville,,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,38.52005,-89.983993,,,,﻿jerome_alt.il_001,﻿Sister,﻿Jerome,,﻿Superior,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0223,﻿academy,﻿Young Ladies' Academy of the Immaculate Conception,English,﻿Connected with the academy is the Parish School of the congregation at Belleville,,,﻿St. Clair County,﻿St. Clair County,﻿Belleville,﻿Belleville,﻿IL,,38.52005,-89.983993,,,,,,,,,,,,﻿Conducted by the Poor School Sisters of Notre Dame,,1866,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0315,﻿convent,﻿Convent of the Sisters of St. Joseph,English,﻿Connected with this academy for young ladies is the Free School of the township and the Parochial School,,,﻿Jasper County,,﻿Ste. Marie,,﻿IL,,38.93,-88.027778,,,,﻿ferdinand_alt.il_001,﻿Mother,﻿Ferdinand,,﻿Superior,,,,,,1866,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0315,﻿convent,﻿Convent of the Sisters of St. Joseph,English,﻿Connected with this academy for young ladies is the Free School of the township and the Parochial School,,,﻿Jasper County,,﻿Ste. Marie,,﻿IL,,,,,,,﻿ferdinand_alt.il_001,﻿Mother,﻿Ferdinand,,﻿Superior,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0224,"﻿convent, academy",﻿Convent and Academy of the Sisters of Loretto,English,﻿Connected with this academy is a day and parochial school,,,,﻿Alexander County,﻿Cairo,﻿Cairo,﻿IL,,37.005329,-89.176461,,,,﻿elizabeth_alt.il_001,﻿Mother,﻿Elizabeth,,﻿Superior,,,,,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0227,﻿hospital,﻿Hospital,English,,,,,﻿Madison County,﻿Alton,﻿Alton,﻿IL,,38.890604,-90.184276,,,,,,,,,,,,﻿Conducted by the Sisters of Charity,,1866,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0229,﻿asylum,﻿Orphan Asylum,English,,,,,﻿Adams County,﻿Quincy,﻿Quincy,﻿IL,,39.935602,-91.409873,,,,,,,,,,,,﻿Conducted by the Sisters of Notre Dame,,1866,﻿,﻿,﻿Alton,Alton

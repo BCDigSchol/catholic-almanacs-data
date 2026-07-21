@@ -10,7 +10,7 @@
 ﻿alb.ny.0004,﻿church,﻿St. John's,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.704188,-73.798942,,,,﻿wil_f_sheehan_001,﻿Rev.,﻿Wm. F. Sheehan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0005,﻿church,﻿Holy Cross,﻿German and French,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.652579,-73.756232,,,,﻿the_noethen_001,﻿Rev.,﻿Theodore Noethen,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0006,﻿church,﻿St. Patrick's,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.652579,-73.756232,,,,﻿a_mcgeough_001,﻿Rev.,﻿A. McGeough,,﻿Pastor,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0334,﻿chapel,﻿Chapel of the Sacred Heart,English,,,,,,﻿Albany City,﻿Kenwood (Albany),,,42.623691,-73.773177,,,,﻿j_du-bolle_001,﻿Rev.,﻿J. Du Bolle,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0334,﻿chapel,﻿Chapel of the Sacred Heart,English,,,,,,﻿Albany City,﻿Kenwood (Albany),,,,,,,,﻿j_du-bolle_001,﻿Rev.,﻿J. Du Bolle,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0012,﻿chapel,﻿Chapel of Boys' Orphan Asylum,English,,,,,,﻿Albany City,﻿Albany,﻿NY,,42.652579,-73.756232,﻿alb.ny.0001,﻿attended from the Cathedral,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0016,﻿church,﻿St. John's Church,English,,,,,,﻿(East) Albany,﻿Albany,﻿NY,,42.704188,-73.798942,,,,﻿joh_corry_001,﻿Rev.,﻿John Corry,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0022,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,﻿Montgomery County,﻿Amsterdam,﻿Amsterdam,﻿NY,,42.937745,-74.190356,,,,﻿j_fitzpatrick_002,﻿Rev.,﻿J. Fitzpatrick,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -24,7 +24,7 @@
 ﻿alb.ny.0037,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,﻿Lewis County,﻿Belleville,,﻿NY,,43.840112,-75.434473,﻿alb.ny.0082,﻿attended from Constableville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0038,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Belfort,﻿Belfort,﻿NY,,43.928124,-75.332132,﻿alb.ny.0088,﻿attended from Croghan,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0039,﻿church,﻿St. John's,English,,,,﻿Broome County,﻿Broome County,﻿Binghampton,﻿Binghamton,﻿NY,,42.098687,-75.917974,,,,﻿jam_hourigan_001,﻿Rev.,﻿James Hourigan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0381,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Blackrock,,﻿NY,,44.458333,-73.7425,﻿alb.ny.0155,﻿attended from Keesville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0381,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,,﻿Blackrock,,﻿NY,,,,﻿alb.ny.0155,﻿attended from Keesville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0040,﻿church,[Unnamed Institution],English,,,,﻿Fulton County,﻿Fulton County,﻿Bleecker,﻿Bleecker,﻿NY,,43.119794,-74.367637,﻿alb.ny.0296,"﻿attended from St. Joseph's Church, Utica",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0041,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿Boonville,﻿Boonville,﻿NY,,43.48368,-75.336561,﻿alb.ny.0082,﻿attended from Constableville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0042,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,﻿St. Lawrence County,﻿Brazier Falls,﻿Brasher,﻿NY,,44.807168,-74.776885,﻿alb.ny.0228,﻿attended from Potsdam,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -49,25 +49,25 @@
 ﻿alb.ny.0067,﻿church,﻿St. Mary's,English,,,,﻿Columbia County,﻿Columbia County,﻿Chatham Four Corners,﻿Chatham,﻿NY,,42.364252,-73.594839,﻿alb.ny.0144,"﻿attended by Rev. James O'Sullivan, of Hudson",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0070,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,﻿Clinton County,﻿Charzy,﻿Chazy,﻿NY,,44.889533,-73.436033,﻿alb.ny.0084,﻿attended from Corbeau,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0073,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿Clayville,﻿Clayville,﻿NY,,42.98007,-75.250996,﻿alb.ny.0075,﻿attended from Clinton,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0393,﻿church,[Unnamed Institution],English,,,,﻿Oswego County,,﻿Cleveland,,﻿NY,,43.236389,-75.882778,﻿alb.ny.0234,"﻿attended by Rev. Wm. Howard, of Rome",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0393,﻿church,[Unnamed Institution],English,,,,﻿Oswego County,,﻿Cleveland,,﻿NY,,,,﻿alb.ny.0234,"﻿attended by Rev. Wm. Howard, of Rome",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0075,﻿church,﻿St. Mary's,English,,,,﻿Oneida County,﻿Oneida County,﻿Clinton,﻿Clinton,﻿NY,,43.048403,-75.378503,,,,﻿wm_coghlan_001,﻿Rev.,﻿Wm. Coghlan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0076,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,﻿Clinton County,﻿Clintonville,﻿Clintonville,﻿NY,,44.465603,-73.582637,﻿alb.ny.0155,﻿attended from Keesville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0077,﻿church,﻿St. Mary's,English,,,,﻿Albany County,﻿Albany County,﻿Coeyman's,﻿Coeymans,﻿NY,,42.473971,-73.792346,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0078,﻿church,﻿St. Bernard's,English,,,,﻿Albany County,﻿Albany County,﻿Cohoes,﻿Cohoes,﻿NY,,42.774245,-73.700119,,,,﻿tho_keveny_001,﻿Rev.,﻿Thomas Kevenny,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0080,﻿church,﻿St. Patrick's,English,,,,﻿Otsego County,﻿Otsego County,﻿Constantia,﻿Constantia,﻿NY,,42.577978,-75.061115,﻿alb.ny.0113,﻿attended from Florence,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0082,﻿church,﻿St. Mary's,English,,,,﻿Lewis County,﻿Lewis County,﻿Constableville,﻿Constableville,﻿NY,,43.566736,-75.428511,,,,﻿c_fitzpatrick_001,﻿Rev.,﻿Cornelius Ftizpatrick,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0388,﻿church,﻿St. Michael's,﻿German,,,,﻿Lewis County,﻿Lewis County,﻿Constableville,﻿Constableville,﻿NY,,43.524407,-75.470444,,,,﻿pet_maly_002,﻿Rev.,﻿Peter Maly,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0388,﻿church,﻿St. Michael's,﻿German,,,,﻿Lewis County,﻿Lewis County,﻿Constableville,﻿Constableville,﻿NY,,,,,,,﻿pet_maly_002,﻿Rev.,﻿Peter Maly,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0083,﻿church,﻿St. --------,English,,,,﻿Otsego County,﻿Otsego County,﻿Cooperstown,﻿Cooperstown,﻿NY,,42.70063,-74.924321,﻿alb.ny.0022,﻿attended from Amsterdam,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0084,﻿church,﻿St. Joseph's,English,,,,﻿Clinton County,﻿Clinton County,﻿Corbeau,﻿Coopersville,﻿NY,,44.943095,-73.407912,﻿alb.ny.0064,"﻿attended by Rev. F. Edward Vancampenhoudt, of Champlain",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0085,﻿church,﻿St. Mary's,English,,,,﻿Cortland County,﻿Cortland County,﻿Cortland,﻿Cortland,﻿NY,,42.60626,-76.160041,﻿alb.ny.0200,﻿attended from Norwich,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0086,﻿church,﻿St. ------,English,,,,﻿Greene County,﻿Greene County,﻿Coxsackie,﻿Coxsackie,﻿NY,,42.353381,-73.804496,,,,﻿m_roche_001,﻿Rev.,﻿Maurice Roche,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0394,﻿church,﻿St. Stephen's,English,,,,﻿Lewis County,﻿Lewis County,﻿Croghan,,﻿NY,,43.970278,-75.356667,,,,﻿cle_mutsaers_001,﻿Rev.,﻿Clement Mutsaers,﻿O.M.C.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0394,﻿church,﻿St. Stephen's,English,,,,﻿Lewis County,﻿Lewis County,﻿Croghan,,﻿NY,,,,,,,﻿cle_mutsaers_001,﻿Rev.,﻿Clement Mutsaers,﻿O.M.C.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0089,﻿church,[Unnamed Institution],English,,,,﻿Essex County,﻿Essex County,﻿Crownpoint,﻿Crown Point,﻿NY,,43.950335,-73.437067,﻿alb.ny.0226,﻿attended from Port Henry,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0094,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Daynesville,,﻿NY,,43.903192,-75.493234,﻿alb.ny.0088,﻿attended from Croghan,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0095,﻿church,﻿Holy Cross,English,,,,﻿Oneida County,﻿Oneida County,﻿Deerfield,﻿Deerfield,﻿NY,,43.189494,-75.142863,﻿alb.ny.0196,﻿attended from Newport,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0098,﻿church,﻿St. Joseph's,English,,,,﻿Broome County,﻿Delaware County,﻿Deposit,﻿Deposit,﻿NY,,42.061667,-75.425408,﻿alb.ny.0039,﻿attended from Binghampton,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0099,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿Durhamville,﻿Durhamville,﻿NY,,43.122123,-75.670037,﻿alb.ny.0234,﻿attended from Rome,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0389,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,﻿Jefferson County,﻿Evans' Mills,,﻿NY,,44.088611,-75.807222,﻿alb.ny.0306,﻿attended from Cape Vincent,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0389,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,﻿Jefferson County,﻿Evans' Mills,,﻿NY,,,,﻿alb.ny.0306,﻿attended from Cape Vincent,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0113,﻿church,﻿St. Mary's,English,,,,﻿Oneida County,﻿Oneida County,﻿Florence,﻿Florence,﻿NY,,43.438403,-75.749353,,,,﻿joh_ludden_001,﻿Rev.,﻿John Ludden,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0114,﻿church,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Fonda,﻿Fonda,﻿NY,,42.954518,-74.376524,﻿alb.ny.0022,﻿attended from Amsterdam,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0115,﻿church,[Unnamed Institution],English,,,,﻿Broome County,﻿Broome County,﻿Forks,﻿Chenango Forks?,﻿NY,,42.236664,-75.847795,﻿alb.ny.0039,﻿attended from Binghampton,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -83,7 +83,7 @@
 ﻿alb.ny.0417,﻿church,﻿St. -----,﻿French,,,,﻿Warren County,﻿Warren County,﻿Glenn's Falls,﻿Glens Falls,﻿NY,,,,﻿alb.ny.0312,"﻿attended by Rev. Louis Desroches, of Whitehall",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0131,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Granville,﻿Granville,﻿NY,,43.40785,-73.259553,﻿alb.ny.0312,﻿attended from Whitehall,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0132,﻿church,[Unnamed Institution],English,,,,﻿Chenango County,﻿Chenango County,﻿Greene,﻿Greene,﻿NY,,42.329241,-75.769915,﻿alb.ny.0200,﻿attended from Norwich,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0396,﻿church,﻿St. John's,English,,,,﻿Rensselaer County,,﻿Greenbush,,﻿NY,,42.646667,-73.733611,,,,﻿joh_corry_001,﻿Rev.,﻿John Corry,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0396,﻿church,﻿St. John's,English,,,,﻿Rensselaer County,,﻿Greenbush,,﻿NY,,,,,,,﻿joh_corry_001,﻿Rev.,﻿John Corry,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0133,﻿church,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Greenfield,,﻿NY,,42.314046,-73.745425,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0139,﻿church,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Hamilton,﻿Hamilton,﻿NY,,42.827014,-75.544624,﻿alb.ny.0200,﻿attended from Norwich,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0140,﻿church,﻿St. Patrick's,English,,,,﻿Lewis County,﻿Lewis County,﻿Harrisburgh,﻿Harrisburg,﻿NY,,43.810902,-75.644084,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -97,9 +97,9 @@
 ﻿alb.ny.0158,﻿church,﻿St. John's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Lafargeville,﻿La Fargeville,﻿NY,,44.194773,-75.966051,,,,﻿mic_guth_001,﻿Rev.,﻿M. Guth,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0159,﻿church,﻿St. John Baptist,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Lansingburgh,﻿Lansingburgh,﻿NY,,42.784522,-73.669562,,,,﻿tho_galberry_001,﻿Rev.,﻿Thomas Galberry,﻿O.S.A.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0159,﻿church,﻿St. John Baptist,English,,,,﻿Rensselaer County,﻿Rensselaer County,﻿Lansingburgh,﻿Lansingburgh,﻿NY,,42.784522,-73.669562,,,,﻿g_a_meager_001,﻿Rev.,﻿G. A. Meager,﻿O.S.A.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0397,﻿church,﻿St. Mary's,English,,,,﻿Columbia County,,﻿Lebanon Springs,,﻿NY,,42.475591,-73.379326,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0398,﻿church,﻿St. -----,English,,,,﻿Jefferson County,,﻿Le Raysville,,﻿NY,,44.049881,-75.762298,﻿alb.ny.0072,﻿attended from French Creek,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0399,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Lewisburgh,,﻿NY,,44.03276,-75.785819,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0397,﻿church,﻿St. Mary's,English,,,,﻿Columbia County,,﻿Lebanon Springs,,﻿NY,,,,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0398,﻿church,﻿St. -----,English,,,,﻿Jefferson County,,﻿Le Raysville,,﻿NY,,,,﻿alb.ny.0072,﻿attended from French Creek,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0399,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,,﻿Lewisburgh,,﻿NY,,,,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0166,﻿church,﻿St. Mary's,English,,,,﻿Herkimer County,﻿Herkimer County,﻿Little Falls,﻿Little Falls,﻿NY,,43.043404,-74.859596,,,,﻿b_f_mcloghlin_001,﻿Rev.,﻿Bartholomew M'Laughlin,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0168,﻿church,﻿St. -----,English,,,,﻿Lewis County,﻿Lewis County,﻿Lowville,﻿Lowville,﻿NY,,43.786736,-75.49185,﻿alb.ny.0394,﻿attended from Croghan,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0171,﻿church,[Unnamed Institution],English,,,,﻿Oneida County,﻿Oneida County,﻿McConnellsville,﻿McConnellsville,﻿NY,,43.272381,-75.694317,﻿alb.ny.0113,﻿attended from Florence,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -109,7 +109,7 @@
 ﻿alb.ny.0181,﻿church,[Unnamed Institution],English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Massena,﻿Massena,﻿NY,,44.928105,-74.891865,﻿alb.ny.0302,﻿attended from Wadington,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0182,﻿church,﻿St. Mary's,English,,,,﻿Saratoga County,﻿Saratoga County,﻿Mechanicsville,﻿Mechanicville,﻿NY,,42.902855,-73.68734,,,,﻿lou_m_edge_002,﻿Rev.,﻿Lewis Edge,﻿O.S.A.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0183,﻿church,[Unnamed Institution],English,,,,﻿Essex County,﻿Essex County,﻿Minerva,﻿Minerva,﻿NY,,43.791453,-73.984302,﻿alb.ny.0128,﻿attended from Glenn's Falls,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0383,﻿church,[Unnamed Institution],English,,,,﻿Herkimer County,﻿Herkimer County,﻿Mohawk,,﻿NY,,43.010278,-75.005,﻿alb.ny.0166,﻿attended from Little Falls,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0383,﻿church,[Unnamed Institution],English,,,,﻿Herkimer County,﻿Herkimer County,﻿Mohawk,,﻿NY,,,,﻿alb.ny.0166,﻿attended from Little Falls,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0185,﻿church,[Unnamed Institution],English,,,,﻿Lewis County,﻿Lewis County,﻿Montague,﻿Montague,﻿NY,,43.704216,-75.690624,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0186,﻿church,﻿Immaculate Conception,English,,,,﻿Hamilton County,﻿Hamilton County,﻿Morehouseville,﻿Morehouseville,﻿NY,,43.390902,-74.773767,﻿alb.ny.0196,"﻿attended by Rev. J. U. Herbst, of Newport",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0188,﻿church,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Mossy Hill,,﻿NY,,42.367876,-73.559413,﻿alb.ny.0086,﻿attended from Coxsackie,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -133,7 +133,7 @@
 ﻿alb.ny.0226,﻿church,﻿St. ----,English,,,,﻿Essex County,﻿Essex County,﻿Port Henry,﻿Port Henry,﻿NY,,44.048388,-73.459847,,,,﻿m_olivetti_001,﻿Rev.,﻿M. Olivetti,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0227,﻿church,[Unnamed Institution],English,,,,﻿Essex County,﻿Essex County,﻿Port Kent,﻿Port Kent,﻿NY,,44.526541,-73.409009,﻿alb.ny.0155,﻿attended from Keeseville,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0228,﻿church,﻿St. —,English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Potsdam,﻿Potsdam,﻿NY,,44.669781,-74.981308,,,,﻿pat_j_mcglynn_001,﻿Rev.,﻿P. McGlynn,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0391,﻿church,﻿St. Joseph's,English,,,,﻿Clinton County,,﻿Redford,,﻿NY,,44.606667,-73.808611,﻿alb.ny.0224,"﻿attended by Rev. F. M. C. Sallaz, O.M.I., of Plattsburgh",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0391,﻿church,﻿St. Joseph's,English,,,,﻿Clinton County,,﻿Redford,,﻿NY,,,,﻿alb.ny.0224,"﻿attended by Rev. F. M. C. Sallaz, O.M.I., of Plattsburgh",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0422,﻿church,﻿St. Francis Xavier,English,,,,﻿Jefferson County,,﻿Redwood,,﻿NY,,,,﻿alb.ny.0059,﻿attended from Carthage,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0234,﻿church,﻿St. Peter's,English,,,,﻿Oneida County,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,43.212847,-75.45573,,,,﻿wil_beacham_001,﻿Rev.,﻿Wm. Beecham,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0234,﻿church,﻿St. Peter's,English,,,,﻿Oneida County,﻿Oneida County,﻿Rome,﻿Rome,﻿NY,,43.212847,-75.45573,,,,﻿wil_howard_001,﻿Rev.,﻿Wm. Howard,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -176,8 +176,8 @@
 ﻿alb.ny.0281,﻿church,﻿St. Joseph's,English,,﻿Troy (East),,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,42.723515,-73.689427,,,,﻿jam_graves_001,﻿Rev.,﻿James Graves,﻿S.J.,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0424,﻿chapel,[Unnamed Institution],﻿German,﻿German Cath. Chapel,﻿Troy (East),,﻿Rensselaer County,﻿Rensselaer County,﻿Troy,﻿Troy,﻿NY,,,,,,,﻿g_meittinger_001,﻿Rev.,﻿G. Meittaeger,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0286,﻿church,﻿St. Patrick's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,﻿wil_finnelly_001,﻿Rev.,﻿William Finnelly,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0384,﻿church,﻿St. Bridget's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.714906,-73.70854,,,,﻿wil_cullinan_001,﻿Rev.,﻿Wm. Cullinan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0386,﻿church,[Unnamed Institution],English,,,,﻿Onondaga County,﻿Cortland County,﻿Truxton,﻿Truxton,﻿NY,,42.711944,-76.028611,﻿alb.ny.0062,﻿attended from Cazenovia,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0384,﻿church,﻿St. Bridget's,English,,﻿Troy (West),,﻿Albany County,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,,,,,,﻿wil_cullinan_001,﻿Rev.,﻿Wm. Cullinan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0386,﻿church,[Unnamed Institution],English,,,,﻿Onondaga County,﻿Cortland County,﻿Truxton,﻿Truxton,﻿NY,,,,﻿alb.ny.0062,﻿attended from Cazenovia,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0291,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Union Village,﻿Greenwich,﻿NY,,43.09014,-73.499282,﻿alb.ny.0053,﻿attended from Cambridge,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0293,﻿church,[Unnamed Institution],English,,,,﻿Broome County,﻿Broome County,﻿Upper Lisle,﻿Upper Lisle,﻿NY,,42.396184,-75.957144,﻿alb.ny.0039,﻿attended from Binghampton,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0295,﻿church,﻿St. John's,English,,,,﻿Oneida County,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100903,-75.232664,,,,﻿tho_daly_001,﻿Rev.,﻿Thomas Daly,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -191,7 +191,7 @@
 ﻿alb.ny.0301,﻿church,﻿St. -----,English,,,,﻿Oneida County,﻿Oneida County,﻿Vienna,﻿Vienna,﻿NY,,43.239514,-75.702406,﻿alb.ny.0204,﻿attended from Oneida,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0302,﻿church,﻿St. Mary's,English,,,,﻿St. Lawrence County,﻿St. Lawrence County,﻿Waddington,﻿Waddington,﻿NY,,44.8645,-75.204102,,,,﻿hen_herfkerns_001,﻿Rev.,﻿Henry Herfkerns,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0303,﻿church,﻿St. Mary's,English,,,,﻿Saratoga County,﻿Saratoga County,﻿Waterford,﻿Waterford,﻿NY,,42.792578,-73.681229,﻿alb.ny.0159,"﻿attended by Rev. G.A. Meager, O.S.A., of Lansingburgh",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0392,﻿church,﻿St. Patrick's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Watertown,﻿Watertown,﻿NY,,43.975814,-75.917259,,,,﻿jam_hogan_001,﻿Rev.,﻿James Hogan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0392,﻿church,﻿St. Patrick's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Watertown,﻿Watertown,﻿NY,,,,,,,﻿jam_hogan_001,﻿Rev.,﻿James Hogan,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0305,﻿church,﻿St. Mary's,﻿French,,,,﻿Jefferson County,﻿Jefferson County,﻿Watertown,﻿Watertown,﻿NY,,43.982443,-75.902351,﻿alb.ny.0306,"﻿attended by Rev. L. Lapic, of Cape Vincent",,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0306,﻿church,﻿St. Bernard's,English,,,,﻿Oneida County,﻿Oneida County,﻿Waterville,﻿Waterville,﻿NY,,42.931181,-75.379892,﻿alb.ny.0075,﻿attended from Clinton,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0309,﻿church,﻿St. — —,English,,,,﻿Essex County,﻿Essex County,﻿Westport,﻿Westport,﻿NY,,44.183383,-73.463745,﻿alb.ny.0226,﻿attended from Port Henry,,,,,,,,,,,,1861,﻿,﻿,﻿Albany,Albany
@@ -215,8 +215,8 @@
 ﻿alb.ny.0363,﻿convent,[Unnamed Institution],﻿German,,﻿Church of the Assumption,,,,﻿Syracuse,,﻿NY,,43.023894,-76.150389,,,,,,,,,,﻿student,﻿girls 250,﻿Sisters of the Third Order of St. Francis,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0354,﻿school,[Unnamed Institution],English,,﻿St. Bernard's Church,,,﻿Albany County,﻿Cohoes,﻿Cohoes,﻿NY,,42.774245,-73.700119,,,,﻿philomena_alb.ny_001,﻿Sister,﻿Philomena,,﻿Sister-servant,,﻿religious,﻿Number of Sisters 7,﻿Sisters of St. Joseph,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0354,﻿school,[Unnamed Institution],English,,﻿St. Bernard's Church,,,﻿Albany County,﻿Cohoes,﻿Cohoes,﻿NY,,42.774245,-73.700119,,,,,,,,,,﻿student,﻿Number of Pupils 400,﻿Sisters of St. Joseph,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0412,﻿school,﻿St. John's,English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100833,-75.2325,,,,﻿perpetua_alb.ny_001,﻿Sister,﻿Perpetua,,﻿Superior,,﻿student,﻿380 girls,﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0412,﻿school,﻿St. John's,English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.100833,-75.2325,,,,,,,,,,﻿religious,"﻿religious, 5",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0412,﻿school,﻿St. John's,English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,,,,,,﻿perpetua_alb.ny_001,﻿Sister,﻿Perpetua,,﻿Superior,,﻿student,﻿380 girls,﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0412,﻿school,﻿St. John's,English,,,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,,,,,,,,,,,,﻿religious,"﻿religious, 5",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0330,﻿academy,﻿St. John's,English,﻿Taught by the Brothers of the Christian Schools,﻿St. John's Church,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.103863,-75.2129,,,,﻿justice_alb.ny_001,﻿Brother,﻿Justice,,﻿Superior,,﻿religious,﻿Brothers 6,﻿Brothers of the Christian Schools,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0330,﻿academy,﻿St. John's,English,﻿Taught by the Brothers of the Christian Schools,﻿St. John's Church,,,﻿Oneida County,﻿Utica,﻿Utica,﻿NY,,43.103863,-75.2129,,,,,,,,,,﻿student,﻿boys 400,﻿Brothers of the Christian Schools,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0338,﻿school,﻿St. John's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,﻿m-felix_alb.ny_001,﻿Sr.,﻿Mary Felix,,﻿Superior,,﻿religious,"﻿religious, 4",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
@@ -235,8 +235,8 @@
 ﻿alb.ny.0341,﻿asylum,﻿St. Mary's,English,﻿for girls,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.728412,-73.691785,,,,﻿m-agnes_alb.ny_001,﻿Sister,﻿Mary Agnes,,﻿Sister-servant,,﻿child,"﻿Orphans, 70",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0337,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,﻿m-austin_alb.ny_001,﻿Sr.,﻿Mary Austin,,﻿Superior,,﻿religious,"﻿Religious, 4",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0337,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿student,"﻿pupils, 250",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.731667,-73.6925,,,,﻿sarah_agnes_alb.ny_001,﻿Sister,﻿Sarah Agnes,,﻿Superior,,﻿religious,"﻿religious, 6",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
-﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,42.731667,-73.6925,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,,,,,,﻿sarah_agnes_alb.ny_001,﻿Sister,﻿Sarah Agnes,,﻿Superior,,﻿religious,"﻿religious, 6",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
+﻿alb.ny.0411,﻿school,﻿St. Mary's,English,,,,,﻿Albany County,﻿Troy,﻿Troy,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0344,﻿school,﻿St. Mary's,English,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.048122,-76.147424,,,,﻿tatinia_alb.ny_001,﻿Sr.,﻿Tatinia,,﻿Superior,,﻿religious,"﻿religious, 3",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0344,﻿school,﻿St. Mary's,English,,,,,﻿Onondaga County,﻿Syracuse,﻿Syracuse,﻿NY,,43.048122,-76.147424,,,,,,,,,,﻿student,"﻿pupils, 250",﻿Sisters of Charity,,1861,﻿,﻿,﻿Albany,Albany
 ﻿alb.ny.0352,﻿school,﻿St. Mary's,English,,,,,﻿Oswego County,﻿Oswego,﻿Oswego,﻿NY,,43.455346,-76.510497,,,,﻿stanislaus_alb.ny_001,﻿Mother,﻿Stanislaus,,,,﻿religious,"﻿religious, 6",﻿Sisters of St. Joseph,,1861,﻿,﻿,﻿Albany,Albany
