@@ -33,7 +33,7 @@
 ﻿sanf.ca.0022,﻿church,﻿St. Ann's,English,,,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,38.03076,-120.404527,,,,﻿ter_j_smith_001,﻿Rev.,﻿Terence J. Smith,,﻿Pastor,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0023,﻿church,﻿St. Ignatius',English,,,,﻿Calaveras County,﻿Calaveras County,﻿Copperopolis,﻿Copperopolis,﻿CA,,37.981036,-120.641872,﻿sanf.ca.0053,﻿attended from San Andreas,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0024,﻿church,﻿Immaculate Conception,English,,,,﻿Mariposa County,﻿Mariposa County,﻿Coulterville,﻿Coulterville,﻿CA,,37.710748,-120.197213,﻿sanf.ca.0024,﻿attended from Mariposa,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0121,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Drytown,﻿Drytown,﻿CA,,,,,﻿attended from Volcano,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0121,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Drytown,﻿Drytown,﻿CA,,38.441111,-120.854444,,﻿attended from Volcano,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0025,﻿church,﻿St. John the Baptist's,English,,,,﻿Sacramento County,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,38.681493,-121.154055,,,,,﻿Rev.,,,﻿Pastor,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0026,﻿church,﻿St. James',English,,,,﻿El Dorado County,﻿El Dorado County,﻿George Town,﻿Georgetown,﻿CA,,38.905893,-120.832834,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0027,﻿church,﻿Immaculate Conception,English,,,,﻿El Dorado County,﻿El Dorado County,﻿Grizzly Flat,﻿Grizzly Flats,﻿CA,,38.638237,-120.526365,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -102,7 +102,7 @@
 ﻿sanf.ca.0086,﻿school,﻿Notre Dame Institute,English,﻿Select school for young ladies,﻿at the Mission of Dolores,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,,,,,,,,,,,,﻿student,﻿200 pupils,﻿Conducted by a branch of the Sisters of Notre Dame of the Academy of San José,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0087,﻿asylum,﻿Magdalen Asylum,English,,﻿On the old San Bruno road,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.792652,-122.405867,,,,,,,,,,﻿religious,﻿6 Sisters,﻿Conducted by the Sisters of Mercy,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0087,﻿asylum,﻿Magdalen Asylum,English,,﻿On the old San Bruno road,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.792652,-122.405867,,,,,,,,,,﻿patient,﻿70 inmates,﻿Conducted by the Sisters of Mercy,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0082,﻿school,﻿Free School,English,﻿for boys,"﻿attached to St. Mary's Cathedral, corner of California and Dupont Streets",,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,,,,,,,,,,,,﻿student,﻿350 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0082,﻿school,﻿Free School,English,﻿for boys,"﻿attached to St. Mary's Cathedral, corner of California and Dupont Streets",,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.79248,-122.405957,,,,,,,,,,﻿student,﻿350 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0003_02,﻿school,﻿Free school,English,﻿for boys,"﻿attached to the Church of St. Francis, Vallejo street",,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.798964,-122.407721,,,,,,,,,,﻿student,﻿125 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0089,﻿school,﻿Free school,English,﻿for boys,"﻿attached to St. Patrick's, Market street",,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.785662,-122.405716,,,,,,,,,,﻿student,﻿200 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0090,﻿school,﻿Free school,English,﻿for boys,"﻿attached to St. Joseph's, Tenth street",,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.78167,-122.413081,,,,,,,,,,﻿student,﻿250 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -124,9 +124,9 @@
 ﻿sanf.ca.0102,﻿school,﻿Free school,English,﻿for boys,﻿attached to St. Mary's Church,,,﻿Alameda County,﻿Oakland,﻿Oakland,﻿CA,,38.518278,-121.469436,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0103,﻿school,﻿Free school,English,﻿for boys,﻿attached to St. Rose's Church,,,﻿Sacramento County,﻿Sacramento,﻿Sacramento,﻿CA,,37.33874,-121.885252,,,,,,,,,,﻿student,﻿100 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0104,﻿school,﻿Free school,English,﻿for girls,,,,﻿Sacramento County,﻿Sacramento,﻿Sacramento,﻿CA,,38.03076,-120.404527,,,,,,,,,,﻿student,﻿250 pupils,﻿Directed by the Sisters of Mercy,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0105,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Pueblo of San José,﻿San Jose,﻿CA,,,,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0105,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Pueblo of San José,﻿San Jose,﻿CA,,37.336111,-121.890556,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0106,﻿school,﻿Free school,English,,﻿attached to St. Ann's Church,,﻿Tuolumne County,﻿Tuolumne County,﻿Columbia,﻿Columbia,﻿CA,,37.951198,-121.287463,,,,,,,,,,﻿student,﻿80 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0107,﻿school,﻿Free school,English,﻿for boys,,,,﻿Tuolumne County,﻿Sonora,﻿Sonora,﻿CA,,38.19603,-120.680487,,,,,,,,,,﻿student,﻿75 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0107,﻿school,﻿Free school,English,﻿for boys,,,,﻿Tuolumne County,﻿Sonora,﻿Sonora,﻿CA,,38.729755,-120.798611,,,,,,,,,,﻿student,﻿75 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0118,﻿school,﻿Free school,English,,,,,﻿El Dorado County,﻿Placerville,﻿Placerville,﻿CA,,,,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0108,﻿school,﻿Free school,English,,﻿attached to St. Mary's Church,,﻿San Joaquin County,﻿San Joaquin County,﻿Stockton,﻿Stockton,﻿CA,,37.764333,-122.426831,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0109,﻿school,﻿Free school,English,,,,,﻿Calaveras County,﻿San Andres,﻿San Andreas,﻿CA,,37.764333,-122.426831,,,,,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -134,20 +134,20 @@
 ﻿sanf.ca.0111,﻿school,﻿Free school,English,﻿for girls,﻿at the Mission,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,38.232417,-122.636652,,,,,,,,,,﻿student,﻿100 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0111,﻿school,﻿Free school,English,﻿for girls,﻿at the Mission,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.354444,-121.969167,,,,,,,,,,﻿religious,﻿5 sisters,﻿Directed by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0119,﻿school,﻿Free school,English,﻿for girls,,,,﻿Santa Clara County,﻿Santa Clara,﻿Santa Clara,﻿CA,,,,,,,,,,,,,﻿student,﻿50 pupils,﻿Conducted by the Sisters of Notre Dame,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0112,﻿school,﻿Free school,English,,,,,﻿Solano County,﻿Vallejo,﻿Vallejo,﻿CA,,38.232417,-122.636652,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0117,﻿school,﻿Free school,English,﻿for boys,,,,﻿Solano County,﻿Benicia,﻿Benicia,﻿CA,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0112,﻿school,﻿Free school,English,,,,,﻿Solano County,﻿Vallejo,﻿Vallejo,﻿CA,,38.068426,-122.146345,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0117,﻿school,﻿Free school,English,﻿for boys,,,,﻿Solano County,﻿Benicia,﻿Benicia,﻿CA,,38.070327,-122.149776,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0113,﻿school,﻿Free school,English,,,,,﻿Sonoma County,﻿Petaluma,﻿Petaluma,﻿CA,,38.67195,-121.161294,,,,,,,,,,﻿student,﻿60 pupils,﻿Directed by Sisters of Charity,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0115,﻿school,﻿Free school,English,,,,,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,,,,,,﻿Pueblo of San José,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Columbia,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Sonora,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Stockton,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿San Andres,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿San Francisco,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿San Francisco,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Vallejo,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Petaluma,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Folsom,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Sutter Creek,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Benicia,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,,,,,,﻿Placerville,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0115,﻿school,﻿Free school,English,,,,,﻿Sacramento County,﻿Folsom,﻿Folsom,﻿CA,,38.672222,-121.157778,,,,﻿Pueblo of San José,,,,,,﻿student,﻿50 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Columbia,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Sonora,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Stockton,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿San Andres,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿San Francisco,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿San Francisco,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Vallejo,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Petaluma,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Folsom,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Sutter Creek,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Benicia,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0116,﻿school,﻿Free school,English,,,,,﻿Amador County,﻿Sutter Creek,﻿Sutter Creek,﻿CA,,38.393056,,,,,﻿Placerville,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿San Francisco,SanFrancisco
