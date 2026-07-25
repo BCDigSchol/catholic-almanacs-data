@@ -1,0 +1,19 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿joh_lamy_001,﻿Rt. Rev.,﻿John Lamy,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿jp_macheboeuf_002,﻿Very. Rev.,﻿Joseph P. Macheboeuf,﻿V.G.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿jos_m_coudert_001,﻿Rev.,﻿Joseph M. Condert,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿j_a_truchard_001,﻿Rev.,﻿John Augustin Truchard,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0005,﻿convent,﻿Nuestra Senora de la Luz,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,,,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0002,﻿chapel,﻿Na. Senora del Rosario,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.694414,-105.947463,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0003,﻿chapel,﻿Na. Senora de Guadalupe,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.68691,-105.944978,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0004,﻿chapel,﻿San Miguel,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.683511,-105.937693,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0249,﻿convent,﻿Oratorio del Santo Nino de Atoche,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,,,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0160_02,﻿chapel,﻿Convento del N. Sonora de la Luz,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.674809,-105.915497,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0006,﻿chapel,﻿San Isidro,English,﻿new church,,,﻿Santa Fé County,,﻿Agua Fria,﻿Aguafria,﻿NM,,35.541607,-105.584027,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0008,﻿chapel,﻿N. Senora de los Remedois,English,,,,﻿Santa Fé County,,﻿Galisteo,﻿Galisteo,﻿NM,,35.563995,-106.122801,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0219,﻿chapel,﻿N. Senora de Dolores,English,,,,﻿Santa Fé County,,﻿Placer de Dolores,,﻿NM,,35.453428,-106.078962,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0250,﻿chapel,﻿San Francisco,English,,,,﻿Santa Fé County,,﻿Placer de San Francisco,,﻿NM,,,,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0009,﻿chapel,﻿N. Senora de los Angeles,English,,,,﻿Santa Fé County,,﻿Pecos,﻿Pecos,﻿NM,,35.395378,-105.94695,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0248,﻿chapel,﻿San Jose,English,,,,﻿Santa Fé County,,﻿La Cienega,,﻿NM,,,,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0011,﻿chapel,﻿San Diego,English,﻿Pueblo Indians,,,﻿Santa Fé County,,﻿Tesuque,﻿Tesuque Pueblo,﻿NM,,35.757876,-105.924082,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0010,﻿chapel,﻿San Isidro,English,,,,﻿Santa Fé County,,﻿Rio Tesuque,﻿Tesuque,﻿NM,,35.549994,-105.689158,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
