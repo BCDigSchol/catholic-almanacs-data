@@ -214,7 +214,7 @@
 ﻿gre.wi.0029,﻿church,﻿St. Joseph's,English,﻿vacant,,,﻿Brown County,﻿Brown County,﻿Robinsonville,﻿Champion,﻿WI,,44.482213,-88.012871,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0369,﻿church,﻿St. Hubert,English,,,,﻿Dora County,,﻿Rosiere,,﻿WI,,44.675611,-87.613598,,﻿Attended by the Fathers of the Holy Cross,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0184,﻿church,﻿St. Norbert's,English,,,,﻿Dane County,﻿Dane County,﻿Roxbury,﻿Roxbury,﻿WI,,43.250644,-89.677281,,,,﻿a_inama_001,﻿Rev.,﻿A. Inama,﻿P. Praem,,,,,﻿Order of Prémontré,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0461,﻿church,﻿St. Bartholomew's,English,,,,﻿Dodge County,,﻿Rubicon,,﻿WI,,,,,﻿Attended occasionally,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0461,﻿church,﻿St. Bartholomew's,English,,,,﻿Dodge County,,﻿Rubicon,,﻿WI,,43.3364,-88.5189,,﻿Attended occasionally,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0187,﻿church,﻿St. Martin's,English,,,,﻿Dane County,﻿Dane County,﻿Springfield,﻿Springfield,﻿WI,,43.180678,-89.589689,,,,﻿e_heuzler_001,﻿Rev.,﻿E. Heuzler,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0188,﻿church,﻿St. Peter's,English,,,,﻿Dane County,﻿Dane County,﻿Springfield,﻿Springfield,﻿WI,,43.139502,-89.540955,,,,﻿e_heuzler_001,﻿Rev.,﻿E. Heuzler,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0021,﻿church,﻿St. Aloysius,English,,,,﻿Sauk County,﻿Sauk County,﻿Sac City,﻿Sauk City,﻿WI,,43.28139,-89.725801,,,,﻿a_m_schedle_001,﻿Rev.,﻿A. M. Schedle,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -236,7 +236,7 @@
 ﻿mil.wi.0197,﻿church,﻿Holy Mary of Help of Christians,English,,,,﻿Fond du Lac County,﻿Fond du Lac County,﻿Springvale,﻿Springvale,﻿WI,,43.764244,-88.691631,,﻿Visited by Rev. E. Gray,,﻿e_gray_001,﻿Rev.,﻿E. Gray,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0031,﻿church,﻿St. Stephen's,English,,,,﻿Portage County,﻿Portage County,﻿Stevers Point,﻿Stevens Point,﻿WI,,44.527046,-89.553282,,,,﻿l_lux_001,﻿Rev.,﻿L. Lux,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0372,﻿church,﻿St. Catherine's,English,,,,﻿Calumet County,,﻿Stockbridge,,﻿WI,,44.06,-88.282778,,﻿Attended by Rev. M. McMahon,,﻿m_mcmahon_001,﻿Rev.,﻿M. McMahon,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0462,﻿church,﻿St. Mary's,English,,,,﻿Waukesha County,,﻿Sullivan,,﻿WI,,,,,﻿Attended by Rev. M. De Beeke,,﻿max_de-becke_001,﻿Rev.,﻿M. De Beeke,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0462,﻿church,﻿St. Mary's,English,,,,﻿Waukesha County,,﻿Sullivan,,﻿WI,,43.019721,-88.580608,,﻿Attended by Rev. M. De Beeke,,﻿max_de-becke_001,﻿Rev.,﻿M. De Beeke,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0198,﻿church,﻿St. Joseph's,English,,,,﻿Dane County,﻿Dane County,﻿Sun Prairie,﻿Sun Prairie,﻿WI,,43.267928,-89.153749,,,,﻿fab_permadinger_001,﻿Rev.,﻿F. Permadinger,﻿O.M.C.,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0199,﻿church,﻿St. Patrick's,English,,,,﻿Dane County,﻿Dane County,﻿Sun Prairie,﻿Sun Prairie,﻿WI,,43.186216,-89.210166,,,,﻿fab_permadinger_001,﻿Rev.,﻿F. Permadinger,﻿O.M.C.,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0200,﻿church,﻿St. John the Baptist,English,,,,﻿Calumet County,﻿Fond du Lac County,﻿Taycheidah,﻿Taycheeda,﻿WI,,43.808879,-88.395106,,,,﻿f_camenzind_001,﻿Rev.,﻿F. Camenzind,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -366,7 +366,7 @@
 ﻿lac.wi.0006,﻿station,[Unnamed Institution],English,,,,﻿Richland County,﻿Richland County,﻿Cazanova,﻿Cazenovia,﻿WI,,43.524284,-90.222851,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0253,﻿station,[Unnamed Institution],English,,,,﻿Rock County,,﻿Sugar Creek,﻿Broadhead,﻿WI,,42.636197,-89.386535,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0250,﻿station,[Unnamed Institution],English,,,,﻿Rock County,﻿Rock County,﻿Fulton,﻿Fulton,﻿WI,,42.808062,-89.127614,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0464,﻿station,[Unnamed Institution],English,,,,﻿Rock County,,﻿Edgarton,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0464,﻿station,[Unnamed Institution],English,,,,﻿Rock County,,﻿Edgarton,,﻿WI,,42.836111,-89.073056,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0252,﻿station,[Unnamed Institution],English,,,,﻿Rock County,﻿Rock County,﻿Spring Valley,﻿Spring Valley,﻿WI,,42.658342,-89.308449,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0455,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Baraboo Bluff,,﻿WI,,43.425,-89.655556,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0139,﻿station,[Unnamed Institution],English,,,,﻿Sauk County,,﻿Marble Quarry,,﻿WI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -441,8 +441,8 @@
 ﻿mil.wi.0266,﻿school,﻿St. Joseph's Parish School,English,,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.04987,-87.926109,,,,,,,,,,﻿student,﻿400 pupils,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,﻿m-benedicta_mil.wi_001,﻿Sister,﻿M. Benedicta,,﻿Superior,,﻿religious,﻿3 Sisters,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Parish School,English,﻿for girls,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,,,,,,﻿student,﻿266 pupils,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,,,,,,﻿m-antonia_mil.wi_001,﻿Sister,﻿M. Antonia,,﻿Superior,,﻿religious,﻿3 sisters,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,,,,,,,,,,,,﻿student,﻿120 pupils,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,43.1775,-88.043889,,,,﻿m-antonia_mil.wi_001,﻿Sister,﻿M. Antonia,,﻿Superior,,﻿religious,﻿3 sisters,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's Parish School,English,,,,,,﻿West Granville,﻿Milwaukee,﻿WI,,43.1775,-88.043889,,,,,,,,,,﻿student,﻿120 pupils,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Parish School,English,,,,,﻿Dodge County,,﻿Watertown,﻿WI,,43.196569,-88.720928,,,,﻿m-hypolitia_mil.wi_001,﻿Sister Superior,﻿Mary Hypolitia,,﻿Superior,,﻿religious,﻿2 sisters,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Parish School,English,,,,,﻿Dodge County,,﻿Watertown,﻿WI,,43.196569,-88.720928,,,,,,,,,,﻿student,﻿100 pupils,,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0270,﻿school,﻿St. Bernard's Parish School,English,,,,﻿,﻿Dodge County,﻿Watertown,﻿Watertown,﻿WI,,43.193918,-88.729292,,,,﻿m-jacoba_mil.wi_001,﻿Sister Superior,﻿M. Jacoba,,﻿Superior,,﻿religious,﻿3 Sisters,﻿Conducted by the School Sisters of Notre Dame,,1864,﻿,﻿,﻿Milwaukee,Milwaukee
