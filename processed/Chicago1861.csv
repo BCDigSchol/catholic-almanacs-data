@@ -28,7 +28,7 @@
 ﻿chi.il.0374,﻿church,﻿St. Mary's,English,,,,﻿Woodford County,,﻿Black Partridge,,﻿IL,,40.79487,-89.46304,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿St. Patrick's,English,,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,40.48525,-88.994229,,,,﻿t_kennedy_002,﻿Rev.,﻿Thomas Kennedy,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,41.156489,-87.876276,,,,﻿l_gingras_001,﻿Rev.,﻿L. Gingras,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0414,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,,﻿IL,,,,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0414,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,,﻿IL,,41.350278,-88.839444,﻿chi.il.0414,﻿Attended from Peoria,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0391,﻿church,[Unnamed Institution],English,,,,﻿Boone County,,﻿Belvidere,,﻿IL,,,,﻿chi.il.0103,﻿Attended from Rockford,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0125,﻿church,[Unnamed Institution],English,,,,,,﻿Batavia,,﻿IL,,41.850295,-88.30291,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0415,﻿church,﻿St. Mary's,English,,,,﻿Cook County,,﻿Buffalo,,﻿IL,,,,﻿chi.il.0418,﻿Attended monthly from Dutchtown,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -39,8 +39,8 @@
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,,﻿Dixon,﻿Dixon,﻿IL,,41.837361,-89.483878,,,,﻿mic_forde_001,﻿Rev.,﻿Michael Forde,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0417,﻿church,[Unnamed Institution],English,,,,﻿Gundy County,,﻿Dresden,,﻿IL,,,,﻿chi.il.0086,﻿Attended from Morris,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0380,﻿church,[Unnamed Institution],English,,,,﻿Vermillion County,,﻿Danville,,﻿IL,,40.120824,-87.621286,﻿chi.il.0428,﻿Attended from Urbana,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,,﻿IL,,,,﻿mil.wi.0457,﻿Attended from Sinsinnawa Mound College,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0418,﻿church,[Unnamed Institution],English,,,,﻿McHenry County,,﻿Dutchtown,,﻿IL,,,,,,,﻿pet_vogt_001,﻿Rev.,﻿Peter Vogt,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0425,﻿church,﻿St. Thomas,English,,,,﻿Joe Daviess County,,﻿Dunleith,,﻿IL,,42.478333,-90.613333,﻿mil.wi.0457,﻿Attended from Sinsinnawa Mound College,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0418,﻿church,[Unnamed Institution],English,,,,﻿McHenry County,,﻿Dutchtown,,﻿IL,,40.692778,-89.590556,,,,﻿pet_vogt_001,﻿Rev.,﻿Peter Vogt,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0145,﻿church,[Unnamed Institution],English,,,,﻿Lake County,,﻿Dwyer's Settlement,,﻿IL,,42.288255,-87.857961,﻿chi.il.0338,﻿Attended from Meehan's Settlement,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0419,﻿church,[Unnamed Institution],English,,,,﻿La Salle County,,﻿Eagletown,,﻿IL,,,,﻿chi.il.0091,﻿Attended from Ottawa,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0045,﻿church,﻿Immaculate Conception,English,,,,﻿Kane County,,﻿Elgin,﻿Elgin,﻿IL,,42.035274,-88.275628,,,,﻿mic_carroll_001,﻿Rev.,﻿Michael Carroll,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -89,7 +89,7 @@
 ﻿chi.il.0423,﻿church,﻿St. Francis,﻿German,,,,﻿La Salle County,,﻿Ottowa,,﻿IL,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0201,﻿church,[Unnamed Institution],English,,,,﻿Henderson County,,﻿Oquakwa,,﻿IL,,40.936718,-90.95362,﻿mil.wi.0030,﻿Attended from Burlington,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0424,﻿church,[Unnamed Institution],English,,,,﻿Kendall County,,﻿Oswego,,﻿IL,,,,﻿chi.il.0029,﻿Attended from Aurora,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0425,﻿church,﻿St. Charles,English,,,,﻿Lee County,,﻿Palestine Grove,,﻿IL,,,,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0425,﻿church,﻿St. Charles,English,,,,﻿Lee County,,﻿Palestine Grove,,﻿IL,,42.478333,-90.613333,﻿chi.il.0027,﻿Attended from Amboy,,,,,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0093,﻿church,﻿St. Mary's,English,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.694837,-89.584525,,,,﻿hen_coyle_002,﻿Rev.,﻿Henry Coyle,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0094,﻿church,[Unnamed Institution],﻿German,,,,﻿Peoria County,,﻿Peoria,﻿Peoria,﻿IL,,40.689067,-89.604392,,,,﻿alo_hatala_001,﻿Rev.,﻿Aloysius Hatala,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0379,﻿church,﻿St. George's,English,,,,﻿Kankakee County,,﻿Petites Isles,,﻿IL,,41.192605,-87.774868,,,,﻿epi_lapointe_001,﻿Rev.,﻿Epiphainus Lapointe,,,,,,,,1861,﻿,﻿,﻿Chicago,Chicago
@@ -137,6 +137,6 @@
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,41.902076,-87.636885,,,,,,,,,,﻿layperson,﻿35 penitents,﻿Conducted by the Religious of the Good Shepherd,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0326,﻿asylum,﻿Magdalen Asylum,English,,,,,,,,,,41.902076,-87.636885,,,,,,,,,,﻿religious,﻿5 religious,﻿Conducted by the Religious of the Good Shepherd,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0409,﻿convent,﻿St. Joseph's Convent of Mercy,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,﻿st-mary_xavier_chi.il_001,,﻿St. Mary Xavier,,﻿Superioress,,﻿religious,﻿7 religious,,,1861,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0414,﻿school,﻿St. Joseph's School,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,,,,,,﻿m-euphrasia_chi.il_001,﻿Sister,﻿Mary Euphrasia,,﻿Directress,,﻿student,﻿100 pupils,,,1861,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0414,﻿school,﻿St. Joseph's School,English,,,,﻿La Salle County,,﻿Ottawa,,﻿IL,,41.350278,-88.839444,,,,﻿m-euphrasia_chi.il_001,﻿Sister,﻿Mary Euphrasia,,﻿Directress,,﻿student,﻿100 pupils,,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0438,﻿school,﻿School of the Holy Name,English,,,,,,,,,,,,,,,,,,,,,﻿student,﻿250 pupils,﻿by the Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0439,﻿school,﻿Industrial School,English,,,,,,﻿Chicago,,﻿IL,,,,,,,,,,,,,﻿student,﻿20 pupils,﻿under Sisters of the Holy Cross,,1861,﻿,﻿,﻿Chicago,Chicago

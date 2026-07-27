@@ -79,9 +79,9 @@
 ﻿col.oh.0044,﻿church,﻿St. Francis Xavier's,English,,,,﻿Carroll County,,﻿Lodi,,﻿OH,,40.688105,-81.172938,﻿col.oh.0015,﻿Attended from Canal Dover,,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0107,﻿church,[Unnamed Institution],English,"﻿new church, not ded.",,,﻿Madison County,,﻿London,,﻿OH,,39.885708,-83.446371,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0047,﻿church,﻿St. Mary's of the Immac. Concep.,English,,,,﻿Carroll County,,﻿Marges,,﻿OH,,40.532833,-81.075466,,,,﻿j_f_goetz_001,﻿Rev.,﻿J. F. Goetz,,,﻿who also attends St. Peter's and other stations,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,,,,,,﻿joh_wittmer_001,﻿Rev.,﻿John Wittmer,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,,,,,,﻿eng_ruff_003,﻿Rev.,﻿Engelbert Ruff,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,,,,,,﻿ste_falk_002,﻿Rev.,﻿Steph. Falk,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,40.4075,-84.493333,,,,﻿joh_wittmer_001,﻿Rev.,﻿John Wittmer,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,40.4075,-84.493333,,,,﻿eng_ruff_003,﻿Rev.,﻿Engelbert Ruff,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0304,﻿church,﻿St. John's,English,,,,,,﻿Mariastein,,﻿OH,,40.4075,-84.493333,,,,﻿ste_falk_002,﻿Rev.,﻿Steph. Falk,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0112,﻿church,[Unnamed Institution],English,,,,,,﻿Marion,,﻿OH,,40.58867,-83.128524,﻿cin.oh.0174,﻿Attended from Urbana,,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0049,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Marietta,,﻿OH,,39.415352,-81.454844,,,,﻿ric_b_hardy_001,﻿Rev.,﻿Richard B. Hardy,,,"﻿who also attends St. James' Church, Meigs Creek, Stockport, and St. Joseph's Union township, six miles from Marietta",,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0050,﻿church,﻿St. Clement's,English,﻿new church,,﻿nine miles from Zanesville,,,﻿Mattingley's Settlement,,﻿OH,,40.040556,-82.069444,,﻿Attended from Zanesville,,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -95,8 +95,8 @@
 ﻿cin.oh.0324,﻿church,﻿St. Mary's Chapel,English,,,﻿near Minster,,,﻿Greenwood,,﻿OH,,,,,,,﻿and_herbstritt_001,﻿Rev.,﻿Andrew Herbstritt,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0324,﻿church,﻿St. Mary's Chapel,English,,,﻿near Minster,,,﻿Greenwood,,﻿OH,,,,,,,﻿nic_galles_002,﻿Rev.,﻿Nich. Galles,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0324,﻿church,﻿St. Mary's Chapel,English,,,﻿near Minster,,,﻿Greenwood,,﻿OH,,,,,,,﻿jos_butz_001,﻿Rev.,﻿Joseph Butz,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0325,﻿church,﻿St. Joseph's and St. Mary's,English,,,﻿Minster,,,﻿Himmelgarten,,﻿OH,,,,,,,﻿max_homburger_001,﻿Rev.,﻿Maximilian Homburger,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0325,﻿church,﻿St. Joseph's and St. Mary's,English,,,﻿Minster,,,﻿Himmelgarten,,﻿OH,,,,,,,﻿ame_danbach_001,﻿Rev.,﻿Amedeus Danbach,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0325,﻿church,﻿St. Joseph's and St. Mary's,English,,,﻿Minster,,,﻿Himmelgarten,,﻿OH,,40.42224,-84.732953,,,,﻿max_homburger_001,﻿Rev.,﻿Maximilian Homburger,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0325,﻿church,﻿St. Joseph's and St. Mary's,English,,,﻿Minster,,,﻿Himmelgarten,,﻿OH,,40.42224,-84.732953,,,,﻿ame_danbach_001,﻿Rev.,﻿Amedeus Danbach,﻿C.PP.S.,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0159,﻿church,﻿St. Henry's,English,,,,﻿Mercer County,﻿Mercer County,,﻿St. Henry,﻿OH,,40.41759,-84.637532,,"﻿Attended by the clergy, C. PP. S.",﻿regularly,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0161,﻿church,﻿St. Joseph's,English,,,,﻿Mercer County,,,,﻿OH,,40.428432,-84.738673,,"﻿Attended by the clergy, C. PP. S.",﻿regularly,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0157,﻿church,﻿St. Anthony's,English,,,,,,,,﻿OH,,40.508938,-84.785251,,"﻿Attended by the clergy, C. PP. S.",﻿regularly,,,,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -114,7 +114,7 @@
 ﻿cin.oh.0137,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Oxford,,﻿OH,,39.506997,-84.745231,,,,﻿t_j_smith_001,﻿Rev.,﻿T. J. Smith,,,"﻿who also attends Eaton, Euphemia, Middletown (new church building) and New Paris",,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0309,﻿church,﻿St. Philomena's,English,,﻿Perrin's Mills,,﻿Clermont County,,,,﻿OH,,39.127734,-84.185484,,,,﻿lou_navarron_001,﻿Rev.,﻿Louis Navarron,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0140,﻿church,﻿St. Mary's,English,,,,﻿Miami County,,﻿Piqua,,﻿OH,,40.151355,-84.245746,,,,﻿mic_kennedy_001,﻿Rev.,﻿Michael Kennedy,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0331,﻿church,﻿St. Joseph,﻿German,,,,﻿Miami County,,﻿Piqua,,﻿OH,,,,,,,﻿b_hemsteger_001,﻿Rev.,﻿B. Hemsteger,,,﻿who also attends several other stations,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0331,﻿church,﻿St. Joseph,﻿German,,,,﻿Miami County,,﻿Piqua,,﻿OH,,40.141667,-84.252778,,,,﻿b_hemsteger_001,﻿Rev.,﻿B. Hemsteger,,,﻿who also attends several other stations,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0059,﻿church,﻿Sacred Heart,English,,,,﻿Meigs County,,﻿Pomeroy,,﻿OH,,39.029761,-82.03718,,,,﻿joh_albrinck_001,﻿Rev.,﻿John Albrinck,,,﻿who also attends the Germans of Marietta occasionally. He likewise attends the church of St. John Baptist 20 miles from Coal Port,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0061,﻿church,﻿Church of the Nativity,English,,,,﻿Scioto County,,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.861065,-82.993161,,,,﻿f_karge_001,﻿Rev.,﻿F. Kargé,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0062,﻿church,﻿Church of the Holy Redeemer,English,"﻿Aberdeen and the settlements around the furnaces of Scioto and Lawrence counties, are also attended from Portsmouth",,,﻿Scioto County,,﻿Portsmouth,﻿Portsmouth,﻿OH,,38.7358,-82.986369,,,,﻿jam_j_odonoghoe_001,﻿Rev.,﻿James O'Donoghue,,,,,,,,1857,﻿,﻿,﻿Cincinnati,Cincinnati

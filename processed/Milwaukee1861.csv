@@ -250,7 +250,7 @@
 ﻿mil.wi.0229,﻿station,[Unnamed Institution],English,,,,﻿Dodge County,﻿Dodge County,﻿Lebanon,﻿Lebanon,﻿WI,,43.255277,-88.626768,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0231,﻿station,[Unnamed Institution],English,,,,﻿Dodge County,﻿Dodge County,﻿Iron Ridge,﻿Iron Ridge,﻿WI,,43.39972,-88.532601,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0230,﻿station,[Unnamed Institution],English,,,,﻿Dodge County,﻿Dodge County,﻿Lamira,﻿Lamira,﻿WI,,43.591382,-88.443713,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0461,﻿station,[Unnamed Institution],English,,,,﻿Dodge County,,﻿Rubicon,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0461,﻿station,[Unnamed Institution],English,,,,﻿Dodge County,,﻿Rubicon,,﻿WI,,43.3364,-88.5189,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0383,﻿station,[Unnamed Institution],English,,,,﻿Door County,,﻿Sturgen Bay,,﻿WI,,44.833611,-87.377778,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0369,﻿station,[Unnamed Institution],English,,,,﻿Door County,,﻿Rosiere,,﻿WI,,44.675611,-87.613598,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0476,﻿station,[Unnamed Institution],English,,,,﻿Door County,,﻿Marysburgh,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -414,8 +414,8 @@
 ﻿mil.wi.0266,﻿school,﻿St. Joseph's School,English,,,,,,,,﻿WI,,43.04987,-87.926109,,,,,,,,,,﻿student,﻿200 pupils,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Girls' Free School,English,,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,﻿m-benedicta_mil.wi_001,﻿Sister,﻿Mary Benedicta,,﻿Superior,,﻿religious,﻿3 Sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0265,﻿school,﻿Holy Trinity Girls' Free School,English,,,,﻿,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,,,,,,,﻿student,﻿130 pupils,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0475,﻿school,﻿St. Anthony's School,English,,﻿Town Eight,,,,,,﻿WI,,,,,,,﻿m-antonia_mil.wi_001,﻿Sister,﻿Mary Antonia,,﻿Superior,,﻿religious,﻿3 sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0475,﻿school,﻿St. Anthony's School,English,,﻿Town Eight,,,,,,﻿WI,,,,,,,,,,,,,﻿student,﻿100 pupils,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's School,English,,﻿Town Eight,,,,,,﻿WI,,43.1775,-88.043889,,,,﻿m-antonia_mil.wi_001,﻿Sister,﻿Mary Antonia,,﻿Superior,,﻿religious,﻿3 sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0475,﻿school,﻿St. Anthony's School,English,,﻿Town Eight,,,,,,﻿WI,,43.1775,-88.043889,,,,,,,,,,﻿student,﻿100 pupils,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Day School,English,,,,,﻿Dodge County,﻿Watertown,﻿Watertown,﻿WI,,43.196569,-88.720928,,,,﻿m-margaritha_mil.wi_001,﻿Sister Superior,﻿Mary Margaritha,,﻿Superior,,﻿religious,﻿2 sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0287,﻿school,﻿St. Henry's Day School,English,,,,,﻿Dodge County,﻿Watertown,﻿Watertown,﻿WI,,43.196569,-88.720928,,,,,,,,,,﻿student,﻿100 pupils,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0271,﻿school,﻿Holy Trinity Day School,English,,,,﻿,﻿Kenosha County,﻿Kenosha,﻿Kenosha,﻿WI,,42.56849,-87.825207,,,,﻿m-petra_mil.wi_001,﻿Sister Superior,﻿Mary Petra,,﻿Sister-Superior,,﻿religious,﻿3 Sisters,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
