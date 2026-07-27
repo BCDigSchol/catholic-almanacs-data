@@ -50,10 +50,10 @@
 ﻿san.nm.0247,﻿chapel,[Unnamed Institution],English,,,﻿Bernalillo,,,﻿El Tegon,﻿El Tejon,﻿NM,,35.306985,-106.424747,﻿san.nm.0041,﻿Attended from Bernalillo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0046,﻿chapel,[Unnamed Institution],English,,,﻿Bernalillo,,,﻿Placitas,,﻿NM,,35.306985,-106.424747,﻿san.nm.0041,﻿Attended from Bernalillo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0047,﻿church,﻿N. Sonora de Dolores,English,,,﻿Cevoyeta,,,﻿Cevoyeta,﻿Seboyeta,﻿NM,,35.20115,-107.389214,,,,﻿raf_chaves_001,﻿Rev.,﻿Rafael Chaves,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0049,﻿chapel,[Unnamed Institution],English,﻿church building,,﻿Cevoyeta,,,﻿Cubero,﻿Cubero,﻿NM,,35.085875,-107.518105,﻿san.nm.0047,﻿Attended from Cevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0050,﻿chapel,[Unnamed Institution],English,﻿Pueblo Indians,,﻿Cevoyeta,,,﻿La Liguna,﻿Laguna,﻿NM,,35.03468,-107.38845,﻿san.nm.0047,﻿Attended from Cevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0051,﻿chapel,[Unnamed Institution],English,,,﻿Cevoyeta,,,﻿Acoma,﻿Acoma,﻿NM,,34.896319,-107.582309,﻿san.nm.0047,﻿Attended from Cevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0054,﻿chapel,[Unnamed Institution],English,,,﻿Cevoyeta,,,﻿Zuni,﻿Zuni Pueblo,﻿NM,,35.0678,-108.849714,﻿san.nm.0047,﻿Attended from Cevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0049,﻿chapel,[Unnamed Institution],English,﻿church building,,﻿Cevoyeta,,,﻿Cubero,﻿Cubero,﻿NM,,35.085875,-107.518105,﻿san.nm.0047,﻿Attended from Oevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0050,﻿chapel,[Unnamed Institution],English,﻿Pueblo Indians,,﻿Cevoyeta,,,﻿La Liguna,﻿Laguna,﻿NM,,35.03468,-107.38845,﻿san.nm.0047,﻿Attended from Oevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0051,﻿chapel,[Unnamed Institution],English,,,﻿Cevoyeta,,,﻿Acoma,﻿Acoma,﻿NM,,34.896319,-107.582309,﻿san.nm.0047,﻿Attended from Oevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0054,﻿chapel,[Unnamed Institution],English,,,﻿Cevoyeta,,,﻿Zuni,﻿Zuni Pueblo,﻿NM,,35.0678,-108.849714,﻿san.nm.0047,﻿Attended from Oevoyeta,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0031,﻿church,[Unnamed Institution],English,﻿new church building,,,,﻿Conejos County,﻿Los Conejos,﻿Antonito,,﻿CO,37.088186,-106.020078,,,,﻿vic_montano_001,﻿Rev.,﻿Vicente Montano,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0234,﻿church,[Unnamed Institution],English,,,,,﻿Conejos County,﻿San Antonio,﻿San Antonio,,﻿CO,37.0792,-106.0086,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0246,﻿chapel,[Unnamed Institution],English,,,,,,﻿San Francisco,,,﻿CO,37.14885,-105.910425,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
@@ -93,10 +93,10 @@
 ﻿san.nm.0066,﻿chapel,﻿San Antonio,English,,,﻿La Canada,,,﻿El Quemado,﻿Cordova,﻿NM,,34.972731,-105.032363,﻿san.nm.0063,﻿Attended from Santa Cruz,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0067,﻿chapel,﻿N. Sonora,English,,,﻿La Canada,,,﻿Las Truchas,﻿Truchas,﻿NM,,36.044183,-105.812756,﻿san.nm.0063,﻿Attended from Santa Cruz,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0227,﻿church,[Unnamed Institution],English,﻿Pueblo Indians,,,,,﻿Santo Domingo,﻿Kewa Pueblo,﻿NM,,35.514444,-106.363333,,,,﻿jua_d_lujan_001,﻿Rev.,﻿Juan de Jesus Lujan,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0120,﻿church,﻿N. Sonora de Guadpe,English,,,﻿Pena Blanca,,,﻿Pena Blanca,﻿Peña Blanca,﻿NM,,35.572685,-106.337068,,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Pena Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.402183,-106.443724,,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,﻿Pueblo Indians,,﻿Pena Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.60892,-106.350304,,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0123,﻿chapel,﻿San Bonaventura,English,﻿Pueblo Ind.,,﻿Pena Blanca,,,﻿Cocheti,﻿Cochiti Pueblo,﻿NM,,35.453428,-106.078962,,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0120,﻿church,﻿N. Sonora de Guadpe,English,,,﻿Pena Blanca,,,﻿Pena Blanca,﻿Peña Blanca,﻿NM,,35.572685,-106.337068,﻿san.nm.0227,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0121,﻿chapel,﻿Santa Rosa,English,,,﻿Pena Blanca,,,﻿Cubero,﻿Cubero,﻿NM,,35.402183,-106.443724,﻿san.nm.0227,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0122,﻿chapel,[Unnamed Institution],English,﻿Pueblo Indians,,﻿Pena Blanca,,,﻿San Felipe,﻿San Felipe Pueblo,﻿NM,,35.60892,-106.350304,﻿san.nm.0227,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0123,﻿chapel,﻿San Bonaventura,English,﻿Pueblo Ind.,,﻿Pena Blanca,,,﻿Cocheti,﻿Cochiti Pueblo,﻿NM,,35.453428,-106.078962,﻿san.nm.0227,﻿attended from Santo Domingo,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0099,﻿chapel,[Unnamed Institution],English,﻿Pueblo Indians,,﻿San Ildefonso,,,﻿Santa Clara,﻿Santa Clara Pueblo,﻿NM,,35.974546,-106.090472,,,,﻿tho_hayes_001,﻿Rev.,﻿Thomas Hayes,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0100,﻿chapel,﻿San Jose de Chama,English,,,﻿San Ildefonso,,,﻿Chama,﻿Chama,﻿NM,,36.902791,-106.579217,﻿san.nm.0099,﻿Attended from Santa Clara,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0101,﻿chapel,[Unnamed Institution],English,,,﻿San Ildefonso,,,﻿Los Ranchitos,﻿Española,﻿NM,,35.948945,-106.074048,﻿san.nm.0099,﻿Attended from Santa Clara,,,,,,,,,,,,1860,﻿,﻿,﻿Santa Fe,SantaFe
