@@ -2,9 +2,9 @@
 ﻿mob.al.0001,﻿cathedral,[Unnamed Institution],English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,﻿AL,﻿30.69012,-88.045898,,,,﻿mic_portier_901,﻿Right Rev.,﻿Michael Portier,﻿D.D.,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,[Unnamed Institution],English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿30.69012,-88.045898,,,,﻿mat_loras_901,﻿Very Rev.,﻿M. Loras,﻿D.D.,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,[Unnamed Institution],English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿30.69012,-88.045898,,,,﻿jam_lesne_901,﻿Rev.,﻿James Lesne,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.9001,﻿church,﻿St. Joseph's,English,,,,,,﻿Springhill,﻿Mobile,﻿AL,﻿AL,,,,,,﻿joh_bazin_901,﻿Rev.,﻿J. Bazin,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.9001,﻿church,﻿St. Joseph's,English,,,,,,﻿Springhill,﻿Mobile,﻿AL,﻿AL,﻿30.689998,-88.054344,,,,﻿joh_bazin_901,﻿Rev.,﻿J. Bazin,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0022,﻿church,﻿St. Peter's,English,,,,,﻿Montgomery County,﻿Montgomery,﻿Montgomery,﻿AL,﻿AL,﻿32.37547,-86.305845,,,,﻿gab_chalon_001,﻿Rev.,﻿G. Chalon,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.9002,﻿church,[Unnamed Institution],English,,,,,,﻿Moulton,﻿Moulton,﻿AL,﻿AL,,,,,,﻿pet_mauvernay_901,﻿Rev.,﻿P. Mauvernay,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.9002,﻿church,[Unnamed Institution],English,,,,,,﻿Moulton,﻿Moulton,﻿AL,﻿AL,﻿34.482222,-87.285556,,,,﻿pet_mauvernay_901,﻿Rev.,﻿P. Mauvernay,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.9003,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Vernon,﻿Mount Vernon,﻿AL,﻿AL,﻿31.086365,-88.00993,,,﻿visited by Rev. M. Loras,﻿mat_loras_901,﻿Rev.,﻿M. Loras,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Mount_Vernon,_Alabama",,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.9004,﻿church,[Unnamed Institution],English,,,,,,﻿Rayou Battery,﻿Bayou La Batre,﻿AL,﻿AL,﻿30.404285,-88.248116,,,﻿visited by Rev. M. Loras,﻿mat_loras_901,﻿Rev.,﻿M. Loras,,,,,,,,1838,"﻿https://en.wikipedia.org/wiki/Bayou_La_Batre,_Alabama",,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.9005,﻿academy,[Unnamed Institution],English,,,,,,﻿Summerville,﻿Somerville,﻿AL,﻿AL,"﻿34.472946466188446, -86.79851758352893",-86.798889,,,,﻿jam_lesne_901,﻿Rev.,﻿J. Lesne,,,,,,,,1838,,,﻿,﻿,﻿Mobile,Mobile

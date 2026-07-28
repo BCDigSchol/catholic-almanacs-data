@@ -14,7 +14,7 @@
 ﻿bal.md.0016,﻿chapel,﻿St. Mary's Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.295821,-76.622867,,,,﻿lew_r_deluol_901,﻿Very Rev.,﻿Louis Deluol,﻿D. D.,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0139_02,﻿chapel,﻿Carmelite Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.305333,-76.602235,,,,﻿joh_b_gildea_901,﻿Rev.,﻿J. Gildea,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0021,﻿chapel,﻿St. Frances' Chapel,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,,,,,,﻿jam_m_h_n_joubert_901,﻿Rev.,﻿Hector Joubert,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0036,﻿church,[Unnamed Institution],English,,,,﻿Anne Arundel County,﻿Anne Arundel County,﻿Annapolis,﻿Annapolis,﻿MD,﻿MD,,,,,﻿every two months,﻿mat_sanders_901,﻿Rev.,﻿M. Sanders,﻿S. J..,,﻿Dw. at White Marsh,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0036,﻿church,[Unnamed Institution],English,,,,﻿Anne Arundel County,﻿Anne Arundel County,﻿Annapolis,﻿Annapolis,﻿MD,﻿MD,38.973056,-76.501111,,,﻿every two months,﻿mat_sanders_901,﻿Rev.,﻿M. Sanders,﻿S. J..,,﻿Dw. at White Marsh,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9010,﻿church,﻿St. Ignatius,English,,,,﻿Alleghany County,﻿Anne Arundel County,﻿Arnold Settlement,﻿Mount Savage,﻿MD,﻿MD,39.697778,-78.873889,,,﻿1st and 2d Sunday,﻿sil_b_piot_901,﻿Rev.,﻿S. Piot,,,﻿Dw. at Cumberland,,,,,1840,"﻿Fairly certain, since MSM was founded in 1808, that this entry refers to the chapel that was set up at the same time as the seminary: https://seminary.msmary.edu/about/history.html",,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0028,﻿church,[Unnamed Institution],English,,,,﻿Alleghany County,﻿Garrett County,﻿Blooming Rose Settlement,﻿Friendsville,﻿MD,﻿MD,39.656667,-79.439167,,,﻿4th Sun.,﻿sil_b_piot_901,﻿Rev.,﻿S. Piot,,,﻿Dw. at Cumberland,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0091,﻿church,[Unnamed Institution],English,,,,﻿Montgomery County,﻿Montgomery County,﻿Barnsville,﻿Barnesville,﻿MD,﻿MD,39.220668,-77.380777,,,,,,,,,﻿Vacant,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
@@ -37,8 +37,8 @@
 ﻿bal.md.0070,﻿church,﻿St. John's,English,,,,,﻿Cecil County,﻿Frederick,﻿Frederick,﻿MD,,39.416064,-77.407648,,,,﻿ben_a_young_901,﻿Rev.,﻿B. A. Young,﻿S. J.,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0070,﻿church,﻿St. John's,English,,,,,﻿Cecil County,﻿Frederick,﻿Frederick,﻿MD,,39.416064,-77.407648,,,,﻿jam_ryder_901,﻿Rev.,﻿Jas. Ryder,﻿S. J.,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0070,﻿church,﻿St. John's,English,,,,,﻿Cecil County,﻿Frederick,﻿Frederick,﻿MD,,39.416064,-77.407648,,,,﻿edw_mccarthy_901,﻿Rev.,﻿Edward McCarthy,﻿S. J.,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0034,﻿church,[Unnamed Institution],English,,﻿Fifteen Mile Creek,,﻿Alleghany County,﻿Allegany County,,﻿Little Orleans,﻿MD,﻿MD,,,,,,﻿mic_guth_901,﻿Rev.,﻿Michael Guth,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0034,﻿church,[Unnamed Institution],English,,﻿Fifteen Mile Creek,,﻿Alleghany County,﻿Allegany County,,﻿Little Orleans,﻿MD,,,,,,,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0034,﻿church,[Unnamed Institution],English,,﻿Fifteen Mile Creek,,﻿Alleghany County,﻿Allegany County,,﻿Little Orleans,﻿MD,﻿MD,39.62504,-78.388615,,,,﻿mic_guth_901,﻿Rev.,﻿Michael Guth,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0034,﻿church,[Unnamed Institution],English,,﻿Fifteen Mile Creek,,﻿Alleghany County,﻿Allegany County,,﻿Little Orleans,﻿MD,,39.62504,-78.388615,,,,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0108,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Hagerstown,﻿Hagerstown,﻿MD,﻿MD,39.644567,-77.724965,,,,﻿mic_guth_901,﻿Rev.,﻿Michael Guth,,,,,,,,1840,﻿https://saintmarysonline.org/,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0108,﻿church,[Unnamed Institution],English,,,,﻿Washington County,﻿Washington County,﻿Hagerstown,﻿Hagerstown,﻿MD,,39.644567,-77.724965,,,,﻿mic_gallagher_901,﻿Rev.,﻿M. Gallagher,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0109,﻿church,[Unnamed Institution],English,﻿Church not ded.,,,﻿Washington County,,﻿Hancock,,﻿MD,,,,,,,﻿mic_guth_901,﻿Rev.,﻿Michael Guth,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
@@ -131,8 +131,8 @@
 ﻿bal.md.9039,﻿academy,﻿Miss E. Marcilly's Academy,English,﻿For the Instruction of Young Ladies,﻿S. E. Corner of Charles and Centre Sts. Baltimore,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,,,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9040,﻿seminary,﻿The Misses Cottringer's Seminary For Young Ladies,English,,"﻿No. 72, Franklin Street",,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,,,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9041,﻿seminary,﻿The Misses McNally's Seminary,English,﻿For Young Ladies,﻿N. West Corner of Charles and Centre Sts.,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,,,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9023,﻿school,﻿School for Coloured Girls,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,,,,,,,,,,,,﻿religious,﻿14 sisters,﻿Sisters of Providence,,1840,﻿est. 1829,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9023,﻿school,﻿School for Coloured Girls,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,,,,,,,,,,,,,﻿religious,﻿3 novices,﻿Sisters of Providence,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9023,﻿school,﻿School for Coloured Girls,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.3001,-76.618394,,,,,,,,,,﻿religious,﻿14 sisters,﻿Sisters of Providence,,1840,﻿est. 1829,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9023,﻿school,﻿School for Coloured Girls,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,,39.3001,-76.618394,,,,,,,,,,﻿religious,﻿3 novices,﻿Sisters of Providence,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9016,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.295205,-76.614651,,,,,,,,,,﻿child,﻿50 orphans,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9016,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,,39.295205,-76.614651,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.9016_02,﻿free school,﻿St. Mary's Free School,English,,,,,﻿Baltimore County,﻿Baltimore,﻿Baltimore,﻿MD,﻿MD,39.295205,-76.614651,,,,,,,,,,﻿child,﻿220 poor children,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
@@ -148,7 +148,7 @@
 ﻿bal.md.0232,﻿asylum,﻿St. Vincent's Asylum,English,,,,,,﻿Washington,,﻿DC,,38.89789,-77.025757,,,,,,,,,,﻿child,﻿40 orphans,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0232_02,﻿day school,﻿St. Vincent's Day School,English,,,,,,﻿Washington,,﻿DC,,38.89789,-77.025757,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0232_02,﻿day school,﻿St. Vincent's Day School,English,,,,,,﻿Washington,,﻿DC,,38.89789,-77.025757,,,,,,,,,,﻿student,﻿150 pupils,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.9022,﻿free school,﻿St. Francis Xavier's Free School,English,,,,,,﻿Alexandria,,﻿DC,,,,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.9022,﻿free school,﻿St. Francis Xavier's Free School,English,,,,,,﻿Alexandria,,﻿DC,,38.820278,-77.050278,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0010_02,﻿free school,﻿Catholic Male Free School,English,,﻿Saratoga Street,,,,﻿Baltimore,,﻿MD,,,,,,,,,,,,,﻿child,﻿100 poor children,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0011_02,﻿free school,﻿Catholic Female Free School,English,,"﻿near St. Patrick's Church, Fell's Point",,,,﻿Baltimore,,﻿MD,,,,,,,,,,,,,﻿student,﻿about 100 pupils,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0001_02,﻿school,﻿Sunday School for girls,English,,﻿Franklin street,,,,﻿Baltimore,,﻿MD,,39.294377,-76.616245,,,,,,,,,,,,,,1840,,,,,﻿,﻿,﻿Baltimore,Baltimore

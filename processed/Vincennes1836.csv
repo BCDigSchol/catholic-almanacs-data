@@ -6,7 +6,7 @@
 ﻿vin.in.9005,﻿church,[Unnamed Institution],English,,﻿Duchee River,,,,,,﻿IN,,,,,,﻿occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,,,,,﻿[visited] every other Sunday [by] Rev. Jos. Ferneding,﻿jos_ferneding_001,﻿Rev.,﻿Jos. Ferneding,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.9005,﻿church,﻿St. Joseph's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,"﻿https://files.ecatholic.com/36674/documents/2024/7/TheFoundingoftheSt.JosephHessenCasselv2.pdf?t=1722438041000 , https://staging.stjoehc.org/general-information/history-of-parish/history-joseph-hessen/",﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,41.080556,-85.139167,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,,,﻿Huntingdon,,﻿IN,,,,,,,﻿mat_f_ruff_901,﻿Rev.,﻿Matthew Ruff,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,﻿visited occasionally,,,,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Pleasant,,﻿IN,,,,,,﻿visited occasionally,,,,,,,,,,,1836,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
@@ -44,4 +44,4 @@
 ﻿alt.il.0115,﻿church,[Unnamed Institution],English,,,,,﻿Gallatin County,﻿Shawneytown,﻿Shawneetown,﻿IL,,38.09088,-88.158649,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.0213,﻿church,[Unnamed Institution],English,,,,,﻿White County,﻿Carmi,,﻿IL,,38.37717939,-88.05824115,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9009,﻿church,[Unnamed Institution],English,,,,,﻿Edwards County,﻿Albion,,﻿IL,,,,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,,,,,,1836,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9000,﻿convent,﻿St. Clare's Convent,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,,,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,﻿D. D.,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1836,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9000,﻿convent,﻿St. Clare's Convent,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,38.6775,-87.501944,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,﻿D. D.,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1836,,﻿,﻿,﻿Vincennes,Vincennes

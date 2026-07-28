@@ -8,7 +8,7 @@
 ﻿vin.in.9005,﻿church,[Unnamed Institution],English,,﻿Duchee River,,,,,,﻿IN,,,,,,﻿visited occasionally,,,,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0033,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,﻿Dover,,﻿IN,,,,,,﻿every other Sunday,﻿jos_ferneding_001,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.9005,﻿church,﻿St. Joseph's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿fra_j_claude_901,﻿Rev.,﻿Francis J. Claude,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿lou_muller_901,﻿Rev.,﻿Lewis Muller,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,41.080556,-85.139167,,,,﻿lou_muller_901,﻿Rev.,﻿Lewis Muller,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,,,﻿Huntingdon,,﻿IN,,,,﻿for.in.0001,﻿attended from Fort Wayne,,,,,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0081,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,﻿pat_obeirne_902,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0093,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Pleasant,,﻿IN,,,,,,,﻿pat_obeirne_902,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1837,"﻿https://en.wikipedia.org/wiki/Mount_Pleasant_Township,_Delaware_County,_Indiana",﻿,﻿,﻿Vincennes,Vincennes
@@ -49,5 +49,5 @@
 ﻿alt.il.0115,﻿church,[Unnamed Institution],English,,,,,,﻿Shawneytown,﻿Shawneetown,﻿IL,,38.09088,-88.158649,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,﻿Ky,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.0213,﻿church,[Unnamed Institution],English,,,,,,﻿Carmi,,﻿IL,,38.377179,-88.058241,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,﻿Ky,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿alt.il.9009,﻿church,[Unnamed Institution],English,,,,,,﻿Albion,,﻿IL,,,,,,﻿visited from Ky. by Rev. Elisha Durbin,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,﻿Ky,,,,,1837,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9000,﻿convent,﻿St. Clare's Convent,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,,,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1837,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9000_02,﻿academy,﻿St. Clare's Female Academy,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,,,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1837,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9000,﻿convent,﻿St. Clare's Convent,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,38.6775,-87.501944,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1837,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9000_02,﻿academy,﻿St. Clare's Female Academy,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,﻿IN,38.6775,-87.501944,,,,﻿sim_g_bruté_901,﻿Right Rev.,﻿Simon G. Bruté,,﻿Bishop; Superintendent,﻿resides in Vincennes,,,﻿manage[d] and govern[ed] [by] Sisters of Charity,,1837,,﻿,﻿,﻿Vincennes,Vincennes

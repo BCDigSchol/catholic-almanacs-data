@@ -36,7 +36,7 @@
 ﻿for.in.9008,﻿church,[Unnamed Institution],English,,,,﻿St. Joseph County,,﻿South Bend,﻿South Bend,﻿IN,,,,,,,,,,,,,,,,,1838,﻿https://babel.hathitrust.org/cgi/pt?id=innd.00000008066185&seq=23,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,,,,﻿Culver,﻿IN,,,,,,,,,,,,,,,,,1838,﻿https://stmaryculver.org/about-us/history/,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9034,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Rome,,﻿IN,,,,,,,﻿jul_benoit_001,﻿Rev.,﻿Juliam Benoit,,,,,,,,1838,﻿https://www.findagrave.com/cemetery/84708/connor-cemetery - perhaps somewhere around here? there's an unincorporated community named Rome nearby,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,,,,,,﻿lou_muller_901,﻿Rev.,﻿Louis Muller,,,"﻿also visits Huntingdon, Gros and Wabashtown",,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Mary's,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,41.080556,-85.139167,,,,﻿lou_muller_901,﻿Rev.,﻿Louis Muller,,,"﻿also visits Huntingdon, Gros and Wabashtown",,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,,,﻿Huntingdon,,﻿IN,,,,,,﻿visit[ed] [by] Rev. Louis Muller,﻿lou_muller_901,﻿Rev.,﻿Louis Muller,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9016,﻿church,[Unnamed Institution],English,,,,,,﻿Gros,,﻿IN,,,,,,﻿visit[ed] [by] Rev. Louis Muller,﻿lou_muller_901,﻿Rev.,﻿Louis Muller,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9014,﻿church,[Unnamed Institution],English,,,,,,﻿Wabashtown,,﻿IN,,,,,,﻿visit[ed] [by] Rev. Louis Muller,﻿lou_muller_901,﻿Rev.,﻿Louis Muller,,,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
@@ -61,4 +61,4 @@
 ﻿alt.il.0213,﻿church,[Unnamed Institution],English,,,,,,﻿Carmi,,﻿IL,,38.377179,-88.058241,,,,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,﻿of Kentucky,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9037,﻿college,﻿Catholic College of Vincennes,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿sim_g_bruté_901,﻿Right Rev. Dr.,﻿Bruté,,﻿Founder,,,,,,1838,"﻿https://archives.nd.edu/aidan/aidan505.htm , https://www.archindy.org/criterion/local/2014/08-01/vincennes.html , https://evdiomessage.org/a-pilgrimage-to-vincennes/",﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9037,﻿college,﻿Catholic College of Vincennes,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿joh_a_vabret_901,﻿Rev. Mr.,﻿J. A. Vabret,,﻿Conductor,,,,,,1838,,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9000_02,﻿academy,﻿Academy of the Sisters of Charity of Vincennes,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,,,,,,,,,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9000_02,﻿academy,﻿Academy of the Sisters of Charity of Vincennes,English,,,,,,﻿Vincennes,,﻿IN,,38.6775,-87.501944,,,,,,,,,,,,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Vincennes,Vincennes
