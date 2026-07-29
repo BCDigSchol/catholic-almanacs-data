@@ -34,8 +34,8 @@
 ﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,,,,,,﻿joh_shanahan_001,﻿Rev.,﻿John Shanahan,,,,,,,,1840,﻿Hard to identify which one - there are too many in Troy in later years,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,,,,,,﻿jam_quinn_901,﻿Rev.,﻿James Quinn,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,42.731667,-73.6925,,,,﻿joh_shanahan_001,﻿Rev.,﻿John Shanahan,,,,,,,,1840,﻿Hard to identify which one - there are too many in Troy in later years,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9001,﻿church,﻿St. Peter's,English,,,,,,﻿Troy,,﻿NY,,42.731667,-73.6925,,,,﻿jam_quinn_901,﻿Rev.,﻿James Quinn,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0286,﻿church,[Unnamed Institution],English,﻿church unfinished,,,,,﻿West Troy,,﻿NY,,,,﻿alb.ny.9001,﻿attended from Troy,,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0244,﻿church,[Unnamed Institution],English,﻿church unfinished,,,,,﻿Sandy Hill,,﻿NY,,43.300628,-73.585949,﻿alb.ny.9001,﻿attended from Troy,,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0284,﻿church,[Unnamed Institution],English,,,,,﻿Rensselaer County,﻿Lansingburg,﻿Troy,﻿NY,﻿NY,42.781542,-73.664114,﻿alb.ny.9001,﻿attended from Troy,﻿once a month,,,,,,﻿dw. at Troy,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity

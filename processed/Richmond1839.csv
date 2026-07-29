@@ -7,8 +7,8 @@
 ﻿ric.va.0009,﻿church,[Unnamed Institution],English,,,,﻿Berkely County,﻿Berkeley County,﻿Martinsburg,﻿Martinsburg,﻿VA,,39.455404,-77.964527,,,,﻿jam_strain_901,﻿Rev.,﻿James Strain,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
 ﻿ric.va.0012,﻿station,[Unnamed Institution],English,,,,,,﻿Winchester,,﻿VA,﻿VA,39.18566,-78.163334,,,﻿occasionally,﻿ric_whelan_901,﻿Rev.,﻿Richard Whelan,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
 ﻿ric.va.0012,﻿station,[Unnamed Institution],English,,,,,,﻿Winchester,,﻿VA,,39.18566,-78.163334,,,,﻿jam_strain_901,﻿Rev.,﻿James Strain,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
-﻿bal.md.9013,﻿station,[Unnamed Institution],English,,,,,﻿Loudoun County,﻿Waterford,﻿Waterford,﻿VA,﻿VA,,,,,﻿occasionally,﻿ric_whelan_901,﻿Rev.,﻿Richard Whelan,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
-﻿bal.md.9013,﻿station,[Unnamed Institution],English,,,,,﻿Loudoun County,﻿Waterford,﻿Waterford,﻿VA,,,,,,,﻿jam_strain_901,﻿Rev.,﻿James Strain,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
+﻿bal.md.9013,﻿station,[Unnamed Institution],English,,,,,﻿Loudoun County,﻿Waterford,﻿Waterford,﻿VA,﻿VA,39.186667,-77.61,,,﻿occasionally,﻿ric_whelan_901,﻿Rev.,﻿Richard Whelan,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
+﻿bal.md.9013,﻿station,[Unnamed Institution],English,,,,,﻿Loudoun County,﻿Waterford,﻿Waterford,﻿VA,,39.186667,-77.61,,,,﻿jam_strain_901,﻿Rev.,﻿James Strain,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
 ﻿ric.va.0011,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,﻿Jefferson County,﻿Harper's Ferry,﻿Harper's Ferry,﻿VA,﻿WV,39.322723,-77.731312,,﻿from Martinsburg,﻿2d and 4th Sunday,,,,,,,,,,,1839,﻿https://www.stjameswv.org/history-of-st-james-the-greater ; possible history to touch on in the future w/ a profile: http://www.histarch.illinois.edu/harper/StPeterhistory1.html#V,﻿,﻿,﻿Richmond,Richmond
 ﻿ric.va.0010,﻿church,﻿St. Vincent's,English,,,,﻿Morgan County,﻿Bath County,﻿Bath,,﻿VA,﻿VA,38.046111,-79.790556,,﻿from Martinsburg,﻿3d Sunday,,,,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
 ﻿bal.md.9014,﻿station,[Unnamed Institution],English,,,,﻿Hampshire County,﻿Hampshire County,﻿Romney,﻿Romney,﻿VA,﻿WV,,,,"﻿from Cumberland, Md.",﻿5th Sunday,,,,,,,,,,,1839,,﻿,﻿,﻿Richmond,Richmond
