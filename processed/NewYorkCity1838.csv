@@ -16,7 +16,7 @@
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿and_byrne_001,﻿Rev.,﻿Andrew Byrne,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿joh_maginnis_901,﻿Rev. Mr.,﻿McGinnis,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0044,﻿church,﻿St. James' Church,English,,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿mic_gilbride_901,﻿Rev. Mr.,﻿Gillbride,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9004,﻿church,[Unnamed Institution],English,﻿German Church,,,,﻿New York County,﻿New York,,﻿NY,,,,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9004,﻿church,[Unnamed Institution],English,﻿German Church,,,,﻿New York County,﻿New York,,﻿NY,,40.7128,-74.0061,,,,﻿joh_raffeiner_901,﻿Rev.,﻿John Raffeiner,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,﻿NY,42.651819,-73.752794,,,,﻿jos_b_schneller_901,﻿Rev.,﻿Joseph Schneller,,,,,,,,1838,,"﻿https://www.hist-stmarys.org/history ; very likely this church. While the cathedral is more prominent, this historic church predates all the rest in the city, and it stands to reason that, based on that fact, the St. Mary's that we see in later years refers to this church.",﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0003,﻿church,﻿St. Mary's,English,,,,,﻿Albany County,﻿Albany,﻿Albany,﻿NY,,42.651819,-73.752794,,,,﻿haes_901,﻿Rev. Mr.,﻿Haes,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0001,﻿chapel,﻿New Chapel,English,,,,,,,,﻿NY,,,,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -27,8 +27,8 @@
 ﻿alb.ny.0059,﻿church,[Unnamed Institution],English,,,,,﻿Jefferson County,﻿Carthage,﻿Carthage,﻿NY,﻿NY,43.978265,-75.60778,,,,,,,,,﻿Vacant,,,,,1838,,﻿http://www.catholicsofcarthagecopenhagen.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0164,﻿church,[Unnamed Institution],English,,,,,,﻿Leraysville,,﻿NY,,,,,,,,,,,,﻿Vacant,,,,,1838,,﻿https://jeffcowiki.miraheze.org/wiki/Leraysville,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0305,﻿church,[Unnamed Institution],English,,,,,,﻿Watertown,,﻿NY,,,,,,,,,,,,﻿Vacant,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9003,﻿church,[Unnamed Institution],English,,,,,,﻿Auburn,,﻿NY,,,,,,,,,,,,﻿Vacant,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9007,﻿church,[Unnamed Institution],English,,,,,,﻿China,,﻿NY,,,,,,,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9003,﻿church,[Unnamed Institution],English,,,,,,﻿Auburn,,﻿NY,,42.933333,-76.566667,,,,,,,,,﻿Vacant,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9007,﻿church,[Unnamed Institution],English,,,,,,﻿China,,﻿NY,,-42.144805,-75.400177,,,,﻿cha_smith_901,﻿Rev.,﻿Charles Smith,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0123,﻿church,[Unnamed Institution],English,,,,,,﻿Coldsprings,,﻿NY,,41.419051,-73.958963,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0184,﻿church,[Unnamed Institution],English,,,,,,﻿Sogerties,,﻿NY,,,,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1838,,"﻿https://stmaryofthesnow.org/history-of-st-mary-of-the-snow ; odd case of a place close to one diocese going with another - this place is right by albany, but, according to this church history, was attached with ny around the time of the civil war",﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0161,﻿chapel,[Unnamed Institution],English,,,,,,﻿Newberg,,﻿NY,,41.501173,-74.009828,,,,﻿pat_duffy_901,﻿Rev.,﻿Patrick Duffy,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -40,16 +40,16 @@
 ﻿bro.ny.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsburg,﻿Brooklyn,﻿NY,,,,,,,﻿bradley_901,﻿Rev. Mr.,﻿Bradley,,,,,,,,1838,,﻿https://www.trinity-stmary.org/our-historic-church,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0014,﻿church,﻿St. Ambrose,English,,,,,﻿Monroe County,﻿Greece,﻿Greece,﻿NY,﻿NY,43.25271,-77.658953,,,,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0142,﻿church,[Unnamed Institution],English,,,,,,﻿Hogansburg,,﻿NY,,,,,,,﻿joh_mcnulty_901,﻿Rev.,﻿J. M'Nulty,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿St. Paul's Church,English,,,,,,﻿Harlem,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿church,﻿St. Paul's Church,English,,,,,,﻿Harlem,,﻿NY,,,,,,,﻿downing_901,﻿Rev. Mr.,﻿Downing,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9008,﻿church,[Unnamed Institution],English,,,,,,﻿Lockport,,﻿NY,,,,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9008,﻿church,[Unnamed Institution],English,,﻿near Buffalo,,,,﻿Northwood,,﻿NY,,,,,,,﻿joh_newman_901,﻿Rev.,﻿John Newman,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿church,﻿St. Paul's Church,English,,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9005,﻿church,﻿St. Paul's Church,English,,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿downing_901,﻿Rev. Mr.,﻿Downing,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9008,﻿church,[Unnamed Institution],English,,,,,,﻿Lockport,,﻿NY,,43.169722,-78.691111,,,,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9008,﻿church,[Unnamed Institution],English,,﻿near Buffalo,,,,﻿Northwood,,﻿NY,,43.169722,-78.691111,,,,﻿joh_newman_901,﻿Rev.,﻿John Newman,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0165,﻿church,[Unnamed Institution],English,,,,,,﻿Nyack,,﻿NY,,,,,,,﻿fra_marshall_902,﻿Rev.,﻿Francis Marshall,,,,,,,,1838,,﻿https://nyheritage.contentdm.oclc.org/digital/collection/nyacklib/id/430/ ; https://spasaparish.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0186,﻿church,[Unnamed Institution],English,,﻿Sing Sing,,,,,,﻿NY,,,,,,,﻿fra_marshall_902,﻿Rev.,﻿Francis Marshall,,,,,,,,1838,,﻿https://en.wikipedia.org/wiki/Sing_Sing,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0202,﻿church,[Unnamed Institution],English,,,,,,﻿Ogdensburg,,﻿NY,,44.698828,-75.48556,,,﻿[visited] alternately [by] Rev. Mr. Foley,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,[Unnamed Institution],English,,,,,,﻿Waddington,,﻿NY,,44.8645,-75.204102,,,﻿[visited] alternately [by] Rev. Mr. Foley,﻿foley_901,﻿Rev. Mr.,﻿Foley,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9005,﻿church,[Unnamed Institution],English,,,,,,﻿Oswego,,﻿NY,,,,,,,﻿joh_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9004,﻿church,[Unnamed Institution],English,,,,,,﻿Geneva,,﻿NY,,,,,,,﻿joh_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9005,﻿church,[Unnamed Institution],English,,,,,,﻿Oswego,,﻿NY,,43.454722,-76.506667,,,,﻿joh_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9004,﻿church,[Unnamed Institution],English,,,,,,﻿Geneva,,﻿NY,,42.878889,-76.993056,,,,﻿joh_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0045,﻿church,[Unnamed Institution],English,,,,,,﻿Seneca Falls,,﻿NY,,,,,,,﻿joh_rogers_901,﻿Rev. Mr.,﻿Rogers,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.699512,-73.458857,,,,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1838,,﻿https://holycrosspbg.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,[Unnamed Institution],English,,,,,,﻿Rochester,,﻿NY,,43.161338,-77.621417,,,,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -60,9 +60,9 @@
 ﻿alb.ny.9001,﻿church,[Unnamed Institution],English,,,,,,﻿Troy,,﻿NY,,42.731667,-73.6925,,,,﻿joh_shanahan_001,﻿Rev.,﻿J. Shanahan,,,,,,,,1838,,﻿Hard to identify which one - there are too many in Troy in later years,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9001,﻿church,[Unnamed Institution],English,,,,,,﻿Troy,,﻿NY,,42.731667,-73.6925,,,,﻿jam_quinn_901,﻿Rev.,﻿J. Quinn,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0295,﻿church,[Unnamed Institution],English,,,,,,﻿Utica,,﻿NY,,43.10105,-75.22747,,,,﻿wal_j_quarters_901,﻿Rev.,﻿Walter Quarters,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.9010,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsville,,﻿NY,,,,,,﻿[visited] alternately [by] Rev. Mr. Lutgen,﻿lutgen_901,﻿Rev. Mr.,﻿Lutgen,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.9010,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsville,,﻿NY,,42.9625,-78.7425,,,﻿[visited] alternately [by] Rev. Mr. Lutgen,﻿lutgen_901,﻿Rev. Mr.,﻿Lutgen,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0033,﻿church,[Unnamed Institution],English,,,,,,﻿Lancaster,,﻿NY,,,,,,﻿[visited] alternately [by] Rev. Mr. Lutgen,﻿lutgen_901,﻿Rev. Mr.,﻿Lutgen,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.9001,﻿church,[Unnamed Institution],English,,,,,,﻿Bottle Hill,,﻿NJ,,,,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿new.nj.9001,﻿church,[Unnamed Institution],English,,,,,,﻿Bottle Hill,,﻿NJ,,40.761418,-74.419083,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0013,﻿church,[Unnamed Institution],English,,,,,,﻿Belleville,,﻿NJ,,,,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0003,﻿church,[Unnamed Institution],English,,,,,,﻿Newark,,﻿NJ,,40.737862,-74.166042,,,,﻿moran_901,﻿Rev. Mr.,﻿Moran,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0067,﻿church,[Unnamed Institution],English,,,,,,﻿New Brunswick,,﻿NJ,,40.486216,-74.451819,,,,﻿ber_mcardle_901,﻿Rev. Mr.,﻿McArdle,,,,,,,,1838,,,﻿,﻿,﻿New York,NewYorkCity
@@ -78,4 +78,4 @@
 ﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,﻿L. I.,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1838,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_02,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1838,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0343,﻿asylum,[Unnamed Institution],English,,,,,,﻿Utica,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1838,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0343,﻿asylum,[Unnamed Institution],English,,,,,,﻿Utica,,﻿NY,,43.100833,-75.2325,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1838,,,﻿,﻿,﻿New York,NewYorkCity

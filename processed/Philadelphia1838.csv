@@ -69,7 +69,7 @@
 ﻿pit.pa.9008,﻿church,﻿St. Nich. Tol.,English,,,,,,﻿Red-bank,﻿Redbank Township,﻿PA,,,,,,﻿[visited] once a month [by] Rev. H. Herzog,﻿hen_herzog_901,﻿Rev.,﻿H. Herzog,,,﻿dwelling at Shippenville,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.0112,﻿church,﻿St. Michael's,English,,,,,,﻿Shippenville,,﻿PA,,,,,,﻿[visited] once a month [by] Rev. H. Herzog,﻿hen_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0081,﻿church,﻿St. Augustin's,English,,,,,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504,-75.953881,,,﻿[visited] once a month [by] Rev. H. Fitzsimmons,﻿hen_fitzsimmons_901,﻿Rev.,﻿H. Fitzsimmons,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0129,﻿church,﻿St. Jerome's,English,,,,,,﻿Tamaqua,,﻿PA,,,,,,﻿[visited] monthly [by] Rev. J. Moloney,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0129,﻿church,﻿St. Jerome's,English,,,,,,﻿Tamaqua,,﻿PA,,40.797311,-75.969371,,,﻿[visited] monthly [by] Rev. J. Moloney,﻿j_moloney_901,﻿Rev.,﻿J. Moloney,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0033,﻿church,﻿St. Andrew,English,,,,﻿Franklin County,,﻿Waynesburg,,﻿PA,,,,,,﻿[visited] monthly [by] Rev. P. Rafferty,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿Green County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.896235,-80.183643,,,,,,,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿Westchester,﻿West Chester,﻿PA,﻿PA,39.959285,-75.608724,,,﻿[visited every] third Sunday [by] Rev. Edward Sourin,﻿edw_j_sourin_001,﻿Rev.,﻿Edward Sourin,,,﻿Dw. at Philadelphia,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -91,6 +91,6 @@
 ﻿phi.pa.0004_93,﻿day school,﻿St. John's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,39.95127,-75.161381,,,,,,,,,,﻿child,﻿45 boys,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0005_92,﻿school,﻿St. Mary's Day School,English,,,,,,﻿Philadelphia,,﻿PA,,39.945643,-75.148563,,,,,,,,,,﻿child,﻿180 children,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9007,﻿school,[Unnamed Institution],English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.9000,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,﻿Conewago,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.9000,﻿school,﻿St. John's Baptist,English,,﻿M'Sherrystown,,,,﻿Conew.,﻿Conewago,﻿PA,,39.804167,-77.019167,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9006,﻿school,[Unnamed Institution],English,,,,,,﻿Pottsville,,﻿PA,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0010_02,﻿school,﻿St. Michael's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,39.973891,-75.13849,,,,,,,,,,,,,,1838,,﻿,﻿,﻿Philadelphia,Philadelphia

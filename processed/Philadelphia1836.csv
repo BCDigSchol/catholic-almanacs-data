@@ -66,7 +66,7 @@
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,﻿PA,40.330048,-75.928594,,,﻿[visited] twice a month [by] Rev. Nicholas Steinbacher,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9008,﻿church,﻿St. Nich. Tol.,English,,,,,,﻿Red-bank,﻿Redbank Township,﻿PA,,,,,,﻿[visited] every 2 months [by] Rev. P. Rafferty,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0081,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504,-75.953881,,,﻿3 Sundays in the month,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.0129,﻿church,﻿St. Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,,,,,﻿[visited] monthly [by] Rev. A. Wainwright,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.0129,﻿church,﻿St. Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,40.797311,-75.969371,,,﻿[visited] monthly [by] Rev. A. Wainwright,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0033,﻿church,﻿St. Andrew,English,,,,﻿Franklin County,,﻿Waynesburg,,﻿PA,,,,,,﻿[visited] once a month [by] Rev. Thomas Heyden,﻿tho_heyden_001,﻿Rev.,﻿Thomas Heyden,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,﻿Green County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.896235,-80.183643,,,﻿3 Sundays in the month,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West-Chester,﻿West Chester,﻿PA,﻿PA,39.959285,-75.608724,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -86,6 +86,6 @@
 ﻿phi.pa.0010_02,﻿school,﻿St. Michael's Free School,English,,,,,,﻿Philadelphia,,﻿PA,,39.973891,-75.13849,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_03,﻿asylum,﻿St. Peter's Asylum,English,,,,,,﻿Wilmington,,﻿DE,,39.744655,-75.548391,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_02,﻿day school,﻿St. Peter's Day School,English,,,,,,﻿Wilmington,,﻿DE,,39.744655,-75.548391,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.9000,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Conewago,﻿Conewago,,,,,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.9000,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Conewago,﻿Conewago,,,39.804167,-77.019167,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9007,﻿school,[Unnamed Institution],English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.9000,﻿academy,﻿Young Ladies' Academy,English,,,,,,﻿Wilmington,,﻿DE,,39.804167,-77.019167,,,,,,,,,,,,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
