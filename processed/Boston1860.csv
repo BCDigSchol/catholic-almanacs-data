@@ -1,0 +1,7 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rt. Rev.,﻿John B. Fitzpatrick,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rev.,﻿Hilary Tucker,,,,,,,,1860,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rev.,﻿Michael Moran,,,,,,,,1860,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rev.,﻿C. Lyonnet,,,,,,,,1860,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rev.,﻿C. Lynch,,,,,,,,1860,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0001,﻿cathedral,﻿Cathedral of the Holy Cross,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,﻿Rev.,﻿J. A. Healey,,﻿Chancellor and Secretary,,,,,,1860,﻿,﻿,﻿Boston,Boston
