@@ -34,7 +34,7 @@
 ﻿bos.ma.0010,﻿church,﻿St. Augustin's,English,﻿same,,,,,﻿Boston,﻿Boston,﻿MA,,42.12529527,-71.10801661,,,,﻿t_mcnulty_001,﻿Rev.,﻿T. McNulty,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0010,﻿church,﻿Church of Immaculate Conception,English,"﻿Stations - Canton, Milton, and Dorchester",﻿Stoughton,,,,﻿Stoughton,﻿Boston,﻿MA,,42.12529527,-71.10801661,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0054,﻿station,﻿St. Mary's,English,,,,,,﻿Canton,,﻿MA,,42.1578,-71.1456,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0235,﻿station,[Unnamed Institution],English,,,,,,﻿Milton,,﻿MA,,42.275011,-71.067846,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0235,﻿station,[Unnamed Institution],English,,,,,,﻿Milton,,﻿MA,,42.204259,-72.616201,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0245,﻿station,[Unnamed Institution],English,,,,,,﻿Dorchester,,﻿MA,,42.3081,-71.062,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Church of the Holy Redeemer,English,﻿(E. B.),,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,﻿jam_fitton_001,﻿Rev.,﻿J. Fitton,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿station,﻿Church of the Holy Redeemer,English,﻿(E. B.),﻿Point Shirley,,,,﻿Boston,﻿Boston,﻿MA,,42.371487,-71.040336,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -67,9 +67,9 @@
 ﻿bos.ma.0190,﻿church,﻿St. Charles Borromeo,English,,,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601,-71.150981,,,,﻿fra_x_branagan_001,﻿Rev.,﻿Francis X. Branagan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0190,﻿church,﻿St. Charles Borromeo,English,﻿church lot bought,﻿Cambridgeport,,,,﻿Woburn,﻿Woburn,﻿MA,,42.476601,-71.150981,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0114,﻿church,﻿Immaculate Conception,English,,,,,,﻿Malden,﻿Malden,﻿MA,,42.424765,-71.087473,,,,﻿joh_ryan_003,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South Reading,,,,42.50148,-71.075811,,,,﻿joh_ryan_003,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Medford,,,,﻿South Reading,,,,42.50148,-71.075811,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Stoneham,,,,﻿South Reading,,,,42.50148,-71.075811,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0148,﻿church,﻿St. Mary's,English,,,,,,﻿South Reading,,,,42.523556,-71.102992,,,,﻿joh_ryan_003,﻿Rev.,﻿John Ryan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Medford,,,,﻿South Reading,,,,42.523556,-71.102992,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0148,﻿station,﻿St. Mary's,English,,﻿Stoneham,,,,﻿South Reading,,,,42.523556,-71.102992,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0183,﻿church,﻿St. Patrick's,English,,,,,,﻿Watertown,﻿Watertown,﻿MA,,42.367814,-71.189339,,,,﻿ber_flood_001,﻿Rev.,﻿Bernard Flood,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0179,﻿church,﻿St. Mary's,English,﻿new church,,,,,﻿Waltham,﻿Waltham,﻿MA,,42.379421,-71.237851,,,,﻿pat_flood_001,﻿Rev.,﻿Patrick Flood,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0109,﻿church,﻿St. Patrick's,English,,,,,,﻿Lowell,﻿Lowell,﻿MA,,42.645245,-71.317762,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,,,,,,,,1861,,,,,,,,﻿joh_obrien_001,﻿Rev.,﻿John O'Brien,﻿,﻿,﻿Boston,Boston
@@ -93,7 +93,7 @@
 ﻿bos.ma.0117,﻿station,﻿Immac. Conception,English,,﻿Stow,,,,﻿Marlboro,﻿Marlboro,﻿MA,,42.347628,-71.549974,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0117,﻿station,﻿Immac. Conception,English,﻿church not yet dedicated,﻿Natick,,,,﻿Marlboro,﻿Marlboro,﻿MA,,42.347628,-71.549974,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0061,﻿church,﻿St. John's,English,,,,,,﻿Clinton,﻿Clinton,﻿MA,,42.416477,-71.68628,﻿bos.ma.0191,"﻿attended from St. John's, Worcester",,﻿jam_quinn_005,﻿Rev.,﻿James Quinn,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0044,﻿church,﻿St. Luke's,English,,,,,,﻿West Boylston,﻿West Boylston,﻿MA,,42.3833,-71.7569,﻿bos.ma.0191,"﻿Attended from St. John's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0044,﻿church,﻿St. Luke's,English,,,,,,﻿West Boylston,﻿West Boylston,﻿MA,,42.366759,-71.785627,﻿bos.ma.0191,"﻿Attended from St. John's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0043,﻿church,﻿St. Paul's,English,,,,,,﻿Blackstone,﻿Blackstone,﻿MA,,42.014854,-71.538262,,,,﻿edw_j_sheridan_001,﻿Rev.,﻿Edward J. Sheridan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0175,﻿church,﻿St. Mary's,English,,,,,,﻿Uxbridge,﻿Uxbridge,﻿MA,,42.077999,-71.625014,﻿bos.ma.0043,,,﻿edw_j_sheridan_001,﻿Rev.,﻿Edward J. Sheridan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0123,﻿church,﻿St. Bridget's,English,,,,,,﻿Milbury,﻿Millbury,﻿MA,,42.192072,-71.761522,﻿bos.ma.0192,"﻿Attended from St. Ann's, Worcester",,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -114,7 +114,7 @@
 ﻿bos.ma.0161,﻿church,﻿St. Peter's,English,﻿church lot bought,﻿N. Oxford,,,,﻿N. Brookfield,﻿Southbridge,﻿MA,,42.075107,-72.03339,,﻿attended from Ware.,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0161,﻿church,﻿St. Peter's,English,﻿church lot bought,﻿Tuftville,,,,﻿N. Brookfield,﻿Southbridge,﻿MA,,42.075107,-72.03339,,﻿attended from Ware.,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0161,﻿church,﻿St. Joseph's,English,﻿church lot bought,﻿Tuftville,,,,﻿Roxbury,﻿Boston,﻿MA,,42.075107,-72.03339,,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.2485,-71.1772,﻿bos.ma.0244,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.248222,-71.16668,﻿bos.ma.0244,,,﻿pat_obeirne_001,﻿Rev.,﻿Patrick O'Beirne,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0050,﻿church,﻿Church of the Assumption,English,,,,,,﻿Brookline,﻿Brookline,﻿MA,,42.331764,-71.121163,,,,﻿jos_m_finotti_001,﻿Rev.,﻿Joseph M. Finotti,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0048,﻿church,﻿St. Columba,English,,,,,,﻿Brighton,﻿Brighton,﻿MA,,42.348914,-71.160492,﻿bos.ma.0050,,,﻿jos_m_finotti_001,﻿Rev.,﻿Joseph M. Finotti,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0048,﻿chapel,﻿Chapel of Our Lady of Refuge,English,,﻿Provincetown,,,,﻿Brighton,﻿Brighton,﻿MA,,42.348914,-71.160492,,,,﻿jos_m_finotti_001,﻿Rev.,﻿Joseph M. Finotti,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
@@ -160,8 +160,8 @@
 ﻿bos.ma.0134,﻿station,﻿St. Mary's,English,,﻿Greenfield,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0134,﻿station,﻿St. Mary's,English,,﻿Amherst,,,,﻿Northampton,﻿Northampton,﻿MA,,42.337336,-72.652197,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0141,﻿church,﻿St. Joseph's,English,,,,,,﻿Pittsfield,﻿Pittsfield,﻿MA,,42.454516,-73.250876,,,,﻿edw_purcell_001,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0237,﻿church,﻿St. Francis,English,,,,,,﻿North-Adams,,﻿MA,,42.700384,-73.108262,,,,﻿edw_purcell_001,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0237,﻿church,﻿St. Patrick's,English,,,,,,﻿Hindsale,,﻿MA,,42.700384,-73.108262,,,,﻿edw_purcell_001,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Francis,English,,,,,,﻿North-Adams,,﻿MA,,,,,,,﻿edw_purcell_001,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0237,﻿church,﻿St. Patrick's,English,,,,,,﻿Hindsale,,﻿MA,,,,,,,﻿edw_purcell_001,﻿Rev.,﻿Edward Purcell,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0103,﻿church,﻿St. Mary's,English,,,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,﻿pet_egan_001,﻿Rev.,﻿Peter Egan,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0103,﻿station,﻿St. Mary's,English,,﻿North Becket,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0103,﻿station,﻿St. Mary's,English,,﻿Stockbridge,,,,﻿North Lee,﻿Lee,﻿MA,,42.307456,-73.24322,,,,,,,,,,,,,,1861,,,,,,,,,,,﻿,﻿,﻿Boston,Boston
