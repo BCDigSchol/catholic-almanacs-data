@@ -12,8 +12,8 @@
 ﻿cle.oh.0017,﻿church,﻿St. Vincent's,English,,,,﻿Summit County,﻿Summit County,﻿Acron,﻿Akron,﻿OH,,41.136837,-81.598727,,,,﻿m_a_scanlan_001,﻿Rev.,﻿M. Scanlan,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0025,﻿church,﻿Holy Trinity,English,,,,﻿Lorain County,﻿Lorain County,﻿Avon,﻿Avon,﻿OH,,41.452578,-81.989644,,,,﻿v_hausner_001,﻿Rev.,﻿Victor Hausner,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0025,﻿church,﻿Holy Trinity,English,,,,﻿Lorain County,﻿Lorain County,﻿Avon,﻿Avon,﻿OH,,41.452578,-81.989644,,,,﻿hanzler_001,﻿Rev. Mr.,﻿Hanzler,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0310,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Ashtabula County,,﻿Ashtabula,,﻿OH,,,,,﻿attended from Parisville,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0311,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Stark County,﻿Stark County,﻿Alliance,﻿Alliance,﻿OH,,,,﻿cle.oh.0078,﻿attended from Hudson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0310,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Ashtabula County,,﻿Ashtabula,,﻿OH,,41.874444,-80.795833,,﻿attended from Parisville,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0311,﻿church,[Unnamed Institution],English,﻿church building,,,﻿Stark County,﻿Stark County,﻿Alliance,﻿Alliance,﻿OH,,40.909167,-81.139167,﻿cle.oh.0078,﻿attended from Hudson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0031,﻿church,[Unnamed Institution],English,,,,﻿Stark County,﻿Stark County,﻿Bethlehem,﻿Bethlehem Township,﻿OH,,40.724782,-81.516825,﻿cle.oh.0100,﻿attended from Massilon,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0028,﻿church,[Unnamed Institution],English,,,,﻿Huron County,﻿Huron County,﻿Bellevue,﻿Bellevue,﻿OH,,41.273665,-82.841576,,﻿attended from Sandusky City,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0029,﻿church,[Unnamed Institution],English,,,,﻿Cuyahoga County,﻿Cuyahoga County,﻿Bena,﻿Berea,﻿OH,,41.366161,-81.854303,﻿cle.oh.0126,﻿attended from Olmstead,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
@@ -65,13 +65,13 @@
 ﻿cle.oh.0129,﻿church,﻿St. ---,English,,,,﻿Lake County,﻿Lake County,﻿Plainsville,﻿Painesville,﻿OH,,41.724489,-81.245657,,,,﻿cha_coquerelle_001,﻿Rev.,﻿C. Coquerelle,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0135,﻿church,﻿St. Patrick's,English,,,,﻿Lucas County,﻿Lucas County,﻿Providence,﻿Providence,﻿OH,,41.689439,-83.378939,﻿cle.oh.0050,﻿attended from Defiance,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0141,﻿church,﻿St. Mary's,English,,,,﻿Cuyahoga County,﻿Cuyahoga County,﻿Rockport,﻿Rocky River,﻿OH,,41.476822,-81.849757,,,,﻿l_filière_001,﻿Rev.,﻿L. Filiere,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0315,﻿church,[Unnamed Institution],English,,,,﻿Seneca County,﻿Seneca County,﻿Rome,,﻿OH,,,,,﻿attended from Findley,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0315,﻿church,[Unnamed Institution],English,,,,﻿Seneca County,﻿Seneca County,﻿Rome,,﻿OH,,38.665556,-83.379444,,﻿attended from Findley,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0136,﻿church,[Unnamed Institution],English,,,,﻿Portage County,﻿Portage County,﻿Randolph,﻿Randolph Township,﻿OH,,41.010492,-81.273907,,,,﻿joh_hackspil_001,﻿Rev.,﻿John Hackspil,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0137,﻿church,[Unnamed Institution],English,,,,﻿Portage County,﻿Portage County,﻿Ravenna,﻿Ravenna,﻿OH,,41.157557,-81.242047,,﻿attended from Cleveland,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0340,﻿church,[Unnamed Institution],English,,,,,,﻿Royalton,,﻿OH,,,,,﻿attended from Liverpool,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0140,﻿church,[Unnamed Institution],English,,,,,﻿Ottawa County,﻿Riviere aux Toussaints,,﻿OH,,41.511641,-83.151674,,﻿attended from Freemont,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0143,﻿church,﻿Holy Angels,English,,,,,﻿Erie County,﻿Sandusky City,﻿Sandusky,﻿OH,,41.449359,-82.723078,,,,﻿a_caron_001,﻿Very Rev.,﻿A. Caron,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,,,,,,﻿cha_hamene_001,﻿Rev.,﻿Jas. Hamene,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0317,﻿church,﻿St. Peter's,English,,,,,﻿Erie County,﻿Sandusky City,﻿Snadusky,﻿OH,,41.452222,-82.708889,,,,﻿cha_hamene_001,﻿Rev.,﻿Jas. Hamene,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0145,﻿church,﻿St. Theresa's,English,,,,﻿Loraine County,﻿Lorain County,﻿Sheffield,﻿Sheffield,﻿OH,,41.465998,-82.07645,,﻿attended from Avon,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0147,﻿church,﻿St. ---,English,,,,﻿Richland County,﻿Richland County,﻿Shelby,﻿Bethlehem,﻿OH,,40.756672,-82.518584,,,,﻿ste_falk_001,﻿Rev.,﻿S. Falk,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0148,﻿church,﻿St. Sebastian,English,,,,﻿Huron County,﻿Huron County,﻿Sherman,﻿Sherman Township,﻿OH,,41.185599,-82.788639,,﻿attended from Thompson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
@@ -80,11 +80,11 @@
 ﻿cle.oh.0159,﻿church,﻿St. Joseph's,English,,,,﻿Seneca County,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.108735,-83.175299,,,,﻿j_behn_001,﻿Rev.,﻿J. Behn,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0158,﻿church,﻿St. ---,English,,,,﻿Seneca County,﻿Seneca County,﻿Tiffin,﻿Tiffin,﻿OH,,41.117257,-83.183866,,,,﻿m_haley_001,﻿Rev.,﻿M. Haley,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales,English,,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.662799,-83.598385,,,,﻿f_boff_001,﻿Rev.,﻿F. Boff,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0300,﻿church,[Unnamed Institution],English,﻿German and French,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,,,,,,﻿cha_evrard_001,﻿Rev.,﻿Ch. Evrard,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0300,﻿church,[Unnamed Institution],English,﻿German and French,,,,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.373889,-83.650833,,,,﻿cha_evrard_001,﻿Rev.,﻿Ch. Evrard,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿alo_schelbert_001,﻿Rev.,﻿Aloysius Schelbert,﻿PP.S.,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,﻿Seneca County,﻿Thompson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿jac_ringelé_001,﻿Rev.,﻿Jacobus Ringeli,﻿C.PP.S.,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0161,﻿church,[Unnamed Institution],English,,,,﻿Luke County,﻿Lake County,﻿Thompson,﻿Thompson,﻿OH,,41.686894,-81.045104,,﻿attended from Cleveland,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0318,﻿church,﻿St. Mauritius,English,,,,,﻿Crawford County,﻿Utica,,﻿OH,,,,,﻿attended from Thompson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0318,﻿church,﻿St. Mauritius,English,,,,,﻿Crawford County,﻿Utica,,﻿OH,,40.233611,-82.441111,,﻿attended from Thompson,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0170,﻿church,[Unnamed Institution],English,,,,﻿Loraine County,﻿Lorain County,﻿Vermillion,﻿Vermilion,﻿OH,,41.421989,-82.364607,﻿cle.oh.0057,﻿attended from Elyria,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0180,﻿church,[Unnamed Institution],English,,,,﻿Wood County,﻿Sandusky County,﻿Woodville,﻿Woodville,﻿OH,,41.45144,-83.36576,,﻿attended from Freemont,,,,,,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0319,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,,﻿Wolf's Creek,,﻿OH,,,,,,,﻿aug_reichert_001,﻿Rev.,﻿Augustin Reichert,﻿C.PP.S.,,,,,,,1861,﻿,﻿,﻿Cleveland,Cleveland
@@ -100,10 +100,10 @@
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿e_m_ocallaghan_001,﻿Rev.,﻿E. O'Callaghan,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183_02,﻿seminary,﻿Petit Seminaire,English,,,,,,,,﻿OH,,41.503018,-81.691627,,,,﻿j_carroll_001,﻿Rev.,﻿J. P. Carroll,,﻿Professor,,﻿student,"﻿scholars, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0001_02,﻿school,﻿Cathedral School,English,"﻿They conduct two Pay Schools and two Free Schools; pupils, 400",﻿Cathedral,,,,,﻿Cleveland,﻿OH,,41.503032,-81.688109,,,,﻿litz_cle.oh_001,﻿Brother,﻿Litz,,﻿Superior,,﻿religious,"﻿religious, 5",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_03,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0308_04,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_01,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_03,﻿pay school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_02,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0308_04,﻿free school,[Unnamed Institution],English,,,,,,,﻿Cleveland,﻿OH,,41.471397,-81.736409,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0352,﻿school,﻿St. Patrick's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 300",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0353,﻿school,﻿St. Mary's School,English,,,,,,,﻿Cleveland,﻿OH,,,,,,,,,,,,,﻿student,"﻿pupils, 175",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0004_02,﻿school,﻿St. Peter's School,English,﻿for boys,,,,,,﻿Cleveland,﻿OH,,41.50231,-81.68207,,,,,,,,,,﻿student,"﻿pupils, 250",﻿Christian Brothers,,1861,﻿,﻿,﻿Cleveland,Cleveland
@@ -136,11 +136,11 @@
 ﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,﻿Richland County,,﻿Wolf's Creek,,﻿OH,,,,,,,﻿kunigunda_wehrle_cle.oh_001,﻿Sister,﻿Kunigunda Wehrle,,﻿Superioress,,﻿religious,"﻿religious, 30",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,﻿Richland County,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿religious,"﻿boarders, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0335,"﻿academy, mother house",﻿Mother House and Academy,English,,,,﻿Richland County,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,﻿student,"﻿scholars, 100",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,,,﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,,,,,,﻿mary_cle.oh_001,﻿Sister,﻿Mary,,﻿Sister-servent,,﻿religious,"﻿religious, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿day students, 200",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,﻿student,"﻿boarders, 10",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Thompson,,﻿OH,,41.490575,-81.6946,,,,,,,,,,,,﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,41.027778,-84.079167,,,,﻿mary_cle.oh_001,﻿Sister,﻿Mary,,﻿Sister-servent,,﻿religious,"﻿religious, 20",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,41.027778,-84.079167,,,,,,,,,,﻿student,"﻿day students, 200",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,,,,,﻿Glandorf,,﻿OH,,41.027778,-84.079167,,,,,,,,,,﻿student,"﻿boarders, 10",﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0348,"﻿boarding school, day school",[Unnamed Institution],English,﻿boarding and day school by same,﻿Maria Camp,,,,,,﻿OH,,,,,,,﻿josephine_cle.oh_001,﻿Sister,﻿Josephine,,﻿Sister-servent,,,,﻿Sisters Pretiosissimi Sanguinis,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0349,﻿male orphan asylum,﻿Boy's Orphan Asylum,English,,,,﻿Lawrence County,,,,﻿PA,,,,,,,﻿rose_cle.oh_001,﻿Mother,﻿Rose,,﻿Superior,,﻿religious,"﻿religious, 10",,,1861,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0349,﻿male orphan asylum,﻿Boy's Orphan Asylum,English,,,,﻿Lawrence County,,,,﻿PA,,,,,,,,,,,,,﻿child,"﻿orphans, 30",,,1861,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,,,,,,,,,,,,﻿child,"﻿orphans, 10",﻿Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿Thompson,,﻿OH,,41.69,-81.051389,,,,,,,,,,﻿child,"﻿orphans, 10",﻿Sisters of the Most Precious Blood,,1861,﻿,﻿,﻿Cleveland,Cleveland

@@ -72,7 +72,7 @@
 ﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿jos_mcphilips_001,﻿Rev.,﻿Joseph McPhillips,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0062,﻿church,[Unnamed Institution],English,,,,,,﻿Cohasset,﻿Cohasset,﻿MA,,42.241767,-70.803654,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.248222,-71.16668,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0066,﻿church,﻿St. Mary's,English,,,,,,﻿Dedham,﻿Dedham,﻿MA,,42.2485,-71.1772,,,,﻿joh_brennan_001,﻿Rev.,﻿John Brennan,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0067,﻿church,﻿St. Catharine's,English,,,,,,﻿South Dedham,﻿Dedham,﻿MA,,42.243609,-71.167654,﻿bos.ma.0066,﻿Attended from Dedham,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0235,﻿church,﻿St. Gregory's,English,,"﻿Milton Lower Mills, P.O.",,,,﻿Dorchester,﻿Dorchester,﻿MA,,42.27501051,-71.06784572,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thomas R. McNulty,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0068,﻿church,[Unnamed Institution],English,,,,,,﻿Deerfield,﻿Deerfield,﻿MA,,42.544559,-72.605643,﻿bos.ma.0134,﻿Attended from Northampton,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -92,7 +92,7 @@
 ﻿bos.ma.0089,﻿church,﻿St. Patrick's,English,,,,,,﻿Hinsdale,,﻿MA,,42.437944,-73.12789,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0096,﻿church,[Unnamed Institution],English,,﻿Hyde Park,,,,﻿Hyde Park,﻿Boston,﻿MA,,42.255662,-71.125585,,﻿Attended from Dorchester,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0091,﻿church,[Unnamed Institution],English,,,,,,﻿Holliston,﻿Holliston,﻿MA,,42.201263,-71.424718,﻿bos.ma.0122,﻿Attended from Milford,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0242,﻿church,[Unnamed Institution],English,,,,,,﻿Hadley,,﻿MA,,,,﻿bos.ma.0092,﻿Attended from Holyoke,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0242,﻿church,[Unnamed Institution],English,,,,,,﻿Hadley,,﻿MA,,42.341667,-72.588889,﻿bos.ma.0092,﻿Attended from Holyoke,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0098,﻿church,﻿St. Matthew's,English,,,,,,﻿Indian Orchard,﻿Springfield,﻿MA,,42.138486,-72.60136,﻿bos.ma.0204,﻿Attended from Chicopee,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0099,﻿church,[Unnamed Institution],English,,,,,,﻿Ipswich,﻿Ipswich,﻿MA,,42.679183,-70.841156,﻿bos.ma.0131,﻿Attended from Newburyport,,,,,,,,,,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0101,﻿church,﻿Immaculate Conception,English,,,,,,﻿Lawrence,﻿Lawrence,﻿MA,,42.707035,-71.163114,,,,﻿jam_d_taaffe_001,﻿Rev.,﻿James D. Taaffe,﻿O. S. D,,,,,,,1867,﻿,﻿,﻿Boston,Boston
@@ -225,8 +225,8 @@
 ﻿bos.ma.0002_03,﻿school,﻿St. Mary's Parochial School for Girls,English,,,,,,,,﻿MA,,42.365307,-71.057407,,,,,,,,,,﻿student,﻿625 pupils,﻿under the charge of 9 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,﻿Under the Church of the Holy Trinity,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿teacher,﻿3 teachers,,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,﻿Under the Church of the Holy Trinity,,,,,﻿Boston,﻿Boston,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿student,﻿216 pupils,,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,,,,,,,,,,,,﻿religious,﻿3 Sisters of Notre Dame,﻿3 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,,,,,,,,,,,,﻿student,﻿204 pupils,﻿3 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿religious,﻿3 Sisters of Notre Dame,﻿3 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,42.360083,-71.05888,,,,,,,,,,﻿student,﻿204 pupils,﻿3 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.335483,-71.045673,,,,,,,,,,﻿religious,﻿23 Sisters of Notre Dame,﻿23 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0226,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿South Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.335483,-71.045673,,,,,,,,,,﻿student,﻿1000 pupils,﻿23 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0227,﻿school,[Unnamed Institution],English,﻿Parochial School for Girls,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.380008,-71.025424,,,,,,,,,,﻿religious,﻿11 Sisters of Notre Dame,﻿11 Sisters of Notre Dame,,1867,﻿,﻿,﻿Boston,Boston

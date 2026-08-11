@@ -13,7 +13,7 @@
 ﻿bur.vt.0013,﻿church,[Unnamed Institution],English,,,,﻿Lamoille County,,﻿Cambridge,,﻿VT,,44.643342,-72.631403,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0014,﻿church,[Unnamed Institution],English,,,,﻿Rutland County,,﻿Castleton,,﻿VT,,43.610622,-73.179832,﻿bur.vt.0047,﻿Attended from West-Rutland,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0015,﻿church,﻿Our Lady of Mount Carmel,English,,,,﻿Chittenden County,,﻿Charlotte,,﻿VT,,44.317348,-73.188774,﻿bur.vt.0001,﻿Attended from Burlington,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0070,﻿church,[Unnamed Institution],English,,,,﻿Bennington County,,﻿Dorset,,﻿VT,,,,﻿bur.vt.0010,﻿Attended from East-Bennington,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0070,﻿church,[Unnamed Institution],English,,,,﻿Bennington County,,﻿Dorset,,﻿VT,,43.24138,-73.00559,﻿bur.vt.0010,﻿Attended from East-Bennington,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0018,﻿church,[Unnamed Institution],English,,,,﻿Lamoille County,,﻿Eden,,﻿VT,,44.707272,-72.545669,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0019,﻿church,[Unnamed Institution],English,﻿church not yet dedicated,,,﻿Franklin County,,﻿Enosburg,,﻿VT,,44.907388,-72.800667,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0020,﻿church,[Unnamed Institution],English,,,,﻿Franklin County,,﻿Fairfax,,﻿VT,,44.665496,-73.01032,﻿bur.vt.0021,﻿Attended from Fairfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
@@ -57,11 +57,11 @@
 ﻿bur.vt.0062,﻿church,[Unnamed Institution],English,,,,﻿Windsor County,﻿Windsor County,﻿Woodstock,﻿Woodstock,﻿VT,,43.624244,-72.518511,﻿bur.vt.0037,﻿Attended from Northfield,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.487834,-73.202685,,,,﻿teresa_of-jesus_bur.vt_001,﻿Sister,﻿Teresa of Jesus,,﻿Sister-Servant,,﻿religious,﻿11 Sisters,﻿Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0063,﻿asylum,﻿St. Joseph's Orphan Asylum,English,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,,,,,,﻿child,﻿85 orphans,﻿Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0071,﻿school,﻿St. Mary's Boys' School,English,﻿kept by a lay teacher,,,,﻿Chittenden County,﻿Burlington,﻿Burlington,﻿VT,,,,,,,,,,,,,﻿attendee,﻿100 attendance,,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0072,﻿school,﻿St. Mary's Schools,English,,,,,,,,﻿VT,,,,,,,,,,,,,﻿student,﻿130 pupils,﻿Kept by Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0073,﻿school,﻿St. Mary's Schools,English,,,,,,,,,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0071,﻿school,﻿St. Mary's Boys' School,English,﻿kept by a lay teacher,,,,﻿Chittenden County,﻿Burlington,﻿Burlington,﻿VT,,44.480365,-73.214373,,,,,,,,,,﻿attendee,﻿100 attendance,,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0072,﻿school,﻿St. Mary's Schools,English,,,,,,,,﻿VT,,44.498056,-73.185556,,,,,,,,,,﻿student,﻿130 pupils,﻿Kept by Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0073,﻿school,﻿St. Mary's Schools,English,,,,,,,,,,44.498056,-73.185556,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0075,﻿school,﻿Schools for Boys and Girls,English,﻿girls,,,,,﻿Winooski Village,,﻿VT,,44.49160055,-73.18580377,,,,,,,,,,﻿student,"﻿Number of pupils, 90",﻿Taught by Sisters of Providence,,1866,﻿,﻿,﻿Burlington,Burlington
-﻿bur.vt.0076,﻿school,[Unnamed Institution],English,﻿boys,,,,,,,,,,,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
+﻿bur.vt.0076,﻿school,[Unnamed Institution],English,﻿boys,,,,,,,,,44.498056,-73.185556,,,,,,,,,,,,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.487834,-73.202685,,,,﻿lambert_bur.vt_001,﻿Miss,﻿Lambert,,,,﻿assistant,﻿2 assistants,,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0066,﻿school,﻿St. Joseph's French School for Girls,﻿French,,,,,,,,﻿VT,,44.487834,-73.202685,,,,,,,,,,﻿student,"﻿Average number, 100",,,1866,﻿,﻿,﻿Burlington,Burlington
 ﻿bur.vt.0067,﻿school,﻿St. Peter's Catholic School,English,,,,,﻿Rutland County,﻿East Rutland,﻿Rutland,﻿VT,,43.603074,-72.985656,,,,,,,,,,﻿student,"﻿Average attendance, 150",,,1866,﻿,﻿,﻿Burlington,Burlington
