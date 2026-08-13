@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿joh_lamy_001,﻿Rt. Rev.,﻿John Lamy,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿jos_p_macheboeuf_001,﻿Very. Rev.,﻿Joseph P. Macheboeuf,﻿V.G.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿jos_m_condert_001,﻿Rev.,﻿Joseph M. Condert,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,﻿joh_a_truchard_002,﻿Rev.,﻿John Augustin Truchard,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,,﻿Rt. Rev.,﻿John Lamy,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,,﻿Very. Rev.,﻿Joseph P. Macheboeuf,﻿V.G.,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,,﻿Rev.,﻿Joseph M. Condert,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0001,﻿cathedral,﻿Cathedral of San Francisco de Assis,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.686616,-105.936468,,,,,﻿Rev.,﻿John Augustin Truchard,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0005,﻿convent,﻿Nuestra Senora de la Luz,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,,,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0002,﻿chapel,﻿Na. Senora del Rosario,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.694414,-105.947463,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0003,﻿chapel,﻿Na. Senora de Guadalupe,English,,,,﻿Santa Fé County,,﻿Santa Fé,﻿Santa Fé,﻿NM,,35.68691,-105.944978,﻿san.nm.0001,﻿Attended by the clergy of the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
@@ -17,20 +17,20 @@
 ﻿san.nm.0248,﻿chapel,﻿San Jose,English,,,,﻿Santa Fé County,,﻿La Cienega,,﻿NM,,,,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0011,﻿chapel,﻿San Diego,English,﻿Pueblo Indians,,,﻿Santa Fé County,,﻿Tesuque,﻿Tesuque Pueblo,﻿NM,,35.757876,-105.924082,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0010,﻿chapel,﻿San Isidro,English,,,,﻿Santa Fé County,,﻿Rio Tesuque,﻿Tesuque,﻿NM,,35.549994,-105.689158,,﻿Attended from Santa Fe,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0013,﻿church,﻿Santa Rosa,English,,,﻿Albiquiu,,,﻿Albiquiu,﻿Abiquiu,﻿NM,,,,,,,﻿ram_salazar_001,﻿Rev.,﻿Ramon Salazar,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0013,﻿church,﻿Santa Rosa,English,,,﻿Albiquiu,,,﻿Albiquiu,﻿Abiquiu,﻿NM,,,,,,,,﻿Rev.,﻿Ramon Salazar,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0014,﻿chapel,[Unnamed Institution],English,﻿fine church,,﻿Albiquiu,,,﻿El Rito,﻿El Rito,﻿NM,,36.209999,-106.290624,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0233,﻿chapel,﻿Nepomuceno,English,,,﻿Albiquiu,,,﻿San Juan,,﻿NM,,36.34419,-106.188391,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0015,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿Los Ancones,﻿Ancones,﻿NM,,36.344236,-106.188487,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0016,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿Lervieta,,﻿NM,,36.423908,-106.063076,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0017,﻿chapel,[Unnamed Institution],English,,,﻿Albiquiu,,,﻿El Jo Coliente,﻿Ojo Caliente,﻿NM,,36.553302,-105.935549,﻿san.nm.0012,﻿Attended from Albiquiu,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0022,﻿church,﻿San Felipe de Neri,English,,,﻿Albuquerque,,,﻿Albuquerque,﻿Albuquerque,﻿NM,,34.972731,-105.032363,,,,﻿cha_brun_001,﻿Rev.,﻿Charles Brun,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0022,﻿church,﻿San Felipe de Neri,English,,,﻿Albuquerque,,,﻿Albuquerque,﻿Albuquerque,﻿NM,,34.972731,-105.032363,,,,,﻿Rev.,﻿Charles Brun,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0023,﻿chapel,﻿San Jose,English,,,﻿Albuquerque,,,﻿Los Ranchos de Alburg,﻿Los Ranchos de Albuquerque,﻿NM,,,,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0024,﻿chapel,﻿N. Senora del Carmen,English,,,﻿Albuquerque,,,﻿El Rancho,﻿Albuquerque,﻿NM,,35.161989,-106.642804,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0025,﻿chapel,﻿Natividad N. Sonora,English,,,﻿Albuquerque,,,﻿Lalameda,﻿Alameda,﻿NM,,35.168856,-106.617979,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0026,﻿chapel,﻿San Antonio,English,,,﻿Albuquerque,,,﻿San Antonio,﻿San Antonio,﻿NM,,34.972731,-105.032363,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0027,﻿chapel,﻿San Jose,English,,,﻿Albuquerque,,,﻿Los Barelas,﻿Albuquerque,﻿NM,,34.972731,-105.032363,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0029,﻿chapel,﻿San Jose,English,,,﻿Albiquiu,,,﻿Los Ranchos de Atrisco,﻿Albuquerque,﻿NM,,35.239729,-106.211086,﻿san.nm.0022,﻿Attended from Albuquerque,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
-﻿san.nm.0151,﻿church,﻿N. Sonora de Dolores,English,,,﻿Taos,,,﻿Arroyo Hondo,﻿Arroyo Hondo,﻿NM,,34.972731,-105.032363,,,,﻿gab_ussel_002,﻿Rev.,﻿Gabriel Ussel,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
+﻿san.nm.0151,﻿church,﻿N. Sonora de Dolores,English,,,﻿Taos,,,﻿Arroyo Hondo,﻿Arroyo Hondo,﻿NM,,34.972731,-105.032363,,,,,﻿Rev.,﻿Gabriel Ussel,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0153,﻿chapel,﻿Santa Trinidad,English,,,﻿Taos,,,﻿Arroyo Sego,﻿Arroyo Seco,﻿NM,,36.706125,-105.593966,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿san.nm.0143,﻿chapel,﻿San Antonio,English,,,﻿Taos,,,﻿San Antonio,﻿Taos,﻿NM,,36.438169,-105.547392,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
 ﻿den.co.0062,﻿church,[Unnamed Institution],English,﻿church building,,,,﻿Costilla County,﻿Rio Colorado,,,﻿CO,,,﻿san.nm.0151,﻿Attended from Arroyo Hondo,,,,,,,,,,,,1859,﻿,﻿,﻿Santa Fe,SantaFe
