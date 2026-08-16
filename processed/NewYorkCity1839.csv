@@ -33,8 +33,8 @@
 ﻿buf.ny.0053,﻿church,[Unnamed Institution],English,,,,,,﻿Eden,,﻿NY,,,,,,,﻿nic_mertz_901,﻿Rev.,﻿Nicholas Mertz,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,40.808889,-73.948333,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,40.808889,-73.948333,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9028,﻿chapel,﻿Chapel of St. Ignatius,English,,,,,,﻿Asylum,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9028,﻿chapel,﻿Chapel of St. Ignatius,English,,,,,,﻿Asylum,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -57,7 +57,7 @@
 ﻿buf.ny.0096,﻿church,﻿Lewiston,English,,﻿Niagara Falls,,,,﻿Albion,,﻿NY,,,,,,﻿occasionally,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1839,﻿https://www.lewistonassembly.org/,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.9005,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Oswego,,﻿NY,,43.454722,-76.506667,,,,﻿joh_rogers_901,﻿Rev.,﻿John Rogers,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.699512,-73.458857,,,﻿alternately,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1839,﻿https://holycrosspbg.org/,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Kuseville,﻿Plattsburg,﻿NY,,44.699512,-73.458857,,,﻿alternately,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9027,﻿church,[Unnamed Institution],English,,,,,,﻿Kuseville,,﻿NY,,,,,,﻿alternately,﻿drummond_902,﻿Rev. Mr.,﻿Drummond,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0234,﻿church,﻿St. Peter's,English,,,,,,﻿Rome,,﻿NY,,43.212116,-75.455553,,,﻿1st and 3d Sund.,﻿wm_bracham_901,﻿Rev.,﻿Wm. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0300,﻿church,﻿St. Mary's,English,,,,,,﻿Verona,,﻿NY,,43.138146,-75.570694,,,﻿2d and 4th Sund.,﻿wm_bracham_901,﻿Rev.,﻿Wm. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0301,﻿chapel,[Unnamed Institution],English,﻿Private chap.,,,,,﻿Vienna,,﻿NY,,,,,,﻿once in 3 mon.,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -65,7 +65,7 @@
 ﻿nyc.ny.9016,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Turin,,﻿NY,,,,,,﻿occasionally,﻿wm_bracham_901,﻿Rev.,﻿W. Bracham,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,,,﻿Rochester,,﻿NY,,43.161338,-77.621417,,,﻿every Sunday,﻿ber_oreilly_901,﻿Rev.,﻿Bernard O'Reilly,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿prost_901,﻿Rev. Mr.,﻿Prost,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
-﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,,,,,,﻿Danville,,﻿NY,,,,,,﻿occasionally,﻿prost_901,﻿Rev. Mr.,﻿Prost,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9029,﻿church,[Unnamed Institution],English,,,,,,﻿Danville,,﻿NY,,,,,,﻿occasionally,﻿prost_901,﻿Rev. Mr.,﻿Prost,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿roc.ny.0014,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,﻿Monroe County,﻿Greece,﻿Greece,﻿NY,﻿NY,43.25271,-77.658953,,,,﻿pat_danaher_901,﻿Rev.,﻿Patrick Danaher,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0247,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Schenectady,,﻿NY,,,,,,,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Amsterdam,,﻿NY,,,,,,﻿one Sund. in mon.,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
@@ -73,7 +73,7 @@
 ﻿nyc.ny.9017,﻿church,[Unnamed Institution],English,,,,,,﻿Jonesville,,﻿NY,,,,,,﻿occasionally,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0124,﻿church,[Unnamed Institution],English,,,,,,﻿Galway,,﻿NY,,,,,,﻿occasionally,﻿pat_mcloskey_901,﻿Rev.,﻿Patrick M'Closkey,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Salina,﻿Salina,﻿NY,﻿NY,43.068728,-76.157494,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,"﻿This church is in what is today Syracuse; however, at the time, Salina appears to have had a further reach, meaning this church would've likely been part of Salina: https://www.stjohnthebaptist-holytrinity.com/about/",﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿Syracuse,﻿Salina,﻿NY,,43.068728,-76.157494,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0273,﻿church,[Unnamed Institution],English,,,,,,﻿Syracuse,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0175,﻿church,[Unnamed Institution],English,,,,,,﻿Manlius,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Pompey,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9018,﻿church,[Unnamed Institution],English,,,,,,﻿Mexico,,﻿NY,,,,,,,﻿chartier_901,﻿Rev. Mr.,﻿Chartier,,,,,,,,1839,,﻿,﻿,﻿New York,NewYorkCity

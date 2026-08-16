@@ -28,8 +28,8 @@
 ﻿alb.ny.0004,﻿church,﻿St. John's,English,,,,,,﻿Albany,,﻿NY,,,,,,,﻿joh_kelly_901,﻿Rev.,﻿John Kelly,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9005,﻿church,﻿St. Paul's,English,﻿Not dedicated,,,,,﻿Harlem,,﻿NY,,40.808889,-73.948333,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,40.808889,-73.948333,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.9005,﻿chapel,﻿Chapel of St. Ignatius,English,﻿Not dedicated,,,,,﻿Asylum,,﻿NY,,40.808889,-73.948333,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9028,﻿chapel,﻿Chapel of St. Ignatius,English,,,,,,﻿Asylum,,﻿NY,,,,,,,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9028,﻿chapel,﻿Chapel of St. Ignatius,English,,,,,,﻿Asylum,,﻿NY,,,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,﻿2d Sun. in month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0193,﻿church,[Unnamed Institution],English,,﻿Throg's Point,,,,,,﻿NY,,,,,,,﻿phi_gillick_001,﻿Rev.,﻿Philip Gillick,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,﻿Saw Pit,,,,,,﻿NY,,,,,,﻿occasionally,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
@@ -82,37 +82,37 @@
 ﻿buf.ny.0096,﻿church,[Unnamed Institution],English,,﻿Niagara Falls,,,,﻿Albion,,﻿NY,,,,,,﻿occasionally,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿buf.ny.0084,﻿church,[Unnamed Institution],English,,,,,,﻿Lewiston,,﻿NY,,,,,,﻿occasionally,﻿p_costello_901,﻿Rev.,﻿P. Costello,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Plattsburg,﻿Plattsburg,﻿NY,﻿NY,44.699512,-73.458857,,,﻿alternately,﻿rooney_901,﻿Rev. Mr.,﻿Rooney,,,,,,,,1840,﻿https://holycrosspbg.org/,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0223,﻿church,[Unnamed Institution],English,,,,,﻿Clinton County,﻿Kuseville,﻿Plattsburg,﻿NY,,44.699512,-73.458857,,,﻿alternately,﻿rooney_901,﻿Rev. Mr.,﻿Rooney,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9027,﻿church,[Unnamed Institution],English,,,,,,﻿Kuseville,,﻿NY,,,,,,﻿alternately,﻿rooney_901,﻿Rev. Mr.,﻿Rooney,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0234,﻿church,﻿St. Peter's,English,,,,,,﻿Rome,,﻿NY,,43.212116,-75.455553,,,﻿1st and 3d Sund.,﻿w_beecham_901,﻿Rev.,﻿Wm. Beecham,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0300,﻿church,﻿St. Mary's,English,,,,,,﻿Verona,,﻿NY,,43.138146,-75.570694,,,﻿2d and 4th Sund.,﻿w_beecham_901,﻿Rev.,﻿Wm. Beecham,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0301,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Vienna,,﻿NY,,,,,,,﻿w_beecham_901,﻿Rev.,﻿W. Beecham,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9016,﻿chapel,[Unnamed Institution],English,﻿Private chapel,,,,,﻿Turin,,﻿NY,,,,,,,﻿w_beecham_901,﻿Rev.,﻿W. Beecham,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0113,﻿church,[Unnamed Institution],English,,,,,,﻿Florence,,﻿NY,,,,,,﻿occasionally,﻿w_beecham_901,﻿Rev.,﻿W. Beecham,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0113,﻿church,[Unnamed Institution],English,,,,,,﻿Danville,,﻿NY,,,,,,﻿occasionally,﻿sim_sanderle_901,﻿Rev.,﻿Simon Sanderle,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9029,﻿church,[Unnamed Institution],English,,,,,,﻿Danville,,﻿NY,,,,,,﻿occasionally,﻿sim_sanderle_901,﻿Rev.,﻿Simon Sanderle,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0247,﻿chapel,﻿St. Johns,English,﻿Private chapel,,,,,﻿Schenectady,,﻿NY,,,,,,,﻿pat_mccloskey_901,﻿Rev.,﻿Patrick McCloskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Amsterdam,,﻿NY,,,,,,﻿occasionally,﻿pat_mccloskey_901,﻿Rev.,﻿Patrick McCloskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0245,﻿church,[Unnamed Institution],English,,,,,,﻿Saratoga,,﻿NY,,43.076487,-73.786893,,,﻿occasionally,﻿pat_mccloskey_901,﻿Rev.,﻿Patrick McCloskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9017,﻿church,[Unnamed Institution],English,,,,,,﻿Jonesville,,﻿NY,,,,,,﻿occasionally,﻿pat_mccloskey_901,﻿Rev.,﻿Patrick McCloskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0124,﻿church,[Unnamed Institution],English,,,,,,﻿Galway,,﻿NY,,,,,,﻿occasionally,﻿pat_mccloskey_901,﻿Rev.,﻿Patrick McCloskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Salina,﻿Salina,﻿NY,﻿NY,43.068728,-76.157494,,,,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,"﻿This church is in what is today Syracuse; however, at the time, Salina appears to have had a further reach, meaning this church would've likely been part of Salina: https://www.stjohnthebaptist-holytrinity.com/about/",,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0277,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Syracuse,﻿Salina,﻿NY,,43.068728,-76.157494,,,﻿occasionally,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0273,﻿church,[Unnamed Institution],English,,,,,,﻿Syracuse,,﻿NY,,,,,,﻿occasionally,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0175,﻿church,[Unnamed Institution],English,,,,,,﻿Manlius,,﻿NY,,,,,,﻿occasionally,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0225,﻿church,[Unnamed Institution],English,,,,,,﻿Pompey,,﻿NY,,,,,,﻿occasionally,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9018,﻿church,[Unnamed Institution],English,,,,,,﻿Mexico,,﻿NY,,,,,,﻿occasionally,﻿mic_heas_901,﻿Rev.,﻿Michael Heas,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0202,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Ogdensburg,,﻿NY,,44.698828,-75.48556,,,,﻿dav_bacon_901,﻿Rev.,﻿David Bacon,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0302,﻿church,[Unnamed Institution],English,,,,,,﻿Waddington,,﻿NY,,44.8645,-75.204102,,,,﻿maguire_901,﻿Rev. Mr.,﻿Maguire,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0302,﻿church,[Unnamed Institution],English,,,,,,﻿Flushing,,﻿NY,,44.8645,-75.204102,,,﻿once a month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,﻿https://stmichaelsflushing.org/about/history,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Flushing,,﻿NY,,,,,,﻿once a month,﻿mic_curran_001,﻿Rev.,﻿Michael Curran,,,,,,,,1840,﻿https://stmichaelsflushing.org/about/history,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Williamsburg,﻿Brooklyn,﻿NY,,,,,,﻿occasionally,﻿jam_odonnell_901,﻿Rev.,﻿James O'Donnell,,,,,,,,1840,﻿https://www.trinity-stmary.org/our-historic-church,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0007,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Hunter,﻿Brooklyn,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0145,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Hunter,,﻿NY,,,,,,,﻿ber_ofarrell_901,﻿Rev.,﻿Bernard O'Farrell,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0186,﻿church,[Unnamed Institution],English,﻿Church not dedicated,﻿Sing Sing,,,,,,﻿NY,,,,,,,﻿jam_cummiskey_901,﻿Rev.,﻿J. Cummiskey,,,,,,,,1840,,﻿https://en.wikipedia.org/wiki/Sing_Sing,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0186,﻿church,[Unnamed Institution],English,﻿Church not dedicated,﻿Sing Sing,,,,﻿Yonkers,,﻿NY,,,,,,,﻿jam_cummiskey_901,﻿Rev.,﻿J. Cummiskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0203,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Yonkers,,﻿NY,,,,,,,﻿jam_cummiskey_901,﻿Rev.,﻿J. Cummiskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0162,﻿church,[Unnamed Institution],English,﻿Church unfinished,﻿Staten Island,,,,,,﻿NY,,,,,,,﻿madranno_901,﻿Rev. Mr.,﻿Madranno,,,,,,,,1840,,﻿https://en.wikipedia.org/wiki/St._Peter%27s_Church_(Staten_Island) ; https://stpetersi.com/,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0162,﻿church,[Unnamed Institution],English,﻿Church not dedicated,﻿Staten Island,,,,﻿Sagharbour,,﻿NY,,,,,,﻿occasionally,﻿jam_cummiskey_901,﻿Rev.,﻿James Cummiskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0162,﻿church,[Unnamed Institution],English,﻿Church not dedicated,﻿Staten Island,,,,﻿Jamaica,,﻿NY,,,,﻿bro.ny.0001,﻿from Brooklyn,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0054,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,,﻿Sagharbour,,﻿NY,,41.0,-72.3,,,﻿occasionally,﻿jam_cummiskey_901,﻿Rev.,﻿James Cummiskey,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿bro.ny.0043,﻿church,[Unnamed Institution],English,,,,,,﻿Jamaica,,﻿NY,,,,﻿bro.ny.0001,﻿from Brooklyn,﻿occasionally,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0144,﻿church,[Unnamed Institution],English,,,,,,﻿Hudson,,﻿NY,,42.367876,-73.559413,,,﻿once a month,﻿pat_bradley_901,﻿Rev.,﻿Patrick Bradley,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0144,﻿church,[Unnamed Institution],English,,,,,,﻿Cape Vincent,,﻿NY,,42.367876,-73.559413,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0144,﻿church,[Unnamed Institution],English,,﻿French Creek,,,,﻿Cape Vincent,,﻿NY,,42.367876,-73.559413,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿alb.ny.0144,﻿church,[Unnamed Institution],English,,﻿Leraysville,,,,﻿Cape Vincent,,﻿NY,,42.367876,-73.559413,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0058,﻿church,[Unnamed Institution],English,,,,,,﻿Cape Vincent,,﻿NY,,,,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0072,﻿church,[Unnamed Institution],English,,﻿French Creek,,,,,,﻿NY,,,,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿alb.ny.0398,﻿church,[Unnamed Institution],English,,﻿Leraysville,,,,,,﻿NY,,,,,,,﻿fra_guth_901,﻿Rev.,﻿Francis Guth,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0003,﻿church,﻿St. John's,English,,,,,,﻿Newark,,﻿NJ,,40.737862,-74.166042,,,﻿every Sunday,﻿pat_moran_001,﻿Rev.,﻿Patrick Moran,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.9002,﻿church,﻿St. John's,English,,,,,,﻿Patterson,,﻿NJ,,40.912725,-74.172481,,,,﻿phi_oreilly_901,﻿Rev.,﻿Philip O'Reilly,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0048,﻿church,﻿St. Peter's,English,,,,,,﻿Jersey City,,﻿NJ,,40.722705,-74.043792,,,,﻿hug_mohan_902,﻿Rev.,﻿Hugh Mohan,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
@@ -120,7 +120,7 @@
 ﻿new.nj.9001,﻿church,﻿St. John's,English,,,,,,﻿Madison,,﻿NJ,,40.761418,-74.419083,,,,﻿newell_901,﻿Rev. Mr.,﻿Newell,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0067,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,,﻿N. Brunswick,,﻿NJ,,40.486216,-74.451819,,,﻿occasionally,﻿madranno_901,﻿Rev. Mr.,﻿Madranno,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿new.nj.0095,﻿church,[Unnamed Institution],English,,,,,,﻿South Amboy,,﻿NJ,,,,,,﻿occasionally,﻿madranno_901,﻿Rev. Mr.,﻿Madranno,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿new.nj.0095,﻿seminary,﻿St. Vincent of Paul's Seminary,English,,,,﻿Jefferson County,,﻿Lafargeville,,﻿NY,,,,,,,,,,,,,﻿student,﻿9 theological students,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9025,﻿seminary,﻿St. Vincent of Paul's Seminary,English,,,,﻿Jefferson County,,﻿Lafargeville,,﻿NY,,,,,,,,,,,,,﻿student,﻿9 theological students,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿5 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿child,﻿about 60 young ladies,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.9013,﻿school,﻿St. Mary's Select School for Young Ladies,English,,﻿No. 415 Grand Street,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿child,﻿five to seven hundred poor children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
@@ -133,15 +133,15 @@
 ﻿nyc.ny.0041_02&_03,﻿free school,﻿St. Patrick's Free School,English,,,,,,﻿New York,,﻿NY,,40.758456,-73.976186,,,,,,,,,,﻿child,﻿from 800 to 1000 children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0042_92,﻿free school,﻿St. Peter's Free School,English,,,,,,﻿New York,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿child,﻿from five to seven hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿child,﻿about five to seven hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿religious,﻿Two sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0042_92,﻿free school,﻿St. Nicholas' German Free School,English,,,,,,﻿New York,,﻿NY,,40.712432,-74.009544,,,,,,,,,,﻿child,﻿between 80 and 100 German children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044_02,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿child,﻿about five to seven hundred children,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0044_02,﻿free school,﻿St. James' Free School,English,,,,,,﻿New York,,﻿NY,,,,,,,,,,,,,﻿religious,﻿Two sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9024,﻿free school,﻿St. Nicholas' German Free School,English,,,,,,,,﻿NY,,,,,,,,,,,,,﻿child,﻿between 80 and 100 German children,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0046_02,﻿free school,[Unnamed Institution],English,﻿attached to the church of the Transfiguration,,,,,,,﻿NY,,,,,,,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0052_02,﻿free school,[Unnamed Institution],English,﻿attached to St. Joseph's church,,,,,,,,,40.732497,-74.000619,,,,,,,,,,,,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿bro.ny.0079,﻿asylum,﻿St. Mary's Asylum,English,,,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,,,,,,﻿child,﻿18 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0079,﻿free school,﻿St. James' Free School,English,,,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,,,,,,﻿child,﻿from two to four hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
-﻿bro.ny.0079,﻿free school,﻿St. Paul's Free School,English,,,,,,﻿Brooklyn,,﻿NY,,40.688742,-73.997078,,,,,,,,,,﻿child,﻿about 150 children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9023,﻿free school,﻿St. James' Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿child,﻿from two to four hundred children,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.9022,﻿free school,﻿St. Paul's Free School,English,,,,,,﻿Brooklyn,,﻿NY,,,,,,,,,,,,,﻿child,﻿about 150 children,,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_91,﻿asylum,﻿St. Joseph's Asylum,English,,,,,,﻿Albany,,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿child,﻿25 orphans,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
 ﻿alb.ny.0336_02,﻿day school,﻿St. Joseph's Day School,English,,,,,,﻿Albany,,﻿NY,,42.652579,-73.756232,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1840,,,﻿,﻿,﻿New York,NewYorkCity
