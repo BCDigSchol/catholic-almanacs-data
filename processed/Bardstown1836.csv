@@ -8,10 +8,10 @@
 ﻿lou.ky.0083,﻿cathedral,[Unnamed Institution],English,,,,﻿Bullet County,﻿Bullitt County,,,﻿KY,,,,,,,﻿jam_elliott_001,﻿Rev.,﻿James Elliot,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0031,﻿cathedral,[Unnamed Institution],English,,﻿Clear Creek,,,,,,﻿KY,,38.573135,-82.830168,,,,﻿fra_chambige_001,﻿Rev.,﻿F. Chambige,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿cov.ky.0001,﻿church,﻿St. Mary's,English,﻿3d and 4th Sundays,,,,,﻿Covington,,﻿KY,,39.078154,-84.50825,,,﻿attended from the Cathedral of Cincinnati,,,,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.9024,﻿convent,﻿Convent of Bethlehem,English,,,,,,﻿Bethlehem,,﻿KY,,,,,,,﻿fra_chambige_001,﻿Rev.,﻿F. Chambige,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.9024,﻿convent,﻿Convent of Bethlehem,English,,,,,,﻿Bethlehem,,﻿KY,,,,,,,﻿a_degauquier_901,﻿Rev.,﻿A. Degauquier,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.9025,﻿convent,[Unnamed Institution],English,,﻿Nazareth,,﻿Nelson County,,,,﻿KY,,,,,,,﻿h_deluynes_901,﻿Rev.,﻿H. Deluynes,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿lou.ky.9025,﻿academy,[Unnamed Institution],English,,﻿Nazareth,,﻿Nelson County,,,,﻿KY,,,,,,,﻿h_deluynes_901,﻿Rev.,﻿H. Deluynes,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9024,﻿convent,﻿Convent of Bethlehem,English,,,,,,﻿Bethlehem,,﻿KY,,38.400556,-85.069444,,,,﻿fra_chambige_001,﻿Rev.,﻿F. Chambige,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9024,﻿convent,﻿Convent of Bethlehem,English,,,,,,﻿Bethlehem,,﻿KY,,38.400556,-85.069444,,,,﻿a_degauquier_901,﻿Rev.,﻿A. Degauquier,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9025,﻿convent,[Unnamed Institution],English,,﻿Nazareth,,﻿Nelson County,,,,﻿KY,,37.848056,-85.472778,,,,﻿h_deluynes_901,﻿Rev.,﻿H. Deluynes,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿lou.ky.9025,﻿academy,[Unnamed Institution],English,,﻿Nazareth,,﻿Nelson County,,,,﻿KY,,37.848056,-85.472778,,,,﻿h_deluynes_901,﻿Rev.,﻿H. Deluynes,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0034,﻿church,﻿St. Patrick's,English,,,,﻿Mercer County,﻿Boyle County,﻿Danville,﻿Danville,﻿KY,﻿KY,37.646077,-84.770698,,,,﻿dav_a_deparcq_901,﻿Rev.,﻿D. A. Debarq,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0065,﻿church,[Unnamed Institution],English,,,,﻿Davis County,﻿Daviess County,,﻿Owensboro,﻿KY,﻿KY,37.757778,-87.118333,,,,﻿joh_wathen_901,﻿Rev.,﻿Jno. Wathan,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.9004,﻿church,[Unnamed Institution],English,,,,﻿Hardin County,﻿Hardin County,﻿Elizabethtown,﻿Elizabethtown,﻿KY,﻿KY,37.699955,-85.873355,,,,﻿edw_a_clarke_901,﻿Rev.,﻿Ed. A. Clark,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
@@ -27,8 +27,8 @@
 ﻿lou.ky.9014,﻿convent,[Unnamed Institution],English,﻿Jesuits,,,﻿Marion County,,﻿Lebanon,,﻿KY,,37.570556,-85.256389,,,,﻿f_x_evremond_901,﻿Rev. Messr.,﻿Evremond,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿cov.ky.0028,﻿church,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Lexington,﻿Lexington,﻿KY,,38.046734,-84.494593,,,,﻿joh_w_mcgill_001,﻿Rev.,﻿John McGill,,,,,,,,1836,﻿https://www.stpeterlex.org/about-us/our-history,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿cov.ky.0028,﻿church,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Lexington,﻿Lexington,﻿KY,,38.046734,-84.494593,,,,﻿edw_mcmahon_901,﻿Rev.,﻿B. McMahon,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿cov.ky.0028,﻿monastery,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Loretto,﻿Lexington,﻿KY,,38.046734,-84.494593,,,,﻿w_s_coomes_901,﻿Rev.,﻿W. S. Coomes,,﻿Superiour of Monast,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
-﻿cov.ky.0028,﻿academy,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Loretto,﻿Lexington,﻿KY,,38.046734,-84.494593,,,,﻿w_s_coomes_901,﻿Rev.,﻿W. S. Coomes,,﻿Superiour of Monast,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿cov.ky.0028,﻿monastery,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Loretto,﻿Lexington,﻿KY,,37.635556,-85.386667,,,,﻿w_s_coomes_901,﻿Rev.,﻿W. S. Coomes,,﻿Superiour of Monast,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
+﻿cov.ky.0028,﻿academy,﻿St. Peter's,English,,,,﻿Fayette County,﻿Fayette County,﻿Loretto,﻿Lexington,﻿KY,,37.635556,-85.386667,,,,﻿w_s_coomes_901,﻿Rev.,﻿W. S. Coomes,,﻿Superiour of Monast,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0016,﻿church,﻿St. Louis's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Louisville,﻿Louisville,﻿KY,﻿KY,38.236908,-85.763639,,,,﻿ign_a_reynolds_901,﻿Rev.,﻿Ign. A. Reynolds,,,,,,,,1836,﻿https://www.stlb.org/,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0016,﻿church,﻿St. Louis's,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Louisville,﻿Louisville,﻿KY,,38.236908,-85.763639,,,,﻿g_w_hayden_901,﻿Rev.,﻿George W. Hayden,,,,,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown
 ﻿lou.ky.0059,﻿church,[Unnamed Institution],English,,,,﻿Union County,﻿Union County,﻿Morganfield,﻿Morganfield,﻿KY,﻿KY,37.682563,-87.921595,,,,﻿eli_j_durbin_001,﻿Rev.,﻿Elisha Durbin,,,"﻿visits Tennessee, twice during the year",,,,,1836,,,,,﻿,﻿,﻿Bardstown,Bardstown

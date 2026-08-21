@@ -44,7 +44,7 @@
 ﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,,﻿Cambria County,﻿Hart's Sleeping Place,﻿Patton,﻿PA,﻿PA,40.633337,-78.70815,,,﻿[visited] once a month [by] Rev. P. Lemke,﻿pet_lemke_901,﻿Rev.,﻿P. Lemke,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0055,﻿church,﻿St. John Baptist,English,,,,,﻿Bucks County,﻿Haycock,﻿Ottsville,﻿PA,﻿PA,40.499641,-75.205026,,,﻿[visited] twice a month [by] Rev. H. Herzog,﻿hen_herzog_901,﻿Rev.,﻿H. Herzog,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0054,﻿church,﻿Holy Trinity,English,,,,,﻿Huntingdon County,﻿Huntingdon,﻿Huntingdon,﻿PA,﻿PA,40.486077,-78.013017,,,﻿[visited] oscasionally [by] Rev. James Bradley,﻿jam_bradley_001,﻿Rev.,﻿James Bradley,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0058,﻿church,﻿St. John Cyval,English,,,,,,﻿Johnstown,,﻿PA,,,,,,﻿[visited] monthly [by] Rev. Peter Lemke,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0058,﻿church,﻿St. John Cyval,English,,,,,,﻿Johnstown,,﻿PA,,40.32526,-78.9153,,,﻿[visited] monthly [by] Rev. Peter Lemke,﻿pet_lemke_901,﻿Rev.,﻿Peter Lemke,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0005,﻿church,﻿St. Mary's,English,,,,,﻿Lebanon County,﻿Lebanon,﻿Lebanon,﻿PA,﻿PA,40.339628,-76.424267,,,﻿[visited] monthly [by] Nicholas Steinbacher,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,﻿S. J.,,﻿Dw. at Reading,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0008,﻿church,﻿St. Mary's,English,,,,,﻿Lancaster County,﻿Lancaster,﻿Lancaster,﻿PA,﻿PA,40.035961,-76.306952,,,,﻿ber_keenan_001,﻿Rev.,﻿Bernard Keenan,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0039,﻿church,﻿All Saints,English,,,,,﻿Mifflin County,﻿Lewistown,﻿Lewistown,﻿PA,﻿PA,40.60023,-77.573135,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -56,7 +56,7 @@
 ﻿har.pa.0058,﻿church,﻿St. Joseph's,English,,,,,﻿Northumberland County,﻿Milton,﻿Milton,﻿PA,﻿PA,41.020613,-76.851294,,,﻿[visited] 3 Sundays in the month [by] Rev. J. Fitzpatrick,﻿j_fitzpatrick_901,﻿Rev.,﻿J. Fitzpatrick,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0030,﻿church,﻿St. Ignatius,English,,,,,﻿Adams County,﻿Mountain Church,﻿Mountain,﻿PA,﻿PA,39.852242,-77.286488,,,﻿[visited every] 4th Sunday [by] Rev. M. Dougherty,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0078,﻿church,﻿St Patrick's,English,,,,,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.392622,-78.432967,,,﻿[visited] twice a month [by] Rev. J. Bradley,﻿jam_bradley_001,﻿Rev.,﻿J. Bradley,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿erie.pa.0131,﻿church,﻿St. Stephen of Hung,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,,,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿erie.pa.0131,﻿church,﻿St. Stephen of Hung,English,,﻿Oil Creek,,,,,﻿Oil City,﻿PA,,41.428333,-79.707222,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0021,﻿church,[Unnamed Institution],English,﻿a private chapel,,,,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.009823,-76.128565,,,,﻿joh_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0034,﻿church,[Unnamed Institution],English,,,,,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.213537,-77.706378,,,﻿[visited] once a month [by] Rev. Thomas Heyden,﻿tho_heyden_001,﻿Rev.,﻿Thomas Heyden,,,﻿Dw. at Chambersburg,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0001,﻿church,﻿St. Paul's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.447834,-79.949973,,,,﻿joh_v_oreilly_001,﻿Rev.,﻿John O'Reilly,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -64,13 +64,13 @@
 ﻿pit.pa.0002,﻿church,﻿St. Patrick's,English,,,,,﻿Allegheny County,﻿Pittsburg,﻿Pittsburg,﻿PA,﻿PA,40.449545,-79.985124,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0119,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,﻿Schuylkill County,﻿Pottsville,﻿Pottsville,﻿PA,﻿PA,40.683085,-76.197206,,,﻿[visited] 3 Sundays in the month [by] Rev. A. Wainwright,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0043,﻿church,﻿St. Peter's,English,,,,,﻿Berks County,﻿Reading,﻿Reading,﻿PA,﻿PA,40.330048,-75.928594,,,﻿[visited] twice a month [by] Rev. Nicholas Steinbacher,﻿nic_steinbacher_901,﻿Rev.,﻿Nicholas Steinbacher,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.9008,﻿church,﻿St. Nich. Tol.,English,,,,,,﻿Red-bank,﻿Redbank Township,﻿PA,,,,,,﻿[visited] every 2 months [by] Rev. P. Rafferty,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.9008,﻿church,﻿St. Nich. Tol.,English,,,,,,﻿Red-bank,﻿Redbank Township,﻿PA,,41.4083,-79.2675,,,﻿[visited] every 2 months [by] Rev. P. Rafferty,﻿p_rafferty_901,﻿Rev.,﻿P. Rafferty,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿scr.pa.0081,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504,-75.953881,,,﻿3 Sundays in the month,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0129,﻿church,﻿St. Jerom's,English,,,,,,﻿Tamaqua,,﻿PA,,40.797311,-75.969371,,,﻿[visited] monthly [by] Rev. A. Wainwright,﻿a_wainwright_901,﻿Rev.,﻿A. Wainwright,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0033,﻿church,﻿St. Andrew,English,,,,﻿Franklin County,,﻿Waynesburg,,﻿PA,,,,,,﻿[visited] once a month [by] Rev. Thomas Heyden,﻿tho_heyden_001,﻿Rev.,﻿Thomas Heyden,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0033,﻿church,﻿St. Andrew,English,,,,﻿Franklin County,,﻿Waynesburg,,﻿PA,,39.896389,-80.186389,,,﻿[visited] once a month [by] Rev. Thomas Heyden,﻿tho_heyden_001,﻿Rev.,﻿Thomas Heyden,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,[Unnamed Institution],English,﻿Church not dedicated,,,﻿Green County,﻿Greene County,﻿Waynesburg,﻿Waynesburg,﻿PA,﻿PA,39.896235,-80.183643,,,﻿3 Sundays in the month,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,,﻿Chester County,﻿West-Chester,﻿West Chester,﻿PA,﻿PA,39.959285,-75.608724,,,,,,,,,﻿Vacant,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,,,,,﻿[visited] twice a month [by] Rev. Rev. J. A. Stillinger,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul,English,,,,,,﻿Youngstown,,﻿PA,,40.280833,-79.365556,,,﻿[visited] twice a month [by] Rev. Rev. J. A. Stillinger,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.548391,,,,﻿pat_kenny_901,﻿Rev.,﻿Patrick Kenny,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,,39.744655,-75.548391,,,,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reilly,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0006,﻿church,﻿St. Mary's,English,,,,,﻿New Castle County,﻿Coffee Run,﻿Hockessin,﻿DE,﻿DE,39.769081,-75.661697,,,﻿[visited] twice a month [by] Rev. P. Kenny,﻿pat_kenny_901,﻿Rev.,﻿P. Kenny,,,,,,,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -87,5 +87,5 @@
 ﻿wil.de.0001_03,﻿asylum,﻿St. Peter's Asylum,English,,,,,,﻿Wilmington,,﻿DE,,39.744655,-75.548391,,,,,,,,,,﻿religious,﻿3 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_02,﻿day school,﻿St. Peter's Day School,English,,,,,,﻿Wilmington,,﻿DE,,39.744655,-75.548391,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.9000,﻿school,﻿St. John's Baptist,English,,﻿McSherrystown,,,,﻿Conewago,﻿Conewago,,,39.804167,-77.019167,,,,,,,,,,﻿religious,﻿2 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9007,﻿school,[Unnamed Institution],English,,,,,,﻿Pittsburg,,﻿PA,,,,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,[Unnamed Institution],English,,,,,,﻿Pittsburg,,﻿PA,,40.439722,-79.976389,,,,,,,,,,﻿religious,﻿4 sisters,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.9000,﻿academy,﻿Young Ladies' Academy,English,,,,,,﻿Wilmington,,﻿DE,,39.804167,-77.019167,,,,,,,,,,,,﻿Sisters of Charity,,1836,﻿,﻿,﻿Philadelphia,Philadelphia

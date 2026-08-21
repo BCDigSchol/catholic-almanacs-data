@@ -16,7 +16,7 @@
 ﻿stl.mo.9007_02,﻿church,﻿St. Mary's,﻿Sermon every Sunday in English,,,,﻿Perry County,,﻿Barrens,,﻿MO,,37.727024,-89.889841,,,,﻿tho_burke_901,﻿Rev.,﻿T. Burke,,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9056,﻿church,﻿Conception of the B. V. Mary,English,,,﻿Bois Brulé Bottom,﻿Perry County,,,,﻿MO,,,,,﻿visited by the Rev. gentlemen of the Seminary,,,,,,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9057,﻿station,[Unnamed Institution],English,,﻿Brazeau Settlement,,﻿Perry County,,,,﻿MO,,,,,﻿visited by the Rev. gentlemen of the Seminary,,,,,,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0046,﻿church,﻿St. Vincent of Paul,﻿Sermon in English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,,﻿MO,,,,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,﻿C.M.,,﻿assisted by two other clergymen,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046,﻿church,﻿St. Vincent of Paul,﻿Sermon in English,,,,﻿Cape Girardeau County,,﻿Cape Girardeau,,﻿MO,,37.300782,-89.519161,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,﻿C.M.,,﻿assisted by two other clergymen,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9058,﻿station,[Unnamed Institution],English,,,,,,﻿Commerce,,﻿MO,,,,,﻿visited by Rev. John Brands,,﻿joh_brands_901,﻿Rev.,﻿John Brands,﻿C. M.,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9059,﻿station,[Unnamed Institution],English,,,,,,﻿Jackson,,﻿MO,,,,,﻿visited by Rev. John Brands,,﻿joh_brands_901,﻿Rev.,﻿John Brands,﻿C. M.,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9000,﻿church,﻿Our Lady of Mt. Carmel,"﻿Sermon in French, and occasionally English",,,,﻿St. Louis County,﻿St. Louis County,﻿Carondelet,﻿St. Louis,﻿MO,﻿MO,38.557901,-90.249981,,,,﻿e_saulnier_001,﻿Rev.,﻿Edmund Saulnier,,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
@@ -74,7 +74,7 @@
 ﻿stl.mo.9044,﻿station,[Unnamed Institution],English,,,,,,﻿Marthasville,,﻿MO,,38.630556,-91.058889,,,"﻿visited by Rev. James G. Buschotts, S.J.",﻿jam_busschotts_001,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1841,"﻿https://en.wikipedia.org/wiki/Marthasville,_Missouri",,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0001,﻿church,﻿St. Mathias' Church,﻿Sermon in English,,,,,,﻿Upper Alton,﻿Alton,,﻿IL,38.895385,-90.190202,,,,﻿geo_hamilton_901,﻿Rev.,﻿George Hamilton,,,,,,,,1841,﻿https://www.facebook.com/altonILsspp/,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9005,﻿church,﻿St. Augustin's,﻿Sermon in English,,﻿Hancock Prairie,,﻿Fulton County,,﻿St. Augustine's,,﻿IL,,,,,,﻿[visited] once a month [by] Rev. Timothy Conway,﻿tim_conway_901,﻿Rev.,﻿Timothy Conway,,,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿alt.il.9009,﻿station,﻿Annunciation,﻿Sermon in English,,,,﻿Morgan County,,﻿Beardstown,,﻿IL,,,,,,﻿visited once a month by the Rev. J. B. Raho,﻿bla_j_raho_901,﻿Rev.,﻿J. B. Raho,﻿C.M.,,﻿of Lasalle,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,﻿Annunciation,﻿Sermon in English,,,,﻿Morgan County,,﻿Beardstown,,﻿IL,,38.376667,-88.058056,,,﻿visited once a month by the Rev. J. B. Raho,﻿bla_j_raho_901,﻿Rev.,﻿J. B. Raho,﻿C.M.,,﻿of Lasalle,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0010,﻿station,﻿St. Barnabas,﻿Sermon in English,,,,﻿St. Clair's County,,﻿Belleville,,﻿IL,,,,,,﻿visited by the Rev. Regis Loisel,﻿reg_loisel_901,﻿Rev.,﻿Regis Loisel,,,,,,,,1841,﻿https://cathedralbelle.org/history/,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿alt.il.0020,﻿church,﻿Holy Family,﻿Sermon in French,,,,﻿St. Clair's County,﻿St. Clair County,﻿Cahokias,﻿Cahokia Heights,﻿IL,﻿IL,38.570082,-90.18928,,,,﻿reg_loisel_901,﻿Rev.,﻿Regis Loisel,,﻿resident pastor,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9003,﻿station,﻿Saviour's,﻿Sermon in English,,,,﻿Hancock County,,﻿Commerce,,﻿IL,,,,,,,﻿tim_conway_901,﻿Rev.,﻿T. Conway,,,,,,,,1841,﻿https://en.wikipedia.org/wiki/Des_Moines_Rapids,,,,﻿,﻿,﻿St. Louis,StLouis
@@ -169,10 +169,10 @@
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.636426,-90.234225,,,,﻿jos_van-sweevelt_901,﻿Rev.,﻿J. Van Sweevelt,,,,﻿student,﻿172 students,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.636426,-90.234225,,,,﻿pet_verheyden_901,﻿Rev.,﻿P. Verheyden,,,,﻿student,﻿172 students,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿college,﻿St. Louis University,English,,,,,﻿St. Louis County,﻿St. Louis,﻿St. Louis,﻿MO,,38.636426,-90.234225,,,,﻿j_b_emig_001,﻿Rev.,﻿J. B. Emig,,,,﻿student,﻿172 students,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,,﻿Principal,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿joh_healy_902,﻿Rev.,﻿John Healy,,﻿Professor,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿mic_collins_901,﻿Rev.,﻿Michael Collins,,﻿Professor,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,,,,,,﻿mooney_901,﻿Mr.,﻿Mooney,,﻿Assistant Teacher,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,37.300782,-89.519161,,,,﻿joh_brands_901,﻿Rev.,﻿John Brands,,﻿Principal,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,37.300782,-89.519161,,,,﻿joh_healy_902,﻿Rev.,﻿John Healy,,﻿Professor,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,37.300782,-89.519161,,,,﻿mic_collins_901,﻿Rev.,﻿Michael Collins,,﻿Professor,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0046_02,﻿academy,﻿St. Vincent's Male Academy,English,,﻿Cape Girardeu,,,,,,﻿MO,,37.300782,-89.519161,,,,﻿mooney_901,﻿Mr.,﻿Mooney,,﻿Assistant Teacher,,,,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9004_02,﻿day school,﻿St. Charles's Day School,English,,,,,,﻿St. Charles,,﻿MO,,38.786216,-90.480364,,,,﻿mic_hoey_901,﻿Rev.,﻿Michael Hoey,﻿S.J.,﻿Teacher,,﻿teacher,﻿50 pupils,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0106_02,﻿day school,﻿Catholic Day School,English,,﻿Old Mines,,﻿Washington County,,,,﻿MO,,38.016102,-90.756736,,,,,,,,,,﻿student,﻿30 scholars,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9010_02,﻿day school,﻿Catholic Day School,English,,,,,,﻿Lasalle,,﻿IL,,,,,,,﻿bla_j_raho_901,﻿Rev.,﻿Blasius Raho,,,,﻿student,﻿40 scholars,,,1841,,,,,﻿,﻿,﻿St. Louis,StLouis

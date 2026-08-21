@@ -56,7 +56,7 @@
 ﻿phi.pa.0055,﻿church,﻿St. John the Baptist's,English,,,,﻿Buck's County,﻿Bucks County,﻿Haycock,﻿Ottsville,﻿PA,﻿PA,40.499641,-75.205026,,,﻿once a month,﻿jam_maloney_901,﻿Rev.,﻿James Maloney,,,﻿of Easton,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0054,﻿church,﻿Church of the Holy Trinity,English,,,,﻿Huntingdon County,﻿Huntingdon County,﻿Huntingdon,﻿Huntingdon,﻿PA,﻿PA,40.486077,-78.013017,,,﻿once a month,﻿jam_bradley_001,﻿Rev.,﻿J. Bradley,,,﻿of Newry,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0057,﻿church,﻿St. Bartholomew's,English,,,,﻿Cambria County,,﻿Jefferson,,﻿PA,,,,﻿pit.pa.9002,﻿from Loretto,﻿twice a month,,,,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,﻿Cambria County,,﻿Johnstown,,﻿PA,,,,﻿pit.pa.9002,﻿from Loretto,﻿once a month,,,,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,﻿Cambria County,,﻿Johnstown,,﻿PA,,40.32526,-78.9153,﻿pit.pa.9002,﻿from Loretto,﻿once a month,,,,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0008,﻿church,﻿St. Mary's,English,,,,﻿Lancaster County,﻿Lancaster County,﻿Lancaster,﻿Lancaster,﻿PA,﻿PA,40.035961,-76.306952,,,,﻿ber_keenan_001,﻿Rev.,﻿B. Keenan,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0005,﻿church,﻿St. Mary's,English,,,,﻿Lebanon County,﻿Lebanon County,﻿Lebanon,﻿Lebanon,﻿PA,﻿PA,40.339628,-76.424267,,,﻿occasionally,﻿nic_steinbacher_901,﻿Rev.,﻿N. Steinbacher,,,﻿of Reading,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0039,﻿church,﻿All Saints,English,,,,﻿Mifflin County,﻿Mifflin County,﻿Lewistown,﻿Lewistown,﻿PA,﻿PA,40.60023,-77.573135,,,﻿once in two months,﻿pat_a_nugent_001,﻿Rev.,﻿P. Nugent,,,﻿of Bellefonte,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -75,7 +75,7 @@
 ﻿pit.pa.9003,﻿church,﻿St. Ignatius,English,,,,﻿Cumberland County,,﻿Mountain Church,,﻿PA,,,,,,﻿once a month,﻿mic_dougherty_901,﻿Rev.,﻿M. Dougherty,,,﻿of Conewago,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0102,﻿church,﻿St. Patrick's,English,,,,﻿Montgomery County,,﻿Norristown,,﻿PA,,,,,,﻿three times a month,﻿pat_donahue_901,﻿Rev.,﻿Patrick Donahoe,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0078,﻿church,﻿St. Patrick's,English,,,,﻿Huntingdon County,﻿Blair County,﻿Newry,﻿Newry,﻿PA,﻿PA,40.392622,-78.432967,,,﻿three times a month,﻿jam_bradley_001,﻿Rev.,﻿James Bradley,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿erie.pa.0131,﻿church,﻿St. Stephen's,English,,﻿Oil Creek,,﻿Crawford County,,,﻿Oil City,﻿PA,,,,,,,﻿pat_a_prendergast_001,﻿Rev.,﻿P. Prendergast,,,﻿of Erie,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿erie.pa.0131,﻿church,﻿St. Stephen's,English,,﻿Oil Creek,,﻿Crawford County,,,﻿Oil City,﻿PA,,41.428333,-79.707222,,,,﻿pat_a_prendergast_001,﻿Rev.,﻿P. Prendergast,,,﻿of Erie,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0021,﻿chapel,[Unnamed Institution],English,,,,﻿Adams County,﻿York County,﻿Paradise,﻿Paradise,﻿PA,﻿PA,40.009823,-76.128565,,,,﻿joh_w_beschter_901,﻿Rev.,﻿J. W. Beschter,﻿S. J.,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿har.pa.0034,﻿church,﻿St. Ferdinand's,English,,,,﻿Franklin County,﻿Franklin County,﻿Path Valley,﻿Willow Hill,﻿PA,﻿PA,40.213537,-77.706378,,,﻿once a month,﻿tho_heyden_001,﻿Rev.,﻿Thos. Heyden,,,﻿of Bedford,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0072,﻿church,[Unnamed Institution],English,,,,﻿Chester County,,﻿Phoenixville,,﻿PA,,,,,,﻿once a month,﻿pat_donahue_901,﻿Rev.,﻿P. Donahue,,,﻿of Norristown,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -95,11 +95,11 @@
 ﻿scr.pa.0081,﻿church,﻿St. Augustin's,English,,,,﻿Susquehanna County,﻿Susquehanna County,﻿Silver Lake,﻿Brackney,﻿PA,﻿PA,41.96504,-75.953881,,,﻿once a month,﻿joh_v_oreilly_001,﻿Rev.,﻿J. V. O'Reilly,,,﻿of Friendsville,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.9011,﻿church,﻿St. Patrick's,English,"﻿Worthington, the nearest Post Office",,,﻿Armstrong County,,﻿Sugar Creek Township,,﻿PA,,,,,,﻿once a month,﻿jos_cody_901,﻿Rev.,﻿J. Cody,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0129,﻿church,﻿St. Jerome's,English,,,,﻿Schuylkill County,,﻿Tamaqua,,﻿PA,,40.797311,-75.969371,,,﻿once a month,﻿jam_maloney_901,﻿Rev.,﻿J. Maloney,,,﻿of Easton,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿har.pa.0033,﻿church,﻿St. Andrew's,English,,,,﻿Franklin County,,﻿Waynesburgh,,﻿PA,,,,,,﻿once a month,﻿jam_a_miller_001,﻿Rev.,﻿J. A. Miller,,,﻿of Chambersburgh,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿har.pa.0033,﻿church,﻿St. Andrew's,English,,,,﻿Franklin County,,﻿Waynesburgh,,﻿PA,,39.896389,-80.186389,,,﻿once a month,﻿jam_a_miller_001,﻿Rev.,﻿J. A. Miller,,,﻿of Chambersburgh,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0101,﻿church,﻿St. Ann's,English,,,,﻿Green County,﻿Greene County,﻿Waynesburgh,﻿Waynesburg,﻿PA,﻿PA,39.896235,-80.183643,,,﻿once a month,﻿mic_gallagher_002,﻿Rev.,﻿M. Gallagher,,,﻿of Brownsville,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.0070,﻿church,﻿Christ Church,English,,,,﻿Chester County,﻿Chester County,﻿Westchester,﻿West Chester,﻿PA,﻿PA,39.959285,-75.608724,,,,﻿ber_mccabe_901,﻿Rev.,﻿B. McCabe,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿erie.pa.9000,﻿church,[Unnamed Institution],English,,,,﻿Warren County,,,,﻿PA,,,,﻿erie.pa.9002,﻿from Erie,﻿occasionally,,,,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul's,English,,,,﻿Westmoreland County,,﻿Youngstown,,﻿PA,,,,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿pit.pa.0106,﻿church,﻿St. Vincent of Paul's,English,,,,﻿Westmoreland County,,﻿Youngstown,,﻿PA,,40.280833,-79.365556,,,﻿twice a month,﻿jam_a_stillinger_001,﻿Rev.,﻿J. A. Stillinger,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿Wilmington,﻿Wilmington,﻿DE,﻿DE,39.744655,-75.548391,,,,﻿pat_reilly_901,﻿Rev.,﻿Patrick Reilly,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0007,﻿church,﻿St. Peter's,English,,,,,﻿New Castle County,﻿New Castle,﻿New Castle,﻿DE,﻿DE,39.662515,-75.564684,,,﻿once a month,﻿pat_reilly_901,﻿Rev.,﻿P. Reilly,,,﻿of Wilmington,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0035,﻿church,[Unnamed Institution],English,,﻿Dupont's Mills,,,,,,﻿DE,,,,,,,,,,,,,,,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
@@ -122,7 +122,7 @@
 ﻿phi.pa.0005_92,﻿school,﻿St. Mary's Free School,English,,"﻿Sixth street, near Spruce",,,,﻿Philadelphia,,﻿PA,,39.945643,-75.148563,,,,,,,,,,﻿student,﻿about 200 female children,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0124_02,﻿asylum,﻿St. Paul's Orphan Asylum,English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,﻿m-chrysostom_phi.pa_901,﻿Sister,﻿Mary Chrysostom,,﻿Sister Servant,,﻿child,﻿20 female orphans,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿pit.pa.0124_02,﻿asylum,﻿St. Paul's Orphan Asylum,English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,,,,,,,﻿religious,﻿four Sisters of Charity,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9007,﻿school,﻿St. Paul's Day School,English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,﻿m-chrysostom_pit.pa_901,﻿Sister,﻿Mary Chrysostom,,﻿Sister Servant,,﻿student,﻿125 children,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
-﻿phi.pa.9007,﻿school,﻿St. Paul's Day School,English,,,,,,﻿Pittsburgh,,﻿PA,,,,,,,,,,,,,﻿religious,﻿four Sisters of Charity,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,﻿St. Paul's Day School,English,,,,,,﻿Pittsburgh,,﻿PA,,40.439722,-79.976389,,,,﻿m-chrysostom_pit.pa_901,﻿Sister,﻿Mary Chrysostom,,﻿Sister Servant,,﻿student,﻿125 children,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
+﻿phi.pa.9007,﻿school,﻿St. Paul's Day School,English,,,,,,﻿Pittsburgh,,﻿PA,,40.439722,-79.976389,,,,,,,,,,﻿religious,﻿four Sisters of Charity,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿phi.pa.9006,﻿school,﻿St. Mary's School,English,,,,,,﻿Pottsville,,﻿PA,,,,,,,﻿m-irene_phi.pa_901,﻿Sister,﻿Mary Irene,,﻿Sister Servant,,﻿religious,﻿two Sisters of Charity,﻿Sisters of Charity,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
 ﻿wil.de.0001_02,﻿day school,﻿St. Peter's Day School,English,,,,,,﻿Wilmington,,﻿DE,,39.744655,-75.548391,,,,,,,,,,﻿religious,﻿1 sister,,,1842,,﻿,﻿,﻿Philadelphia,Philadelphia
