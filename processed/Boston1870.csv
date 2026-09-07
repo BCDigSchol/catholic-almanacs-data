@@ -315,9 +315,9 @@
 ﻿bos.ma.0219,﻿hospital,﻿St. Elizabeth's Hospital for Females,English,,﻿No. 28 Hanson street,,,,﻿Boston,﻿Boston,﻿MA,,42.3437379,-71.0705216,,,,,,,,,,,,﻿Conducted by the Sisters of the Third Order of St. Francis,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0192_03,﻿hospital,﻿St. Ann's Hospital,English,,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.2625932,-71.8022934,,,,,,,,,,,,﻿in charge of the Sisters of Mercy,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0221,﻿home,﻿St. Joseph's Home,English,﻿This is a temporary home for girls out of place or sick,﻿No. 45 E. Brookline street,,,,﻿Boston,﻿Boston,﻿MA,,42.3384749,-71.0711348,,,,,,,,,,,,﻿conducted by the Sisters of the Third Order of St. Francis,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,﻿teacher,﻿8 teacher,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,﻿child,﻿500 boys,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0002_03,﻿school,﻿St. Mary's Parochial School for Girls,English,,,,,,,,﻿MA,,42.4072107,-71.3824374,,,,,,,,,,﻿student,﻿650 pupils,﻿under the charge of 10 Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,﻿St. Mary's,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,﻿teacher,﻿8 teacher,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_02,﻿school,﻿St. Mary's Parochial School for Boys,English,,﻿St. Mary's,,,,﻿Boston,﻿Boston,﻿MA,,42.3459602,-71.1071639,,,,,,,,,,﻿child,﻿500 boys,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0002_03,﻿school,﻿St. Mary's Parochial School for Girls,English,,﻿St. Mary's,,,,,,﻿MA,,42.4072107,-71.3824374,,,,,,,,,,﻿student,﻿650 pupils,﻿under the charge of 10 Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿teacher,﻿3 teachers,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0005_02,﻿school,﻿German Catholic School for Boys,English,,﻿Church of the Holy Trinity,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,,,,,,,,,,﻿student,﻿230 pupils,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0225,﻿school,﻿German Catholic School for Girls,English,,,,,,,,﻿MA,,,,,,,,,,,,,﻿religious,﻿3 Sisters of Notre Dame,﻿Sisters of Notre Dame,,1870,﻿,﻿,﻿Boston,Boston
