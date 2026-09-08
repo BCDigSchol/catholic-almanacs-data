@@ -19,7 +19,7 @@
 ﻿buf.ny.0005,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.903442,-78.889303,,,,﻿e_cavanagh_001,﻿Rev.,﻿E. Cavanagh,﻿O.M.I,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿jam_titta_001,﻿Rev.,﻿James Tirta,﻿O.S.F.,﻿Superior,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿f_constantine_001,﻿Rev.,﻿F. Constantine,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿jer_collins_001,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Ann's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿jer_collins_002,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿didacus_buf.ny_001,﻿Brother,﻿Didacus,﻿O.S.F.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010,﻿church,﻿St. Francis Xavier's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿j_blettner_001,﻿Rev.,﻿J. Blettner,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0010,﻿church,﻿St. John the Baptist,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -67,7 +67,7 @@
 ﻿buf.ny.0053,﻿church,﻿Immaculate Conception,English,﻿brick church,,,﻿Erie County,,﻿East Eden,﻿East Eden,﻿NY,,42.215547,-78.275313,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0060,﻿church,﻿SS. Peter and Paul,English,,,,﻿Chemung County,,﻿Elmira,﻿Elmira,﻿NY,,42.417005,-78.976981,﻿buf.ny.0064,﻿Attended from Dunkirk,﻿monthly,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0064,﻿church,[Unnamed Institution],English,,,,,,,,,,42.479502,-79.333932,,,,﻿f_guido_001,﻿Rev.,﻿F. Guido,,﻿Superior,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0065,﻿church,﻿St. John's,﻿German,,,,﻿Chemung County,,﻿Elmira,﻿Elmira,﻿NY,,42.479502,-79.333932,,,,﻿fre_lang_001,﻿Rev.,﻿Frederick Lang,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0065,﻿church,﻿St. John's,﻿German,,,,﻿Chemung County,,﻿Elmira,﻿Elmira,﻿NY,,42.479502,-79.333932,,,,﻿fre_lang_002,﻿Rev.,﻿Frederick Lang,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0028,﻿church,﻿St. Philip Neri,﻿German,﻿brick church,,,﻿Cattaraugus County,,﻿Ellicottville,﻿Ellicottville,﻿NY,,42.66667,-78.82778,,,,﻿bar_gruber_001,﻿Rev.,﻿Bart. Gruber,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0073,﻿church,﻿St. Joseph's,English,,,,﻿Erie County,,﻿Elysville,,﻿NY,,42.089797,-76.807734,,,,﻿pet_bede_001,﻿Very Rev.,﻿Peter Bede,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0073,﻿church,﻿St. Joseph's,English,,,,﻿Erie County,,﻿Evans,,﻿NY,,42.089797,-76.807734,,,,﻿p_hopkins_001,﻿Rev.,﻿P. Hopkins,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo

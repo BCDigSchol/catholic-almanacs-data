@@ -33,7 +33,7 @@
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿eus_schmid_001,﻿Very Rev.,﻿Euseb. Schmid,﻿O.S.F.,﻿Superior,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿uba_webersinke_001,﻿Rev.,﻿Ubald Webersinke,﻿O.S.F,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿ant_becker_001,﻿Rev.,﻿A. Becker,﻿O.S.F,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿bon_hammer_001,﻿Rev.,﻿Bonav. Hammer,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿bon_hammer_002,﻿Rev.,﻿Bonav. Hammer,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿jac_menchen_002,﻿Rev.,﻿Jacob Menchen,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012,﻿church,﻿St. Francis',English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,﻿lou_haverbeck_001,﻿Rev.,﻿L. Haverbeck,﻿O.S.F.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0013,﻿church,﻿St. Anthony's,English,,,,,,﻿Cincinnati,,﻿OH,,39.102976,-84.539515,,,,﻿ger_uhling_001,﻿Rev.,﻿G. Uhling,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -202,7 +202,7 @@
 ﻿col.oh.0063,﻿church,﻿Holy Trinity,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,39.807012,-82.297094,,,,﻿d_h_noon_002,﻿Rev.,﻿D. H. Noon,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0069,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿South-Charleston,,﻿OH,,39.825338,-83.634367,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0153,﻿church,﻿St. Raphael's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.922896,-83.806463,,,,﻿j_n_thisse_001,﻿Rev.,﻿J. N. Thisse,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0154,﻿church,﻿St. Bernard's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.924227,-83.808817,,,,﻿w_deiters_001,﻿Rev.,﻿W. Deiters,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0154,﻿church,﻿St. Bernard's,English,,,,﻿Clark County,,﻿Springfield,,﻿OH,,39.924227,-83.808817,,,,﻿w_deiters_002,﻿Rev.,﻿W. Deiters,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0155,﻿church,[Unnamed Institution],English,,,,﻿Greene County,,﻿Spring Valley,,﻿OH,,39.608949,-84.00771,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0064,﻿church,﻿St. Peter's,English,,,,﻿Jefferson County,,﻿Steubenville,,﻿OH,,40.365511,-80.61279,,,,﻿w_t_bigelow_001,﻿Rev.,﻿Wm. Bigelow,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0065,﻿church,﻿St. James',English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -222,7 +222,7 @@
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_d_sheehy_001,﻿Rev.,﻿J. D. Sheehy,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_t_cady_001,﻿Rev.,﻿J. T. Cady,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_slinger_001,﻿Rev.,﻿J. Slinger,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_slinger_002,﻿Rev.,﻿J. Slinger,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿c_bowling_001,﻿Rev.,﻿C. Bowling,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_rooney_003,﻿Rev.,﻿J. A. Rooney,﻿O.P.,,,,,﻿Dominican Friars of the Province of St. Joseph,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0156,﻿church,﻿St. Remi's,English,,,,﻿Darke County,,,,﻿OH,,40.233605,-84.408304,﻿cin.oh.0099,﻿Attended from Jacksonville,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -253,7 +253,7 @@
 ﻿cin.oh.0185,﻿church,﻿St. Bridget's,English,,,,﻿Greene County,,﻿Xenia,,﻿OH,,39.684782,-83.929653,,,,﻿tho_blake_001,﻿Rev.,﻿Th. Blake,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0186,﻿church,﻿St. Paul's,English,,,,﻿Clark County,,﻿Yellow Springs,,﻿OH,,39.806449,-83.886874,﻿cin.oh.0153,﻿Attended from Springfield,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0083,﻿church,﻿St. Sylvester's,English,,,,﻿Vinton County,,﻿Zaleski,,﻿OH,,39.283954,-82.394042,,﻿Attended from Chillicothe,,,,,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿f_j_dunn_001,﻿Rev.,﻿F. J. Dunn,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿f_j_dunn_002,﻿Rev.,﻿F. J. Dunn,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿j_rochford_001,﻿Rev.,﻿J. Rochford,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿lev_adams_001,﻿Rev.,﻿L. Adams,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0084,﻿church,﻿St. Thomas',English,,,,﻿Muskingum County,,﻿Zanesville,,﻿OH,,39.942753,-82.006058,,,,﻿b_a_brady_001,﻿Rev.,﻿B. A. Brady,﻿O.P.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -264,7 +264,7 @@
 ﻿cin.oh.0188,﻿seminary,﻿Seminary of the Congregation of the Precious Blood,English,,,,﻿Mercer County,,﻿Carthagena,,﻿OH,,40.432606,-84.563408,,,,﻿ant_guggenberger_001,﻿Rev.,﻿A. Guggenberger,﻿C.PP.S.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿w_h_hill_002,﻿Rev.,﻿W. H. Hill,﻿S.J.,﻿President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿j_s_verdin_001,﻿Rev.,﻿J. S. Verdin,﻿S.J.,﻿Vice-President,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿p_de-meester_001,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿p_de-meester_002,﻿Rev.,﻿P. De Meester,﻿S.J.,﻿Treasurer,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿p_a_nogues_002,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿jos_a_fastré_001,﻿Rev.,﻿J. A. Fastré,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0317,﻿college,﻿St. Xavier's College,English,,,,,,﻿Cincinnati,,﻿OH,,39.106219,-84.512987,,,,﻿wil_schmidt_001,﻿Rev.,﻿W. Schmidt,﻿S.J.,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -278,7 +278,7 @@
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_d_sheehy_001,﻿Rev.,﻿J. D. Sheehy,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_t_cady_001,﻿Rev.,﻿J. T. Cady,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_slinger_001,﻿Rev.,﻿J. Slinger,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_slinger_002,﻿Rev.,﻿J. Slinger,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿c_bowling_001,﻿Rev.,﻿C. Bowling,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿Dominican Convent,English,,﻿St. Joseph's,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_rooney_003,﻿Rev.,﻿J. A. Rooney,,,,,,,,1866,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0012_02,﻿educational institution,﻿Catholic Gymnasium of St. Francis' Assisium,English,,,,,,﻿Cincinnati,,﻿OH,,39.113568,-84.516581,,,,,,,,,,,,﻿Directed by the Franciscan Fathers,,1866,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -72,13 +72,13 @@
 ﻿nyc.ny.0146,﻿church,[Unnamed Institution],English,﻿Church building,,,﻿Rockland County,,﻿Kingston,,﻿NY,,41.932104,-74.018886,﻿nyc.ny.0254,﻿Attended from Rondout,,,,,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0151,﻿church,[Unnamed Institution],English,,,,﻿Westchester County,,﻿Melrose,,﻿NY,,40.817039,-73.917838,,,,﻿cas_metzler_001,﻿Rev.,﻿Caspar Metzler,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0152,﻿church,[Unnamed Institution],English,,,,﻿Orange County,,﻿Middleton,,﻿NY,,41.452598,-74.411134,,,,﻿m_odonovan_001,﻿Rev.,﻿M. O'Donovan,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0156,﻿church,[Unnamed Institution],English,,,,,,﻿Monroe,,﻿NY,,41.330649,-74.186813,﻿nyc.ny.0170,"﻿Visited by the Rev. John Quinn, of Piermont",﻿occasionally,﻿joh_quinn_001,﻿Rev.,﻿John Quinn,,,﻿of Piermont,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0156,﻿church,[Unnamed Institution],English,,,,,,﻿Monroe,,﻿NY,,41.330649,-74.186813,﻿nyc.ny.0170,"﻿Visited by the Rev. John Quinn, of Piermont",﻿occasionally,﻿joh_quinn_002,﻿Rev.,﻿John Quinn,,,﻿of Piermont,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0157,﻿church,[Unnamed Institution],English,,,,﻿Westchester County,,﻿Morrisania,,﻿NY,,40.829361,-73.904893,,,,﻿ste_ward_001,﻿Rev.,﻿Stephen Ward,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0161,﻿church,﻿St. Patrick's,English,,,,﻿Orange County,,﻿Newburg,,﻿NY,,41.500978,-74.00993,,,,﻿edw_j_oreilly_001,﻿Rev.,﻿Edward O'Reilly,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0162,﻿church,﻿St. Peter's,English,,﻿Staten Island,,﻿Richmond County,,﻿New Brighton,,﻿NY,,40.634927,-74.112054,,,,﻿m_murphy_001,﻿Rev.,﻿M. Murphy,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0164,﻿church,[Unnamed Institution],English,,,,﻿Westchester County,,﻿New Rochelle,,﻿NY,,40.896787,-73.784346,,,,﻿tho_mcloughlin_001,﻿Rev.,﻿Thomas McLoughlin,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0169,﻿church,[Unnamed Institution],English,,,,,,﻿Peekskill,,﻿NY,,41.289263,-73.920132,,,,﻿mic_monaghan_001,﻿Rev.,﻿Michael Monaghan,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0170,﻿church,[Unnamed Institution],English,,,,﻿Rockland County,,﻿Piermont,,﻿NY,,41.042041,-73.918192,,,,﻿joh_quinn_001,﻿Rev.,﻿John Quinn,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0170,﻿church,[Unnamed Institution],English,,,,﻿Rockland County,,﻿Piermont,,﻿NY,,41.042041,-73.918192,,,,﻿joh_quinn_002,﻿Rev.,﻿John Quinn,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0173,﻿church,[Unnamed Institution],English,,,,﻿Westchester County,,﻿Port Chester,,﻿NY,,41.003162,-73.669516,,,,﻿mat_dowling_001,﻿Rev. Mr.,﻿Dowling,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0174,﻿church,[Unnamed Institution],English,,,,﻿Orange County,,﻿Port Jervis,,﻿NY,,41.375094,-74.692663,,,,﻿edw_briady_001,﻿Rev.,﻿Edward Briady,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0175,﻿church,﻿St. Peter's,English,,,,﻿Dutchess County,,﻿Poughkeepsie,,﻿NY,,41.709315,-73.93691,,,,﻿mic_riordan_001,﻿Rev. Mr.,﻿Riordan,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
@@ -102,7 +102,7 @@
 ﻿nyc.ny.0205,﻿seminary,﻿St. Joseph's Seminary,English,,,,﻿Westchester County,,﻿Fordham,,﻿NY,,42.729318,-73.682658,,,,﻿a_j_donnelly_001,﻿Rev.,﻿A. J. Donnelly,,﻿Procurator,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿jos_helmproecht_001,﻿Rev.,﻿Jos. Helmprecht,﻿C.SS.R.,﻿Rector,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿leo_petsch_002,﻿Rev.,﻿Leopold Petsch,﻿C.SS.R.,﻿Minister,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿fri_lutte_001,﻿Rev.,﻿Fridolin Lutte,﻿C.SS.R.,,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿fri_lutte_002,﻿Rev.,﻿Fridolin Lutte,﻿C.SS.R.,,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿isa_t_hecker_001,﻿Rev.,﻿Isaac Thom. Hecker,﻿C.SS.R.,,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿cha_stiessberger_004,﻿Rev.,﻿Charles Stiessberger,﻿C.SS.R.,,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0053_02,﻿convent,﻿Redemptorist Convent,English,,﻿Third street,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,﻿rob_kleineidam_001,﻿Rev.,﻿Robert Kleineidam,﻿C.SS.R.,,,﻿religious,﻿eight lay-brothers,﻿Redemptorists,,1856,﻿,﻿,﻿New York,NewYorkCity
@@ -199,7 +199,7 @@
 ﻿nyc.ny.0053_03,﻿school,[Unnamed Institution],English,﻿free school,﻿attached to the Church of the Holy Redeemer,,,,﻿New York City,,﻿NY,,40.723657,-73.984243,,,,,,,,,,﻿student,"﻿number of pupils, about 500",﻿Sisters of Notre Dame,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0060_04,﻿school,﻿St. Francis Xavier's,English,,,,,,﻿New York City,,﻿NY,,40.738209,-73.99519,,,,,,,,,,﻿student,"﻿number of pupils, 600",﻿Ladies of the Sacred Heart,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0358,﻿school,[Unnamed Institution],English,,﻿Manhattanville,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿student,"﻿number of pupils, about 100",,,1856,﻿,﻿,﻿New York,NewYorkCity
-﻿nyc.ny.0372,﻿academy,﻿St. Stephen's Academy,English,﻿select female school,﻿67 East 31st st.,,,,﻿New York City,,﻿NY,,,,,,,﻿m-mahon_nyc.ny_001,﻿Miss,﻿Mary Mahon,,﻿Principal,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
+﻿nyc.ny.0064_03,﻿academy,﻿St. Stephen's Academy,English,﻿select female school,﻿67 East 31st st.,,,,﻿New York City,,﻿NY,,40.742505,-73.981351,,,,﻿m-mahon_nyc.ny_001,﻿Miss,﻿Mary Mahon,,﻿Principal,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0373,﻿select school,﻿St. Vincent de Paul,English,﻿select female school,,,,,﻿New York City,,﻿NY,,,,,,,,,,,,,﻿student,﻿50 children,,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0061_05,﻿school,﻿St. Vincent de Paul's,English,﻿female free school,﻿Church of St. Vincent de Paul,,,,﻿New York City,,﻿NY,,40.747414,-73.999061,,,,,,,,,,﻿student,﻿131 pupils,﻿directed by the Brothers of the Christian Schools,,1856,﻿,﻿,﻿New York,NewYorkCity
 ﻿nyc.ny.0052_02,﻿school,﻿Nativity,English,﻿female free school,﻿Church of the Nativity,,,,,,,,40.7253,-73.98982,,,,,,,,,,,,,,1856,﻿,﻿,﻿New York,NewYorkCity

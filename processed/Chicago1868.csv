@@ -20,7 +20,7 @@
 ﻿chi.il.0005,﻿church,﻿St. Peter's,﻿German,"﻿Residence, Clark Street",﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.872239,﻿-87.630605,,,,﻿pet_fischer_001,﻿Very Rev.,﻿Peter Fischer,,﻿V.G.,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0005,﻿church,﻿St. Peter's,﻿German,"﻿Residence, Clark Street",﻿corner of Clark and Polk streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.872239,﻿-87.630605,,,,﻿p_g_hoch_001,﻿Rev.,﻿P. Gallus Hoch,﻿O.S.B.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0006,﻿church,﻿Immaculate Conception,English,"﻿Residence, 497 North Franklin street","﻿North Franklin, near Schiller street",,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.908438,﻿-87.636397,,,,﻿tha_j_butler_001,﻿Rev.,﻿Thaddeus J. Butler,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿pet_zimmer_003,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿pet_zimmer_001,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿the_majerus_001,﻿Rev.,﻿T. Majerus,﻿C.SS.R.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿jos_wessel_001,﻿Rev.,﻿Jos. Wessel,﻿C.SS.R.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0007,﻿church,﻿St. Michael's,﻿German,"﻿Residence on Church street, adjoining the church",﻿corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿cha_rosenbaur_001,﻿Rev.,﻿Chas. Rosenbaur,﻿C.SS.R.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -48,10 +48,10 @@
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525,﻿-88.994229,﻿chi.il.0073,﻿Attended from Lincoln,﻿regularly,﻿tho_ogara_001,﻿Rev.,﻿Thomas O'Gara,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0031,﻿church,﻿Holy Trinity,﻿German,﻿German Catholic church,,,﻿McLean County,,﻿Bloomington,﻿Bloomington,﻿IL,,﻿40.48525,﻿-88.994229,,,,﻿d_egan_001,﻿Rev.,﻿Dominick Egan,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0032,﻿church,﻿Notre Dame,English,,,,﻿Kankakee County,,﻿Bourbonnais Grove,﻿Bourbonnais,﻿IL,,﻿41.156489,﻿-87.876276,,,,,﻿Rev.,﻿-,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0033,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,﻿Brimfield,﻿IL,,﻿40.839761,﻿-89.888829,,,,﻿j_murphy_005,﻿Rev.,﻿J. Murphy,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0033,﻿church,﻿St. Joseph's,English,,,,﻿Peoria County,,﻿Brimfield,﻿Brimfield,﻿IL,,﻿40.839761,﻿-89.888829,,,,﻿j_murphy_002,﻿Rev.,﻿J. Murphy,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0035,﻿church,﻿St. Peter's,English,,,,,﻿Iroquois County,﻿Clifton,﻿Clifton,﻿IL,,﻿40.935311,﻿-87.934485,,,,﻿p_pernin_001,﻿Rev.,﻿P. Pernin,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0036,﻿church,﻿St. Mary's,English,,,,﻿Fulton County,﻿Fulton County,﻿Canton,﻿Canton,﻿IL,,﻿40.557325,﻿-90.032147,,,﻿Attended twice a month,﻿j_ryan_001,﻿Rev.,﻿J. Ryan,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0037,﻿church,﻿St. Mary's,English,,,,﻿Champaign County,,﻿Champaign,﻿Champaign,﻿IL,,﻿40.117663,﻿-88.229347,,,,﻿pat_toner_003,﻿Rev.,﻿Patrick Toner,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0037,﻿church,﻿St. Mary's,English,,,,﻿Champaign County,,﻿Champaign,﻿Champaign,﻿IL,,﻿40.117663,﻿-88.229347,,,,﻿pat_toner_001,﻿Rev.,﻿Patrick Toner,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0039,﻿church,﻿St. Patrick's,English,,,,﻿Vermilion County,﻿Vermilion County,﻿Danville,﻿Danville,﻿IL,,﻿39.988206,﻿-88.257208,,,,﻿mic_prendergast_001,﻿Rev.,﻿M. Prendergast,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0040,﻿church,﻿St. Mary's,English,,,,﻿De Kalb County,,﻿De Kalb,﻿DeKalb,﻿IL,,﻿41.932944,﻿-88.748565,,,,﻿r_scott_001,﻿Rev.,﻿R. Scott,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0041,﻿church,﻿St. Patrick's,English,,,,﻿Lee County,,﻿Dixon,﻿Dixon,﻿IL,,﻿41.837361,﻿-89.483878,,,,﻿lou_lightner_001,﻿Rev.,﻿L. Lightner,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -75,7 +75,7 @@
 ﻿chi.il.0071,﻿church,﻿St. Patrick's,English,,,,﻿La Salle County,﻿La Salle County,﻿La Salle,﻿La Salle,﻿IL,,﻿41.331781,﻿-89.095748,,,,﻿tho_shaw_001,﻿Rev.,﻿Thomas Shaw,﻿C.M.,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0073,﻿church,﻿St. Patrick's,English,,,,﻿Logan County,﻿Logan County,﻿Lincoln,﻿Lincoln,﻿IL,,﻿40.154571,﻿-89.367972,,,,﻿tho_c_bourk_001,﻿Rev.,﻿Thomas Burk,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.585151,﻿-88.056978,,,,﻿joh_mackin_001,﻿Rev.,﻿John Macken,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.585151,﻿-88.056978,,,,﻿p_dalton_002,﻿Rev.,﻿P. Dalton,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0075,﻿church,﻿St. Denis,English,,,,﻿Will County,﻿Will County,﻿Lockport,﻿Lockport,﻿IL,,﻿41.585151,﻿-88.056978,,,,﻿p_dalton_001,﻿Rev.,﻿P. Dalton,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0077,﻿church,﻿St. Paul's,English,,,,﻿McDonough,﻿McDonough County,﻿Macomb,﻿Macomb,﻿IL,,﻿40.458629,﻿-90.675562,,,,﻿joh_larmer_001,﻿Rev.,﻿John Larmer,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0078,﻿church,﻿St. Patrick's,English,,,,﻿McHenry County,﻿McHenry County,﻿McHenry,﻿McHenry,﻿IL,,﻿42.349605,﻿-88.262939,,,,﻿p_birch_001,﻿Rev.,﻿P. Birch,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0079,﻿church,﻿St. John the Baptist,﻿German,,,,﻿McHenry County,,﻿McHenry,﻿Johnsburg,﻿IL,,﻿42.383105,﻿-88.242148,,,,﻿j_venn_001,﻿Rev.,﻿J. Venn,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -103,7 +103,7 @@
 ﻿chi.il.0101,﻿church,﻿St. Mary's,English,,,,﻿Livingston County,,﻿Pontiac,﻿Pontiac,﻿IL,,﻿40.881472,﻿-88.628431,,,,﻿f_quigly_001,﻿Rev.,﻿F. Quigly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0103,﻿church,﻿St. James',English,,,,﻿Winnebago County,,﻿Rockford,﻿Rockford,﻿IL,,﻿42.271242,﻿-89.085029,,,,﻿j_s_oneil_001,﻿Rev.,﻿J. S. O'Neil,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0104,﻿church,﻿St. Mary's,English,,,,﻿Rock Island County,﻿Rock Island County,﻿Rock Island,﻿Rock Island,﻿IL,,﻿41.50861,﻿-90.568896,,,,﻿p_t_mcelhearn_001,﻿Rev.,﻿P. T. McElhearn,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides County,,﻿Sterling,﻿Sterling,﻿IL,,﻿41.790784,﻿-89.69931,,,,﻿joh_daly_003,﻿Rev.,﻿John Daly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0108,﻿church,﻿St. Patrick's,English,,,,﻿Whitesides County,,﻿Sterling,﻿Sterling,﻿IL,,﻿41.790784,﻿-89.69931,,,,﻿joh_daly_001,﻿Rev.,﻿John Daly,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0109,﻿church,﻿St. Patrick's,English,,,,﻿Kane County,,﻿St. Charles,﻿St. Charles,﻿IL,,﻿41.914073,﻿-88.318451,,,,﻿pet_campbell_001,﻿Rev.,﻿Peter Campbell,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0110,﻿church,﻿St. Mary's,English,﻿vacant,,,﻿Iroquois County,,﻿St. Marie,﻿Beaverville,﻿IL,,﻿40.952871,﻿-87.653586,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0111,﻿church,[Unnamed Institution],English,,,,﻿Kankakee County,﻿Kankakee County,﻿St. George,﻿St George,﻿IL,,﻿41.192533,﻿-87.775596,,,,﻿pet_parradis_001,﻿Rev.,﻿P. Parradis,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
@@ -245,7 +245,7 @@
 ﻿chi.il.0368,﻿seminary,﻿Theological Seminary of St. Mary of the Lake,English,,﻿South-west corner of Chicago Avenue and Cass Street,,,,﻿Chicago,,,,﻿41.896601,﻿-87.62705,,,,﻿jos_p_roles_001,﻿Rev.,﻿P. Roles,,﻿Spiritual Director,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0234,﻿academy,﻿La Salle Academy,English,,,,﻿La Salle County,,﻿La Salle,﻿La Salle,﻿IL,,﻿41.36215,﻿-89.041825,,,,,,,,,,,,﻿Conducted by the Brothers of the Christian Schools,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0004_02,﻿college,﻿St. Ignatius' College,English,"﻿now under erection at a cost of two hundred thousand dollars, will be ready for the reception of students first Monday in September, 1868.",﻿Corner of Twelfth and May streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.866586,﻿-87.655052,,,,,,,,,,,,﻿Under the direction of the Jesuit Fathers,,1868,﻿,﻿,﻿Chicago,Chicago
-﻿chi.il.0007_02,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿pet_zimmer_003,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
+﻿chi.il.0007_02,﻿convent,﻿Redemptorist Convent,English,﻿For other Fathers see St. Michael's Church,﻿Corner of North avenue and Church street,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.91214,﻿-87.640934,,,,﻿pet_zimmer_001,﻿Rev.,﻿Peter Zimmer,﻿C.SS.R.,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0008_02,﻿convent,﻿Benedictine Convent,English,﻿See St. Joseph's Church,﻿Corner of Cass and Chicago avenue,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.896712,﻿-87.625557,,,,﻿lou_m_finke_001,﻿Rev.,﻿Louis M. Fink,,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0004_04,﻿convent,﻿Jesuit Fathers,English,﻿corner of Twelfth and May streets. See Church of Holy Family,,,,,,,,,﻿41.866586,﻿-87.655052,,,,﻿arn_damen_001,﻿Rev.,﻿A. Damen,﻿S.J.,﻿Superior,,,,,,1868,﻿,﻿,﻿Chicago,Chicago
 ﻿chi.il.0237,﻿school,﻿Brothers of Christian Schools,English,,﻿Corner of Desplain and Adams streets,,,,﻿Chicago,﻿Chicago,﻿IL,,﻿41.879518,﻿-87.644532,,,,,,,,,,,,,,1868,﻿,﻿,﻿Chicago,Chicago

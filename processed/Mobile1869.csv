@@ -3,7 +3,7 @@
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿a_d_pellicer_001,﻿Very Rev.,﻿A.D. Pellicer,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.69012,-88.045898,,,,﻿edw_lorigan_001,﻿Rev.,﻿Edward Lorigan,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿c_t_ocallaghan_001,﻿Rev.,﻿C.T. O'Callaghan,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿wm_lane_001,﻿Rev.,﻿Wm. Lane,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.586272,-88.195593,,,,﻿wm_lane_002,﻿Rev.,﻿Wm. Lane,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿p_ismand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0003,﻿church,﻿St. Joseph's,﻿German and English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,30.737853,-88.055473,,,,﻿j_roduit_001,﻿Rev.,﻿J. Roduit,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0004,﻿church,﻿St. Patrick's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,31.08858,-88.228791,,,,﻿j_j_browne_001,﻿Rev.,﻿J.J. Browne,,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
@@ -49,7 +49,7 @@
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿j_maitrugue_001,﻿Rev.,﻿J. Maitrugue,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿f_lespes_001,﻿Rev.,﻿F. Lespes,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿c_booker_001,﻿Rev.,﻿C. Booker,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿a_laurent_001,﻿Rev.,﻿A. Laurent,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿a_laurent_002,﻿Rev.,﻿A. Laurent,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,﻿g_jourdan_001,﻿Rev.,﻿G. Jourdan,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035_02,﻿seminary,﻿Ecclesiastical Seminary of the Diocese,English,﻿There are also clerical students of the Diocese at Rome.,﻿St. Joseph's College,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,30.69404201,-88.13786472,,,,,,,,,,﻿priest,"﻿Seminarians, nine in number",,,1869,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0037,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿3 miles from Mobile,,,,﻿Summerville,,﻿AL,,30.693505,-88.092947,,,,﻿m-stanislaus_campbell_mob.al_001,﻿Mother,﻿Mary Stanislaus Campbell,,﻿Superior,,﻿student,"﻿Pupils, over 100",,,1869,﻿,﻿,﻿Mobile,Mobile

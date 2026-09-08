@@ -177,10 +177,10 @@
 ﻿san.nm.0156,﻿chapel,﻿Sangre de Cristo,English,,,﻿Tome,,,﻿Valencia,﻿Valencia,﻿NM,,﻿35.991999,﻿-105.937086,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0157,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿La Ladera,﻿Chimayo,﻿NM,,﻿34.57395,﻿-106.749193,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0158,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,﻿32.106877,﻿-111.007983,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0001,﻿church,﻿Parish Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,﻿38.058333,﻿-104.414167,,,,﻿jp_macheboeuf_001,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0001,﻿church,﻿Parish Church of the Immaculate Conception,English,,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,﻿38.058333,﻿-104.414167,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0166,﻿church,[Unnamed Institution],English,,,,,,﻿Doil's Ranch,﻿Doyle Settlement,﻿CO,﻿CO,﻿38.058333,﻿-104.414167,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0041,﻿chapel,[Unnamed Institution],English,,,,,,﻿El Badito,﻿Badito,﻿CO,﻿CO,﻿37.72724,﻿-105.01406,﻿den.co.0001,﻿attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,﻿39.8019,﻿-105.5142,,,,﻿jb_raverdy_001,﻿Rev.,﻿J.B. Raverdy,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,﻿39.8019,﻿-105.5142,,,,﻿jb_raverdy_002,﻿Rev.,﻿J.B. Raverdy,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0041,﻿chapel,[Unnamed Institution],English,﻿Mexican Population. New chapel building.,,,﻿Huerfano County,﻿Huerfano County,﻿El Badito,﻿Badito,﻿CO,﻿CO,﻿37.72724,﻿-105.01406,﻿den.co.0037,﻿attended from Trinidad City,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0012,﻿chapel,﻿Chapel of St. Joseph,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Golden City,﻿Golden,﻿CO,﻿CO,﻿39.731705,﻿-105.196073,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0037,﻿church,[Unnamed Institution],English,﻿new parish church building,,,﻿Animas County,﻿Las Animas County,﻿Trinidad City,﻿Trinidad,﻿CO,﻿CO,﻿37.176802,﻿-104.52102,,,,﻿a_verinare_001,﻿Rev.,﻿A. Verinare,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
@@ -191,7 +191,7 @@
 ﻿den.co.0061,﻿chapel,[Unnamed Institution],English,,,,﻿Costilla County,﻿Costilla County,﻿Plasa Ariba,﻿Plaza Arriba,﻿CO,﻿CO,﻿37.160023,﻿-105.402175,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0042,﻿chapel,[Unnamed Institution],English,,,,﻿Costilla County,﻿Costilla County,﻿Vallecito,﻿Vallecito,﻿CO,﻿CO,﻿37.37528,﻿-107.583947,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0062,﻿chapel,[Unnamed Institution],English,﻿two chapels,,,﻿Costilla County,﻿Costilla County,﻿Rio Colorado,,﻿CO,﻿CO,,,﻿den.co.0024,﻿Attended from La Costilla,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0031,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,﻿37.088186,﻿-106.020078,,,,﻿m_rolly_001,﻿Rev.,﻿M. Rolly,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0031,﻿church,﻿Parish Church of Na. Sen. de Guadalupe,English,,,,﻿Conejos County,﻿Conejos County,﻿Los Conejos,﻿Antonito,﻿CO,﻿CO,﻿37.088186,﻿-106.020078,,,,﻿m_rolly_002,﻿Rev.,﻿M. Rolly,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0032,﻿chapel,[Unnamed Institution],English,,,,﻿Conejos County,﻿Conejos County,﻿El Cerito,﻿Los Cerritos,﻿CO,﻿CO,﻿37.14885,﻿-105.910425,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0034,﻿chapel,[Unnamed Institution],English,,,,﻿Conejos County,﻿Conejos County,﻿Los Pinos,﻿Ortiz,﻿CO,﻿CO,﻿37.301718,﻿-107.606332,﻿den.co.0031,﻿Attended from Los Conejos,,,,,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0222,﻿church,﻿San Xavier del Bac,English,﻿fine old brick church,,,,,,,﻿AZ,,﻿32.221667,﻿-110.926389,,,,﻿j_salpointe_001,﻿Very Rev.,﻿J. Salpointe,,,,,,,,1868,﻿,﻿,﻿Sante Fé,SantaFe

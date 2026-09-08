@@ -16,7 +16,7 @@
 ﻿san.nm.0010,﻿chapel,﻿Chapel of San Isidro,English,,,﻿Santa Fé,,,﻿Rio Tesuque,﻿Tesuque,﻿NM,,35.549994,-105.689158,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0011,﻿chapel,﻿Chapel of San Diego,English,﻿Pueblo Indians,,﻿Santa Fé,,,﻿Tesque,﻿Tesuque Pueblo,﻿NM,,35.757876,-105.924082,﻿san.nm.0001,﻿Attended from Santa Fe,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0013,﻿church,﻿Santa Rosa's Chapel,English,,,﻿Abiquiu,,,﻿Abiquiu,﻿Abiquiu,﻿NM,,,,,,,﻿p_bernal_001,﻿Rev.,﻿Peter Bernal,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿san.nm.0013,﻿church,﻿Santa Rosa's Chapel,English,,,﻿Abiquiu,,,﻿Abiquiu,﻿Abiquiu,﻿NM,,,,,,,﻿m_rolly_001,﻿Rev.,﻿M. Rolly,﻿Assistant,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿san.nm.0013,﻿church,﻿Santa Rosa's Chapel,English,,,﻿Abiquiu,,,﻿Abiquiu,﻿Abiquiu,﻿NM,,,,,,,﻿m_rolly_002,﻿Rev.,﻿M. Rolly,﻿Assistant,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0014,﻿chapel,[Unnamed Institution],English,,,﻿Abiquiu,,,﻿El Rito,﻿El Rito,﻿NM,,36.209999,-106.290624,﻿san.nm.0012,﻿Attended from Abiquiu,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0015,﻿chapel,[Unnamed Institution],English,,,﻿Abiquiu,,,﻿Los Ancones,﻿Ancones,﻿NM,,36.344236,-106.188487,﻿san.nm.0012,﻿Attended from Abiquiu,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0016,﻿chapel,[Unnamed Institution],English,,,﻿Abiquiu,,,﻿Servieta,,﻿NM,,36.423908,-106.063076,﻿san.nm.0012,﻿Attended from Abiquiu,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
@@ -129,7 +129,7 @@
 ﻿san.nm.0158,﻿chapel,[Unnamed Institution],English,,,﻿Tome,,,﻿Casa Colorada,﻿Casa Colorada,﻿NM,,32.106877,-111.007983,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0239,﻿chapel,[Unnamed Institution],English,,,,,,﻿La. Peralta,﻿Peralta,﻿NM,,34.828333,-106.685833,﻿san.nm.0155,﻿Attended from Tome,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿san.nm.0215,﻿church,﻿Parish Church,English,,,,,,﻿Las Cruces,﻿Las Cruces,﻿AZ,,32.314444,-106.778889,,,,﻿dam_taladrid_001,﻿Rev.,﻿J. D. Taladrid,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
-﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,﻿new brick church,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_001,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
+﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,﻿new brick church,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,﻿CO,39.739236,-104.990251,,,,﻿jp_macheboeuf_002,﻿Very Rev.,﻿J.P. Macheboeuf,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0001,﻿church,﻿Church of the Immaculate Conception,English,﻿new brick church,,,﻿Arapahoe County,﻿City and County of Denver,﻿Denver City,﻿Denver,﻿CO,,39.739236,-104.990251,,,,﻿jb_raverdy_002,﻿Rev.,﻿J. B. Ravery,﻿Assistant,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0016,﻿church,﻿St. Patrick's,English,,,,﻿Gilpin County,﻿Gilpin County,﻿Central City,﻿Central City,﻿CO,﻿CO,39.8019,-105.5142,,,,﻿tho_a_smith_001,﻿Rev.,﻿Thomas A. Smith,﻿Pastor,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe
 ﻿den.co.0041,﻿chapel,[Unnamed Institution],English,"﻿Mexican Population, church building on a beautiful farm given to the Church",,,﻿Huerfano County,﻿Huerfano County,,,﻿CO,﻿CO,37.72724,-105.01406,﻿den.co.0001,﻿Attended from Denver,,,,,,,,,,,,1866,﻿,﻿,﻿Sante Fé,SantaFe

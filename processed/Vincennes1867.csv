@@ -43,7 +43,7 @@
 ﻿vin.in.0064,﻿church,﻿St. John's,English,﻿(new church building),,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.741813,-86.31917,,,,﻿aug_bessonies_001,﻿Rev.,﻿Aug. Bessonies,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0064,﻿church,﻿St. John's,English,﻿(new church building),,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.741813,-86.31917,,,,﻿p_r_fitzpatrick_001,﻿Rev.,﻿P. R. Fitzpatrick,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0065,﻿church,﻿St. Mary's,﻿German,,,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.772296,-86.150314,,,,﻿s_siegrist_001,﻿Rev.,﻿S. Siegrist,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0066,﻿church,﻿St. Peter's,English,,,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.747696,-86.12213,,,,﻿jos_petit_002,﻿Rev.,﻿Jos. Petit,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0066,﻿church,﻿St. Peter's,English,,,,﻿Marion County,,﻿Indianapolis,﻿Indianapolis,﻿IN,,39.747696,-86.12213,,,,﻿jos_petit_001,﻿Rev.,﻿Jos. Petit,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0067,﻿church,[Unnamed Institution],English,,,,﻿Ripley County,,﻿Indian Kentuck,﻿Madison,﻿IN,,38.775154,-85.478806,﻿vin.in.0081,﻿Attended from Madison,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0068,﻿church,[Unnamed Institution],English,﻿no church,,,﻿Clay County,,﻿Irish Settlement,,﻿IN,,39.386226,-87.11109,﻿vin.in.0164,﻿Attended from Terre Haute,﻿occasionally,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0069,﻿church,﻿St. Joseph's,English,,,,﻿Dubois County,,﻿Jasper,﻿Jasper,﻿IN,,38.395633,-86.932678,,,,﻿p_f_maute_001,﻿Rev.,﻿P. Fidelis Maute,﻿O.S.B.,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -52,7 +52,7 @@
 ﻿vin.in.0072,﻿church,[Unnamed Institution],English,,,,﻿Henry County,,﻿Knightstown,﻿Knightstown,﻿IN,,39.795601,-85.526363,﻿vin.in.0020,﻿Attended from Cambridge City,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0073,﻿church,﻿St. Mary's,English,,,,﻿Harrison County,,﻿Lanesville,﻿Lanesville,﻿IN,,38.23654,-85.981932,,,,﻿alp_munschina_001,﻿Rev.,﻿A. Munschina,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0075,﻿church,﻿St. Lawrence's,English,,,,﻿Dearborn County,,﻿Lawrenceburgh,﻿Lawrenceburg,﻿IN,,39.090891,-84.84995,,,,﻿cl_scheve_001,﻿Rev.,﻿Cl. Scheve,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0076,﻿church,﻿St. Augustine's,English,,,,﻿Perry County,,﻿Leopold,﻿Leopold,﻿IN,,38.015904,-86.661108,,,,﻿p_crud_001,﻿Rev.,﻿P. Crud,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0076,﻿church,﻿St. Augustine's,English,,,,﻿Perry County,,﻿Leopold,﻿Leopold,﻿IN,,38.015904,-86.661108,,,,﻿p_crud_002,﻿Rev.,﻿P. Crud,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0079,﻿church,﻿St. Bridget's,English,,,,﻿Union County,,﻿Liberty,﻿Liberty,﻿IN,,39.63343,-84.924322,﻿vin.in.0031,﻿Attended from Connersville,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0080,﻿church,﻿St. John's,English,,,,﻿Martin County,,﻿Loogootee,﻿Loogootee,﻿IN,,38.677249,-86.915538,,,,﻿lou_gueguen_001,﻿Rev.,﻿L. Gueguen,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,﻿Madison,﻿IN,,38.735119,-85.373002,,,,﻿h_dupontavice_001,﻿Very Rev.,﻿H. Dupontavice,,﻿Vicar-General,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
@@ -110,7 +110,7 @@
 ﻿vin.in.0139,﻿church,﻿St. Joseph's,English,﻿New-Albany P. O.,,,﻿Clarke County,﻿Clark County,,,﻿IN,,38.44929,-85.725637,,,,﻿m_panzer_001,﻿Rev.,﻿M. Panzer,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0140,﻿church,﻿St. Joseph's,English,,,,﻿Crawford County,,,,﻿IN,,38.305455,-86.459209,﻿vin.in.0217,﻿Attended from Knobs,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0141,﻿church,﻿St. Joseph's,English,,﻿St. Leon's P.O.,,﻿Dearborn County,,,,﻿IN,,39.292985,-84.957842,,,,﻿ant_schneideler_001,﻿Rev.,﻿Ant. Scheidler,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0142,﻿church,﻿St. Joseph's,English,,﻿Evansville P.O.,,﻿Vanderburgh County,,,,﻿IN,,37.976877,-87.600637,,,,﻿j_b_merl_002,﻿Rev.,﻿J. B. Merl,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0142,﻿church,﻿St. Joseph's,English,,﻿Evansville P.O.,,﻿Vanderburgh County,,,,﻿IN,,37.976877,-87.600637,,,,﻿j_b_merl_001,﻿Rev.,﻿J. B. Merl,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0144,﻿church,﻿St. Martin's,English,,,,﻿Perry County,,,,﻿IN,,38.015904,-86.661108,﻿vin.in.0150,﻿Attended from St. Meinrad,,,,,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0145,﻿church,﻿St. Mary's,English,,﻿Loogootee P.O.,,﻿Daviess County,,,,﻿IN,,38.702024,-87.142289,,,,﻿p_leblanc_001,﻿Rev.,﻿P. Leblanc,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.0147,﻿church,﻿St. Mary's of the Rocks,English,,﻿Haymond P.O.,,﻿Franklin County,,,,﻿IN,,39.348812,-85.108517,,,,﻿t_kauffmann_001,﻿Rev.,﻿T. Kauffmann,,,,,,,,1867,﻿,﻿,﻿Vincennes,Vincennes

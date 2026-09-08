@@ -23,7 +23,7 @@
 ﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.340386,-71.07378,,,,﻿geo_f_haskins_001,﻿Rev.,﻿George F. Haskins,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.340386,-71.07378,,,,﻿r_j_quinlan_001,﻿Rev.,﻿R. J. Quinlan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0007,﻿church,﻿St. Stephen's,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.340386,-71.07378,,,,﻿ant_molinari_001,﻿Rev.,﻿Antonio Molinari,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿joh_bapst_001,﻿Rev.,﻿John Bapst,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿joh_bapst_002,﻿Rev.,﻿John Bapst,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿edw_h_welch_001,﻿Rev.,﻿E. H. Welch,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿rob_fulton_001,﻿Rev.,﻿Robert Fulton,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0008,﻿church,﻿Immaculate Conception,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿alp_charlier_001,﻿Rev.,﻿Alphonsus Charlier,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -81,7 +81,7 @@
 ﻿bos.ma.0057,﻿church,﻿St. John the Evangelist,English,,,,,,﻿Chelmsford,﻿Chelmsford,﻿MA,,42.63548,-71.373249,﻿bos.ma.0084,﻿Attended from Groton Junction,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0058,﻿church,﻿St. Rose,English,,,,,,﻿Chelsea,﻿Chelsea,﻿MA,,42.394432,-71.031958,,,,﻿jam_mcglew_001,﻿Rev.,﻿James McGlew,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0059,﻿church,[Unnamed Institution],English,,,,,,﻿Cheshire,﻿Cheshire,﻿MA,,42.562028,-73.162881,﻿bos.ma.0141,﻿Attended from Pittsfield,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿pat_healy_002,﻿Rev.,﻿Patrick Healy,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿pat_healy_001,﻿Rev.,﻿Patrick Healy,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0060,﻿church,﻿Most Holy Name of Jesus,English,,,,,,﻿Chicopee,﻿Chicopee,﻿MA,,42.14642,-72.605581,,,,﻿p_mcmanus_001,﻿Rev.,﻿P. McManus,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0061,﻿church,﻿St. John's,English,,,,,,﻿Clinton,﻿Clinton,﻿MA,,42.416477,-71.68628,,,,﻿ric_j_patterson_001,﻿Rev.,﻿R. J. Patterson,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0062,﻿church,[Unnamed Institution],English,,,,,,﻿Cohasset,﻿Cohasset,﻿MA,,42.241767,-70.803654,﻿bos.ma.0187,﻿Attended from Weymouth,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -161,7 +161,7 @@
 ﻿bos.ma.0124,﻿church,﻿St. Patrick's,English,,,,,,﻿Monson,﻿Monson,﻿MA,,42.094738,-72.312934,﻿bos.ma.0138,﻿Attended from Palmer,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0125,﻿church,[Unnamed Institution],English,,,,,,﻿Nahant,﻿Nahant,﻿MA,,42.426563,-70.922279,﻿bos.ma.0113,﻿Attended from Lynn,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0126,﻿church,[Unnamed Institution],English,,,,,,﻿Nantucket,﻿Nantucket,﻿MA,,41.28394,-70.099989,﻿bos.ma.0086,﻿Attended from Harwich,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.284798,-71.343952,,,,﻿joh_walsh_001,﻿Rev.,﻿John Walsh,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0127,﻿church,﻿St. Patrick's,English,,,,,,﻿Natick,﻿Natick,﻿MA,,42.284798,-71.343952,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walsh,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0128,﻿church,[Unnamed Institution],English,,,,,,﻿Needham,﻿Needham,﻿MA,,42.280929,-71.237755,﻿bos.ma.0127,﻿Attended from Natick,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,﻿(new church building),﻿(new church building),,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.636215,-70.934205,,,,﻿l_s_mcmahon_001,﻿Rev.,﻿L. S. McMahon,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0129,﻿church,﻿St. Mary's,English,﻿(new church building),﻿(new church building),,,,﻿New Bedford,﻿New Bedford,﻿MA,,41.636215,-70.934205,,,,﻿pet_ronan_001,﻿Rev.,﻿Peter Ronan,,,,,,,,1869,﻿,﻿,﻿Boston,Boston
@@ -248,7 +248,7 @@
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.239239,-71.807961,,,,﻿jam_major_001,﻿Rev.,﻿James Major,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.239239,-71.807961,,,,﻿leo_nota_001,﻿Rev.,﻿Leonard Nota,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0197,﻿college,﻿College of the Holy Cross,English,﻿Under the direction of the Fathers of the Society of Jesus. The course of studies is the same as that usually pursued in colleges of the Order.,,,,,﻿Worcester,﻿Worcester,﻿MA,,42.239239,-71.807961,,,,﻿jam_mcguigan_001,﻿Rev.,﻿James McGuigan,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿for day-scholars only,"﻿Harrison Avenue, near the Church of the Immaculate Conception",,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿joh_bapst_001,﻿Rev.,﻿John Bapst,﻿S.J.,﻿Rector,,,,,,1869,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿for day-scholars only,"﻿Harrison Avenue, near the Church of the Immaculate Conception",,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿joh_bapst_002,﻿Rev.,﻿John Bapst,﻿S.J.,﻿Rector,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0198,﻿college,﻿Boston College,English,﻿for day-scholars only,"﻿Harrison Avenue, near the Church of the Immaculate Conception",,,,﻿Boston,﻿Boston,﻿MA,,42.336818,-71.073175,,,,﻿edw_h_welch_001,﻿Rev.,﻿Edward H. Welch,﻿S.J.,﻿Secretary,,,,,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0199,"﻿academy, school",﻿Notre Dame Academy and Boarding-School,English,﻿in charge of the Sisters of Notre Dame,,,,,﻿Boston Highlands,﻿Boston Highlands,﻿MA,,42.360083,-71.05888,,,,﻿aloysius_bos.ma_001,﻿Sister,﻿Aloysius,,﻿Sister-Superior,,,,﻿in charge of the Sisters of Notre Dame,,1869,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0200,﻿academy,﻿Academy of Notre Dame d'Esperance,English,﻿for day scholars,﻿Berkeley street,,,,﻿Boston,﻿Boston,﻿MA,,42.350441,-71.07266,,,,,,,,,,,,,,1869,﻿,﻿,﻿Boston,Boston

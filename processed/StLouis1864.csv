@@ -9,7 +9,7 @@
 ﻿stl.mo.0003,﻿church,﻿St. Francis Xavier's,English,﻿residence St. Louis University,﻿Ninth and Green streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631688,-90.192434,,,,﻿joh_coghlan_002,﻿Rev.,﻿J. Coghlan,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0004,﻿church,﻿St. Patrick's,English,﻿residence adjoining,﻿Sixth and Biddle streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.635912,-90.187309,,,,﻿w_wheeler_001,﻿Rev.,﻿W. Wheeler,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0004,﻿church,﻿St. Patrick's,English,﻿residence adjoining,﻿Sixth and Biddle streets,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.635912,-90.187309,,,,﻿ch_ziegler_001,﻿Rev.,﻿C. Ziegler,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0005,﻿church,﻿St. Michael's,English,﻿residence adjoining,﻿Jefferson street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.647536,-90.191275,,,,﻿p_obrien_001,﻿Rev.,﻿P. O'Brien,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0005,﻿church,﻿St. Michael's,English,﻿residence adjoining,﻿Jefferson street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.647536,-90.191275,,,,﻿p_obrien_002,﻿Rev.,﻿P. O'Brien,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006,﻿church,﻿Holy Trinity,﻿German,﻿residence adjoining,﻿New Bremen,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.66013,-90.198461,,,,﻿j_doebbener_001,﻿Rev.,﻿J. Doeblener,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0006,﻿church,﻿Holy Trinity,﻿German,﻿residence adjoining,﻿New Bremen,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.66013,-90.198461,,,,﻿f_brinkhoff_001,﻿Rev.,﻿F. Brinkhoff,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0007,﻿church,﻿St. Vincent de Paul's,English,﻿residence adjoining,﻿Decatur street,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.613308,-90.200597,,,,﻿tho_burke_001,﻿Rev.,﻿T. Burke,﻿C.M.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -88,7 +88,7 @@
 ﻿stl.mo.0200,﻿church,﻿St. Joseph's,English,,,,﻿Osage County,,﻿New-Westphalia,,﻿MO,,38.440703,-91.996386,,,,﻿joh_b_goeldlin_001,﻿Rev.,﻿J. Goeldlin,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0200,﻿church,﻿St. Joseph's,English,,,,﻿Osage County,,﻿New-Westphalia,,﻿MO,,38.440703,-91.996386,,,,﻿h_van-mierlo_001,﻿Rev.,﻿H. Van Mierlo,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0200,﻿church,﻿St. Joseph's,English,,,,﻿Osage County,,﻿New-Westphalia,,﻿MO,,38.440703,-91.996386,,,,﻿w_niederkorn_001,﻿Rev.,﻿W. Niederkorn,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0221,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿North Santa Fé,,﻿MO,,40.259118,-91.616635,,,,﻿j_murphy_004,﻿Rev.,﻿J. Murphy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0221,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿North Santa Fé,,﻿MO,,40.259118,-91.616635,,,,﻿j_murphy_005,﻿Rev.,﻿J. Murphy,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0106,﻿church,﻿St. Joachim,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.015328,-90.755964,,,,﻿j_fox_001,﻿Rev.,﻿J. Fox,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0106,﻿church,﻿St. Joachim,English,,,,﻿Washington County,,﻿Old Mines,﻿Old Mines,﻿MO,,38.015328,-90.755964,,,,﻿l_smyth_stl.mo_001,,﻿L. Smyth,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0109,﻿church,﻿Our Lady of Dolors,English,,,,﻿Franklin County,,,,﻿MO,,38.410977,-91.051467,,﻿------,﻿Visited monthly,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -96,7 +96,7 @@
 ﻿stl.mo.0115,﻿church,[Unnamed Institution],English,,,,﻿Washington County,,﻿Potosi,﻿Potosi,﻿MO,,37.936438,-90.787909,﻿stl.mo.0106,﻿attended from Old Mines,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0239,﻿church,﻿St. Michael's,English,﻿vacant,,,﻿Gasconade County,,﻿Reed Settlement,,﻿MO,,38.4236775,-91.50603228,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0120,﻿church,﻿St. Stephen's,English,,,,﻿Washington County,,﻿Richwoods,﻿Richwoods,﻿MO,,38.16062,-90.827995,﻿stl.mo.0106,﻿attended from Old Mines,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.788106,-90.497436,,,,﻿m_oakley_001,﻿Rev.,﻿M. Oakley,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.788106,-90.497436,,,,﻿m_oakley_002,﻿Rev.,﻿M. Oakley,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.788106,-90.497436,,,,﻿joh_setters_001,﻿Rev.,﻿John Setters,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0129,﻿church,﻿St. Charles',English,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.788106,-90.497436,,,,﻿pet_j_verhaegen_001,﻿Rev.,﻿P. J. Verhaegen,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0130,﻿church,﻿St. Peter's,﻿German,,,,﻿St. Charles County,,﻿St. Charles,﻿St. Charles,﻿MO,,38.766639,-90.610943,,,,﻿c_wapelhorst_001,﻿Rev.,﻿C. Wapelhorst,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -108,7 +108,7 @@
 ﻿stl.mo.0240,﻿church,﻿St. Peter and Paul,English,,,,﻿St. Charles County,,,,﻿MO,,38.78343571,-90.63158327,,﻿-------,﻿attended bimonthly,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0223,﻿church,﻿St. Peter's,English,﻿vacant,,,﻿St. Charles County,,,,﻿MO,,38.780152,-90.705924,,,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0136,﻿church,﻿St. Genevieve,English,,,,﻿St. Genevieve County,,,,﻿MO,,37.978662,-90.047558,,,,﻿p_l_henderickx_002,﻿Rev.,﻿P. L. Henderickx,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0137,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿St. Marysville,,﻿MO,,40.264488,-91.62766,,,,﻿j_murphy_004,﻿Rev.,﻿J. Murphy,,,﻿(P.O. St. Patrick),,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0137,﻿church,[Unnamed Institution],English,,,,﻿Clark County,,﻿St. Marysville,,﻿MO,,40.264488,-91.62766,,,,﻿j_murphy_005,﻿Rev.,﻿J. Murphy,,,﻿(P.O. St. Patrick),,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0220,﻿church,[Unnamed Institution],English,,,,﻿Jackson County,,﻿Silbey,﻿Sibley,﻿MO,,39.17773,-94.200456,﻿stl.mo.0075,﻿Attended from Independence,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0241,﻿church,﻿St. Francis Xavier's,English,,﻿Taos P.O.,,﻿Osage County,,,,﻿MO,,38.3853377,-91.9099238,﻿stl.mo.0073,﻿Attended from Harr's Settlement,,﻿f_helias_001,﻿Rev.,﻿F. Helias,﻿S.J.,,﻿(Taos P.O.),,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0201,﻿church,[Unnamed Institution],English,,,,,,﻿Tully,﻿Canton,﻿MO,,40.130123,-91.521128,﻿stl.mo.0137,﻿Attended from St. Marysville,,,,,,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -128,7 +128,7 @@
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿j_v_kelly_001,﻿Rev.,﻿J. Kelly,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿f_m_barbier_001,﻿Rev.,﻿F. Barbier,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿joh_b_tornatore_001,﻿Rev.,﻿S. B. Tornatore,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿j_molony_001,﻿Rev.,﻿J. Molony,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿j_molony_002,﻿Rev.,﻿J. Molony,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0209,﻿seminary,﻿St. Mary's Preparatory Seminary,English,,,,﻿Perry County,,﻿Barrens,﻿Perryville,﻿MO,,37.726667,-89.884167,,,,﻿d_derrick_001,﻿Rev.,﻿D. Derrick,﻿C.M.,,,﻿student,﻿80 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0210,﻿novitiate,﻿Scholasticate and Novitiate of Congregation of the Mission,English,﻿adjourning St. Vincent's Church,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.634331,-90.237679,,,,﻿s_v_ryan_001,﻿Very Rev.,﻿S. V. Ryan,﻿V.C.M.,,,﻿student,﻿12 students,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0210,﻿novitiate,﻿Scholasticate and Novitiate of Congregation of the Mission,English,﻿adjourning St. Vincent's Church,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.634331,-90.237679,,,,﻿j_j_quigley_001,﻿Rev.,﻿J. J. Quigly,﻿C.M.,﻿Director of Novices,,﻿religious,﻿8 novices,,,1864,﻿,﻿,﻿St. Louis,StLouis
@@ -141,7 +141,7 @@
 ﻿stl.mo.0149,﻿novitiate,﻿St. Stanislaus' Noviate of Society of Jesus,English,,,,,,﻿Florissant,﻿Florissant,﻿MO,,38.801523,-90.364818,,,,﻿jud_f_van-assche_001,﻿Rev.,﻿J. F. Van Assche,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿f_coosemans_001,﻿Very Rev.,﻿F. Coosemans,﻿S.J.,﻿V. Provincial,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿tho_oneil_001,﻿Rev.,﻿T. O'Neil,﻿S.J.,﻿President,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿jos_e_keller_001,﻿Rev.,﻿Jos E. Keller,﻿S.J.,﻿Socius,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿jos_e_keller_002,﻿Rev.,﻿Jos E. Keller,﻿S.J.,﻿Socius,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿fel_l_verreydt_001,﻿Rev.,﻿F. Verreydt,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿f_j_boudreaux_001,﻿Rev.,﻿F. Boudreaux,﻿S.J.,﻿Minister,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0148,﻿university,﻿St. Louis University,English,,,,,,﻿St. Louis,﻿St. Louis,﻿MO,,38.631075,-90.19101,,,,﻿a_levisse_001,﻿Rev.,﻿A. Levisse,﻿S.J.,,,,,,,1864,﻿,﻿,﻿St. Louis,StLouis

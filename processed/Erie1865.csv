@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.132666,-80.083745,,,,﻿joh_d_coady_001,﻿The Bishop and Very Rev.,﻿John D. Coady,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿mei_jeggle_002,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿mei_jeggle_001,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿Ninth street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿tha_heinzelmayer_001,﻿Rev.,﻿Thaddeus Heinzelmayer,﻿O.S.B.,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0046,﻿church,﻿St. Francis,English,,,,﻿Erie County,,﻿McKean Township,﻿McKean,﻿PA,,41.996885,-80.143314,,,,﻿a_reck_002,﻿Rev.,﻿Antony Reck,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0010,﻿church,﻿St. Boniface,English,,,,﻿Erie County,,﻿Green Township,,﻿PA,,42.066656,-79.970426,,,,﻿f_j_oberhofer_001,﻿Rev.,﻿F. J. Oberhofer,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
@@ -10,7 +10,7 @@
 ﻿erie.pa.0132,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Union,,﻿PA,,41.896111,-79.844444,,,,﻿tho_lonnergan_001,﻿Rev.,﻿T. Lonergan,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0048,﻿church,﻿St. Agatha's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635165,-80.150752,,,,﻿wil_engeln_001,﻿Rev.,﻿William Engeln,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0047,﻿church,﻿St. Bride's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635644,-80.150636,,,,﻿sam_fayella_001,﻿Rev.,﻿Samuel Fayella,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0047,﻿church,﻿St. Bride's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635644,-80.150636,,,,﻿jam_titta_001,﻿Rev.,﻿James Titta,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0047,﻿church,﻿St. Bride's,English,,,,﻿Crawford County,,﻿Meadville,﻿Meadville,﻿PA,,41.635644,-80.150636,,,,﻿jam_titta_002,﻿Rev.,﻿James Titta,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0017,﻿church,﻿St. Hippolytus,English,,,,﻿Crawford County,,﻿Mead Township,,﻿PA,,41.612507,-80.021735,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0024,﻿church,﻿St. Peter and Paul,English,,,,﻿Crawford County,,﻿Randolph Township,,﻿PA,,41.829255,-80.237506,,,,﻿m_a_de-la-rocque_001,﻿Rev.,﻿M. A. De La Rocque,,,,,,,,1865,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0076,﻿church,﻿St. Titus,English,,,,﻿Crawford County,,﻿Titusville,﻿Titusville,﻿PA,,41.62789,-79.681405,,,,﻿nap_mignault_001,﻿Rev.,﻿Napoleon Mignault,,,,,,,,1865,﻿,﻿,﻿Erie,Erie

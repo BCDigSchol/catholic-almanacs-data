@@ -9,7 +9,7 @@
 ﻿har.ct.0002,﻿church,﻿St. Patrick's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.8326,-71.419564,,,,﻿pat_lambe_001,﻿Rev.,﻿Patrick Lambe,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0003,﻿church,﻿St. Joseph's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.821391,-71.396625,,,,﻿pet_browne_001,﻿Rev.,﻿Peter Browne,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0005,﻿church,﻿Immaculate Conception,English,,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿edw_j_cooney_001,﻿Rev.,﻿Edward J. Cooney,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0004,﻿church,﻿St. Mary's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿joh_quinn_004,﻿Rev.,﻿John Quinn,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0004,﻿church,﻿St. Mary's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿joh_quinn_001,﻿Rev.,﻿John Quinn,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0006,﻿church,﻿St. Bernard's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.801501,-71.413247,,,,﻿ber_d_coit_001,﻿Rev.,﻿Bernard D. Coit,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0008,﻿chapel,﻿St. Catharine's Chapel,English,,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,,41.821092,-71.414004,,,,﻿dan_mullen_001,﻿Rev.,﻿D. Mullen,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0008,﻿chapel,﻿Our Lady of Mercy,English,,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,,41.821092,-71.414004,,,,﻿hug_carmody_001,﻿Rev.,﻿Hugh Carmody,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
@@ -60,7 +60,7 @@
 ﻿har.ct.0081,﻿church,[Unnamed Institution],English,,,,,﻿New London County,﻿Lyme,﻿Lyme,﻿CT,,41.400812,-72.342952,﻿har.ct.0043,﻿attended from Brantford,,,,,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0082,﻿church,[Unnamed Institution],English,,,,,﻿New Haven County,﻿Madison,﻿Madison,﻿CT,,41.295991,-72.575415,﻿har.ct.0043,﻿attended from Brantford,﻿once a month,,,,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0083,﻿church,﻿St. Mary's,English,,,,,﻿Hartford County,﻿Manchester,﻿Manchester,﻿CT,,41.800189,-72.521592,,,﻿,﻿b_tully_001,﻿Rev.,﻿B. Tully,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿tho_walsh_004,﻿Rev.,﻿Thomas Walsh,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿tho_walsh_002,﻿Rev.,﻿Thomas Walsh,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿Middlesex County,﻿Middle Haddam,﻿Middletown,﻿CT,,41.534956,-72.793037,﻿har.ct.0043,﻿attended from Brantford,,,,,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0087,﻿church,﻿St. John's,English,,,,,﻿Middlesex County,﻿Middletown,﻿Middletown,﻿CT,,41.567417,-72.652892,,,,﻿jam_lynch_001,﻿Rev.,﻿James Lynch,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0088,﻿church,﻿St. Mary's,English,,,,,﻿New Haven County,﻿Milford,﻿Milford,﻿CT,,41.326215,-72.922908,,,,﻿p_smyth_001,﻿Rev.,﻿P. Smyth,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
@@ -74,7 +74,7 @@
 ﻿har.ct.0097,﻿church,﻿St. Mary's,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,,41.311921,-72.923824,,,,﻿e_j_obrien_001,﻿Rev.,﻿E. J. O'Brien,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0098,﻿church,﻿St. Patrick's,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,,41.296715,-72.943131,,,,﻿mat_hart_001,﻿Rev.,﻿Matthew Hart,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0098,﻿church,﻿St. Patrick's,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,,41.296715,-72.943131,,,,﻿joh_sheridan_001,﻿Rev.,﻿John Sheridan,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0099,﻿church,﻿St. John's,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,,41.316121,-72.916763,,,,﻿joh_smith_001,﻿Rev.,﻿John Smith,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0099,﻿church,﻿St. John's,English,,,,,﻿New Haven County,﻿New Haven,﻿New Haven,﻿CT,,41.316121,-72.916763,,,,﻿joh_smith_002,﻿Rev.,﻿John Smith,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0101,﻿church,[Unnamed Institution],English,,,,,﻿Fairfield County,﻿New Fairfield,﻿New Fairfield,﻿CT,,41.466099,-73.485646,﻿har.ct.0055,﻿attended from Danbury,,,,,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0102,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,,﻿Litchfield County,﻿New Milford,﻿New Milford,﻿CT,,41.581076,-73.411529,﻿har.ct.0103,﻿attended from Newtown,,,,,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0103,﻿church,﻿St. Rose of Lima,English,,,,,﻿Fairfield County,﻿Newtown,﻿Newtown,﻿CT,,41.415571,-73.297756,,,,﻿fra_j_lanihan_001,﻿Rev.,﻿Francis J. Lanihan,,,,,,,,1861,﻿,﻿,﻿Hartford,Hartford

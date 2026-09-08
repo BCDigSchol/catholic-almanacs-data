@@ -2,7 +2,7 @@
 ﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie city,﻿Erie,﻿PA,,42.132666,-80.083745,,,,,﻿The Bishop,,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0001,﻿cathedral,﻿St. Patrick's,English,,﻿Fourth street,,﻿Erie County,,﻿Erie city,﻿Erie,﻿PA,,42.132666,-80.083745,,,,﻿joh_d_coady_001,﻿Very Rev.,﻿John D. Coady,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿cas_seitz_001,﻿Rev.,﻿Casimir Seitz,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿mei_jeggle_002,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿mei_jeggle_001,﻿Rev.,﻿Meinrad Jeggle,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0002,﻿church,﻿St. Mary's,English,,﻿9th street,,﻿Erie County,,﻿Erie,﻿Erie,﻿PA,,42.128843,-80.076118,,,,﻿erh_vanino_002,﻿Rev.,﻿Erhard Vanino,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0046,﻿church,﻿St. Francis,English,,"﻿Erie, P. O.",,﻿Erie County,,﻿McKean Township,﻿McKean,﻿PA,,41.996885,-80.143314,,,,﻿f_j_oberhofer_001,﻿Rev.,﻿F. J. Oberhofer,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0010,﻿church,﻿St. Boniface,English,,"﻿Erie, P. O.",,﻿Erie County,,﻿Green Township,,﻿PA,,42.0666555,-79.9704256,,,,﻿f_j_oberhofer_001,﻿Rev.,﻿F. J. Oberhofer,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
@@ -48,7 +48,7 @@
 ﻿erie.pa.0138,﻿station,[Unnamed Institution],English,,,,﻿Potter County,,﻿Coudersport,,﻿PA,,41.773889,-78.018611,,,,﻿joh_l_madigan_001,﻿Rev.,﻿John L. Madigan,,,﻿of Sartwell,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿rom_hill_002,﻿Rev.,﻿Roman Hill,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿ger_pilz_001,﻿Rev.,﻿Gerard Pilz,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿ath_hintenach_002,﻿Rev.,﻿Athanasius Hintenach,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿ath_hintenach_001,﻿Rev.,﻿Athanasius Hintenach,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085,﻿church,﻿St. Mary's,English,,,,﻿Elk County,,﻿St. Marystown,﻿St. Mary's,﻿PA,,41.42954464,-78.56972001,,,,﻿fer_m_wolf_001,﻿Rev.,﻿Ferdinand Wolf,﻿O.S.B.,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0082,﻿church,﻿Holy Cross,English,,,,﻿Elk County,,﻿Williamsville,﻿Jones Township,﻿PA,,41.573536,-78.6342,,,,,,,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0006,﻿church,﻿St. Ann's,English,,,,﻿Elk County,,﻿Centreville,,﻿PA,,41.4284924,-78.5660852,,,,,,,,,,,,,,1864,﻿,﻿,﻿Erie,Erie
@@ -62,7 +62,7 @@
 ﻿erie.pa.0085_02,﻿monastery,[Unnamed Institution],English,﻿Benedictine Monastery,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.428194,-78.569556,,,,﻿rom_hill_002,﻿Rev.,﻿Roman Hill,﻿O.S.B.,﻿Prior,,﻿religious,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085_02,﻿monastery,[Unnamed Institution],English,﻿Benedictine Monastery,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.428194,-78.569556,,,,﻿ger_pilz_001,﻿Rev.,﻿Gerard Pilz,﻿O.S.B.,,,﻿religious,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0085_02,﻿monastery,[Unnamed Institution],English,﻿Benedictine Monastery,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.428194,-78.569556,,,,﻿fer_m_wolf_001,﻿Rev.,﻿Ferdinand Wolf,﻿O.S.B.,,,﻿religious,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
-﻿erie.pa.0085_02,﻿monastery,[Unnamed Institution],English,﻿Benedictine Monastery,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.428194,-78.569556,,,,﻿ath_hintenach_002,﻿Rev.,﻿Athanasius Hintenach,﻿O.S.B.,,,﻿religious,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
+﻿erie.pa.0085_02,﻿monastery,[Unnamed Institution],English,﻿Benedictine Monastery,,,,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.428194,-78.569556,,,,﻿ath_hintenach_001,﻿Rev.,﻿Athanasius Hintenach,﻿O.S.B.,,,﻿religious,﻿Ten lay-brothers,,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0090&0093,﻿convent,﻿Convent of St. Joseph & Academy of St. Benedict,English,﻿The usual branches of solid and refined education are taught,,,﻿Elk County,﻿Elk County,﻿St. Marystown,﻿St. Marys,﻿PA,,41.427792,-78.56947,,,,,,,,,,,,﻿Conducted by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0001_02,﻿academy,﻿Academy of St. Joseph's,English,,﻿5th street,,,,﻿Erie,,﻿PA,,42.132666,-80.083745,,,,﻿augustine_shortz_erie.pa_001,﻿Sister,﻿Augustine Shortz,,﻿Directress,,,,﻿by Benedictine Nuns,,1864,﻿,﻿,﻿Erie,Erie
 ﻿erie.pa.0021_02,﻿academy,﻿Academy of St. Ann's,English,,,,﻿Jefferson County,,﻿Corsica,,﻿PA,,41.181175,-79.202262,,,,﻿augusta_spencer_erie.pa_001,﻿Sister,﻿Augusta Spencer,,﻿Directress,,,,﻿by Sisters of St. Joseph,,1864,﻿,﻿,﻿Erie,Erie

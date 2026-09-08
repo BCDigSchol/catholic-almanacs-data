@@ -5,7 +5,7 @@
 ﻿har.ct.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,"﻿High Mass, at a quarter past ten A.M.  Vespers at three o'clock P.M.",,,,,﻿Providence,﻿Providence,﻿RI,,41.819311,-71.416583,,,,﻿wil_h_brick_001,﻿Rev.,﻿Wm. H. Bric,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0002,﻿church,﻿St. Patrick's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.8326,-71.419564,,,,﻿mic_mccabe_001,﻿Rev.,﻿Michael McCabe,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0003,﻿church,﻿St. Joseph's,English,,,,,,﻿Providence,﻿Providence,﻿RI,,41.821391,-71.396625,,,,﻿dan_kelly_001,﻿Rev.,﻿Daniel Kelly,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0004,﻿church,﻿St. Mary's,English,﻿new church building,,,,,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿joh_quinn_004,﻿Rev.,﻿John Quinn,﻿D.D.,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0004,﻿church,﻿St. Mary's,English,﻿new church building,,,,,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿joh_quinn_001,﻿Rev.,﻿John Quinn,﻿D.D.,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0004,﻿church,﻿St. Mary's,English,﻿new church building,,,,,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿joh_s_flynn_001,﻿Rev.,﻿John S. Flynn,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0005,﻿church,﻿Immaculate Conception,English,,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿edw_j_cooney_001,﻿Rev.,﻿Edward J. Cooney,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0005,﻿church,﻿Immaculate Conception,English,,,,,﻿Providence County,﻿Providence,﻿Providence,﻿RI,,41.823989,-71.412834,,,,﻿ber_osheridan_001,﻿Rev.,﻿Ber. Sheridan,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
@@ -95,14 +95,14 @@
 ﻿har.ct.0083,﻿church,﻿St. Bridget's,English,,,,,﻿Hartford County,﻿Manchester,﻿Manchester,﻿CT,,41.800189,-72.521592,﻿har.ct.0118,﻿attended from Rockville,﻿Mass every Sunday,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0084,﻿church,[Unnamed Institution],English,,,,,﻿Tolland County,﻿Mansfield,﻿Mansfield,﻿CT,,41.788489,-72.229291,﻿har.ct.0143,﻿attended from Willimantic,﻿Mass once a month,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0085,﻿church,[Unnamed Institution],English,,,,,﻿Windham County,﻿Masonville,﻿Thompson,﻿CT,,41.984073,-71.879226,﻿har.ct.0114,﻿attended from Putnam,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿tho_walsh_004,﻿Rev.,﻿Thomas Walsh,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿tho_walsh_002,﻿Rev.,﻿Thomas Walsh,,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿jam_chorlton_001,﻿Rev.,﻿James Chorlton,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿Middlesex County,﻿Middle Haddam,﻿Middletown,﻿CT,,41.534956,-72.793037,﻿har.ct.0050,﻿attended from Colchester,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0087,﻿church,﻿St. John's,English,,,,,﻿Middlesex County,﻿Middletown,﻿Middletown,﻿CT,,41.567417,-72.652892,,,,﻿jam_lynch_001,﻿Rev.,﻿James Lynch,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0087,﻿church,﻿St. John's,English,,,,,﻿Middlesex County,﻿Middletown,﻿Middletown,﻿CT,,41.567417,-72.652892,,,,﻿pat_mulholland_001,﻿Rev. Mr.,﻿Mulholland,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0088,﻿church,﻿St. Mary's,English,,,,,﻿New Haven County,﻿Milford,﻿Milford,﻿CT,,41.326215,-72.922908,﻿har.ct.0040,﻿attended from East-Bridgeport,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0089,﻿church,[Unnamed Institution],English,,,,,﻿Middlesex County,﻿Moodus,﻿Moodus,﻿CT,,41.502877,-72.450087,﻿har.ct.0050,﻿attended from Colchester,﻿Mass once a month,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0090,﻿church,﻿All Hallows,English,,,,﻿Windham County,﻿Windham County,﻿Moosup,﻿Moosup,﻿CT,,41.713381,-71.885798,,,,﻿jam_quinn_004,﻿Rev.,﻿James Quinn,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0090,﻿church,﻿All Hallows,English,,,,﻿Windham County,﻿Windham County,﻿Moosup,﻿Moosup,﻿CT,,41.713381,-71.885798,,,,﻿jam_quinn_001,﻿Rev.,﻿James Quinn,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0091,﻿church,[Unnamed Institution],English,,,,,﻿New London County,﻿Mystic,﻿Mystic,﻿CT,,41.354266,-71.966462,﻿har.ct.0136,﻿attended from Westerly,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0092,﻿church,﻿St. Francis of Assisi,English,,,,,﻿New Haven County,﻿Naugatuck,﻿Naugatuck,﻿CT,,41.492961,-73.054852,,,,﻿hug_t_brady_001,﻿Rev.,﻿Hugh T. Brady,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0093,﻿church,﻿St. Mary's,English,,,,,﻿Hartford County,﻿New Britain,﻿New Britain,﻿CT,,41.672076,-72.78271,,,,﻿luk_daly_001,﻿Rev.,﻿Luke Daly,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
@@ -158,7 +158,7 @@
 ﻿har.ct.0137,﻿church,[Unnamed Institution],English,,,,,﻿Middlesex County,﻿Westbrook,﻿Westbrook,﻿CT,,41.295974,-72.464156,﻿har.ct.0043,﻿attended from Branford,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0139,﻿church,﻿Church of the Assumption,English,,,,,﻿Fairfield County,﻿Westport,﻿Westport,﻿CT,,41.136319,-73.3652,﻿har.ct.0107,﻿attended from Norwalk,﻿twice a month,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿leo_da-saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿Pastor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿isa_da-scanno_001,﻿Rev.,﻿Isaiah da Scanno,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿isa_da-scanno_002,﻿Rev.,﻿Isaiah da Scanno,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿ant_da-palma_001,﻿Rev.,﻿Anthony da Palma,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿edw_da-fossombrone_001,﻿Rev. Fr.,﻿Edward,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148_02,﻿church,﻿St. Joseph's Church,English,,,,,﻿Litchfield County,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿con_di-arezzo_001,﻿Rev. Fr.,﻿Constantine,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
@@ -174,11 +174,11 @@
 ﻿har.ct.0147,﻿church,[Unnamed Institution],English,,,,,﻿New London County,﻿Uncas,﻿Uncasville,﻿CT,,41.431721,-72.110094,﻿har.ct.0095,﻿attended from New London,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0131,﻿church,[Unnamed Institution],English,,,,,﻿Hartford County,﻿Unionville,﻿Unionville,﻿CT,,41.760237,-72.888846,﻿har.ct.0052,﻿attended from Collinsville,,,,,,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿leo_da-saracena_001,﻿Rev.,﻿Leo da Saracena,﻿O.S.F.,﻿Guardian and Definitor,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿isa_da-scanno_001,﻿Rev.,﻿Isaiah da Scanno,﻿O.S.F.,﻿Vicar,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿isa_da-scanno_002,﻿Rev.,﻿Isaiah da Scanno,﻿O.S.F.,﻿Vicar,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿ant_da-palma_001,﻿Rev.,﻿Anthony da Palma,﻿O.S.F.,﻿Lec. Phil. and Def.,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿edw_da-fossombrone_001,﻿Rev.,﻿Edward da Fossombrone,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿con_di-arezzo_001,﻿Rev.,﻿Constantine di Arezzo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿vin_hayes_002,﻿Rev.,﻿Vincent Hayes,﻿T.O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿vin_hayes_003,﻿Rev.,﻿Vincent Hayes,﻿T.O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿ludovico_da-castelnuovo_har.ct_001,﻿Brother,﻿Ludovico da Castelnuovo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿humble_butler_har.ct_001,﻿Brother,﻿Humble Butler,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0148,﻿convent,﻿St. Joseph's Franciscan Missionary Convent,English,,,,﻿Litchfield Co.,,﻿Winsted,﻿Winsted,﻿CT,,41.921391,-73.064674,,,,﻿anthony_coyle_har.ct_001,﻿Brother,﻿Anthony Coyle,﻿O.S.F.,﻿Tertian,,,,,,1868,﻿,﻿,﻿Hartford,Hartford

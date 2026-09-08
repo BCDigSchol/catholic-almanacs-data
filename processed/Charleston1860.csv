@@ -6,7 +6,7 @@
 ﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿fel_j_carr_001,﻿Rev.,﻿Felix J. Carr,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿r_s_baker_001,﻿Rev.,﻿R. S. Baker,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿tho_quigley_001,﻿Rev.,﻿Thomas Quigley,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿p_oneill_001,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0003,﻿church,﻿St. Patrick's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.788225,-79.940392,,,,﻿p_oneill_002,﻿Rev.,﻿P. O'Neill,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0049,﻿church,[Unnamed Institution],English,,,,,,﻿Abbeville,﻿Abbeville,﻿SC,,34.177635,-82.380399,﻿sav.ga.0003,"﻿Attended from Augusta, Ga.",,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0044,﻿church,﻿St. Andrew's,English,,,,,,﻿Bairnewall,﻿Barnwell,﻿SC,,33.239849,-81.359976,,,,﻿tim_bermingham_001,﻿Rev.,﻿T. Bermingham,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0023,﻿church,﻿St. Peter's,English,,,,,,﻿Beaufort,﻿Beaufort,﻿SC,,32.439429,-80.670543,﻿cha.sc.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
@@ -36,16 +36,16 @@
 ﻿cha.sc.0074,﻿church,[Unnamed Institution],English,,,,,,﻿Yorkville,,﻿SC,,34.993557,-81.241777,﻿cha.sc.0025,﻿attended from Columbia,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0011,﻿church,﻿St. Peter's,English,,,,﻿Mecklenburg County,﻿Mecklenburg County,﻿Charlotte,﻿Charlotte,﻿NC,,35.167851,-80.728246,,,,﻿aug_f_mcneall_001,﻿Rev.,﻿Aug. F. McNeall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0061,﻿church,[Unnamed Institution],English,,,,,,﻿Concord,,﻿NC,,35.411533,-80.592067,﻿ral.nc.0011,﻿attended from Charlotte,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0062,﻿church,[Unnamed Institution],English,,,,﻿Chatham County,,﻿Coalmines,,﻿NC,,35.78533,-79.175436,,,,﻿p_ryan_001,﻿Rev.,﻿P. Ryan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0062,﻿church,[Unnamed Institution],English,,,,﻿Chatham County,,﻿Coalmines,,﻿NC,,35.78533,-79.175436,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0005,﻿church,﻿St. Patrick's,English,,,,﻿Chowan County,﻿Chowan County,﻿Edenton,﻿Edenton,﻿NC,,36.062787,-76.608034,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿ral.nc.0002,﻿church,[Unnamed Institution],English,,,,﻿Cumberland County,﻿Cumberland County,﻿Fayetteville,﻿Fayetteville,﻿NC,,35.052367,-78.878377,,,,﻿p_ryan_001,﻿Rev.,﻿P. Ryan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿ral.nc.0002,﻿church,[Unnamed Institution],English,,,,﻿Cumberland County,﻿Cumberland County,﻿Fayetteville,﻿Fayetteville,﻿NC,,35.052367,-78.878377,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0075,﻿church,[Unnamed Institution],English,,,,,,﻿Greenfield,,﻿NC,,36.032739,-79.764049,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0063,﻿church,[Unnamed Institution],English,,,,,,﻿Greenwood,﻿Trent Woods,﻿NC,,35.079582,-77.093882,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0009,﻿church,[Unnamed Institution],English,,,,﻿Halifax County,﻿Halifax County,﻿Halifax,﻿Halifax,﻿NC,,36.328486,-77.58942,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0064,﻿church,[Unnamed Institution],English,,,,,,﻿Scotland Neck,﻿Scotland Neck,﻿NC,,36.129393,-77.420111,﻿cha.sc.0069,"﻿attended from Washington, N.C.",,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0004,﻿church,﻿St. Paul's,English,,,,﻿Craven County,﻿Craven County,﻿Newbern,﻿New Bern,﻿NC,,35.084562,-77.068022,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0065,﻿church,[Unnamed Institution],English,,,,,,﻿Plymouth,,﻿NC,,35.86652,-76.74897,﻿cha.sc.0069,﻿attended from Washington.,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿ral.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.590716,-78.600607,,,,﻿p_ryan_001,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿ral.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.590716,-78.600607,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0066,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_neall_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0067,﻿church,﻿St. Mary's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_neall_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0068,﻿church,[Unnamed Institution],English,,,,﻿Brunswick County,,﻿Smithville,﻿Smithfield,﻿NC,,35.506521,-78.355983,﻿ral.nc.0001,﻿attended from Wilmington,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
