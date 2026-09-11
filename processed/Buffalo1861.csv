@@ -31,3 +31,33 @@
 ﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,﻿brick church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,﻿43.244277,﻿-78.196859,,,,,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,﻿42.312982,﻿-78.019539,,,,,﻿Very Rev.,﻿Pamfilo da Magliano,﻿O.S.F,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0048,﻿church,﻿St. John's,English,﻿frame church,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,﻿42.156458,﻿-77.795551,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0049,﻿church,﻿St. James',English,﻿frame church,,,﻿Allegany County,,﻿Angelica,﻿Angelica,﻿NY,,﻿42.306735,﻿-78.015839,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0115,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Arcade,﻿Arcade,﻿NY,,﻿42.533951,﻿-78.423074,﻿buf.ny.0116,﻿Attended from Java,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0077,﻿church,﻿St. Vincent's,English,﻿frame church,,,﻿Genesee County,,﻿Attica,﻿Attica,﻿NY,,﻿42.864227,﻿-78.280295,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0048,﻿church,﻿Holy Family,English,﻿frame church,,,﻿Cayuga County,,﻿Auburn,,﻿NY,,﻿42.935917,﻿-76.566808,,,,,﻿Rev.,﻿M. Creeden,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0053,﻿church,﻿St. Agnes',English,﻿frame church,,,﻿Cayuga County,,﻿Aurora,,﻿NY,,﻿42.918956,﻿-76.72634,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0022,﻿church,﻿St. Agnes',English,﻿frame church,,,﻿Livingston County,,﻿Avon,,﻿NY,,﻿42.91351,﻿-77.745194,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0078,﻿church,﻿St. Joseph's,English,﻿stone church,,,﻿Genesee County,,﻿Batavia,﻿Batavia,﻿NY,,﻿42.983784,﻿-78.156443,,,,,﻿Rev.,﻿James McGlew,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0101,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Steuben County,,﻿Bath,﻿Bath,﻿NY,,﻿42.337016,﻿-77.317758,﻿buf.ny.0102,﻿Attended from Corning,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0050,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Belfast,﻿Belfast,﻿NY,,﻿42.342269,﻿-78.112413,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0113,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Wyoming County,,﻿Bennington,﻿Bennington,﻿NY,,﻿42.837004,﻿-78.397519,﻿buf.ny.0024,﻿Attended from Alden,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0079,﻿church,﻿St. Bridget's,English,﻿frame church,,,﻿Genesee County,,﻿Bergin,﻿Bergen,﻿NY,,﻿43.085339,﻿-77.942234,﻿roc.ny.0011,﻿Attended from Brockport,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0175,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Birdsall,,﻿NY,,﻿42.573282,﻿-78.342619,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0036,﻿church,﻿St. Bridget's,English,﻿frame church,,,﻿Ontario County,,﻿Bloomfield,,﻿NY,,﻿42.888141,﻿-77.447249,,,,,﻿Rev.,﻿Patrick Lee,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0011,﻿church,﻿Nativity B.V.M.,English,﻿brick church,,,﻿Monroe County,,﻿Brockport,,﻿NY,,﻿43.213671,﻿-77.93918,,,,,﻿Rev.,﻿Edward McGowan,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0031,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Ontario County,,﻿Canandaigua,,﻿NY,,﻿42.883961,﻿-77.278385,,,,,﻿Rev.,﻿Mich'l Purcell,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0114,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Castile,﻿Castile,﻿NY,,﻿42.628952,﻿-78.054451,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0059,﻿church,﻿St. Pacificus',English,﻿frame church,,,﻿Cattaraugus County,,﻿Chapelsburgh,﻿Humphrey,﻿NY,,﻿42.203954,﻿-78.533635,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0019,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Chili,,﻿NY,,﻿43.11387,﻿-77.755043,﻿roc.ny.0017,﻿Attended from Scottsville,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0221,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Wyoming County,,﻿China,﻿Arcade,﻿NY,,﻿42.533951,﻿-78.423074,﻿buf.ny.0116,﻿Attended from Java,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0176,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Chipmunk,,﻿NY,,﻿42.217778,﻿-78.275278,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0042,﻿church,﻿St. John's,English,﻿frame church,,,﻿Wayne,,﻿Clyde,,﻿NY,,﻿43.087094,﻿-76.87045,﻿roc.ny.0043,﻿Attended from Lyons,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0052,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Cold Creek,﻿Centerville,﻿NY,,﻿42.479785,﻿-78.249735,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0033,﻿church,﻿St. Agnes,English,﻿frame church,,,﻿Ontario County,,﻿Clifton Springs,﻿Clifton Springs,﻿NY,,﻿42.96528034,﻿-77.13681621,,,,,﻿Rev.,﻿Francis Clark,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0034,﻿church,﻿St. Martin's,English,﻿frame church,,,﻿Erie County,,﻿Collins,﻿Langford,﻿NY,,﻿42.5875,﻿-78.84222,,,,,﻿Rev.,﻿Domenick Gaymer,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0102,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Steuben County,,﻿Corning,﻿Corning,﻿NY,,﻿42.142852,﻿-77.05469,,,,,﻿Rev.,﻿Thomas Cunningham,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0102,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Steuben County,,﻿Corning,﻿Corning,﻿NY,,﻿42.142852,﻿-77.05469,,,,,﻿Rev.,﻿John Castaldi,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0053,﻿church,﻿St. Bridget's,English,﻿frame church,,,﻿Allegany County,,﻿Cuba,﻿Cuba,﻿NY,,﻿42.215547,﻿-78.275313,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0027,﻿church,﻿St. Patrick's,English,﻿brick church,,,﻿Livingston County,,﻿Dansville,,﻿NY,,﻿42.5609,﻿-77.696106,,,,,﻿Rev. Mr.,﻿Steiger,,,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0026,﻿church,﻿St. Michael's,﻿German,,,,﻿Livingston County,,﻿Dansville,,﻿NY,,﻿42.560321,﻿-77.692942,,,,,﻿Rev.,﻿R. F. Albino,,﻿Pastor,,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0064,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Chatauque County,,﻿Dunkirk,﻿Dunkirk,﻿NY,,﻿42.479502,﻿-79.333932,,,,,﻿Rev.,﻿N. Arrant,,,﻿Ger.,,,,,1861,﻿,﻿,﻿Buffalo,Buffalo
