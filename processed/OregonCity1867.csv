@@ -67,16 +67,16 @@
 ﻿boi.id.0003,﻿church,﻿St. Thomas',English,"﻿Dec. 20, 1863",﻿on Granite Creek,,,,﻿Placerville,﻿Placerville,﻿ID,﻿ID,43.942778,-115.946111,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,﻿Pastor,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿on Grim's Creek,,,,﻿Centreville,﻿Centerville,﻿ID,﻿ID,43.912778,-115.892222,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0004,﻿church,﻿St. Dominick's,English,"﻿Dec. 25, 1863",﻿on Grim's Creek,,,,﻿Centreville,﻿Centerville,﻿ID,,43.912778,-115.892222,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,﻿ID,43.968889,-115.846667,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.968889,-115.846667,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,43.026111,-116.732778,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,43.026111,-116.732778,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0007,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,﻿ID,﻿ID,43.016944,-116.733056,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0007,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,﻿ID,,43.016944,-116.733056,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,43.38,-111.6,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,43.38,-111.6,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,45.324167,-118.086667,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,45.324167,-118.086667,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,﻿ID,43.026111,-116.732778,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0005,﻿church,﻿St. Francis',English,"﻿Sep. 25, 1864",,,,,﻿Pioneer City,﻿Pioneerville,﻿ID,,43.026111,-116.732778,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,43.38,-111.6,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0006,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Ruby City,,﻿ID,,43.38,-111.6,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0007,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,﻿ID,﻿ID,45.324167,-118.086667,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0007,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Silver City,﻿Silver City,﻿ID,,45.324167,-118.086667,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,,,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0008,﻿church,[Unnamed Institution],English,,﻿on Owhyee River,,,,﻿Bonneville,,﻿ID,,,,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,,,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿boi.id.0009,﻿church,[Unnamed Institution],English,,﻿on Grand Bend River,,,,﻿La Grande City,,﻿ID,,,,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0010,﻿church,[Unnamed Institution],English,,﻿on Salem River,,,,﻿Florence,﻿Florence,﻿ID,﻿ID,45.501111,-116.028333,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0010,﻿church,[Unnamed Institution],English,,﻿on Salem River,,,,﻿Florence,﻿Florence,﻿ID,,45.501111,-116.028333,﻿boi.id.0003,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0011,﻿church,[Unnamed Institution],English,,﻿on Salem River,,,,﻿Warren,﻿Warren,﻿ID,﻿ID,45.264167,-115.676389,﻿boi.id.0001,﻿attended from St. Thomas & St. Joseph,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
@@ -95,7 +95,7 @@
 ﻿ore.or.0076,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.212566,-122.975098,,,,,,,,,,﻿intern,﻿50 interns,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0076,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.212566,-122.975098,,,,,,,,,,﻿extern,﻿20 externs,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0077,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿religious,﻿4 sisters,,,1867,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0075,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dalles,﻿The Dalles,﻿OR,,45.602382,-121.202157,,,,,,,,,,﻿religious,﻿4 sisters,,,1867,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0075,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dalles,﻿The Dalles,﻿OR,,45.212566,-122.975098,,,,,,,,,,﻿religious,﻿4 sisters,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0078,﻿school,[Unnamed Institution],English,﻿for boys,,,,,﻿Portland,﻿Portland,﻿OR,,45.515232,-122.678385,,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0079,﻿school,[Unnamed Institution],English,﻿for boys,,,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.211229,-122.976766,,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0080,﻿school,[Unnamed Institution],English,"﻿for boys.  two instructors brought from Canada, for a higher school for boys, at Portland",,,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,,,,,,,,,,,1867,﻿,﻿,﻿Oregon City,OregonCity
