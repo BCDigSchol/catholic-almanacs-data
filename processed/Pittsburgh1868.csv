@@ -79,7 +79,7 @@
 ﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿jer_kearney_001,﻿Rev.,﻿Jerome Kearney,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0063,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Lawrenceville,﻿Lawrenceville,﻿PA,,40.469897,-79.955759,,,,﻿a_p_gibbs_pit.pa_001,,﻿A. P. Gibbs,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0065,﻿church,﻿German church,﻿German,,,,﻿Allegheny County,,﻿Lawrenceville,,﻿PA,,40.465278,-79.963889,,,,﻿j_tamchina_001,﻿Rev.,﻿J. Tamchina,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.24737381,-79.24087228,﻿pit.pa.0108,﻿attended from St. Vincent's,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.24737381,-79.24087228,﻿pit.pa.0119,﻿attended from St. Vincent's,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿t_s_reynolds_001,﻿Rev.,﻿T. S. Reynolds,,﻿Rector,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0068,﻿church,﻿St. Andrew's,English,,,,,,﻿Manchester,,﻿PA,,40.460205,-80.031251,,,,﻿m_j_mitchell_001,﻿Rev.,﻿M. J. Mitchell,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0069,﻿church,﻿New German church,﻿German,,,,,,﻿Manchester,﻿McKeesport,﻿PA,,40.456106,-80.025398,,﻿attended from Allegheny,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -99,7 +99,7 @@
 ﻿pit.pa.0083,﻿church,[Unnamed Institution],English,,,,﻿Beaver County,,﻿Rochester,,﻿PA,,40.703056,-80.283333,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0084,﻿church,﻿St. Augustine's,English,,,,﻿Cambria County,,﻿St. Augustine,,﻿PA,,40.61303,-78.577542,,,,﻿e_burns_001,﻿Rev.,﻿E. Burns,,﻿Rector,﻿pro tem,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0123_03,﻿convent,﻿St. Xavier's Convent of Mercy,English,,,,﻿Westmoreland County,,,,﻿PA,,40.282376,-79.416154,,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0085,﻿church,﻿St. Matthew's,English,,,,﻿Indiana County,,﻿Saltsburgh,﻿Saltsburgh,﻿PA,,40.235396,-79.470388,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0085,﻿church,﻿St. Matthew's,English,,,,﻿Indiana County,,﻿Saltsburgh,﻿Saltsburgh,﻿PA,,40.235396,-79.470388,﻿pit.pa.0119,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0086,﻿church,[Unnamed Institution],English,,,,﻿Somerset County,,﻿Sand Patch,,﻿PA,,39.812702,-78.971071,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,﻿Cameron's Bottom,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0087,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Sewickly,﻿Sewickley,﻿PA,,40.536389,-80.184444,﻿pit.pa.0014,﻿attended from Beaver,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0107_02,﻿chapel,﻿Seminary Chapel,English,,﻿near Pittsburgh,,,,﻿Greenwood,﻿Logan Township,﻿PA,,40.534825,-78.357685,﻿pit.pa.0107,﻿attended by the Clergymen of the Seminary,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -107,7 +107,7 @@
 ﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,40.50328,-79.93549,,,,﻿den_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0091,﻿church,﻿St. Mary's,﻿German,,,,﻿Allegheny County,,﻿Sharpsburgh,﻿Sharpsburgh,﻿PA,,40.494513,-79.92644,,,,﻿j_shell_001,﻿Rev.,﻿J. Shell,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0092,﻿church,﻿St. Patrick's,English,,﻿Adams P.O.,,﻿Armstrong County,,﻿Sugar Creek,﻿Sugar Creek Township,﻿PA,,40.505085,-79.936356,,,,﻿j_cody_001,﻿Rev.,﻿J. Cody,,﻿Rector,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0094,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿New-Germany or Summerhill,﻿Summerhill,﻿PA,,40.412245,-78.755037,﻿pit.pa.0108,﻿Benedictines from St. Vincent's Abbey,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0094,﻿church,﻿Immaculate Conception,English,,,,﻿Cambria County,,﻿New-Germany or Summerhill,﻿Summerhill,﻿PA,,40.412245,-78.755037,﻿pit.pa.0119,﻿Benedictines from St. Vincent's Abbey,,,,,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿t_ryan_001,﻿Rev.,﻿T. Ryan,,﻿Rector,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0095,﻿church,﻿St. Aloysius',English,,,,﻿Cambria County,,﻿Summit,﻿Cresson,﻿PA,,40.457305,-78.575768,,,,﻿m_murphey_001,﻿Rev.,﻿M. Murphey,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0096,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿Tara Hill,﻿West End Village,﻿PA,,40.38951,-79.87532,,,,﻿den_kearney_001,﻿Rev.,﻿D. Kearney,,,,,,,,1868,﻿,﻿,﻿Pittsburgh,Pittsburgh

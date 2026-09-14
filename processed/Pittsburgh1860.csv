@@ -35,9 +35,10 @@
 ﻿pit.pa.0035,﻿church,﻿St. Mary's,English,,,,﻿Butler County,,﻿Clearfield,﻿Clearfield Township,﻿PA,,40.841466,-79.717552,,,,﻿cha_geigerstanger_001,﻿Rev.,﻿Chas. Geigerstanger,﻿O.S.B.,,﻿resides at Butler,,,﻿Benedictines,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0036,﻿chapel,[Unnamed Institution],English,﻿Chapel,,,﻿Bedford County,,﻿Clearville,﻿Clearville,﻿PA,,39.916751,-78.383904,﻿pit.pa.0015,﻿attended from Bedford,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0039,﻿church,﻿Our Lady of Mt. Carmel,English,,,,﻿Westmoreland County,,﻿Derry Township,,﻿PA,,40.390914,-79.354721,,,,﻿ger_pilz_003,﻿Rev.,﻿Gerardus Pilz,﻿O.S.B.,,﻿St. Vincent's Abbey,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0040,﻿church,﻿St. Joseph's,English,,,,﻿Butler County,,﻿Donegal,﻿Donegal Township,﻿PA,,40.903687,-79.778834,,﻿attended from Murrinsville and Butler,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0040,﻿church,﻿St. Joseph's,English,,,,﻿Butler County,,﻿Donegal,﻿Donegal Township,﻿PA,,40.903687,-79.778834,﻿pit.pa.0074,﻿attended from Murrinsville and Butler,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0040,﻿church,﻿St. Joseph's,English,,,,﻿Butler County,,﻿Donegal,﻿Donegal Township,﻿PA,,40.903687,-79.778834,﻿pit.pa.0027,,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0042,﻿church,﻿St. Patrick's,English,,,,﻿Cambria County,,﻿Ebensburg,﻿Ebensburg,﻿PA,,40.515092,-78.874024,,,,﻿m_j_mitchell_001,﻿Rev.,﻿M. J. Mitchell,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0041,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿East Liberty,﻿East Liberty,﻿PA,,40.462712,-79.918123,,﻿attended from Redemptorist Fathers from Pittsburgh,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0041,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿East Liberty,﻿East Liberty,﻿PA,,40.462712,-79.918123,﻿pit.pa.0003_02,﻿attended from Redemptorist Fathers from Pittsburgh,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0043,﻿church,﻿St. Michael's,English,,,,﻿Allegheny County,,﻿Elizabeth,﻿Elizabeth,﻿PA,,40.445081,-80.008775,﻿pit.pa.0026,﻿attended from Brownsville,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0044,﻿church,﻿St. Matthew's,English,,﻿P.O. West End,,﻿Somerset County,,﻿Fairfield,,﻿PA,,39.821962,-79.021123,,,,﻿caj_klocker_001,﻿Rev.,﻿Cajatanus Klocker,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0045,﻿church,﻿St. Mary's,English,,,,﻿Westmoreland County,,﻿Florence,﻿New Florence,﻿PA,,40.380349,-79.075308,,,,﻿jam_kearney_001,﻿Rev.,﻿James Kearney,,,﻿Johnstown,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -52,12 +53,12 @@
 ﻿pit.pa.0055,﻿church,﻿St. Bernard's,English,,,,﻿Indiana County,,﻿Indiana,﻿Indiana,﻿PA,,40.628627,-79.136284,,,,﻿ger_pilz_003,﻿Rev.,﻿Gerardus Pilz,﻿O.S.B.,,﻿St. Vincent's Abbey,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0057,﻿church,﻿St. Bartholomew's,English,,﻿Wilmore P.O.,,﻿Cambria County,,﻿Jefferson,,﻿PA,,40.391175,-78.714519,,,,﻿tho_walsh_005,﻿Rev.,﻿Thomas Walsh,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0058,﻿church,﻿St. John Gualbert's,English,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.32528,-78.915362,,,,﻿jam_kearney_001,﻿Rev.,﻿Jas. Kearney,,﻿Rector,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0059,﻿church,﻿St. Joseph's,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.295565,-78.874443,﻿pit.pa.0108,﻿from St. Vincent's Abbey,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0059,﻿church,﻿St. Joseph's,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.295565,-78.874443,﻿pit.pa.0119,﻿from St. Vincent's Abbey,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0157,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿Kilbuck,,﻿PA,,40.518611,-80.102778,﻿pit.pa.0009,"﻿attended from St. Mary's, Allegheny",﻿once a month,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0060,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Kittaning,﻿Kittanning,﻿PA,,40.827281,-79.544207,,,,﻿r_phelan_001,﻿Rev.,﻿R. Phelan,,,﻿Freeport,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿jer_kearney_001,﻿Rev.,﻿Jer. Kearney,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0063,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Lawrenceville,﻿Lawrenceville,﻿PA,,40.469897,-79.955759,,,,﻿a_p_gibbs_001,﻿Rev.,﻿A. P. Gibbs,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.247374,-79.240872,﻿pit.pa.0108,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0066,﻿church,﻿Most Holy Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.247374,-79.240872,﻿pit.pa.0119,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿w_pollard_001,﻿Rev.,﻿W. Pollard,,﻿Rector,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0067,﻿church,﻿St. Mary's,English,,,,﻿Cambria County,,﻿Loretto,,﻿PA,,40.504883,-78.633276,,,,﻿joh_ford_001,﻿Rev.,﻿John Ford,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0153,﻿church,﻿St. Peter's,English,,,,﻿Allegheny County,,﻿McKeesport,,,,40.347067,-79.864123,,,,﻿n_hoeres_001,﻿Rev.,﻿N. Hoeres,,,,,,,,1860,﻿,﻿,﻿Pittsburgh,Pittsburgh
