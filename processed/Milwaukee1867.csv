@@ -9,7 +9,7 @@
 ﻿mil.wi.0003,﻿church,﻿St. Gall's,English,,﻿Corner of Second and Sycamore streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.066124,-87.913974,,,,﻿p_a_nogues_001,﻿Rev.,﻿P. A. Nogues,﻿S.J.,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0004,﻿church,﻿Holy Trinity,English,,﻿Corner of Park and Greenbush streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.025057,-87.91582,,,,﻿l_conrad_001,﻿Rev.,﻿J. Conrad,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0005,﻿church,﻿St. Joseph's,English,,﻿Corner of Eleventh and Lisbon streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.04987,-87.926109,,,,﻿jos_holzhauer_001,﻿Rev.,﻿J. Holzhauer,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0006,﻿church,﻿St. Peter's,﻿Bohemian,,﻿Martin and Jackson streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.044007,-87.905226,,,,﻿j_maly_001,﻿Rev.,﻿J. Maly,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0006,﻿church,﻿St. Peter's,﻿Bohemian,,﻿Martin and Jackson streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.044007,-87.905226,,,,﻿jos_maly_002,﻿Rev.,﻿J. Maly,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0007,﻿church,﻿St. Stanislaus,﻿Polish,,﻿Corner of Green and Grove streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.012529,-87.916966,,,,﻿th_weglikowski_001,﻿Rev.,﻿Theodore Weglikowski,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0010,﻿church,﻿St. Mary's of the Holy Angels,English,,﻿Corner of Milwaukee and Knapp streets,,,﻿Milwaukee County,﻿Milwaukee,﻿Milwaukee,﻿WI,,43.047156,-87.907544,,,,﻿f_x_krautbauer_001,﻿Rev.,﻿F. X. Krautbauer,,﻿Chaplain,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0011,﻿church,﻿St. Patrick's,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Abbottown,,﻿WI,,43.689523,-87.618638,,﻿Attended from Cascade,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -161,7 +161,7 @@
 ﻿mil.wi.0118,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Kewaskum,﻿Kewaskum,﻿WI,,43.52083,-88.228985,,﻿Attended by Rev. C. Rehrl,,﻿c_rehrl_001,﻿Rev.,﻿C. Rehrl,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0119,﻿church,﻿Holy Trinity,English,,,,﻿Washington County,﻿Washington County,﻿Kewaskum,﻿Kewaskum,﻿WI,,43.52083,-88.228985,,﻿Attended by Rev. J. Reindl,,﻿j_reindl_001,﻿Rev.,﻿J. Reindl,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0015,﻿church,﻿Holy Rosary,English,,,,﻿Kewaunee County,﻿Kewaunee County,﻿Kewaunee,﻿Kewaunee,﻿WI,,44.457712,-87.50662,,,,﻿e_van-steenwyck_001,﻿Rev.,﻿E. Van Steenwyck,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0350,﻿church,﻿St. Cecilia's,English,,,,﻿Columbia County,,﻿Kilburn City,,﻿WI,,43.625294,-89.773783,,﻿Attended by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0053,﻿church,﻿St. Cecilia's,English,,,,﻿Columbia County,,﻿Kilburn City,,﻿WI,,43.78444,-88.787868,,﻿Attended by Rev. P. Montague,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0100,﻿church,﻿St. Bridget's,English,,,,﻿Juneau County,,﻿Kildare,,﻿WI,,43.735833,-89.888056,,,,﻿p_montague_002,﻿Rev.,﻿P. Montague,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿gre.wi.0016,﻿church,﻿St. Anne's,English,,,,﻿Manitowoc County,﻿Manitowoc County,﻿Kossuth,﻿Kossuth,﻿WI,,44.206988,-87.756651,,,,﻿l_schaffer_001,﻿Rev.,﻿L. Schaffer,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0120,﻿church,﻿St. James',English,,,,﻿Milwaukee County,﻿Milwaukee County,﻿Lake Town,﻿Lake,﻿WI,,43.04848,-88.000907,,﻿Attended from New-Koeln,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -206,7 +206,7 @@
 ﻿mil.wi.0444,﻿church,﻿St. Francis Regis,English,,,,﻿Sheboygan County,﻿Sheboygan County,﻿Mitchell,﻿Mitchell,﻿WI,,43.670556,-88.105,,﻿Attended from Cascade,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0144,﻿church,﻿St. John's,English,,,,﻿Waukesha County,﻿Waukesha County,﻿Monches,﻿Merton,﻿WI,,43.140603,-88.308192,,,,﻿f_tiernan_001,﻿Rev.,﻿F. Tiernan,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0145,﻿church,﻿St. Victor's,English,,,,﻿Green County,﻿Green County,﻿Monroe,﻿Monroe,﻿WI,,42.598221,-89.635254,,,,﻿wil_oconnell_001,﻿Rev.,﻿W. O'Connell,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0357,﻿church,﻿Gethsemane Church,English,,,,﻿Marquette County,,﻿Montello,,﻿WI,,43.794961,-89.318268,,,,﻿a_fagan_001,﻿Rev.,﻿A. Fagan,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0021,﻿church,﻿Gethsemane Church,English,,,,﻿Marquette County,,﻿Montello,,﻿WI,,43.794961,-89.318268,,,,﻿a_fagan_001,﻿Rev.,﻿A. Fagan,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0358,﻿church,﻿St. Bridget's,English,,,,﻿Brown County,,﻿Morristown,,﻿WI,,44.299167,-87.988889,,﻿Attended by Rev. W. A. Verboort,,﻿w_a_verboort_002,﻿Rev.,﻿W. A. Verboort,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0147,﻿church,﻿St. Lawrence O'Toole's,English,,,,﻿Grant County,﻿Grant County,﻿Mount Hope,﻿Mount Hope,﻿WI,,43.006918,-90.816792,,﻿Attended by Rev. L. Kenny,,﻿l_kenny_001,﻿Rev.,﻿L. Kenny,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0359,﻿church,﻿St. Patrick's,English,,,,﻿Juneau County,,﻿Mouston,,﻿WI,,43.796549,-90.072629,,,,﻿joh_casey_001,﻿Rev.,﻿John Casey,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -392,7 +392,7 @@
 ﻿mil.wi.0247,﻿station,[Unnamed Institution],English,,,,﻿Lafayette County,﻿Lafayette County,﻿Yellow Stone,﻿Yellowstone,﻿WI,,42.79833,-89.97028,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0134,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Knowlton,,﻿WI,,44.716944,-89.679722,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0135,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Mosinee,,﻿WI,,44.791667,-89.705278,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0447,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Wausau,,﻿WI,,44.9,-89.76,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0072,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Wausau,,﻿WI,,44.9,-89.76,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0397,﻿station,[Unnamed Institution],English,,,,﻿Marquette County,,﻿Kingston,,﻿WI,,43.693611,-89.128611,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0398,﻿station,[Unnamed Institution],English,,,,﻿Marquette County,,﻿Marquette,,﻿WI,,43.742222,-89.145833,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0109,﻿station,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Sparta,,﻿WI,,43.938363,-90.800707,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -461,7 +461,7 @@
 ﻿mil.wi.0161,﻿station,[Unnamed Institution],English,,,,﻿Winnebago County,,﻿Omro,,﻿WI,,44.03365,-88.742185,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0427,﻿station,[Unnamed Institution],English,,,,﻿Winnebago County,,﻿Winneconne,,﻿WI,,44.103333,-88.689444,,,,,,,,,,,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,,﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿fra_haas_001,﻿Very Rev.,﻿Francis Haas,﻿O.M.C.,"﻿Commiss. Gen., Guardian",,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,"﻿Priests attending outward missions: Rev. Bonaventura Frey, O.M.C., Vicarius in New-York; Rev. Cajetan Krauthahn, O.M.C., Keshena, Wis.; Rev. Pacificus Berlemann, O.M.C., St. Mary's, Wis.",﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿dan_sherer_001,﻿Rev.,﻿Daniel Sherer,﻿O.M.C.,,,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,"﻿Priests attending outward missions: Rev. Bonaventura Frey, O.M.C., Vicarius in New-York; Rev. Cajetan Krauthahn, O.M.C., Keshena, Wis.; Rev. Pacificus Berlemann, O.M.C., St. Mary's, Wis.",﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿dan_scherer_001,﻿Rev.,﻿Daniel Sherer,﻿O.M.C.,,,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,"﻿Stations attended by priests of the convent every Sunday, St. Michael's and St. Joseph's.",﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿mar_e_staddegger_001,﻿Rev.,﻿Mar. Edmund Staddegger,﻿O.M.C.,﻿Magister Nov.,,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,"﻿Stations attended by priests of the convent every Sunday, St. Michael's and St. Joseph's.",﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿ivo_prass_001,﻿Rev.,﻿Ivo Prass,﻿O.M.C.,,,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0257,﻿convent,﻿Capuchin Convent of Calvary,English,"﻿Stations attended by priests of the convent every Sunday, St. Michael's and St. Joseph's.",﻿(Dotyville P.O.),,﻿Fond du Lac County,﻿Fond du Lac County,,﻿Calvary,﻿WI,,43.824287,-88.249763,,,,﻿sol_feddermann_001,﻿Rev.,﻿Solanus Fedderman,﻿O.M.C.,,,﻿religious,,,,1867,﻿,﻿,﻿Milwaukee,Milwaukee

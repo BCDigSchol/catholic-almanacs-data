@@ -1,0 +1,10 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,Unnamed: 30,Unnamed: 31,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿nat.ms.0001,﻿station,[Unnamed Institution],English,﻿Here a splendid Cathedral is in progress of erection,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿j_j_chanche_901,﻿Right Rev.,﻿John J. Chanche,﻿D. D.,,,,,,,1843,,"﻿https://en.wikipedia.org/wiki/St._Mary_Basilica,_Natchez",﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0001,﻿station,[Unnamed Institution],English,﻿Here a splendid Cathedral is in progress of erection,,,,,﻿Natchez,﻿Natchez,﻿MS,,31.55875,-91.401449,,,,﻿cla_françois_901,﻿Rev.,﻿Claudius François,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0079,﻿station,[Unnamed Institution],English,,,,,,﻿Vicksburg,,﻿MS,,32.3525,-90.8775,,,,﻿m_d_oreilly_901,﻿Rev.,﻿M. D. O'Reily,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0036,﻿station,[Unnamed Institution],English,,,,,,﻿Jackson,,﻿MS,,,,,,﻿attended by Rev. M. D. O'Reily,﻿m_d_oreilly_901,﻿Rev.,﻿M. D. O'Reily,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0087,﻿station,[Unnamed Institution],English,,,,,,﻿Yazoo City,,﻿MS,,,,,,﻿attended by Rev. M. D. O'Reily,﻿m_d_oreilly_901,﻿Rev.,﻿M. D. O'Reily,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0060,﻿station,[Unnamed Institution],English,,,,,,﻿Paulding,,﻿MS,,,,,,,﻿a_desgaultiere_901,﻿Rev.,﻿A. Desgaultiere,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0007,﻿station,[Unnamed Institution],English,,,,,,﻿St. Louis,﻿Bay St. Louis,﻿MS,,,,,,,,,,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0008,﻿station,[Unnamed Institution],English,,,,,,﻿Biloni,﻿Biloxi,﻿MS,,,,﻿mob.al.0001 & new.la.0001,﻿visited occasionally from Mobile and New Orleans,,,,,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0058,﻿station,[Unnamed Institution],English,,,,,,﻿Pascagoula,,﻿MS,,,,﻿mob.al.0001 & new.la.0001,﻿visited occasionally from Mobile and New Orleans,,,,,,,,,,,,1843,,,﻿,﻿,﻿Natchez,Natchez
