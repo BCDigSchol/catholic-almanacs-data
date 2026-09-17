@@ -96,7 +96,7 @@
 ﻿mil.wi.0104,﻿church,﻿St. Philip's,English,,,,﻿Iowa County,﻿Iowa County,﻿Highland,﻿Highland,﻿WI,,43.046303,-90.382599,,,,﻿tho_mcdonnell_001,﻿Rev.,﻿Th. McDonnell,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0106,﻿church,﻿St. Malachy's,English,,,,﻿Dodge County,﻿Dodge County,﻿Horicon,﻿Horicon,﻿WI,,43.444012,-88.633196,,﻿Attended from Beaverdam,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0109,﻿church,﻿St. Augustine's,English,,,,﻿Ozaukee County,﻿Washington County,﻿Jackson,﻿Jackson,﻿WI,,43.384316,-88.041167,,﻿Attended by Rev. Max. DeBecke,,﻿debecke_001,﻿Rev.,﻿DeBecke,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿mil.wi.0110,﻿church,﻿St. Bridget's,English,,,,﻿Ozaukee County,﻿Washington County,﻿Jackson,﻿Jackson,﻿WI,,43.38195,-87.618638,,﻿Attended by Rev. W. Dougherty,,﻿w_dougherty_001,﻿Rev.,﻿W. Dougherty,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿mil.wi.0110,﻿church,﻿St. Bridget's,English,,,,﻿Ozaukee County,﻿Washington County,﻿Jackson,﻿Jackson,﻿WI,,43.322965,-88.166679,,﻿Attended by Rev. W. Dougherty,,﻿w_dougherty_001,﻿Rev.,﻿W. Dougherty,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0111,﻿church,﻿St. Cuthbert's,English,,,,﻿Lock County,﻿Rock County,﻿Janesville,﻿Janesville,﻿WI,,42.676364,-89.025287,,,,﻿j_conroy_001,﻿Rev.,﻿J. Conroy,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0111,﻿church,﻿St. Cuthbert's,English,,,,﻿Lock County,﻿Rock County,﻿Janesville,﻿Janesville,﻿WI,,42.676364,-89.025287,,,,﻿r_sullivan_001,﻿Rev.,﻿R. Sullivan,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0113,﻿church,﻿St. Lawrence,English,,,,﻿Jefferson County,﻿Jefferson County,﻿Jefferson,﻿Jefferson,﻿WI,,43.004965,-88.779191,,,,﻿s_seif_001,﻿Rev.,﻿S. Seif,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -236,8 +236,8 @@
 ﻿lac.wi.0119,﻿station,[Unnamed Institution],English,,,,﻿Brown County,,﻿Morrison,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0163,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,﻿Columbia County,﻿Otsego,﻿Otsego,﻿WI,,43.40221,-89.166225,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0048,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Columbus,,﻿WI,,43.323503,-89.020849,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿gre.wi.0053,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Kilburn City,,﻿WI,,43.78444,-88.787868,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿gre.wi.0053,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Wyacena,,﻿WI,,43.78444,-88.787868,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0053,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Kilburn City,,﻿WI,,43.625294,-89.773783,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0053,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,,﻿Wyacena,,﻿WI,,43.625294,-89.773783,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0224,﻿station,[Unnamed Institution],English,,,,﻿Columbia County,﻿Columbia County,﻿Marcello,﻿Marcellon,﻿WI,,43.568594,-89.265672,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0110,﻿station,[Unnamed Institution],English,,,,﻿Crawford County,,﻿Seneca,,﻿WI,,43.222544,-90.945191,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0127,﻿station,[Unnamed Institution],English,,,,﻿Crawford County,,﻿Poydtown Bluffs,,﻿WI,,43.110556,-90.803611,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
@@ -284,7 +284,7 @@
 ﻿gre.wi.0085,﻿station,[Unnamed Institution],English,,,,﻿Keevannee County,,﻿Red River Town,,﻿WI,,44.6325,-87.702222,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0395,﻿station,[Unnamed Institution],English,,,,﻿Keevannee County,,﻿Deekesville,,﻿WI,,44.640569,-87.761793,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0325,﻿station,[Unnamed Institution],English,,,,﻿Keevannee County,,﻿Ahnepee,,﻿WI,,44.633333,-87.466667,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
-﻿gre.wi.0072,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Warsaw,﻿Wausau,﻿WI,,44.959135,-89.630122,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
+﻿gre.wi.0072,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Warsaw,﻿Wausau,﻿WI,,44.9,-89.76,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0477,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Big Bull Falls,﻿Wausau,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿lac.wi.0135,﻿station,[Unnamed Institution],English,,,,﻿Marathon County,,﻿Mesomee,,﻿WI,,44.791667,-89.705278,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
 ﻿mil.wi.0478,﻿station,[Unnamed Institution],English,,,,﻿Marquette County,,﻿Briggsville,,﻿WI,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Milwaukee,Milwaukee
