@@ -30,13 +30,13 @@
 ﻿buf.ny.0019,﻿church,﻿Chapel at St. Vincent's Asylum for Widows and Foundlings,English,,﻿St. Vincent's Foundling and Lying-in Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.885961,-78.871946,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0163_02,﻿chapel,﻿Chapel of the Deaf Mute Asylum,English,,﻿the Deaf Mute Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.895763,-78.874976,,,,﻿c_kottmann_001,﻿Rev.,﻿C. Kottman,﻿S.J.,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0167_02,﻿chapel,﻿Chapel of the Providence Lunatic Asylum,English,,﻿the Providence Lunatic Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.927861,-78.851169,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0172,﻿chapel,﻿Chapel of the Noviate of the Sisters of St. Joseph,English,,﻿the Noviate of the Sisters of St. Joseph,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,43.023516,-78.498515,﻿buf.ny.0005,﻿Attended from Holy Angels,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0173,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.9,-78.490833,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0172,﻿chapel,﻿Chapel of the Noviate of the Sisters of St. Joseph,English,,﻿the Noviate of the Sisters of St. Joseph,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,﻿buf.ny.0005,﻿Attended from Holy Angels,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0173,﻿chapel,﻿Chapel of the Sisters of Mercy,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0022,﻿chapel,﻿Chapel of the Gray Nuns,English,,﻿the Convent of the Gray Nuns,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,,,,﻿edw_quigley_001,﻿Rev.,﻿Edward Quigley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0100,﻿chapel,﻿St. Catharine's,English,,,,﻿Steuben County,,﻿Addison,﻿Addison,﻿NY,,42.92786121,-78.85116926,﻿buf.ny.0012,﻿Attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0023,﻿chapel,﻿St. Teresa's,English,,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,43.023516,-78.498515,﻿buf.ny.0012,﻿Attended from St. Vincent's,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0024,﻿chapel,﻿Holy Name,English,,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,42.9,-78.490833,,,,﻿m_oconnor_001,﻿Rev.,﻿M. O'Connor,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0174,﻿chapel,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,,,42.1539,-77.7831,﻿buf.ny.0005,﻿Attended from the Holy Angels',,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0174,﻿chapel,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,,,,,﻿buf.ny.0005,﻿Attended from the Holy Angels',,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,43.244277,-78.196859,,,,﻿p_bradley_001,﻿Rev.,﻿P. Bradley,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,﻿frame church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,43.244277,-78.196859,,,,﻿mic_odwyer_001,﻿Rev.,﻿Michael O'Dwyer,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Bonaventure's,English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,42.312982,-78.019539,,,,﻿j_n_arrent_001,﻿Rev.,﻿J. N. Arrent,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
@@ -215,7 +215,7 @@
 ﻿buf.ny.0009_02,﻿school,﻿St. Michael's,﻿German,"﻿Male, under a secular teacher, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,"﻿Pupils, 550",,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009_02,﻿school,﻿St. Michael's,﻿German,"﻿Male, under a secular teacher, attatched to Deaf and Dumb Asylum",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿religious,﻿2 Sisters,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011_02,﻿school,﻿St. Peter's,﻿French,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.972121,-78.815475,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.882213,-78.849333,,,,,,,,,,﻿student,"﻿Pupils, 606",,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,,,,,,,﻿student,"﻿Pupils, 606",,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,,﻿NY,,42.87277928,-78.86423055,,,,,,,,,,﻿student,"﻿Pupils, 800",﻿under the Sisters of Mercy,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005_03,﻿school,﻿Holy Angels',English,,,,,,﻿Buffalo,,﻿NY,,42.903442,-78.889303,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Gray Sisters,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.87730699,-78.84805984,,,,,,,,,,﻿student,"﻿Pupils, 60",﻿under the Franciscan Sisters,,1869,﻿,﻿,﻿Buffalo,Buffalo

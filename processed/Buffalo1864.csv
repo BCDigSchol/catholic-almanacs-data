@@ -22,21 +22,21 @@
 ﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.903442,-78.889303,,,,﻿p_coopman_001,﻿Rev.,﻿P. Coopman,﻿O.M.I.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.877307,-78.84806,,,,﻿f_s_da-gagliano_001,﻿Rev.,﻿F. Sisto da Gagliano,﻿O.S.F.,,﻿Custos,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.877307,-78.84806,,,,﻿sam_da-prezza_001,﻿Rev.,﻿Samuel da Prezza,﻿O.S.F.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿ber_fritch_001,﻿Rev.,﻿Bernard Fritch,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.877307,-78.84806,,,,﻿ber_fritch_001,﻿Rev.,﻿Bernard Fritch,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.877307,-78.84806,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿church,﻿Holy Cross Cemetery,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.830412,-78.811363,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0016,﻿chapel,﻿Chapel at the Hospital,English,,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,,,,﻿m_hoering_001,﻿Rev.,﻿M. Hoering,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0017,﻿chapel,﻿Chapel at St. Vincent's Asylum,English,,﻿St. Vincent's Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0018,﻿chapel,﻿Chapel at St. Vincent's Convent of the Good Shepherd,English,,﻿Convent of the Good Shepherd,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0019,﻿chapel,﻿Chapel at St. Vincent's Asylum for Widows and Foundlings,English,,﻿St. Vincent's Foundling and Lying-in Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.885961,-78.871946,,,,﻿tho_gleeson_002,﻿Rev.,﻿Thomas Gleeson,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0213,﻿church,﻿St. Francis Xavier's,English,,﻿Blackrock,,﻿Erie County,,﻿Buffalo,﻿Buffalo,,,42.930653,-78.898295,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0100,﻿church,﻿St. Catharine's,English,﻿frame church,,,﻿Steuben County,,﻿Addison,﻿Addison,﻿NY,,42.102851,-77.233588,﻿buf.ny.0103,﻿Attended from Greenwod,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0023,﻿church,﻿St. Teresa's,English,﻿frame church,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,43.029643,-78.484574,﻿buf.ny.0001,﻿Attended from Buffalo,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0024,﻿church,﻿Holy Name,English,﻿frame church,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,42.90006,-78.491967,,,,﻿arent_001,﻿Rev. Mr.,﻿Arent,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0174,﻿church,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,﻿NY,,42.1539,-77.7831,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0100,﻿church,﻿St. Catharine's,English,﻿frame church,,,﻿Steuben County,,﻿Addison,﻿Addison,﻿NY,,42.927861,-78.851169,﻿buf.ny.0103,﻿Attended from Greenwod,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0023,﻿church,﻿St. Teresa's,English,﻿frame church,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,43.023516,-78.498515,﻿buf.ny.0001,﻿Attended from Buffalo,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0024,﻿church,﻿Holy Name,English,﻿frame church,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,42.9,-78.490833,,,,﻿arent_001,﻿Rev. Mr.,﻿Arent,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0174,﻿church,﻿-------,English,,,,﻿Erie County,,﻿Aurora,,﻿NY,,,,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,﻿brick church,,,﻿Orleans County,,﻿Albion,﻿Albion,﻿NY,,43.244277,-78.196859,,,,﻿j_castaldi_001,﻿Rev.,﻿J. Castaldi,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Nicholas',English,﻿frame church,,,﻿Allegany County,,﻿Allegany,﻿Allegany,﻿NY,,42.312982,-78.019539,,,,﻿pam_de-magliano_001,﻿Very Rev.,﻿Pamfilo da Magliano,﻿O.S.F,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0048,﻿church,﻿St. John's,English,﻿frame church,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,42.156458,-77.795551,﻿buf.ny.0103,﻿Attended from Greenwod,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0048,﻿church,﻿St. John's,English,﻿frame church,,,﻿Allegany County,,﻿Andover,﻿Andover,﻿NY,,42.1539,-77.7831,﻿buf.ny.0103,﻿Attended from Greenwod,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0049,﻿church,﻿St. James',English,﻿frame church,,,﻿Allegany County,,﻿Angelica,﻿Angelica,﻿NY,,42.306735,-78.015839,,,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0115,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Arcade,﻿Arcade,﻿NY,,42.533951,-78.423074,﻿buf.ny.0116,﻿Attended from Java,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0077,﻿church,﻿St. Vincent's,English,﻿frame church,,,﻿Genesee County,,﻿Attica,﻿Attica,﻿NY,,42.864227,-78.280295,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -136,7 +136,7 @@
 ﻿roc.ny.0068,﻿chapel,﻿Chapel of St. Mary's Hospital,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.148933,-77.637113,,,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0197,﻿chapel,﻿Convent of Mercy,English,,,,﻿Monroe,,﻿Rochester,,﻿NY,,43.149115,-77.537735,﻿roc.ny.0002,﻿Attended from St. Joseph's,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0189,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Rushford,,﻿NY,,42.783577,-76.558874,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0189,﻿church,[Unnamed Institution],English,,,,﻿Ontario County,,﻿Rushville,,﻿NY,,42.783577,-76.558874,,﻿Attended from Vienna,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0229,﻿church,[Unnamed Institution],English,,,,﻿Ontario County,,﻿Rushville,,,,,,,﻿Attended from Vienna,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0109,﻿church,﻿St. Mary's,English,﻿frame church,,,﻿Steuben County,,﻿Sandy Hill,﻿Dansville,﻿NY,,42.321027,-77.378379,﻿buf.ny.0107,﻿Attended from Perkinsville,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0055,﻿church,﻿St. James',English,﻿frame church,,,﻿Allegany County,,﻿Scio,﻿Scio,﻿NY,,42.171457,-77.978615,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0190,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Scipio Centre,,﻿NY,,42.783611,-76.559167,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1864,﻿,﻿,﻿Buffalo,Buffalo
@@ -215,7 +215,7 @@
 ﻿buf.ny.0007_02,﻿school,﻿St. Boniface's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.915436,-78.769903,,,,,,,,,,﻿student,﻿120 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009_02,﻿school,﻿St. Michael's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,﻿220 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011_02,﻿school,﻿St. Peter's,﻿French,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.972121,-78.815475,,,,,,,,,,﻿student,﻿100 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.882213,-78.849333,,,,,,,,,,﻿student,﻿180 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,,,,,,,﻿student,﻿180 pupils,﻿under a secular teacher,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,,﻿NY,,42.872779,-78.864231,,,,,,,,,,﻿student,﻿200 pupils,﻿Under the Sisters of Mercy,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005_03,﻿school,﻿Holy Angels,English,,,,,,﻿Buffalo,,﻿NY,,42.903442,-78.889303,,,,,,,,,,﻿student,﻿150 pupils,﻿Under the Grey Sisters,,1864,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,﻿norton_buf.ny_001,﻿Madame,﻿Norton,,,,﻿student,﻿60 pupils,,,1864,﻿,﻿,﻿Buffalo,Buffalo

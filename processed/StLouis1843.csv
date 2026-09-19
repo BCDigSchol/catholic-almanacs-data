@@ -48,20 +48,20 @@
 ﻿stl.mo.0054,﻿station,[Unnamed Institution],English,,,,,,﻿Hybernium,,﻿MO,,,,,,"﻿visited once a month by Rev. Ferdinand Helias, S.J.",﻿fer_helias_901,﻿Rev.,﻿Ferdinand Helias,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0054,﻿station,[Unnamed Institution],English,,﻿Cote sans Dessein,,,,﻿Hybernium,,﻿MO,,,,,,"﻿visited once a month by Rev. Ferdinand Helias, S.J.",﻿fer_helias_901,﻿Rev.,﻿Ferdinand Helias,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9075,﻿station,[Unnamed Institution],English,,﻿French Village,,,,,,﻿MO,,,,,,"﻿visited once a month by Rev. Ferdinand Helias, S.J.",﻿fer_helias_901,﻿Rev.,﻿Ferdinand Helias,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0106,﻿church,﻿St. Joachim,﻿Sermon in French and English,,,,﻿Washington County,﻿Washington County,﻿Old Mines,﻿Cadet,﻿MO,﻿MO,38.016102,-90.756736,,,,,﻿Rev.,﻿John Cotter,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0106,﻿church,﻿St. Joachim,﻿Sermon in French and English,,,,﻿Washington County,﻿Washington County,﻿Old Mines,﻿Cadet,﻿MO,,38.016102,-90.756736,,,,,﻿Rev.,﻿Joseph V. Wiseman,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0106,﻿church,﻿St. Joachim,﻿Sermon in French and English,,,,﻿Washington County,﻿Washington County,﻿Old Mines,﻿Cadet,﻿MO,﻿MO,38.016102,-90.756736,,,,﻿joh_cotter_901,﻿Rev.,﻿John Cotter,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0106,﻿church,﻿St. Joachim,﻿Sermon in French and English,,,,﻿Washington County,﻿Washington County,﻿Old Mines,﻿Cadet,﻿MO,,38.016102,-90.756736,,,,﻿jos_v_wiseman_901,﻿Rev.,﻿Joseph V. Wiseman,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9072,﻿station,[Unnamed Institution],English,,﻿Grand Rivière,,,,,,﻿MO,,,,﻿stl.mo.0106,﻿visited from the Old Mines,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9049,﻿station,[Unnamed Institution],English,,﻿Vallee's Mines,,,,,,﻿MO,,38.041944,-90.499722,﻿stl.mo.0106,﻿visited from the Old Mines,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.0120,﻿church,﻿St. Stephen's Church,English,,,,﻿Washington County,,﻿Richmond,,﻿MO,,38.16062,-90.827995,﻿stl.mo.0106,﻿visited from the Old Mines,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0115,﻿church,﻿St. James,﻿Sermon in English,,,,,﻿Washington County,﻿Potosi,﻿Potosi,﻿MO,﻿MO,37.93719,-90.786322,,,,,﻿Rev.,﻿Lewis Tucker,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0115,﻿church,﻿St. James,﻿Sermon in English,,,,,﻿Washington County,﻿Potosi,﻿Potosi,﻿MO,﻿MO,37.93719,-90.786322,,,,﻿lew_tucker_901,﻿Rev.,﻿Lewis Tucker,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9050,﻿station,[Unnamed Institution],English,,﻿Obuchon's Settlement,,,,,,﻿MO,,,,﻿stl.mo.0115,﻿visited from Potosi,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9051,﻿station,[Unnamed Institution],English,,﻿Timmer's Settlement,,,,,,﻿MO,,,,﻿stl.mo.0115,﻿visited from Potosi,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.0135,﻿church,﻿St. Paul's,﻿Sermon in English,,,,﻿Ralls County,﻿Ralls County,﻿Salt River,﻿Center,﻿MO,﻿MO,39.502497,-91.606182,,,,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9052,﻿station,[Unnamed Institution],English,,,,﻿Ralls County,,﻿Cincinnati,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9024,﻿station,﻿St. Mark's,English,,,,﻿Lincoln County,,﻿Louisville,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9061,﻿church,﻿St. Simeon,English,,﻿Pine Creek,,﻿Pine County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9025,﻿church,[Unnamed Institution],English,,﻿Indian Creek,,﻿Monroe County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9027,﻿station,﻿St. Stephen's,English,,﻿Wyaconda River,,﻿Lewis and Clark County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9062,﻿station,[Unnamed Institution],English,,﻿Cedar Creek,,﻿Clark's County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9063,﻿station,[Unnamed Institution],English,,,,﻿Clark's County,,﻿North Santa Fe,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0135,﻿church,﻿St. Paul's,﻿Sermon in English,,,,﻿Ralls County,﻿Ralls County,﻿Salt River,﻿Center,﻿MO,﻿MO,39.502497,-91.606182,,,,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9052,﻿station,[Unnamed Institution],English,,,,﻿Ralls County,,﻿Cincinnati,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9024,﻿station,﻿St. Mark's,English,,,,﻿Lincoln County,,﻿Louisville,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9061,﻿church,﻿St. Simeon,English,,﻿Pine Creek,,﻿Pine County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9025,﻿church,[Unnamed Institution],English,,﻿Indian Creek,,﻿Monroe County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9027,﻿station,﻿St. Stephen's,English,,﻿Wyaconda River,,﻿Lewis and Clark County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9062,﻿station,[Unnamed Institution],English,,﻿Cedar Creek,,﻿Clark's County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9063,﻿station,[Unnamed Institution],English,,,,﻿Clark's County,,﻿North Santa Fe,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9063,﻿station,[Unnamed Institution],﻿p86: https://digital.library.villanova.edu/Item/vudl:325604#?xywh=-229%2C224%2C1854%2C1014&cv=85,,,,﻿Clark's County,,﻿North Santa Fe,,﻿MO,,,,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
