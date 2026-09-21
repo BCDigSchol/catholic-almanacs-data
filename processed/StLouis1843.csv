@@ -64,4 +64,41 @@
 ﻿stl.mo.9027,﻿station,﻿St. Stephen's,English,,﻿Wyaconda River,,﻿Lewis and Clark County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9062,﻿station,[Unnamed Institution],English,,﻿Cedar Creek,,﻿Clark's County,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿stl.mo.9063,﻿station,[Unnamed Institution],English,,,,﻿Clark's County,,﻿North Santa Fe,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿stl.mo.9063,﻿station,[Unnamed Institution],﻿p86: https://digital.library.villanova.edu/Item/vudl:325604#?xywh=-229%2C224%2C1854%2C1014&cv=85,,,,﻿Clark's County,,﻿North Santa Fe,,﻿MO,,,,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9026,﻿station,[Unnamed Institution],English,,,,,﻿Marion County,﻿Mirion City,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9053,﻿church,[Unnamed Institution],English,,﻿Half Indian Tract,,,,,,﻿MO,,,,,,﻿visited by Rev. Thos. Cusack,﻿tho_cusack_901,﻿Rev.,﻿Thos. Cusack,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0136,﻿church,﻿St. Genevieve,"﻿Sermon in French, English, and German",,,,,﻿Sainte Genevieve County,﻿St. Genevieve,﻿St. Genevieve,﻿MO,﻿MO,37.979125,-90.04695,,,,,﻿Rev.,﻿H. Gandolfo,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0136,﻿church,﻿St. Genevieve,"﻿Sermon in French, English, and German",,,,,﻿Sainte Genevieve County,﻿St. Genevieve,﻿St. Genevieve,﻿MO,,37.979125,-90.04695,,,,,﻿Rev.,﻿John Brandts,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9073,﻿station,[Unnamed Institution],English,,﻿Riviere aux vases,,,,,,﻿MO,,,,﻿stl.mo.0136,﻿visited from St. Genevieve,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9074,﻿station,[Unnamed Institution],English,,﻿Etablissement,,,,,,﻿MO,,,,﻿stl.mo.0136,﻿visited from St. Genevieve,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0067,﻿church,[Unnamed Institution],English,,﻿Nouveau Canade,,,,,,﻿MO,,,,﻿stl.mo.0136,﻿visited from St. Genevieve,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9004,﻿church,﻿St. Charles,"﻿Sermon in English, French and German",,,,﻿St. Charles County,﻿St. Charles,,,﻿MO,,38.786216,-90.480364,,,,,﻿Rev.,﻿John B. Smedts,﻿S.J.,,﻿and another father of the same society,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9004,﻿church,﻿St. Charles,"﻿Sermon in English, French and German",,,,﻿St. Charles County,﻿St. Charles,,,﻿MO,,38.786216,-90.480364,,,,,﻿Rev.,﻿Cornelius Walters,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9004,﻿church,﻿St. Charles,"﻿Sermon in English, French and German",,,,﻿St. Charles County,﻿St. Charles,,,﻿MO,,38.786216,-90.480364,,,,,﻿Rev.,﻿Henry Van Mierlo,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0114,﻿church,[Unnamed Institution],English,,,,,﻿St. Charles County,﻿Portage des Sioux,﻿Portage des Sioux,﻿MO,﻿MO,38.925637,-90.344537,﻿stl.mo.9004,﻿visited from St. Charles,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9001,﻿church,[Unnamed Institution],English,,,,,﻿St. Charles County,﻿Dardennes,﻿Dardenne Prairie,﻿MO,﻿MO,38.757652,-90.743989,﻿stl.mo.9004,﻿visited from St. Charles,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9033,﻿station,[Unnamed Institution],English,,,,,,﻿Manchester,,﻿MO,,,,﻿stl.mo.9004,﻿visited from St. Charles,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9048,﻿station,[Unnamed Institution],English,,,,,,﻿Merrimac,,﻿MO,,,,﻿stl.mo.9004,﻿visited from St. Charles,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0144,﻿church,﻿St. Francis Borgia,﻿Sermon in German,,,,﻿Franklin County,,﻿Washington,,﻿MO,,,,,,,,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0144,﻿station,﻿St. Francis Borgia,﻿Sermon in German,,,,﻿Franklin County,,﻿Marthasville,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.0144,﻿station,﻿St. Francis Borgia,﻿Sermon in German,,,,﻿Franklin County,,﻿Herman,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9064,﻿station,[Unnamed Institution],English,,,,,,﻿Portland,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9005,﻿station,[Unnamed Institution],English,,﻿Hancock Prairie,,,,,,﻿MO,﻿IL,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9036,﻿station,[Unnamed Institution],English,,,,﻿Montgomery County,,﻿New Boston,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9047,﻿station,[Unnamed Institution],English,,,,,,﻿Mount Pleasant,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9065,﻿station,[Unnamed Institution],English,,﻿Bourbeuse,,,,,,﻿MO,,,,,,"﻿visited by Rev. James G. Buschotts, S.J.",,﻿Rev.,﻿James G. Buschotts,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9066,﻿station,﻿St. Francis Regis,English,,,,,,﻿Westport,,,,,,,,,,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9066,﻿station,﻿St. Francis Regis,English,,,,,,﻿Independence,,,,,,,,"﻿visited by Rev. Anthony Eisvogels, S.J.",,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9066,﻿station,﻿St. Francis Regis,English,,,,,,﻿Liberty,,,,,,,,"﻿visited by Rev. Anthony Eisvogels, S.J.",,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿stl.mo.9066,﻿station,﻿St. Francis Regis,English,,,,,,﻿Weston,,,,,,,,"﻿visited by Rev. Anthony Eisvogels, S.J.",,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿kc.ks.0001,﻿station,[Unnamed Institution],English,,﻿Fort Leavenworth,,,,,,,﻿KS,,,,,"﻿visited by Rev. Anthony Eisvogels, S.J.",,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,﻿https://www.icsj.org/history,﻿,﻿,﻿St. Louis,StLouis
+﻿kc.ks.0001,﻿station,[Unnamed Institution],English,,﻿Irish Grove,,,,,,,,,,,,"﻿visited by Rev. Anthony Eisvogels, S.J.",,﻿Rev.,﻿Anthony Eisvogels,﻿S.J.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0001,﻿church,﻿St. Matthew,English,,,,﻿Madison County,,﻿Alton,﻿Alton,,﻿IL,38.895385,-90.190202,,,,,﻿Rev.,﻿P. McCabe,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0020,﻿church,﻿The Holy Family,English,,,,﻿St. Clair's County,﻿St. Clair County,﻿Cahokias,﻿Cahokia Heights,﻿IL,﻿IL,38.570082,-90.18928,,,,,﻿Rev.,﻿Regis Loisel,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9001,﻿station,﻿St. Philip,English,,﻿Village Français,,﻿St. Clair's County,,,,﻿IL,,38.433333,-89.083333,﻿alt.il.0020,﻿visited from Cahokias,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9003,﻿station,﻿Saviour's,English,﻿vacant,,,﻿Hancock County,,﻿Commerce,,﻿IL,,,,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0052,﻿church,﻿St. Michael's,English,,,,﻿Joe Davies' County,﻿Jo Daviess County,﻿Galena,﻿Galena,﻿IL,﻿IL,42.415314,-90.430437,,,,,﻿Rev.,﻿John Kenny,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0052,﻿church,﻿St. Michael's,English,,,,﻿Joe Davies' County,﻿Jo Daviess County,﻿Galena,﻿Galena,﻿IL,,42.415314,-90.430437,,,,,﻿Rev.,﻿C. H. Ostlangenberg,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9017,﻿station,[Unnamed Institution],English,,﻿Irish Grove,,﻿Stephenson County,,,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9018,﻿station,[Unnamed Institution],English,,,,﻿Stephenson County,,﻿New Dublin,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0049,﻿station,[Unnamed Institution],English,,,,,,﻿Freeport,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0049,﻿station,[Unnamed Institution],﻿p86: https://digital.library.villanova.edu/Item/vudl:325604#?xywh=-319%2C1298%2C2225%2C1216&cv=85,,,,,,﻿Freeport,,,,,,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
