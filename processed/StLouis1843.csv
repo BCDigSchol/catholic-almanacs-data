@@ -101,4 +101,36 @@
 ﻿chi.il.9017,﻿station,[Unnamed Institution],English,,﻿Irish Grove,,﻿Stephenson County,,,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.9018,﻿station,[Unnamed Institution],English,,,,﻿Stephenson County,,﻿New Dublin,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
 ﻿chi.il.0049,﻿station,[Unnamed Institution],English,,,,,,﻿Freeport,,,,,,﻿chi.il.0052,﻿visited from Galena,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
-﻿chi.il.0049,﻿station,[Unnamed Institution],﻿p86: https://digital.library.villanova.edu/Item/vudl:325604#?xywh=-319%2C1298%2C2225%2C1216&cv=85,,,,,,﻿Freeport,,,,,,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0059,﻿church,﻿Concept of B. V.,English,,,,﻿Randolph County,﻿Randolph County,﻿Kaskakias,﻿Kaskakia,﻿IL,﻿IL,37.922099,-89.915038,,,,﻿ire_st-cyr_902,﻿Rev.,﻿Irenæus St. Cyr,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010,﻿station,﻿Holy Cross,English,,,,﻿Lasalle County,,﻿Lasalle,,﻿IL,,,,,,,﻿j_b_raho_901,﻿Rev.,﻿J. B. Raho,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010,﻿station,﻿Holy Cross,English,,,,﻿Lasalle County,,﻿Lasalle,,﻿IL,,,,,,,﻿lou_parodi_901,﻿Rev.,﻿Louis Parodi,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010,﻿station,﻿Holy Cross,English,,,,﻿Lasalle County,,﻿Lasalle,,﻿IL,,,,,,,﻿n_stahlé_901,﻿Rev.,﻿N. Stahlé,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9010,﻿station,﻿Holy Cross,English,,,,﻿Lasalle County,,﻿O'Howo,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0128,﻿station,[Unnamed Institution],English,,﻿Black Partridge,,﻿Tazewell County,,,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.0174,﻿station,[Unnamed Institution],English,,,,﻿Peoria County,,﻿Kickapoo,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9012,﻿station,[Unnamed Institution],English,,,,﻿Peoria County,,﻿Peoria,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9005,﻿church,[Unnamed Institution],English,,﻿Hancock Prairie,,﻿Fulton County,,﻿St. Augustine,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9005,﻿station,[Unnamed Institution],English,,﻿Fountain Green,,﻿Fulton County,,﻿St. Augustine,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿chi.il.9005,﻿station,[Unnamed Institution],English,,﻿Fountain Green,,﻿Fulton County,,﻿Lacon,,﻿IL,,,,﻿chi.il.9010,﻿visited from Lasalle,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0091,﻿station,[Unnamed Institution],English,,,,﻿Monroe County,﻿St. Clair County,﻿Prairie Du Long Township,﻿Prairie Du Long Township,﻿IL,﻿IL,38.351944,-89.981389,,,,﻿a_heim_901,﻿Rev.,﻿A. Heim,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0053,﻿station,[Unnamed Institution],English,,﻿James' Mills,,﻿Monroe County,,,,﻿IL,﻿IL,38.286709,-90.34952,,,﻿visited by Rev. A. Heim,﻿a_heim_901,﻿Rev.,﻿A. Heim,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0010,﻿station,[Unnamed Institution],English,,,,﻿St. Clair's County,,﻿Belleville,,﻿IL,,,,,,﻿visited by Rev. A. Heim,﻿a_heim_901,﻿Rev.,﻿A. Heim,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0010,﻿station,[Unnamed Institution],English,,﻿New Design,,﻿St. Clair's County,,﻿Belleville,,﻿IL,,,,,,﻿visited by Rev. A. Heim,﻿a_heim_901,﻿Rev.,﻿A. Heim,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0092,﻿church,﻿St. Joseph,English,,,,﻿Randolph County,﻿Randolph County,﻿Prairie du Rocher,﻿Prairie du Rocher,﻿IL,﻿IL,38.079235,-90.093336,,,,﻿vit_van-cloostere_901,﻿Rev.,﻿Vitalis Van Cloostere,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0083,﻿church,﻿St. Patrick's,English,,﻿O'Hara's Settlement,,﻿Randolph County,﻿Randolph County,,﻿Ruma,﻿IL,﻿IL,38.129478,-90.008774,,,﻿visited by Rev. Vitalis Van Cloostere,﻿vit_van-cloostere_901,﻿Rev.,﻿Vitalis Van Cloostere,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9017,﻿church,﻿St. Hilary,English,,,,﻿Adams County,,﻿Quincy,,﻿IL,,,,,,,﻿h_tucker_901,﻿Rev.,﻿H. Tucker,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9006,﻿church,﻿Ascension,﻿Sermon in German.,,,,﻿Adams County,,﻿Quincy,,﻿IL,,,,,,,﻿a_brickwedde_901,﻿Rev.,﻿A. Brickwedde,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9000,﻿station,﻿St. John the Baptist,English,,,,﻿Sangamon County,,﻿Springfield,,﻿IL,,,,,,,﻿b_rolando_901,﻿Rev.,﻿B. Rolando,﻿C.M.,,﻿from St. Louis,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9000,﻿station,﻿St. John the Baptist,English,,,,﻿Sangamon County,,﻿Springfield,,﻿IL,,,,,,,﻿m_cercos_901,﻿Rev.,﻿M. Cercos,﻿C.M.,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9000,﻿station,﻿St. John the Baptist,English,,,,﻿Sangamon County,,﻿Postville,,﻿IL,,,,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9000,﻿station,﻿St. John the Baptist,English,,,,﻿Sangamon County,,﻿Taylorsville,,﻿IL,,,,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0116,﻿station,[Unnamed Institution],English,,,,﻿Shelby County,,﻿Shelbyville,,﻿IL,,,,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.0057,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Jacksonville,,﻿IL,,,,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Beardstown,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,﻿of Lasalle,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Virginia,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Jersey Prairie,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Versailles,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Havana,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Mount Sterling,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,,﻿Pittsfield,,﻿IL,,38.376667,-88.058056,﻿alt.il.9000,﻿visited from Springfield,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
+﻿alt.il.9009,﻿station,[Unnamed Institution],English,﻿p86: https://digital.library.villanova.edu/Item/vudl:325604#?xywh=-1528%2C0%2C4450%2C2433&cv=85,,,﻿Morgan County,,﻿Pittsfield,,﻿IL,,38.376667,-88.058056,,,,,,,,,,,,,,1843,,﻿,﻿,﻿St. Louis,StLouis
