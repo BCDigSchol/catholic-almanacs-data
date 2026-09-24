@@ -17,13 +17,13 @@
 ﻿cle.oh.0066,﻿church,﻿St. Bonifacius',English,,,,﻿Sandusky County,﻿Sandusky County,﻿Fremont,﻿Fremont,﻿OH,,41.35033,-83.121863,,,,﻿rose_001,﻿Rev. Mr.,﻿Rose,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0064,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿Putnam County,﻿Putnam County,﻿Fort Jennings,﻿Fort Jennings,﻿OH,,40.906439,-84.296616,,,,﻿boehne_001,﻿Rev.,﻿C. Boehne,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0074,﻿church,﻿St. Peter's,English,,,,﻿Putnam County,﻿Putnam County,﻿Glandorf,﻿Glandorf,﻿OH,,41.030343,-84.079542,,,,﻿a_schelbert_001,﻿Rev.,﻿A. Schelbert,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0074,﻿church,﻿St. Peter's,English,,,,﻿Putnam County,﻿Putnam County,﻿Glandorf,﻿Glandorf,﻿OH,,41.030343,-84.079542,,,,,﻿Rev.,﻿A. Reichert,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0074,﻿church,﻿St. Peter's,English,,,,﻿Putnam County,﻿Putnam County,﻿Glandorf,﻿Glandorf,﻿OH,,41.030343,-84.079542,,,,﻿aug_reichert_001,﻿Rev.,﻿A. Reichert,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0077,﻿church,﻿Sacred Heart of Mary,English,,,,﻿Stark County,﻿Stark County,﻿Harrisburgh,﻿Harrisburg,﻿OH,,40.868468,-81.251883,,,,﻿l_grevin_001,﻿Rev.,﻿L. Grevin,,,﻿who attends Strasburgh,,,﻿Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0057,﻿church,[Unnamed Institution],English,,,,﻿Lorain County,,﻿Illyria,,﻿OH,,41.364774,-82.105661,,,,﻿m_haley_001,﻿Rev.,﻿M. Haley,,,﻿who visits Laporte twice a month,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0096,﻿church,﻿St. Louis,English,,,,﻿Stark County,﻿Stark County,﻿Louisville,﻿Louisville,﻿OH,,40.838214,-81.259599,,,,﻿f_darcy_001,﻿Rev.,﻿Florentine Darcy,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0087,﻿church,﻿St. Martin's and Queen of All Saints,English,,,,﻿Medina County,﻿Medina County,﻿Liverpool,﻿Valley City,﻿OH,,41.237664,-81.931271,,,,﻿j_albrecht_001,﻿Rev.,﻿J. Albrecht,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0100,﻿church,﻿St. Mary's,﻿German,,,,﻿Stark County,﻿Stark County,﻿Massillon,﻿Massillon,﻿OH,,40.802379,-81.52292,,,,,﻿Rev.,﻿J. Lyers,,,﻿who attends also Bethlehem once a month,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0313,﻿church,[Unnamed Institution],English,﻿English church; not dedicated,,,﻿Stark County,,﻿Massillon,,﻿OH,,,,﻿cle.oh.0038,﻿attended from Canton,﻿once a month,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0100,﻿church,﻿St. Mary's,﻿German,,,,﻿Stark County,﻿Stark County,﻿Massillon,﻿Massillon,﻿OH,,40.802379,-81.52292,,,,﻿j_lyers_001,﻿Rev.,﻿J. Lyers,,,﻿who attends also Bethlehem once a month,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0313,﻿church,[Unnamed Institution],English,﻿English church; not dedicated,,,﻿Stark County,,﻿Massillon,,﻿OH,,40.793868,-81.517484,﻿cle.oh.0038,﻿attended from Canton,﻿once a month,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0102,﻿church,﻿St. Joseph's,English,,,,﻿Lucas County,﻿Lucas County,﻿Maumee City,﻿Maumee,﻿OH,,41.560387,-83.654218,,,,﻿n_roupp_001,﻿Rev.,﻿Nicholas Rouppe,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0105,﻿church,[Unnamed Institution],English,,,,﻿Lucas County,﻿Wood County,﻿Middletown and Six Miles Wood,﻿Middleton Township,﻿OH,,41.458519,-83.650809,﻿cle.oh.0102,﻿visited from Maumee City,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0337,﻿church,﻿St. Genevieve,English,﻿vacant,,,﻿Holmes County,,﻿Mount Eaton,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
@@ -42,32 +42,24 @@
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales,English,,,,﻿Lucas County,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.662799,-83.598385,,,,﻿n_oconnor_001,﻿Rev.,﻿N. O'Connor,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0162,﻿church,﻿St. Francis of Sales,English,,,,﻿Lucas County,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.662799,-83.598385,,,,﻿r_sidley_001,﻿Rev.,﻿R. Sidley,,,﻿who also attends Texas,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0300,﻿church,﻿German and French Church,English,﻿not dedicated,,,﻿Lucas County,﻿Lucas County,﻿Toledo,﻿Toledo,﻿OH,,41.373889,-83.650833,,,,﻿cha_evrard_001,﻿Rev.,﻿Charles Evrard,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,﻿Seneca County,﻿Thomson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,,﻿Rev.,﻿P. Schmidt,﻿PP.S.,,"﻿who visits St. Sebastian, St. Mauritius near Utica, and New Washington, Crawford Co.",,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,﻿Seneca County,﻿Thomson,﻿Thompson Township,﻿OH,,41.201642,-82.885596,,,,﻿p_schmidt_001,﻿Rev.,﻿P. Schmidt,﻿PP.S.,,"﻿who visits St. Sebastian, St. Mauritius near Utica, and New Washington, Crawford Co.",,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0319,﻿church,﻿St. Michael's,English,,,,﻿Seneca County,,﻿Wolf's Creek,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0181,﻿church,[Unnamed Institution],English,﻿church not dedicated,,,﻿Wayne County,﻿Wayne County,﻿Wooster,﻿Wooster,﻿OH,,40.798237,-81.939914,,,,﻿m_oneil_002,﻿Rev.,﻿Michael O'Neil,,,﻿who attends Mansfield,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿a_caron_001,﻿Rev.,﻿A. Caron,,﻿Superior,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿f_salaun_001,﻿Rev.,﻿L. Salaen,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0183,﻿seminary,﻿St. Mary's Ecclesiastical Seminary,English,,,,,,﻿Cleveland,﻿Cleveland,﻿OH,,41.503018,-81.691627,,,,﻿a_martin_001,﻿Rev.,﻿L. Martin,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,,﻿Rev.,﻿M. A. Meyer,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,,﻿Rev.,﻿P. Jehmet,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,,﻿Rev.,﻿Edward Glük,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,﻿a_meyer_002,﻿Rev.,﻿M. A. Meyer,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,﻿p_jehmet_001,﻿Rev.,﻿P. Jehmet,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0160_02,﻿community,﻿Congregation Pretiosissimi Sanguinis,English,,,,,,﻿Thompson,,﻿OH,,41.201642,-82.885596,,,,﻿edw_glük_001,﻿Rev.,﻿Edward Glük,﻿PP.S.,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0357,"﻿boarding school, day school, free school",﻿Christian Brothers of Mary,English,"﻿Boarding, Day, and Free School",,,,,﻿West Cleveland,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,"﻿convent, academy",﻿Ursuline Convent and Academy,English,﻿Boarding and Day School,,,,,﻿Cleveland,,﻿OH,,,,,,,,,,,,,,,﻿Ursulines,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0187_03,"﻿pay school, free school",﻿Ursuline Convent and Academy,English,﻿Boarding and Day School,,,,,﻿Ohio City,,﻿OH,,,,,,,,,,,,,,,﻿conducted by Ursulines,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0187_03,"﻿convent, academy",﻿Ursuline Convent and Academy,English,﻿Boarding and Day School,,,,,﻿Cleveland,,﻿OH,,41.49932,-81.69436,,,,,,,,,,,,﻿Ursulines,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0354,"﻿pay school, free school",[Unnamed Institution],English,,,,,,﻿Ohio City,,﻿OH,,,,,,,,,,,,,,,﻿conducted by Ursulines,,1858,﻿,﻿,﻿Cleveland,Cleveland
 ﻿cle.oh.0342,﻿convent,﻿Ursulines Convent,English,﻿where the Ursulines conduct a Pay school and three Free schools,,,,,﻿Toledo,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0016,﻿hospital,﻿St. Vincent's Hospital,English,,,,,,,,,,,,,,,,,,,,,,,﻿Sisters of Charity of St. Augustine,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Cleveland,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿free school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Louisville,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿free school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Louisville,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿pay school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Louisville,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,"﻿pay school, church",﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Louisville,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿free school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿free school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿free school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿pay school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,﻿pay school,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0193,"﻿pay school, church",﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0335,"﻿mother house, boarding school",[Unnamed Institution],English,"﻿Mother House, Boarding and Day school",,,,,﻿Wolf's Creek,,﻿OH,,,,,,,,﻿Sister,﻿Euphemia Goldschmid,,﻿Sister Servant,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum and Schools,English,,,,,,﻿Thomson,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿Boarding and Day school,,,,,﻿Glandorf,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
-﻿cle.oh.0303,﻿school,[Unnamed Institution],English,﻿schools,,,,,﻿Mariecamp,,﻿OH,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0016,﻿hospital,﻿St. Vincent's Hospital,English,,,,,,,,,,41.49932,-81.69436,,,,,,,,,,,,﻿Sisters of Charity of St. Augustine,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0193,﻿female orphan asylum,﻿St. Mary's Female Orphan Asylum,English,,,,,,﻿Cleveland,,﻿OH,,41.509884,-81.68151,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0358,﻿free school,[Unnamed Institution],English,﻿two free and pay school in Louisville,,,,,﻿Louisville,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0345&0346,"﻿free school, pay school",[Unnamed Institution],English,﻿three free and pay school at Sandusky,,,,,﻿Sandusky,,﻿OH,,,,,,,,,,,,,,,﻿Sisters of the Sacred Heart of Mary,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0335,"﻿mother house, boarding school",[Unnamed Institution],English,"﻿Mother House, Boarding and Day school",,,,,﻿Wolf's Creek,,﻿OH,,,,,,,﻿euphemia_g_euphemia goldschmid _cle.oh_001,﻿Sister,﻿Euphemia Goldschmid,,﻿Sister Servant,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0218_02,﻿asylum,﻿Orphan Asylum and Schools,English,,,,,,﻿Thomson,,﻿OH,,41.69,-81.051389,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0301,"﻿boarding school, day school",[Unnamed Institution],English,﻿Boarding and Day school,,,,,﻿Glandorf,,﻿OH,,41.027778,-84.079167,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
+﻿cle.oh.0303,﻿school,[Unnamed Institution],English,﻿schools,,,,,﻿Mariecamp,,﻿OH,,41.490575,-81.6946,,,,,,,,,,,,,,1858,﻿,﻿,﻿Cleveland,Cleveland
