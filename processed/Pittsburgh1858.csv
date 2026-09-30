@@ -30,7 +30,7 @@
 ﻿pit.pa.0027,﻿church,﻿St. Peter's,English,,,,﻿Butler County,,﻿Butler,,﻿PA,,40.862318,-79.890779,,,,﻿uth_hugo_001,﻿Rev.,﻿M. Uto Huber,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0027,﻿church,﻿St. Peter's,English,,,,﻿Butler County,,﻿Butler,,﻿PA,,40.862318,-79.890779,,,,﻿eme_blieml_001,﻿Rev.,﻿Emeran Blieml,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0029,﻿church,﻿St. Patrick's,English,,,,﻿Indiana County,,﻿Cameron's Bottom,,﻿PA,,40.594647,-78.915857,,,,﻿den_kearney_001,﻿Rev.,﻿Denis Kearney,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0030,﻿church,﻿St. Benedict's,English,,,,﻿Cambria County,,﻿Carrolton,﻿Carrolltown,﻿PA,,40.60979,-78.70663,,,,﻿cel_englbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,﻿Prior,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0030,﻿church,﻿St. Benedict's,English,,,,﻿Cambria County,,﻿Carrolton,﻿Carrolltown,﻿PA,,40.60979,-78.70663,,,,﻿cel_engelbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,﻿Prior,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0030,﻿church,﻿St. Benedict's,English,,,,﻿Cambria County,,﻿Carrolton,﻿Carrolltown,﻿PA,,40.60979,-78.70663,,,,﻿gab_blumm_002,﻿Rev.,﻿Gabriel Blum,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0031,﻿church,﻿St. Philip's,English,,,,﻿Allegheny County,,﻿Chartiers Creek,,﻿PA,,40.436879,-80.068613,,,,﻿m_carroll_001,﻿Rev.,﻿M. Carroll,,,﻿Temperanceville,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0035,﻿church,﻿St. Mary's,﻿German,,,,﻿Butler County,,﻿Clearfield,﻿Clearfield Township,﻿PA,,40.841466,-79.717552,,,,﻿f_grummer_001,﻿Rev.,﻿F. Grimmer,,,,,,﻿Benedictines,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -45,19 +45,19 @@
 ﻿pit.pa.0045,﻿church,﻿St. Mary's,English,,,,﻿Westmoreland County,,﻿Florence,﻿New Florence,﻿PA,,40.380349,-79.075308,,,,﻿jam_kearney_001,﻿Rev.,﻿James Kearney,,,﻿Johnstown,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0046,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Freeport,﻿Freeport,﻿PA,,40.67409,-79.683375,,,,﻿c_m_sheehan_001,﻿Rev.,﻿C. M. Sheehan,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0047,﻿church,﻿St. Patrick's,English,,,,﻿Cambria County,,﻿Gallitzin,﻿Gallitzin,﻿PA,,40.475751,-78.539827,,,,﻿e_f_gartland_001,﻿Rev.,﻿E. F. Gartland,,,﻿Summittville,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0048,﻿church,﻿St. Lawrence's,English,,,,﻿Cambria County,,﻿Glenn Connell,,﻿PA,,40.696375,-78.628187,,,,﻿cel_englbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,,﻿Carrolton,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0048,﻿church,﻿St. Lawrence's,English,,,,﻿Cambria County,,﻿Glenn Connell,,﻿PA,,40.696375,-78.628187,,,,﻿cel_engelbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,,﻿Carrolton,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0049,﻿church,﻿Most Holy Sacrament,English,,,,﻿Westmoreland County,,﻿Greensburg,﻿Greensburg,﻿PA,,40.281099,-79.525077,,,,﻿luk_wimmer_001,﻿Rev.,﻿Luke Wimmer,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0050,﻿church,﻿St. John's,English,,,,﻿Somerset County,,﻿Harman's Bottom,﻿New Baltimore,﻿PA,,39.985914,-78.772798,,,,﻿j_tamchina_001,﻿Rev.,﻿J. Tamchina,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,﻿Somerset County,,﻿Hart's Sleeping Place,,﻿PA,,40.633492,-78.709611,,,,﻿cel_englbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,,﻿Carrolton,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0051,﻿church,﻿St. Joseph's,English,,,,﻿Somerset County,,﻿Hart's Sleeping Place,,﻿PA,,40.633492,-78.709611,,,,﻿cel_engelbrecht_001,﻿Rev.,﻿C. Engelbrecht,﻿O.S.B.,,﻿Carrolton,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0052,﻿church,﻿St. Mary's,English,,,,﻿Blair County,,﻿Hollidaysburg,﻿Hollidaysburg,﻿PA,,40.451979,-78.393738,,,,﻿joh_walsh_002,﻿Rev.,﻿John Walshe,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0054,﻿church,﻿Most Holy Trinity,English,,,,﻿Huntingdon County,,﻿Huntingdon,﻿Huntingdon,﻿PA,,40.486103,-78.013084,,,,﻿pet_hughes_001,﻿Rev.,﻿Peter Hughes,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0055,﻿church,﻿St. Bernard's,English,,,,﻿Indiana County,,﻿Indiana,﻿Indiana,﻿PA,,40.628627,-79.136284,,,,﻿ulr_spoetle_001,﻿Rev.,﻿Ulrich Spoetle,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0054,﻿church,﻿Most Holy Trinity,English,,,,﻿Huntingdon County,,﻿Huntingdon,﻿Huntingdon,﻿PA,,40.486103,-78.013084,,,,﻿p_hughes_001,﻿Rev.,﻿Peter Hughes,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0055,﻿church,﻿St. Bernard's,English,,,,﻿Indiana County,,﻿Indiana,﻿Indiana,﻿PA,,40.628627,-79.136284,,,,﻿ulr_spottle_001,﻿Rev.,﻿Ulrich Spoetle,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0057,﻿church,﻿St. Bartholomew's,English,,,,﻿Cambria County,,﻿Jefferson,,﻿PA,,40.391175,-78.714519,,,,﻿tho_walsh_005,﻿Rev.,﻿Thos. Walsh,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0058,﻿church,﻿St. John Gualbert,English,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.32528,-78.915362,,,,﻿jam_kearney_001,﻿Rev.,﻿James Kearney,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0059,﻿church,﻿St. Joseph,﻿German,,,,﻿Cambria County,,﻿Johnstown,﻿Johnstown,﻿PA,,40.295565,-78.874443,,,,﻿leo_rau_001,﻿Rev.,﻿Leo Rall,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0157,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Kilbuck,,﻿PA,,40.518611,-80.102778,﻿pit.pa.0009,"﻿Attended from St. Mary's, Allegheny City",,,,,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0060,﻿church,﻿St. Mary's,English,,,,﻿Armstrong County,,﻿Kittaning,﻿Kittanning,﻿PA,,40.827281,-79.544207,,,,﻿c_m_sheehan_001,﻿Rev.,﻿C. M. Sheehan,,,﻿Freeport,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿joh_hackett_002,﻿Rev.,﻿John Hackett,,,﻿St. Xavier's,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0062,﻿church,﻿Holy Family,English,,,,﻿Westmoreland County,,﻿Latrobe,﻿Latrobe,﻿PA,,40.31464,-79.381807,,,,﻿j_hackett_001,﻿Rev.,﻿John Hackett,,,﻿St. Xavier's,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0063,﻿church,﻿St. Mary's,English,,,,﻿Allegheny County,,﻿Lawrenceville,﻿Lawrenceville,﻿PA,,40.469897,-79.955759,,,,﻿a_p_gibbs_001,﻿Rev.,﻿A. Gibbs,,,﻿Sharpsburgh,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0066,﻿church,﻿St. Trinity,English,,,,﻿Westmoreland County,,﻿Ligonier,﻿Loretto,﻿PA,,40.247374,-79.240872,﻿pit.pa.0119,﻿attended from St. Vincent's Abbey,,,,,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0084,﻿church,﻿St. Augustine's,English,,﻿P.O. St. Augustine's,,﻿Cambria County,,﻿Loop,,﻿PA,,40.61303,-78.577542,,,,﻿joh_burns_002,﻿Rev.,﻿John Burns,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -71,8 +71,8 @@
 ﻿pit.pa.0077,﻿church,﻿St. Martin's,English,,,,﻿Westmoreland County,,﻿New Derry,﻿Newry,﻿PA,,41.001438,-80.348496,﻿pit.pa.0119,﻿Attended from St. Vincent's,,,,,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0078,﻿church,﻿St. Patrick's,English,,,,﻿Blair County,,﻿Newry,,﻿PA,,40.348466,-79.317345,,,,﻿jam_bradley_001,﻿Rev.,﻿J. Bradley,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0082,﻿church,﻿O.L. Help of Christians,English,,,,﻿Allegheny County,,﻿Robinson,﻿Rochester,﻿PA,,40.702288,-80.286451,,,,﻿caj_glocker_001,﻿Rev.,﻿Cajtan Klocker,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0123_03,﻿convent,﻿St. Xavier's Convent,English,,,,﻿Westmoreland County,,,,﻿PA,,40.282376,-79.416154,,,,﻿joh_hackett_002,﻿Rev.,﻿John Hackett,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0085,﻿church,﻿St. Matthew's,English,,,,﻿Indiana County,,﻿Salzsburg,﻿Saltsburgh,﻿PA,,40.235396,-79.470388,,,,﻿ulr_spittal_001,﻿Rev.,﻿Ulrich Spittal,﻿O.S.B.,,﻿from Indiana,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0123_03,﻿convent,﻿St. Xavier's Convent,English,,,,﻿Westmoreland County,,,,﻿PA,,40.282376,-79.416154,,,,﻿j_hackett_001,﻿Rev.,﻿John Hackett,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0085,﻿church,﻿St. Matthew's,English,,,,﻿Indiana County,,﻿Salzsburg,﻿Saltsburgh,﻿PA,,40.235396,-79.470388,,,,﻿ulr_spottle_001,﻿Rev.,﻿Ulrich Spittal,﻿O.S.B.,,﻿from Indiana,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0086,﻿church,﻿St. Patrick,English,,,,﻿Somerset County,,﻿Sand Patch,,﻿PA,,39.812702,-78.971071,,,,﻿p_brown_001,﻿Rev.,﻿P. Brown,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0089,﻿church,﻿St. Mary's,English,,,,﻿Huntingdon County,,﻿Shade Valley,,﻿PA,,40.167974,-77.837524,,,,﻿p_hughes_001,﻿Rev.,﻿P. Hughes,,,﻿Huntington,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0090,﻿church,﻿St. Joseph's,English,,,,﻿Allegheny County,,﻿Sharpsburg,﻿Sharpsburgh,﻿PA,,40.50328,-79.93549,,,,﻿a_p_gibbs_001,﻿Rev.,﻿A. Gibbs,,,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
@@ -116,7 +116,7 @@
 ﻿pit.pa.0119,"﻿abbey, college",﻿St. Vincent's Abbey and College,English,,,,,﻿Westmoreland County,﻿Latrobe,,﻿PA,,40.292744,-79.401526,,,,﻿leo_rau_001,﻿Rev.,﻿Leo Rau,﻿O.S.B.,,,﻿student,"﻿scholastics, 16",﻿Benedictines,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0119,"﻿abbey, college",﻿St. Vincent's Abbey and College,English,,,,,﻿Westmoreland County,﻿Latrobe,,﻿PA,,40.292744,-79.401526,,,,﻿m_mayer_002,﻿Rev.,﻿Magnus Meyer,﻿O.S.B.,,,﻿student,"﻿scholastics, 16",﻿Benedictines,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0119,"﻿abbey, college",﻿St. Vincent's Abbey and College,English,,,,,﻿Westmoreland County,﻿Latrobe,,﻿PA,,40.292744,-79.401526,,,,﻿p_hartlaub_001,﻿Rev.,﻿P. Hartlaub,﻿O.S.B.,,,﻿student,"﻿scholastics, 16",﻿Benedictines,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
-﻿pit.pa.0030_02,﻿priory,﻿St. Benedict Priory,English,,,,,,﻿Carrolton,,﻿PA,,40.60979,-78.70663,,,,﻿cel_englbrecht_001,﻿Rev.,﻿Celestine Engelbrecht,﻿O.S.B.,﻿Prior and Pastor of Congregation,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
+﻿pit.pa.0030_02,﻿priory,﻿St. Benedict Priory,English,,,,,,﻿Carrolton,,﻿PA,,40.60979,-78.70663,,,,﻿cel_engelbrecht_001,﻿Rev.,﻿Celestine Engelbrecht,﻿O.S.B.,﻿Prior and Pastor of Congregation,,,,,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0122&0122_02,"﻿monastery, academy",﻿Monastery and Academy of St. Francis,English,,,,,﻿Cambria County,﻿Loretto,,﻿PA,,40.504054,-78.637745,,,,﻿lawrence_odonnell_pit.pa_001,﻿Brother,﻿Lawrence O'Donnell,,﻿Superior,,,,﻿Franciscan Brothers,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0029_02,﻿monastery,[Unnamed Institution],English,,,,,﻿Indiana County,﻿Cameron's Bottom,,﻿PA,,40.594647,-78.915857,,,,﻿vincent_wilstead_pit.pa_001,﻿Brother,﻿Vincent Wilstead,,﻿Superior,,,,﻿Franciscan Brothers,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
 ﻿pit.pa.0162,﻿house,[Unnamed Institution],English,,,,,,﻿Pittsburgh,,﻿PA,,40.439722,-79.976389,,,,﻿bernardine_rodgers_pit.pa_001,﻿Brother,﻿Bernardine Rodgers,,﻿Superior,,,,﻿Franciscan Brothers,,1858,﻿,﻿,﻿Pittsburgh,Pittsburgh
