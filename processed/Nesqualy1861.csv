@@ -1,0 +1,11 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,﻿#REF!,﻿#REF!,,,,﻿#REF!,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,﻿#REF!,﻿#REF!,,,,,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,﻿#REF!,﻿#REF!,,,,,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,﻿#REF!,﻿#REF!,,,,,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0006,﻿church,﻿St. Fr. Xavier's,English,,,,,,﻿Cowlitz,,,,,,,,,,﻿Rev.,﻿Th. Soulard,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0009,﻿church,﻿St. Michael's,English,,,,,﻿Thurston County,﻿Olympia,﻿Olympia,﻿WA,,﻿47.040836,﻿-122.885902,﻿nes.wa.0006,﻿Visited from Cowlitz,,,,,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0007,﻿church,﻿Immaculate Conception,English,﻿and other different stations in Pudget Sound,,,,﻿Pierce County,﻿Steilacom,﻿Steilacom,﻿WA,,﻿47.171183,﻿-122.595084,﻿nes.wa.0006,﻿Visited from Cowlitz,,,,,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0023,﻿church,[Unnamed Institution],English,,,,,﻿Stevens County,﻿Colville,﻿Colville,﻿WA,,﻿48.540372,﻿-117.90323,,"﻿Attended by Rev. Father Joset, S.J.",,﻿jos_joset_001,﻿Rev. Father,﻿Joset,﻿S.J.,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿ore.or.0051,﻿church,[Unnamed Institution],English,,,,,,﻿Dalles,,,,,,,"﻿Attended by Rev. Father Joset, S.J.",,﻿jos_joset_001,﻿Rev. Father,﻿Joset,﻿S.J.,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿ore.or.0051,﻿church,[Unnamed Institution],English,,,,,﻿Walla Walla County,﻿Walla Walla,﻿Walla Walla,﻿WA,,﻿46.063383,﻿-118.344025,﻿ore.or.0051,﻿attended from Dalles,,,,,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
