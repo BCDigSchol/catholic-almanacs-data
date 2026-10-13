@@ -51,7 +51,7 @@
 ﻿nat.ms.0052,﻿church,[Unnamed Institution],English,,,,﻿Jackson County,,﻿Old Fort,,﻿MS,,31.189078,-89.816765,﻿nat.ms.0058,﻿Visited from Pascagoula,,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0053,﻿church,[Unnamed Institution],English,,,,﻿Hancock County,,﻿O'Rourke's,,﻿MS,,30.28748,-89.42029,﻿nat.ms.0007,﻿Visited from Bay St. Louis,﻿every six weeks,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0058,﻿church,[Unnamed Institution],English,"﻿new church, not dedicated",,,﻿Jackson County,,﻿East Pascagoula,﻿Pascagoula,﻿MS,,30.363611,-88.541944,,,,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0059,﻿church,﻿St. Paul's,English,,,,﻿Harrison County,,﻿Pass Christian,﻿Pass Christian,﻿MS,,30.324444,-89.247222,,,,,﻿Rev.,﻿Peter Holton,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0059,﻿church,﻿St. Paul's,English,,,,﻿Harrison County,,﻿Pass Christian,﻿Pass Christian,﻿MS,,30.324444,-89.247222,,,,﻿pet_holton_001,﻿Rev.,﻿Peter Holton,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0060,﻿church,﻿St. Michael's,English,,,,﻿Jasper County,,﻿Paulding,﻿Paulding,﻿MS,,32.030833,-89.0375,,,,﻿ghi_j_bobeme_001,﻿Rev.,﻿Ghislain J. Bobeme,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0061,﻿church,[Unnamed Institution],English,,,,﻿Hancock County,,﻿Pearlington,﻿Pearlington,﻿MS,,30.263889,-89.608333,﻿new.la.0041,"﻿Visited from Covington, La.",,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0062,﻿church,﻿St. Joseph's,English,,,,﻿Claiborne County,,﻿Port Gibson,﻿Port Gibson,﻿MS,,31.956894,-90.983401,,,,﻿phi_huber_001,﻿Rev.,﻿Philip Huber,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
@@ -67,15 +67,15 @@
 ﻿nat.ms.0075,﻿church,[Unnamed Institution],English,,,,﻿Holmes County,,﻿Schula,﻿Tchula,﻿MS,,32.687712,-89.793433,﻿nat.ms.0087,﻿Visited from Yazoo City,﻿once in two months,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0076,﻿church,[Unnamed Institution],English,,,,﻿Winston County,﻿Noxubee county,﻿Summerville,,﻿MS,,32.944019,-88.735329,﻿nat.ms.0019,﻿Visited from Sulphur Springs,,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.3525,-90.8775,,,,﻿fra_x_leray_001,﻿Rev.,﻿Francis X. Leray,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.3525,-90.8775,,,,,﻿Rev.,﻿Andrew Bennet,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0079,﻿church,﻿St. Paul's,English,,,,﻿Warren County,,﻿Vicksburgh,﻿Vicksburg,﻿MS,,32.3525,-90.8775,,,,﻿and_bennet_001,﻿Rev.,﻿Andrew Bennet,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0082,﻿church,[Unnamed Institution],English,,,,﻿Jackson County,,﻿West Pascagoula,,﻿MS,,30.381667,-88.644167,﻿nat.ms.0058,﻿Visited from Pascagoula,,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0086,﻿church,[Unnamed Institution],English,,,,﻿Wilkinson County,,﻿Woodville,﻿Woodville,﻿MS,,31.102778,-91.299722,,,﻿once in two months,﻿fre_miller_001,﻿Rev.,﻿F. Miller,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0087,﻿church,﻿Assumption,English,,,,﻿Yazoo County,,﻿Yazoo City,﻿Yazoo City,﻿MS,,32.847973,-90.413134,,,,﻿p_le-corre,﻿Rev.,﻿P. Le Corre,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0089,"﻿academy, school",﻿St. Stanislaus' Academy and Boarding School for Boys,English,,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,30.315975,-89.33617,,,,,﻿Brother,﻿Athanasius,,﻿Superior,,,,﻿Directed by the Brothers of Christian Instruction,,1860,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0090,"﻿asylum, school",﻿St. Mary's Orphan Asylum for Girls,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.553738,-91.3947,,,,,﻿Sister,﻿Mary Thomas,,﻿Superior,,﻿child,﻿Number of Orphans 70,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0089,"﻿academy, school",﻿St. Stanislaus' Academy and Boarding School for Boys,English,,,,,﻿Hancock County,﻿Bay St. Louis,﻿Bay St. Louis,﻿MS,,30.315975,-89.33617,,,,﻿athanasius_nat.ms_002,﻿Brother,﻿Athanasius,,﻿Superior,,,,﻿Directed by the Brothers of Christian Instruction,,1860,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0090,"﻿asylum, school",﻿St. Mary's Orphan Asylum for Girls,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.553738,-91.3947,,,,﻿m-thomas_nat.ms_002,﻿Sister,﻿Mary Thomas,,﻿Superior,,﻿child,﻿Number of Orphans 70,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0092_01,"﻿house, school",﻿House of Industry,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.570496,-91.399524,,,,,,,,,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0092_02,"﻿house, school",﻿Day School for Girls,English,,,,,﻿Adams County,﻿Natchez,﻿Natchez,﻿MS,,31.570496,-91.399524,,,,,,,,,,,,﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Natchez,Natchez
-﻿nat.ms.0101,"﻿convent, academy",﻿Convent and Boarding Academy,English,,,,,,﻿Sulphur Springs,,﻿MS,,32.73752658,-89.82277939,,,,,﻿Mother,﻿M. Léonie,,﻿Superior,,,,﻿directed by Sisters of St. Joseph (of Bourg),,1860,﻿,﻿,﻿Natchez,Natchez
+﻿nat.ms.0101,"﻿convent, academy",﻿Convent and Boarding Academy,English,,,,,,﻿Sulphur Springs,,﻿MS,,32.73752658,-89.82277939,,,,﻿m-léonie_nat.ms_002,﻿Mother,﻿M. Léonie,,﻿Superior,,,,﻿directed by Sisters of St. Joseph (of Bourg),,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0102,﻿school,﻿School for small boys,English,,,,,,﻿Sulphur Springs,,﻿MS,,32.73752658,-89.82277939,,,,,,,,,,,,﻿directed by Sisters of St. Joseph (of Bourg),,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0093_01,"﻿convent, academy",﻿Convent and Academy,English,,,,,,,,,,30.324347,-89.349367,,,,,,,,,,,,,,1860,﻿,﻿,﻿Natchez,Natchez
 ﻿nat.ms.0093_03,﻿house,﻿House of Industry,English,,,,,,,,,,30.324347,-89.349367,,,,,,,,,,,,﻿directed by Sisters of St. Joseph (of Bourg),,1860,﻿,﻿,﻿Natchez,Natchez

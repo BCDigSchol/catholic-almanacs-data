@@ -1,9 +1,9 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,,,,,,,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
-﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,,,,,,,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
-﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,,,,,,,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
-﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,,,,,,,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
-﻿nes.wa.0006,﻿church,﻿St. Fr. Xavier's,English,,,,,,﻿Cowlitz,,,,,,,,,,﻿Rev.,﻿Th. Soulard,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,,,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿church,﻿St. Augustin's,English,,,,,,﻿Vancouver,,,,,,,,,﻿j_b_brouillet_002,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,,,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿Augustin M. Alex. Blanchet,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿cathedral,﻿St. James',English,,,,,,﻿Vancouver,,,,,,,,,﻿j_b_brouillet_002,﻿Very Rev.,﻿J. B. A. Brouillet,,﻿V.G.,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
+﻿nes.wa.0006,﻿church,﻿St. Fr. Xavier's,English,,,,,,﻿Cowlitz,,,,,,,,,﻿th_soulard_001,﻿Rev.,﻿Th. Soulard,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
 ﻿nes.wa.0009,﻿church,﻿St. Michael's,English,,,,,﻿Thurston County,﻿Olympia,﻿Olympia,﻿WA,,,,﻿nes.wa.0006,﻿Visited from Cowlitz,,,,,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
 ﻿nes.wa.0007,﻿church,﻿Immaculate Conception,English,﻿and other different stations in Pudget Sound,,,,﻿Pierce County,﻿Steilacom,﻿Steilacom,﻿WA,,,,﻿nes.wa.0006,﻿Visited from Cowlitz,,,,,,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
 ﻿nes.wa.0023,﻿church,[Unnamed Institution],English,,,,,﻿Stevens County,﻿Colville,﻿Colville,﻿WA,,,,,"﻿Attended by Rev. Father Joset, S.J.",,﻿jos_joset_001,﻿Rev. Father,﻿Joset,﻿S.J.,,,,,,,1861,﻿,﻿,Nesqualy,Nesqualy
