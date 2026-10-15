@@ -1,57 +1,108 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,,﻿Rt. Rev.,﻿Celestin de la Hailandière,﻿D. D.,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,,﻿Rev.,﻿John Corbe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,,﻿Rev.,﻿Michael Shawe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0115,﻿church,[Unnamed Institution],English,,﻿Queret's Prairie,,﻿Knox County,,,,﻿IN,,,,﻿vin.in.0001,"﻿attended from Vincennes, by the Rev. John Baptist Chassè",,,﻿Rev.,﻿John Corbe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9063,﻿church,﻿Ste. Gèneviève,English,,﻿Faux-Chenal,,﻿Knox County,,,,﻿IN,,,,,,﻿visited every other Sunday by Rev. Lewis Ducoudray,,﻿Rev.,﻿Lewis Ducoudray,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿cel_de-la-hailandière_901,﻿Rt. Rev.,﻿Celestin de la Hailandière,﻿D. D.,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿joh_corbe_901,﻿Rev.,﻿John Corbe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0001,﻿cathedral,﻿Cathderal of St. Frances Xavier,English,,,,,﻿Knox County,﻿Vincennes,,﻿IN,,38.679024,-87.53415,,,,﻿mic_shawe_901,﻿Rev.,﻿Michael Shawe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0115,﻿church,[Unnamed Institution],English,,﻿Queret's Prairie,,﻿Knox County,,,,﻿IN,,,,﻿vin.in.0001,"﻿attended from Vincennes, by the Rev. John Baptist Chassè",,﻿joh_corbe_901,﻿Rev.,﻿John Corbe,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9063,﻿church,﻿Ste. Gèneviève,English,,﻿Faux-Chenal,,﻿Knox County,,,,﻿IN,,,,,,﻿visited every other Sunday by Rev. Lewis Ducoudray,﻿lew_ducoudray_901,﻿Rev.,﻿Lewis Ducoudray,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
 ﻿for.in.0022,﻿church,[Unnamed Institution],English,,,,﻿Knox County,,﻿Carlisle,,﻿IN,,,,﻿vin.in.0001,﻿sometimes attended from Vincennes,,,,,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
 ﻿vin.in.9026,﻿church,[Unnamed Institution],English,,,,﻿Knox County,,﻿Shaker's Prairie,,﻿IN,,,,﻿vin.in.0001,﻿sometimes attended from Vincennes,,,,,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0171,﻿church,[Unnamed Institution],English,,,,﻿Davies County,,﻿Washington,,﻿IN,,38.658611,-87.159167,,,,,﻿Rev.,﻿Simon Salumière,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0145,﻿church,﻿St. Mary's,English,,,,﻿Davies County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Claudius François,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0090,﻿church,﻿St. Peter's,English,,,,﻿Davies County,,,﻿Montgomery,﻿IN,,38.66456,-87.046859,,,,,﻿Rev.,﻿Julian Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9038,﻿station,[Unnamed Institution],English,,,,﻿Davies County,,﻿Paoli,,,,,,,,﻿visited occasionally by Rev. Julian Delaune,,﻿Rev.,﻿Julian Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0152,﻿church,﻿St. Patrick's,English,,,,﻿Davies County,,,,,,,,﻿vin.in.0090,"﻿attended from St. Peter's, by Rev. J.Deluane",,,﻿Rev.,﻿J. Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0093,﻿station,[Unnamed Institution],English,,,,﻿Martin County,,﻿Mount Pleasant,,﻿IN,,,,,,﻿attended by Rev. Claudius Fraçois,,﻿Rev.,﻿Claudius François,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0069,﻿station,﻿St. Joseph's,English,,,,﻿Dubois County,,﻿Jasper,,﻿IN,,,,,,,,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0041,﻿station,[Unnamed Institution],English,,,,﻿Dubois County,,﻿Ferdinand,,﻿IN,,,,,,,,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9064,﻿station,[Unnamed Institution],English,,,,﻿Dubois County,,﻿Freedonia,,﻿IN,,,,,,﻿Rev. Joseph Kundek,,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9034,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Rome,,﻿IN,,,,,,,,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0024,﻿station,[Unnamed Institution],English,,,,﻿Perry County,,﻿Cassidi,,﻿IN,,,,,,﻿visited by Rev. Augustus Bessonies,,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0166,﻿station,[Unnamed Institution],English,,,,﻿Perry County,,﻿Troy,,﻿IN,,,,,,﻿visited by Rev. Augustus Bessonies,,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Mount Vernon,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Mount Vernon,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿New Harmony,﻿New Harmony,﻿IN,﻿IN,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿New Harmony,﻿New Harmony,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9041,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Princeton,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9041,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Princeton,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,,﻿IN,,,,,,,,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Vernon,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0125,﻿station,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Scipio,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9065,﻿station,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Rokford,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9011,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,38.324167,-85.873889,,,,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0217,﻿church,﻿Assumption,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,,,,,,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.9006,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Jeffersonville,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9066,﻿station,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Clarke,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9033,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Charlestown,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0124,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Salem,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9039,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Corydon,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9043,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9043,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0100,﻿church,﻿St. Paul's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0100,﻿church,﻿St. Paul's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0075,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Laurenceburg,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0119,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Richmond,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9048,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Greenburg,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0096,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Napolean,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9044,﻿church,[Unnamed Institution],English,,﻿Blue Creeks,,﻿Ripley County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Conrad Schniederjans,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9045,﻿church,[Unnamed Institution],English,,﻿Salt Creeks,,﻿Rush County,,,,﻿IN,,,,,,,,﻿Rev.,﻿Conrad Schniederjans,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0127,﻿church,﻿St. Vincent's,English,,,,﻿Shelby County,,﻿Shelbyville,,﻿IN,,39.516667,-85.759722,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0064,﻿church,[Unnamed Institution],English,,,,,,﻿Indianapolis,,﻿IN,,39.768611,-86.158056,,,,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.0030,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Columbus,,﻿IN,,,,,,﻿visited by Rev. Vincent Baquelin,,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0081,﻿church,﻿St. Vincent of Paul,English,,,,﻿Cass County,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,,﻿Very Rev.,﻿Aug. Martin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0035,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Delphy,,﻿IN,,,,,,﻿visited by Very Rev. Aug. Martin,,﻿Very Rev.,﻿Aug. Martin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0109,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Peru,,﻿IN,,40.757778,-86.071667,,,﻿visited by Rev. Michael Clarke,,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿for.in.0079,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Legros,,﻿IN,,,,,,﻿visited by Rev. Michael Clarke,,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
-﻿vin.in.9014,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Wabashtown,,﻿IN,,40.800833,-85.827222,,,﻿visited by Rev. Michael Clarke,,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0171,﻿church,[Unnamed Institution],English,,,,﻿Davies County,,﻿Washington,,﻿IN,,38.658611,-87.159167,,,,﻿sim_salumière_901,﻿Rev.,﻿Simon Salumière,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0145,﻿church,﻿St. Mary's,English,,,,﻿Davies County,,,,﻿IN,,,,,,,﻿cla_françois_901,﻿Rev.,﻿Claudius François,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0090,﻿church,﻿St. Peter's,English,,,,﻿Davies County,,,﻿Montgomery,﻿IN,,38.66456,-87.046859,,,,﻿jul_delaune_901,﻿Rev.,﻿Julian Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9038,﻿station,[Unnamed Institution],English,,,,﻿Davies County,,﻿Paoli,,,,,,,,﻿visited occasionally by Rev. Julian Delaune,﻿jul_delaune_901,﻿Rev.,﻿Julian Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0152,﻿church,﻿St. Patrick's,English,,,,﻿Davies County,,,,,,,,﻿vin.in.0090,"﻿attended from St. Peter's, by Rev. J.Deluane",,﻿j_delaune_901,﻿Rev.,﻿J. Delaune,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0093,﻿station,[Unnamed Institution],English,,,,﻿Martin County,,﻿Mount Pleasant,,﻿IN,,,,,,﻿attended by Rev. Claudius Fraçois,﻿cla_françois_901,﻿Rev.,﻿Claudius François,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0069,﻿station,﻿St. Joseph's,English,,,,﻿Dubois County,,﻿Jasper,,﻿IN,,,,,,,﻿jos_kundek_901,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0041,﻿station,[Unnamed Institution],English,,,,﻿Dubois County,,﻿Ferdinand,,﻿IN,,,,,,,﻿jos_kundek_901,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9064,﻿station,[Unnamed Institution],English,,,,﻿Dubois County,,﻿Freedonia,,﻿IN,,,,,,﻿Rev. Joseph Kundek,﻿jos_kundek_901,﻿Rev.,﻿Joseph Kundek,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9034,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Rome,,﻿IN,,,,,,,﻿aug_bessonies_901,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0024,﻿station,[Unnamed Institution],English,,,,﻿Perry County,,﻿Cassidi,,﻿IN,,,,,,﻿visited by Rev. Augustus Bessonies,﻿aug_bessonies_901,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0166,﻿station,[Unnamed Institution],English,,,,﻿Perry County,,﻿Troy,,﻿IN,,,,,,﻿visited by Rev. Augustus Bessonies,﻿aug_bessonies_901,﻿Rev.,﻿Augustus Bessonies,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,,,﻿IN,,,,,,,﻿ant_deydier_901,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,,,﻿IN,,,,,,,﻿rom_weinzœpflen_901,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Mount Vernon,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿ant_deydier_901,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Mount Vernon,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿rom_weinzœpflen_901,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿New Harmony,﻿New Harmony,﻿IN,﻿IN,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿ant_deydier_901,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9036,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿New Harmony,﻿New Harmony,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿rom_weinzœpflen_901,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9041,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Princeton,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿ant_deydier_901,﻿Rev.,﻿Anthony Deydier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9041,﻿church,[Unnamed Institution],English,,,,﻿Vanderburg County,,﻿Princeton,,﻿IN,,,,,,﻿attended by Rev. Anthony Deydier and Rev. Roman Weinzœpflen,﻿rom_weinzœpflen_901,﻿Rev.,﻿Roman Weinzœpflen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0081,﻿church,﻿St. Michael's,English,,,,﻿Jefferson County,,﻿Madison,,﻿IN,,,,,,,﻿ste_chartier_901,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0094,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Vernon,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,﻿ste_chartier_901,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0125,﻿station,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Scipio,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,﻿ste_chartier_901,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9065,﻿station,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Rokford,,﻿IN,,,,,,﻿visited once a month by Rev. Stephen Chartier,﻿ste_chartier_901,﻿Rev.,﻿Stephen Chartier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9011,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿New Albany,,﻿IN,,38.324167,-85.873889,,,,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0217,﻿church,﻿Assumption,English,,,,﻿Floyd County,,﻿the Knobs,﻿Floyds Knobs,﻿IN,,,,,,,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9006,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Jeffersonville,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9066,﻿station,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Clarke,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9033,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Charlestown,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0124,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Salem,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9039,﻿church,[Unnamed Institution],English,,,,﻿Floyd County,,﻿Corydon,,﻿IN,,,,,,﻿visited occasionally by Rev. Louis Neyron,﻿lou_neyron_901,﻿Rev.,﻿Louis Neyron,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9043,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,﻿jos_ferneding_901,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9043,﻿church,﻿St. John's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0100,﻿church,﻿St. Paul's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,﻿jos_ferneding_901,﻿Rev.,﻿Joseph Ferneding,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0100,﻿church,﻿St. Paul's,English,,,,﻿Dearborn County,,,,﻿IN,,,,,,,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0075,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Laurenceburg,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0119,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Richmond,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9048,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Greenburg,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0096,﻿church,[Unnamed Institution],English,,,,﻿Dearborn County,,﻿Napolean,,﻿IN,,,,,,﻿visited by Rev. Michael O'Rorke,﻿mic_ororke_901,﻿Rev.,﻿Michael O'Rorke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9044,﻿church,[Unnamed Institution],English,,﻿Blue Creeks,,﻿Ripley County,,,,﻿IN,,,,,,,﻿con_schniederjans_901,﻿Rev.,﻿Conrad Schniederjans,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9045,﻿church,[Unnamed Institution],English,,﻿Salt Creeks,,﻿Rush County,,,,﻿IN,,,,,,,﻿con_schniederjans_901,﻿Rev.,﻿Conrad Schniederjans,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0127,﻿church,﻿St. Vincent's,English,,,,﻿Shelby County,,﻿Shelbyville,,﻿IN,,39.516667,-85.759722,,,,﻿vin_baquelin_901,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0064,﻿church,[Unnamed Institution],English,,,,,,﻿Indianapolis,,﻿IN,,39.768611,-86.158056,,,,﻿vin_baquelin_901,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0030,﻿church,[Unnamed Institution],English,,,,﻿Jefferson County,,﻿Columbus,,﻿IN,,,,,,﻿visited by Rev. Vincent Baquelin,﻿vin_baquelin_901,﻿Rev.,﻿Vincent Baquelin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0081,﻿church,﻿St. Vincent of Paul,English,,,,﻿Cass County,,﻿Logansport,,﻿IN,,40.752475,-86.375266,,,,﻿aug_martin_901,﻿Very Rev.,﻿Aug. Martin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0035,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Delphy,,﻿IN,,,,,,﻿visited by Very Rev. Aug. Martin,﻿aug_martin_901,﻿Very Rev.,﻿Aug. Martin,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0109,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Peru,,﻿IN,,40.757778,-86.071667,,,﻿visited by Rev. Michael Clarke,﻿mic_clarke_901,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0079,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Legros,,﻿IN,,,,,,﻿visited by Rev. Michael Clarke,﻿mic_clarke_901,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9014,﻿church,[Unnamed Institution],English,,,,﻿Miami County,,﻿Wabashtown,,﻿IN,,40.800833,-85.827222,,,﻿visited by Rev. Michael Clarke,﻿mic_clarke_901,﻿Rev.,﻿Michael Clarke,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Augustus,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,41.080556,-85.139167,,,,﻿jul_benoit_901,﻿Rev.,﻿Julian Benoit,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0001,﻿church,﻿St. Augustus,English,,,,﻿Allen County,,﻿Fort Wayne,,﻿IN,,41.080556,-85.139167,,,,﻿jos_hamion_901,﻿Rev.,﻿Joseph Hamion,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,﻿Allen County,,﻿Huntingdon,,﻿IN,,40.880556,-85.506389,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jul_benoit_901,﻿Rev.,﻿Julian Benoit,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9007,﻿church,[Unnamed Institution],English,,,,﻿Allen County,,﻿Huntingdon,,﻿IN,,40.880556,-85.506389,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jos_hamion_901,﻿Rev.,﻿Joseph Hamion,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9067,﻿station,[Unnamed Institution],English,,﻿german settlement,,﻿Allen County,,,,﻿IN,,,,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jul_benoit_901,﻿Rev.,﻿Julian Benoit,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9067,﻿station,[Unnamed Institution],English,,﻿german settlement,,﻿Allen County,,,,﻿IN,,,,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jos_hamion_901,﻿Rev.,﻿Joseph Hamion,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9068,﻿station,[Unnamed Institution],English,,﻿german settlement,,﻿Allen County,,,,﻿IN,,,,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jul_benoit_901,﻿Rev.,﻿Julian Benoit,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9068,﻿station,[Unnamed Institution],English,,﻿german settlement,,﻿Allen County,,,,﻿IN,,,,,,﻿visited by Rev. Julian Benoit and Rev. Joseph Hamion,﻿jos_hamion_901,﻿Rev.,﻿Joseph Hamion,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9008,﻿church,[Unnamed Institution],English,,,,﻿St. Joseph's County,,﻿Southbend,﻿South Bend,﻿IN,,,,,,,﻿s_a_bernier_902,﻿Rev.,﻿S. A. Bernier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.9009,﻿church,﻿St. Mary's of the Lake,English,,,,﻿St. Joseph's County,,,﻿Culver,﻿IN,,41.217222,-86.421667,,,﻿attended by Rev. S. A. Bernier,﻿s_a_bernier_902,﻿Rev.,﻿S. A. Bernier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0069,﻿church,[Unnamed Institution],English,,,,﻿St. Joseph's County,,﻿Laporte,,﻿IN,,,,,,﻿attended by Rev. S. A. Bernier,﻿s_a_bernier_902,﻿Rev.,﻿S. A. Bernier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿for.in.0086,﻿church,[Unnamed Institution],English,,,,﻿St. Joseph's County,,﻿Michigan City,,﻿IN,,,,,,﻿attended by Rev. S. A. Bernier,﻿s_a_bernier_902,﻿Rev.,﻿S. A. Bernier,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0164,﻿church,﻿St. Joseph,English,,,,﻿Vigo County,,﻿Terrehaute,﻿Terre Haute,﻿IN,,39.479722,-87.375,,,,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0164,﻿church,﻿St. Joseph,English,,,,﻿Vigo County,,﻿Terrehaute,﻿Terre Haute,﻿IN,,39.479722,-87.375,,,,﻿ant_parret_901,﻿Rev.,﻿Anthony Parret,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9051,﻿church,﻿St. Mary's in the woods,English,,,,﻿Vigo County,,,,﻿IN,,,,,,﻿attended by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9051,﻿church,﻿St. Mary's in the woods,English,,,,﻿Vigo County,,,,﻿IN,,,,,,﻿attended by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿ant_parret_901,﻿Rev.,﻿Anthony Parret,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0089,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Montezuma,,﻿IN,,,,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0089,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Montezuma,,﻿IN,,,,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿ant_parret_901,﻿Rev.,﻿Anthony Parret,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9052,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Clinton,,﻿IN,,,,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9052,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Clinton,,﻿IN,,,,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿ant_parret_901,﻿Rev.,﻿Anthony Parret,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9024,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Merom,,﻿IN,,39.056944,-87.566667,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9024,﻿church,[Unnamed Institution],English,,,,﻿Vigo County,,﻿Merom,,﻿IN,,39.056944,-87.566667,,,﻿visited occasionally by Rev. Stanislaus Buteux and Rev. Anthony Parret,﻿ant_parret_901,﻿Rev.,﻿Anthony Parret,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿chi.il.0002,﻿church,[Unnamed Institution],English,,,,﻿Cook County,,﻿Chicago,,﻿IL,,39.611146,-87.696137,,,,﻿mau_d_palais_901,﻿Rev.,﻿Maurice de St. Palais,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿chi.il.0002,﻿church,[Unnamed Institution],English,,,,﻿Cook County,,﻿Chicago,,﻿IL,,39.611146,-87.696137,,,,﻿fra_j_fischer_901,﻿Rev.,﻿Francis Joseph Fischer,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9054,﻿church,[Unnamed Institution],English,,﻿Little Fork,,,,,,﻿IL,,,,,,,﻿joh_guéguen_901,﻿Rev.,﻿John Guéguen,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿chi.il.0063,﻿church,﻿St. Patrick's,English,,,,﻿Will County,,﻿Juliet,,﻿IL,,,,,,,﻿hip_dupontavice_901,﻿Rev.,﻿Hippolytus DuPontavice,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿chi.il.9020,﻿station,[Unnamed Institution],English,,,,,,﻿Dusden,,﻿IL,,,,,,﻿attended by Rev. Hippolytus DuPontavice,﻿hip_dupontavice_901,﻿Rev.,﻿Hippolytus DuPontavice,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿chi.il.9021,﻿station,[Unnamed Institution],English,,,,,,﻿Corkstown,,﻿IL,,,,,,﻿attended by Rev. Hippolytus DuPontavice,﻿hip_dupontavice_901,﻿Rev.,﻿Hippolytus DuPontavice,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0087,﻿church,﻿St. Aloysius,English,,,﻿North arm of the Grand Prarie,﻿Edgar County,,,,﻿IL,,39.625,-87.691667,,,﻿visited every third Sunday by Rev. Stanislaus Buteux,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9056,﻿church,[Unnamed Institution],English,,,,,,﻿Darwin,,﻿IL,,,,,,﻿attended by Rev. Stanislaus Buteux,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9061,﻿church,[Unnamed Institution],English,,,,,,﻿York,,﻿IL,,,,,,﻿attended by Rev. Stanislaus Buteux,﻿sta_buteux_901,﻿Rev.,﻿Stanislaus Buteux,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9057,﻿church,[Unnamed Institution],English,,,,﻿Effingham County,,﻿Teutopolis,,﻿IL,,,,,,,﻿n_masquelet_901,﻿Rev.,﻿N. Masquelet,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0109,﻿church,﻿St. Mary's,English,,,,﻿Jasper County,,﻿Picquet Colony,,﻿IL,,,,,,,﻿lou_müller_901,﻿Rev.,﻿Louis Müller,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.9011,﻿church,[Unnamed Institution],English,,,,,,﻿Lawrenceville,,﻿IL,,37.735639,-88.138151,,,﻿attended once a month by Rev. Louis Müller,﻿lou_müller_901,﻿Rev.,﻿Louis Müller,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0072,﻿church,[Unnamed Institution],English,,,,,﻿Wabash County,﻿Mt. Carmel,﻿Mt. Carmel,﻿IL,,38.731884,-87.688498,,,﻿attended once a month by Rev. Louis Müller,﻿lou_müller_901,﻿Rev.,﻿Louis Müller,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0103,﻿church,[Unnamed Institution],English,,,,﻿Lawrence County,,﻿St. Francisville,﻿St. Francisville,﻿IL,,,,,,,﻿lew_ducoudray_901,﻿Rev.,﻿Lewis Ducoudray,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0295,﻿church,[Unnamed Institution],English,,,,,﻿Wabash County,﻿Coffee,﻿Mt. Carmel,﻿IL,,,,,,﻿visited by Rev. Lewis Ducoudray,﻿lew_ducoudray_901,﻿Rev.,﻿Lewis Ducoudray,,,,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0090,﻿church,[Unnamed Institution],English,,,,﻿Gallatin County,,,,﻿IL,,,,,,,﻿eli_durbin_901,﻿Rev.,﻿Elisha Durbin,,,﻿of Kentucky,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿alt.il.0115,﻿church,[Unnamed Institution],English,,,,,,﻿Shawneetown,﻿Shawneetown,﻿IL,,38.09088,-88.158649,,,,﻿eli_durbin_901,﻿Rev.,﻿Elisha Durbin,,,﻿of Kentucky,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9062,﻿church,[Unnamed Institution],English,,,,,,﻿Carnia,,﻿IL,,,,,,,﻿eli_durbin_901,﻿Rev.,﻿Elisha Durbin,,,﻿of Kentucky,,,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.0242,﻿seminary,﻿Theological Seminary,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿cha_oppermann_901,﻿Rev.,﻿Charles Oppermann,,,,﻿student,"﻿10 ecclesiastical students, 4 of whom attend the class of Divinity, and three the class of Philosophy",﻿Society of Eudists,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿j_p_bellier_901,﻿Rev.,﻿J. Peter Bellier,,"﻿President, Professor of Hebrew and higher Mathematics",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿j_chasse_901,﻿Rev.,﻿J. Chasse,,"﻿Vice President, Prof. of Latin and Greek",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿m_e_shawe_901,﻿Rev.,﻿M. E. Shawe,,"﻿Prof. of Belles Lettres, English Composition and Public Speaking",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿joh_corbe_901,﻿Rev.,﻿John Corbe,,﻿Professor of Drawing and Painting,,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿ororke_vin.in_901,﻿M.,﻿O'Rorke,,"﻿Professor of Arithmetic, Geometry and Algebra",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿chandlery_vin.in_901,﻿M.,﻿Chandlery,,"﻿Professor of English Grammar, Reading and Composition, and conjunct with Mr. Shawe",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿peter_drone_vin.in_901,,﻿Peter Drone,,"﻿Professor of History, Geography, and Book-Keeping",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,﻿college,﻿St. Gabriel's College,English,,,,,,﻿Vincennes,,﻿IN,,,,,,,﻿baty_vin.in_901,﻿Dr.,﻿Baty,,"﻿delivers courses on Chemistry, Natural Philosophy, Anatomy and Botany",,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,"﻿school, novitiate",﻿School and Novitiate of the Brothers of St. Joseph,English,,,,﻿Davies County,,﻿Vincennes,,﻿IN,,,,,,,﻿l_sorin_901,﻿Rev.,﻿L. Sorin,,﻿Superiour,,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
+﻿vin.in.9037,"﻿school, novitiate",﻿School and Novitiate of the Brothers of St. Joseph,English,﻿p108: https://digital.library.villanova.edu/Item/vudl:325123#?xywh=-24%2C879%2C1546%2C845&cv=109,,,﻿Davies County,,﻿Vincennes,,﻿IN,,,,,,,,,,,,,﻿student,﻿50 pupils,,,1842,﻿,﻿,﻿Vincennes,Vincennes
