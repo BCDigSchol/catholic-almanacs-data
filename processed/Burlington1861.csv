@@ -1,0 +1,9 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,﻿#REF!,﻿#REF!,,,,﻿#REF!,﻿Rt. Rev.,﻿L. de Goesbriand,﻿D.D.,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿Joseph Duglue,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0001,﻿cathedral,﻿St. Mary's Cathedral,English,,,,,,﻿Burlington,,﻿VT,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿James Quinn,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0002,﻿church,﻿St. Joseph's,English,,,,,,﻿Burlington,,﻿VT,,,,,,,,﻿Rev.,﻿Hervé Cardinal,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Albany,,﻿VT,,,,,,,,﻿Rev.,﻿Stanislaus Danielou,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0008,﻿church,﻿St. Charles,English,,,,﻿Windham County,,﻿Bellows' Falls,,﻿VT,,,,,,,,﻿Rev.,﻿Ch. O'Reilly,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0010,﻿church,﻿St. Francis of Sales,English,,,,﻿Bennington County,,﻿Bennington (East),,﻿VT,,﻿42.878135,﻿-73.196774,,,,,﻿Rev.,﻿Jerome Cloarec,,,,,,,,1861,﻿,﻿,Burlington,Burlington
+﻿bur.vt.0011,﻿church,﻿Our Lady of Good Help,English,,,,﻿Addison County,,﻿Brandon,,﻿VT,,﻿43.794726,﻿-73.082193,,,,,﻿Rev.,﻿Ch. Boylan,,,,,,,,1861,﻿,﻿,Burlington,Burlington
