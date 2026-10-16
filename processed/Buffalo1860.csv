@@ -91,7 +91,7 @@
 ﻿buf.ny.0116,﻿church,﻿St. Patrick's,English,﻿frame church,,,﻿Wyoming County,,﻿Java,﻿Java,﻿NY,,﻿42.903821,﻿-78.675563,,,,,﻿Rev.,﻿Wm. Hughes,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0183,﻿church,﻿St. Mary's of the Lake,English,﻿frame church,,,﻿Chemung County,,﻿Jefferson,,﻿NY,,,,﻿roc.ny.0059,﻿Attended from Pennyan,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0033,﻿church,﻿Assumption,English,﻿brick church,,,﻿Erie County,,﻿Lancaster,﻿Lancaster,﻿NY,,﻿42.898236,﻿-78.6342,,,,,﻿Rev.,﻿J. P. Klien,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0084,﻿church,﻿St. Peter's,English,﻿frame church,,,﻿Niagara County,,﻿Lewiston,﻿Lewiston,﻿NY,,﻿43.172555,﻿-79.035878,,﻿Att. by the Lazarists,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0084,﻿church,﻿St. Peter's,English,﻿frame church,,,﻿Niagara County,,﻿Lewiston,﻿Lewiston,﻿NY,,﻿43.172555,﻿-79.035878,﻿buf.ny.0121,﻿Att. by the Lazarists,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0080,﻿church,﻿St. Francis',English,﻿frame church,,,﻿Genesee County,,﻿Le Roy,﻿Le Roy,﻿NY,,﻿42.978394,﻿-77.984178,﻿buf.ny.0078,﻿Attended from Bavaria,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0024,﻿church,﻿St. Rose's,English,﻿frame church,,,﻿Livingston County,,﻿Lima,,﻿NY,,﻿42.904786,﻿-77.611387,,,,,﻿Rev.,﻿Thomas O'Brien,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0085,﻿church,﻿St. John Baptist,English,﻿stone church,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,﻿43.173731,﻿-78.683745,,,,,﻿Rev.,﻿Peter Bede,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
@@ -146,7 +146,7 @@
 ﻿roc.ny.0017,﻿church,﻿Assumption,English,﻿brick church,,,﻿Monroe County,,﻿Scottsville,,﻿NY,,﻿43.025896,﻿-77.745283,,,,,﻿Rev.,﻿Jos. O'Donohue,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0045,﻿church,﻿St. Thomas',English,﻿brick church,,,﻿Seneca County,,﻿Seneca Falls,,﻿NY,,﻿42.904328,﻿-76.832996,,,,,﻿Rev.,﻿C. D. McMullen,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0119,﻿church,﻿St. Cecilia's,English,﻿frame church,,,﻿Wyoming County,,﻿Sheldon,﻿Sheldon,﻿NY,,﻿42.737283,﻿-78.41863,,,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0191,﻿church,[Unnamed Institution],English,,,,﻿Chautauque County,,﻿Silver Creek,,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0191,﻿church,[Unnamed Institution],English,,,,﻿Chatauque County,﻿Chautauque County,﻿Silver Creek,,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0192,﻿church,﻿St. Augustine's,English,﻿frame church,,,﻿Erie County,,﻿South Alden,,﻿NY,,,,﻿buf.ny.0041,﻿Attended from Springbrook,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0092,﻿church,﻿St. Ignatius,English,﻿frame church,,,﻿Orleans County,,﻿Somerset,﻿Somerset,﻿NY,,﻿42.817787,﻿-78.671364,,,,,﻿Rev.,﻿T. Sehan,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0222,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿South Valley,,﻿NY,,﻿42.707222,﻿-74.710556,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
@@ -160,11 +160,11 @@
 ﻿roc.ny.0062,﻿church,[Unnamed Institution],English,,,,﻿Tompkins County,,﻿Trumansburg,,﻿NY,,﻿42.53999,﻿-76.659469,﻿roc.ny.0061,﻿Attended from Ithaca,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0037,﻿church,[Unnamed Institution],English,,,,﻿Ontario County,,﻿Victor,,﻿NY,,﻿42.979168,﻿-77.408645,﻿roc.ny.0040,﻿Attended from Palmyra,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0230,﻿church,﻿St. Francis,English,﻿frame church,,,﻿Ontario County,,﻿Vienna,,﻿NY,,,,,,,,﻿Rev.,﻿F. Clark,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0071,﻿church,[Unnamed Institution],English,,,,﻿Chautauque County,,﻿Villanova,﻿Villenova,﻿NY,,﻿42.4055,﻿-79.132274,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0071,﻿church,[Unnamed Institution],English,,,,﻿Chatauque County,﻿Chautauque County,﻿Villanova,﻿Villenova,﻿NY,,﻿42.4055,﻿-79.132274,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0046,﻿church,﻿St. Mary's,English,﻿brick church,,,﻿Seneca County,,﻿Waterloo,,﻿NY,,﻿42.904788,﻿-76.862737,,,,,﻿Rev.,﻿Michael Maguire,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0120,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Warsaw,﻿Warsaw,﻿NY,,﻿42.740061,﻿-78.132788,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0112,﻿church,﻿St. James',English,﻿frame church,,,﻿Tioga County,,﻿Waverly,﻿Waverly,﻿NY,,﻿42.010352,﻿-76.527166,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0072,﻿church,[Unnamed Institution],English,,,,﻿Chautauque County,,﻿Westfield,﻿Westfield,﻿NY,,﻿42.32228,﻿-79.578103,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0072,﻿church,[Unnamed Institution],English,,,,﻿Chatauque County,﻿Chautauque County,﻿Westfield,﻿Westfield,﻿NY,,﻿42.32228,﻿-79.578103,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0056,﻿church,﻿St. James',English,﻿frame church,,,﻿Cayuga County,,﻿Westport,,﻿NY,,﻿43.044822,﻿-76.564334,﻿roc.ny.0048,﻿Attended from Auburn,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,﻿frame church,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,﻿42.963167,﻿-78.748932,,,,,﻿Rev.,﻿D. Gruber,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0095,﻿church,﻿St. Bernard's,English,﻿frame church,,,﻿Niagara County,,﻿Youngstown,﻿Youngstown,﻿NY,,﻿43.24935,﻿-79.047503,﻿buf.ny.0121,﻿Attended from the Seminary of Holy Angels,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
