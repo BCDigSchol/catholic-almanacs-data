@@ -9,7 +9,7 @@
 ﻿sta.fl.0009,﻿church,[Unnamed Institution],English,,,,,,﻿Sampsonville,﻿Sampson,﻿FL,,29.918675,-82.208056,﻿sta.fl.0031,﻿Attended from Josephstown,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0015,﻿church,[Unnamed Institution],English,,,,,,﻿Diego,,﻿FL,,30.163432,-81.389977,﻿sta.fl.0031,﻿Attended from Josephstown,﻿occasionally,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0006,﻿church,[Unnamed Institution],English,,﻿Amelia Island,,﻿Nassau County,,﻿Fernandina,﻿Fernandina Beach,﻿FL,,30.666943,-81.436267,﻿sta.fl.0032,﻿Attended from Old Town,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
-﻿sta.fl.0032,﻿church,[Unnamed Institution],English,,,,,﻿Dixie County,﻿Old Town,,﻿FL,,29.60162176,-82.98071861,,,,,﻿Rev.,﻿Emile Hilaire,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
+﻿sta.fl.0032,﻿church,[Unnamed Institution],English,,,,,﻿Dixie County,﻿Old Town,,﻿FL,,29.60162176,-82.98071861,,,,﻿emi_hilaire_001,﻿Rev.,﻿Emile Hilaire,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0012,﻿church,[Unnamed Institution],English,,,,﻿Duval County,,﻿St. John's Bar,﻿St. Johns,﻿FL,,30.082065,-81.54712,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0017,﻿church,[Unnamed Institution],English,,,,,,﻿Starke,﻿Starke,﻿FL,,29.94413,-82.109827,﻿sta.fl.0006,﻿Attended from Fernandina,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0018,﻿church,[Unnamed Institution],English,,,,,,﻿Gainesville,﻿Gainesville,﻿FL,,29.651956,-82.324998,﻿sta.fl.0006,﻿Attended from Fernandina,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
@@ -18,7 +18,7 @@
 ﻿sta.fl.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Monticello,﻿Monticello,﻿FL,,30.545202,-83.870164,﻿sta.fl.0005,﻿visited from Tallahassee,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0023,﻿church,[Unnamed Institution],English,,,,,,﻿St. Mark,﻿St. Marks,﻿FL,,30.161038,-84.206282,﻿sta.fl.0005,﻿visited from Tallahassee,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0024,﻿church,[Unnamed Institution],English,,,,,,﻿Newport,﻿Newport,﻿FL,,30.209496,-84.1888,﻿sta.fl.0005,﻿visited from Tallahassee,,﻿a_mailley_001,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
-﻿sta.fl.0016,﻿church,﻿Church of St. Louis,English,"﻿in honor of Louis Cancer, who suffered martyrdom on the coast, upward of three hundred years ago",,,,,﻿Tampa,﻿Tampa,﻿FL,,27.949413,-82.457181,,,,,﻿Rev.,﻿Charles A. Mailley,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
+﻿sta.fl.0016,﻿church,﻿Church of St. Louis,English,"﻿in honor of Louis Cancer, who suffered martyrdom on the coast, upward of three hundred years ago",,,,,﻿Tampa,﻿Tampa,﻿FL,,27.949413,-82.457181,,,,﻿cha_a_mailley_001,﻿Rev.,﻿Charles A. Mailley,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0020,﻿church,[Unnamed Institution],English,﻿termination of Florida railroad,,,,,﻿Cedar Key,﻿Cedar Key,﻿FL,,29.138579,-83.035121,﻿sta.fl.0016,﻿visited from Tampa,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0033,﻿church,[Unnamed Institution],English,,,,,﻿Manatee County,﻿Manatee,,﻿FL,,27.48349817,-82.29008903,﻿sta.fl.0016,﻿visited from Tampa,,﻿jam_ohara_002,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0003,﻿church,"﻿St. Mary, Star of the Sea",English,,,,,,﻿Key West Island,﻿Key West,﻿FL,,24.553097,-81.795441,,,,﻿jam_ohara_002,﻿Rev.,﻿James O'Hara,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
@@ -28,10 +28,10 @@
 ﻿sta.fl.0008,﻿church,[Unnamed Institution],English,,,,,,﻿Moccasin Branch,﻿Armstrong,﻿FL,,29.762191,-81.447854,,,﻿attended occasionally,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Pellicer's Creek,﻿Saint Augustine,﻿FL,,28.68094089,-82.45967409,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0029,﻿church,[Unnamed Institution],English,,,,,,﻿Roger's Settlement,,﻿FL,,28.680941,-82.459674,﻿sta.fl.0001,﻿Attended from St. Augustine,,,,,,,,,,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
-﻿sta.fl.0001_02,﻿academy,﻿St. Augustine's Academy,English,,﻿Charlotte Street,,,,,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,﻿Brother,﻿Lucian,,﻿Director,,﻿religious,﻿5 brothers,﻿The Brothers of the Christian Schools,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
+﻿sta.fl.0001_02,﻿academy,﻿St. Augustine's Academy,English,,﻿Charlotte Street,,,,,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,﻿lucian_sta.fl_001,﻿Brother,﻿Lucian,,﻿Director,,﻿religious,﻿5 brothers,﻿The Brothers of the Christian Schools,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0001_02,﻿academy,﻿St. Augustine's Academy,English,,﻿Charlotte Street,,,,,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,,,,,,﻿student,"﻿number of students, 50",﻿The Brothers of the Christian Schools,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0001_02,﻿academy,﻿St. Augustine's Academy,English,,﻿Charlotte Street,,,,,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,,,,,,﻿boarder,"﻿boarders, 10",﻿The Brothers of the Christian Schools,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
-﻿sta.fl.0027,﻿convent,﻿St. Mary's Convent,English,,﻿St. George Street,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,﻿Mother,﻿Lignori Major,,﻿Superior,,﻿member,﻿11 members,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
+﻿sta.fl.0027,﻿convent,﻿St. Mary's Convent,English,,﻿St. George Street,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,﻿lignori_major_sta.fl_001,﻿Mother,﻿Lignori Major,,﻿Superior,,﻿member,﻿11 members,,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0027,﻿convent,﻿St. Mary's Convent,English,,﻿St. George Street,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,,,,,,﻿student,"﻿number of pupils, 60",,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0027,﻿convent,﻿St. Mary's Convent,English,,﻿St. George Street,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,,,,,,﻿boarder,"﻿boarders, 9",,,1865,﻿,﻿,﻿VAFlorida,VAFlorida
 ﻿sta.fl.0001_03,﻿school,﻿St. Augustine's Male Parish School,English,,,,,,﻿St. Augustine,﻿St. Augustine,﻿FL,,29.892184,-81.313931,,,,,,,,,,﻿child,﻿70 boys,﻿The Brothers of the Christian Schools,,1865,﻿,﻿,﻿VAFlorida,VAFlorida

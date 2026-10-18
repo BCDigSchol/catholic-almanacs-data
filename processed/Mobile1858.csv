@@ -1,24 +1,24 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,﻿mic_portier_901,﻿Rt. Rev.,﻿M. Portier,﻿D.D.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,,﻿Very Rev.,﻿G. Chalon,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,﻿g_chalon_001,﻿Very Rev.,﻿G. Chalon,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,﻿jas_mcgarahan_001,﻿Very Rev.,﻿James McGarahan,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿D. Manucy,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0001,﻿cathedral,﻿Cathedral of the Immaculate Conception,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿#REF!,﻿#REF!,,,,﻿d_manucy_001,﻿Rev.,﻿D. Manucy,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0002,﻿church,﻿St. Vincent de Paul's,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,﻿pat_hackett_901,﻿Rev.,﻿P. R. Hacket,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0002,﻿church,﻿St. John Nepomueen's,﻿German,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0002,﻿church,﻿St. John Nepomueen's,﻿German,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,﻿p_ismand_001,﻿Rev.,﻿P. Ismand,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0050_02,﻿chapel,﻿Chapel of Providence Infirmary,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,﻿jas_mcgarahan_001,﻿Very Rev.,﻿J. McGarahan,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0007,﻿church,[Unnamed Institution],English,,,,﻿Mobile County,﻿Mobile County,﻿Bayou Battery,﻿Bayou le Batre,﻿AL,,,,﻿mob.al.0025,﻿Visited from Spring Hill College (St. Joseph's.),,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0008,﻿church,[Unnamed Institution],English,,,,﻿Wilcox County,﻿Wilcox County,﻿Camden,﻿Camden,﻿AL,,,,,,,,﻿Rev.,﻿A. D. Pellicer,,,"﻿of Montgomery, Ala.",,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0008,﻿church,[Unnamed Institution],English,,,,﻿Wilcox County,﻿Wilcox County,﻿Camden,﻿Camden,﻿AL,,,,,,,﻿a_d_pellicer_001,﻿Rev.,﻿A. D. Pellicer,,,"﻿of Montgomery, Ala.",,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0056,﻿station,﻿Dog River Factory,English,,﻿Dog River,,﻿Mobile County,﻿Mobile County,,﻿Mobile,﻿AL,,,,﻿mob.al.0025,"﻿attended from St. Joseph's Col. Spring Hill, Mobile",,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0014,﻿church,﻿St. Philip's,English,,,,﻿Baldwin County,,﻿Fish River,,﻿AL,,,,﻿mob.al.0001,"﻿visited from Cathedral, Mobile",,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0020,﻿church,﻿St. Paul's,English,,,,﻿Mobile County,﻿Mobile County,﻿Mount Vernon,﻿Mount Vernon,﻿AL,,,,﻿mob.al.0035,﻿Visited from Spring Hill College,,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0021,﻿church,[Unnamed Institution],English,,,,﻿Mobile County,,﻿Mount Louis,﻿Mon Louis,﻿AL,,,,﻿mob.al.0001,"﻿visited from Cathedral, Mobile",,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0022,﻿church,﻿St. Peter's,English,,,,,,﻿Montgomery,﻿Montgomery,﻿AL,,,,,,,,﻿Rev.,﻿A. D. Pellicer,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0025,﻿church,﻿St. Joseph's,English,,,,﻿Mobile County,,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿F. Villebois,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0026,﻿convent,﻿St. F. de Sales,English,,,,﻿Mobile County,,﻿Summerville,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿A. Desgaultieres,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0022,﻿church,﻿St. Peter's,English,,,,,,﻿Montgomery,﻿Montgomery,﻿AL,,,,,,,﻿a_d_pellicer_001,﻿Rev.,﻿A. D. Pellicer,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0025,﻿church,﻿St. Joseph's,English,,,,﻿Mobile County,,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿f_villebois_001,﻿Rev.,﻿F. Villebois,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0026,﻿convent,﻿St. F. de Sales,English,,,,﻿Mobile County,,﻿Summerville,﻿Mobile,﻿AL,,,,,,,﻿a_desgaultieres_001,﻿Rev.,﻿A. Desgaultieres,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0028,﻿church,﻿St. John the Baptist's,English,﻿vacant.,,,,﻿Tuscaloosa County,﻿Tuscaloosa,﻿Tuscaloosa,﻿AL,,,,,,,﻿doherty_001,﻿Rev.,﻿-- Doherty,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Apalachicola,﻿FL,,,,,,,,﻿Rev.,﻿D. Gibbons,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0032,﻿church,﻿St. Patrick's,English,,,,,﻿Franklin County,﻿Appalachicola,﻿Apalachicola,﻿FL,,,,,,,﻿d_gibbons_001,﻿Rev.,﻿D. Gibbons,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0057,﻿church,[Unnamed Institution],English,,,,﻿Escambia County,,﻿Barrancas,﻿Fort Barrancas,﻿FL,,,,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,,,,,,,﻿Rev.,﻿P. F. Coyle,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0033,﻿church,﻿St. Michael's,English,,,,,﻿Escambia County,﻿Pensacola,﻿Pensacola,﻿FL,,,,,,,﻿p_f_coyle_002,﻿Rev.,﻿P. F. Coyle,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0058,﻿church,[Unnamed Institution],English,,,,,﻿Escambia County,﻿Perdido,,﻿FL,,,,﻿mob.al.0033,﻿visited from Pensacola,,,,,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0034,﻿church,﻿St. John Evangelist's,English,,,,,﻿Escambia County,﻿Warrington,﻿Warrington,﻿FL,,,,,,,﻿p_f_coyle_001,﻿Rev.,﻿P. F. Coyle,,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿f_gautrelet_001,﻿Very Rev.,﻿F. Gautrelet,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
@@ -26,26 +26,26 @@
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿fel_benausse_001,﻿Rev.,﻿Felix Benausse,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿hip_gache_001,﻿Rev.,﻿Hippolite Gache,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿a_cornette_001,﻿Rev.,﻿Andrew Cornette,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿Francis Larnaudie,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿Ambrose Martignene,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿Joseph Prackensky,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿fra_larnaudie_001,﻿Rev.,﻿Francis Larnaudie,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿amb_martignene_001,﻿Rev.,﻿Ambrose Martignene,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿jos_prackensky_001,﻿Rev.,﻿Joseph Prackensky,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿f_lespes_001,﻿Rev.,﻿Francis Lespes,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿Robert Kelly,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿rob_kelly_001,﻿Rev.,﻿Robert Kelly,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿dom_jeeny_001,﻿Rev.,﻿Dominic Jenny,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿p_ismand_001,﻿Rev.,﻿Peter Imsand,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿J. B. Serra,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿j_b_serra_001,﻿Rev.,﻿J. B. Serra,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿r_olivier_001,﻿Rev.,﻿Robert Olivier,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,,﻿Rev.,﻿Joseph Desribes,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿jos_desribes_001,﻿Rev.,﻿Joseph Desribes,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿p_i_carrière_001,﻿Rev.,﻿Philip De Carriere,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0035,﻿college,﻿Spring Hill College,English,,﻿six miles from Mobile,,,﻿Mobile County,﻿Spring Hill,﻿Mobile,﻿AL,,,,,,,﻿flo_achard_001,﻿Rev.,﻿Florentin Achard,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0055,﻿house,﻿Brothers of Christian Instruction,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,,﻿Brother,﻿Alphonso,,﻿Superior,,﻿religious,﻿Fifteen brothers,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0055,﻿house,﻿Brothers of Christian Instruction,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,﻿alphonso_mob.al_001,﻿Brother,﻿Alphonso,,﻿Superior,,﻿religious,﻿Fifteen brothers,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0055,﻿house,﻿Brothers of Christian Instruction,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,,,,,,,﻿religious,﻿several novices [2],,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0037,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿Summerville,,﻿AL,,,,,,,,﻿Mother,﻿M. Gonzanga O'Driscol,,﻿Superior,,﻿religious,﻿some 35 to 40 religious (who keep a Young Ladies' Academy of a high order),,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0037,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿Summerville,,﻿AL,,,,,,,﻿m-gonzanga_odriscol_mob.al_001,﻿Mother,﻿M. Gonzanga O'Driscol,,﻿Superior,,﻿religious,﻿some 35 to 40 religious (who keep a Young Ladies' Academy of a high order),,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0037,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,,,,,﻿Summerville,,﻿AL,,,,,,,,,,,,,﻿student,﻿boarders about 70,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,﻿euthelia_hoyte_mob.al_001,﻿Sister,﻿Euthelia Haye,,﻿Superior,,﻿religious,﻿12 Sisters of Charity,﻿Sisters of Charity,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,,,,,,,﻿patient,"﻿Inmates of asylum, 85",﻿Sisters of Charity,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0048,﻿asylum,﻿Female Orphan Asylum,English,,,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,,,,,,,,,,,,﻿student,"﻿day school, about 400",﻿Sisters of Charity,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0049,﻿asylum,﻿Male Orphan Asylum,English,﻿Established in Mobile since 1846,,,,,,,,,﻿30.688336,﻿-88.071452,,,,,,,,,,﻿child,"﻿orphans, 75",﻿under the direction of Brothers of Christian Instruction,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0059,﻿school,﻿Several Day Schools for boys,English,,,,,,,﻿Mobile,﻿AL,,﻿30.683604,﻿-88.09342,,,,,,,,,,﻿student,﻿average attendance about 400,,,1858,﻿,﻿,﻿Mobile,Mobile
-﻿mob.al.0060,﻿school,﻿Boarding School for small boys,English,,,,,,,﻿Mobile,﻿AL,,﻿30.695951,﻿-88.041595,,,,,﻿Brother,﻿Alphonso,,﻿Superior,,﻿student,﻿some fifteen boarders,,,1858,﻿,﻿,﻿Mobile,Mobile
+﻿mob.al.0060,﻿school,﻿Boarding School for small boys,English,,,,,,,﻿Mobile,﻿AL,,﻿30.695951,﻿-88.041595,,,,﻿alphonso_mob.al_001,﻿Brother,﻿Alphonso,,﻿Superior,,﻿student,﻿some fifteen boarders,,,1858,﻿,﻿,﻿Mobile,Mobile
 ﻿mob.al.0050,﻿infirmary,﻿Providence Infirmary,English,"﻿A brick building, conveniently adapted to its purposes. Cost of building and grounds, which are ample, $15,000",,,,﻿Mobile County,﻿Mobile,﻿Mobile,﻿AL,,﻿30.695911,﻿-88.045236,,,,﻿hilary_brawner_mob.al_001,﻿Sister,﻿M. Hilary Brawner,,﻿Superior,,﻿patient,﻿accomodation for 60 patients,,,1858,﻿,﻿,﻿Mobile,Mobile
