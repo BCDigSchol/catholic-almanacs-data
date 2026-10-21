@@ -1,8 +1,32 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿joh_timon_001,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿f_ofarrell_002,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿mar_kavanagh_002,﻿Rev.,﻿Martin Kavanagh,,﻿Chancellor,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿f_payne_001,﻿Rev.,﻿Wm. Payne,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿p_lee_002,﻿Rev.,﻿Patrick Lee,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hines,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿jam_touhey_001,﻿Rev.,﻿James Touhey,,﻿Deacon,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿joh_timon_001,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_ofarrell_002,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿mar_kavanagh_002,﻿Rev.,﻿Martin Kavanagh,,﻿Chancellor,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_payne_001,﻿Rev.,﻿Wm. Payne,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿p_lee_002,﻿Rev.,﻿Patrick Lee,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hines,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿jam_touhey_001,﻿Rev.,﻿James Touhey,,﻿Deacon,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006,﻿church,﻿St. Louis,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,﻿wm_dieters_001,﻿Rev.,﻿William Dieters,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,,﻿Rev.,﻿Anthony Schmid,﻿C.SS.R.,﻿Sup.,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,﻿hen_giesen_001,﻿Rev.,﻿Henry Giesen,﻿C.SS.R.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,,﻿Rev.,﻿Michael Rosenbauer,﻿C.SS.R.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,﻿pet_frishbier_001,﻿Rev.,﻿Peter Frischbier,﻿C.SS.R.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0194,﻿church,﻿Immaculate Conception,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0007,﻿church,﻿St. -----,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.915436,﻿-78.769903,,,,,﻿Rev.,﻿Rudolphus Follenius,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿J. P. Klein,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Lucas Caveng,﻿S.J.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Bernard Fritch,﻿S.J.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿Martin O'Connor,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿Edward Chevalier,﻿O.M.I.,,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,﻿ric_i_molony_001,﻿Rev.,﻿Richard Mollony,﻿O.M.I.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿J. Naughton,﻿O.M.I.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿William Corbett,﻿O.M.I.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.877307,﻿-78.84806,,,,,﻿Rev.,﻿Arthur McConnell,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿Joseph Getter,﻿S.J.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿George Schneider,﻿S.J.,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0015,﻿church,[Unnamed Institution],English,,﻿Holy Cross Cemetery,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.830412,﻿-78.811363,,,,﻿p_bradley_001,﻿Rev.,﻿Patrick Bradley,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0016,﻿chapel,﻿Chapel at the Hospital,English,,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Francis Gerry,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0017,﻿chapel,﻿Chapel at St. Vincent's Asylum,English,,﻿St. Vincent's Asylum,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0018,﻿chapel,﻿Chapel at St. Vincent's Convent of the Good Shepherd,English,,﻿Convent of the Good Shepherd,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0019,﻿chapel,﻿Chapel at St. Vincent's Asylum for widows and foundlings,English,,﻿St. Vincent's Asylum for widows and foundlings,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.885961,﻿-78.871946,,,,﻿fra_gerry_001,﻿Rev.,﻿F. Gerry,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0213,﻿church,﻿St. Francis Xavier's,English,,﻿Blackrock,,﻿Erie County,,﻿Buffalo,﻿Buffalo,,,﻿42.998611,﻿-78.184167,,,,,﻿Rev.,﻿M. Hatala,,,,,,,,1859,﻿,﻿,﻿Buffalo,Buffalo
