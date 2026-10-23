@@ -1,1 +1,43 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,﻿#REF!,﻿#REF!,,,,﻿#REF!,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,﻿#REF!,﻿#REF!,,,,﻿eug_müller_001,﻿Very Rev.,﻿Eug. Muller,﻿V.G.,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿J. Barrett,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿E. Doyle,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,﻿44.309149,﻿-69.780256,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,﻿44.80388,﻿-68.76105,,,,﻿hen_gillen_001,﻿Rev.,﻿Henry Gillen,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0007,﻿church,﻿St. Michael's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,﻿44.80388,﻿-68.76105,,,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0008,﻿church,﻿St. Mary's,English,,,,,,﻿Bath,﻿Bath,﻿ME,,﻿43.915948,﻿-69.824825,,,,,﻿Rev.,﻿Peter McLaughlin,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0009,﻿church,﻿St. Benedict's,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,﻿45.803282,﻿-68.412063,,,,,﻿Rev.,﻿Patrick McIvers,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Belfast,﻿Belfast,﻿ME,,﻿44.425909,﻿-69.006423,,﻿attended from Bangor,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0013,﻿church,[Unnamed Institution],English,,,,,,﻿Brunswick,﻿Brunswick,﻿ME,,﻿43.914016,﻿-69.966996,﻿por.me.0008,﻿attended from Bath,,,﻿Rev.,﻿P. McLaughlin,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0012,﻿church,﻿Immaculate Conception,English,,,,,,﻿Biddeford,﻿Biddeford,﻿ME,,﻿43.492584,﻿-70.453384,,,,﻿eug_vetromile_001,﻿Rev.,﻿Eugene Vetromile,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0014,﻿church,﻿Immaculate Conception,English,,,,,,﻿Calais,﻿Calais,﻿ME,,﻿45.186579,﻿-67.277009,,,,,﻿Rev.,﻿Matthew Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0015,﻿church,﻿St. Ann's,English,﻿(Indian),,,,,﻿Calais,﻿Calais,﻿ME,,﻿45.187368,﻿-67.278382,,,,,,,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0016,﻿church,[Unnamed Institution],English,,,,,,﻿Cherryfield,﻿Cherryfield,﻿ME,,﻿44.607299,﻿-67.925837,,﻿attended by...,,,,,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0017,﻿church,﻿St. Patrick's,English,,,,,,﻿Damariscotta,﻿Damariscotta,﻿ME,,﻿44.032877,﻿-69.518888,,﻿attended by...,,,﻿Rev.,﻿Edward Putnam,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿East Machias,﻿Machias,﻿ME,,﻿44.715079,﻿-67.461376,,,,,﻿Rev.,﻿----,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0018,﻿church,﻿St. Joseph's,English,,,,,,﻿Eastport,﻿Eastport,﻿ME,,﻿44.906191,﻿-66.989978,,﻿attended by,,﻿w_m_murphy_001,﻿Rev.,﻿Matthew Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0019,﻿church,[Unnamed Institution],English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,﻿44.54341,﻿-68.419464,,﻿attended by,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0020,﻿church,[Unnamed Institution],English,,,,,,﻿Frankford,﻿Frankfort,﻿ME,,﻿44.608673,﻿-68.874463,,﻿attended by,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0021,﻿church,[Unnamed Institution],English,,,,,,﻿Gardiner,﻿Gardiner,﻿ME,,﻿44.23007,﻿-69.775322,,,,﻿cha_egan_001,,﻿Chas. Egan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0021,﻿church,[Unnamed Institution],English,,,,,,﻿Hallowell,﻿Gardiner,﻿ME,,﻿44.23007,﻿-69.775322,,﻿attended by,,,﻿Rev.,﻿Chas. Egan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0022,﻿church,﻿St. Mary's,English,,,,,,﻿Houlton,﻿Houlton,﻿ME,,﻿46.125272,﻿-67.826493,,,,,﻿Rev.,﻿P. McIvers,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0023,﻿church,﻿St. Ann's,English,,,,,,﻿Indiantown,﻿Indian Island,﻿ME,,﻿44.94272,﻿-68.652268,,,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0024,﻿church,[Unnamed Institution],English,,,,,,﻿Kennebunk,﻿Kennebunk,﻿ME,,﻿43.384531,﻿-70.54399,,﻿attended by,,,﻿Rev.,﻿E. Vetromile,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,﻿44.100351,﻿-70.214776,,,,,﻿Rev.,﻿Daniel Whelan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0026,﻿church,[Unnamed Institution],English,,,,,,﻿Lubec,﻿Lubec,﻿ME,,﻿44.858586,﻿-66.983591,,﻿attended by,,,﻿Rev.,﻿M. Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0027,﻿church,﻿St. Mary's,English,,,,,,﻿Machias,﻿Machias,﻿ME,,﻿44.715079,﻿-67.461376,,,,,﻿Rev.,﻿-----,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0027,﻿church,﻿St. Patrick's,English,,,,,,﻿New Castle,﻿Machias,﻿ME,,﻿44.715079,﻿-67.461376,,,,,﻿Rev.,﻿E. Putnam,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0028,﻿church,﻿St. Ann's,English,﻿(Indian),,,,,﻿Oldtown,﻿Old Town,﻿ME,,﻿44.934235,﻿-68.645309,,﻿attended by,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0028,﻿church,﻿St. Mary's,English,﻿(Indian),,,,,﻿Oldtown,﻿Old Town,﻿ME,,﻿44.934235,﻿-68.645309,,,,,﻿Rev.,﻿Michael Carraher,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0031,﻿church,[Unnamed Institution],English,,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,﻿44.953689,﻿-67.161929,,﻿attended by,,,﻿Rev.,﻿M. Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Pleasant Point,﻿Pleasant Point,﻿ME,,﻿44.957301,﻿-67.042202,,﻿attended by,,,﻿Rev.,﻿M. Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Richmond,﻿Pleasant Point,﻿ME,,﻿44.957301,﻿-67.042202,,﻿attended by,,,﻿Rev.,﻿Chas. Egan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Roberton,﻿Pleasant Point,﻿ME,,﻿44.957301,﻿-67.042202,,﻿attended by,,,﻿Rev.,﻿Matthew Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Rockland,﻿Rockland,﻿ME,,﻿44.102745,﻿-69.118475,,,,﻿and_barrow_001,﻿Rev.,﻿Andrew Barron,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Saco,﻿Rockland,﻿ME,,﻿44.102745,﻿-69.118475,,﻿attended by,,,﻿Rev.,﻿E. Vetromile,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Skowhegan,﻿Skowhegan,﻿ME,,﻿44.765037,﻿-69.71938,,﻿attended by,,,﻿Rev.,﻿T. B. Nycolin,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Thomaston,﻿Skowhegan,﻿ME,,﻿44.765037,﻿-69.71938,,﻿attended by,,,﻿Rev.,﻿A. Barron,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0037,﻿church,[Unnamed Institution],English,,,,,,﻿Trescott,﻿Trescott,﻿ME,,﻿44.769247,﻿-67.07415,,﻿attended by,,,﻿Rev.,﻿M. Murphy,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0038,﻿church,﻿St. John's,English,,,,,,﻿Waterville,﻿Waterville,﻿ME,,﻿44.549969,﻿-69.634137,,,,,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0080,﻿church,﻿St. Dennis',English,,,,,,﻿Whitefield,,﻿ME,,﻿44.228627,﻿-69.613706,,,,,﻿Rev.,﻿Edward Putnam,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
