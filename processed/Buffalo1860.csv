@@ -6,9 +6,9 @@
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿f_payne_001,﻿Rev.,﻿Wm. Payne,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿j_castaldi_001,﻿Rev.,﻿John Castaldi,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0006,﻿church,﻿St. Louis,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887483,-78.864468,,,,﻿wm_dieters_001,﻿Rev.,﻿William Dieters,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887483,-78.864468,,,,﻿ant_schmid_001,﻿Rev.,﻿Anthony Schmid,﻿C.SS.R.,﻿Sup.,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887483,-78.864468,,,,﻿mic_rosenbauer_004,﻿Rev.,﻿Michael Rosenbauer,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887483,-78.864468,,,,﻿pet_frishbier_001,﻿Rev.,﻿Peter Frischbier,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887425,-78.86424,,,,﻿ant_schmid_001,﻿Rev.,﻿Anthony Schmid,﻿C.SS.R.,﻿Sup.,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887425,-78.86424,,,,﻿mic_rosenbauer_004,﻿Rev.,﻿Michael Rosenbauer,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.887425,-78.86424,,,,﻿pet_frishbier_001,﻿Rev.,﻿Peter Frischbier,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194,﻿church,﻿Immaculate Conception,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007,﻿church,﻿St. Boniface,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.915436,-78.769903,,,,﻿hen_feldman_001,﻿Rev.,﻿Henry Feldman,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.872779,-78.864231,,,,﻿f_n_sester_001,﻿Very Rev.,﻿F. N. Sester,﻿V.G.,,﻿for the French and Germans,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
@@ -154,7 +154,7 @@
 ﻿buf.ny.0041,﻿church,﻿St. John's,English,﻿frame church,,,﻿Erie County,,﻿Springbrook,﻿Springbrook,﻿NY,,42.818115,-78.675584,,,,﻿den_english_002,﻿Rev.,﻿Dennis English,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0225,﻿church,﻿St. Michael's,English,﻿frame church,,,﻿Cayuga County,,﻿Springport,,,,42.83889,-76.68555,,,,﻿joh_touhy_001,﻿Rev.,﻿Jno. Touhey,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0042,﻿church,﻿St. Aloysius',English,﻿frame church,,,﻿Erie County,,﻿Springville,﻿Springville,﻿NY,,43.019012,-78.881299,﻿buf.ny.0228,﻿Attended from Eden,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093,﻿church,﻿St. William's,English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,,﻿NY,,42.887425,-78.86424,﻿buf.ny.0121,﻿Attended from the Seminary,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0093,﻿church,﻿St. William's,English,﻿brick church,,,﻿Niagara County,,﻿Suspension Bridge,﻿City of Niagara Falls,﻿NY,,43.122119,-79.051628,﻿buf.ny.0121,﻿Attended from the Seminary,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0043,﻿church,﻿Sacred Heart,English,﻿frame church,,,﻿Erie County,,﻿Tonawanda,﻿Tonawanda,﻿NY,,43.020335,-78.880315,,,,﻿f_h_ulrich_001,﻿Rev.,﻿F. H. Ulrich,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0044,﻿church,﻿Assumption,English,﻿frame church,,,﻿Erie County,,﻿Transit,﻿Transit,﻿NY,,42.697493,-78.747621,,,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0062,﻿church,[Unnamed Institution],English,,,,﻿Tompkins County,,﻿Trumansburg,,﻿NY,,42.53999,-76.659469,﻿roc.ny.0061,﻿Attended from Ithaca,,,,,,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
@@ -180,9 +180,9 @@
 ﻿buf.ny.0122,"﻿college, convent",﻿Franciscan College and Convent,English,"﻿on the New York and Erie R. R., inaugurated October 4th, 1858","﻿Postulants wishing to be recieved into the Order must apply to Superior, Very Rev. Pamfilo de Magliano.",,﻿Cattaraugus County,,﻿Allegany,,﻿NY,,42.08763,-78.489337,,,,﻿aug_dasti_001,﻿Rev.,﻿Agostino da S. Damiano d'Asti,﻿O.S.F.,,,﻿religious,"﻿15 other members, including Brothers and Novices",,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",﻿Franciscan College and Convent,English,"﻿on the New York and Erie R. R., inaugurated October 4th, 1858","﻿Postulants wishing to be recieved into the Order must apply to Superior, Very Rev. Pamfilo de Magliano.",,﻿Cattaraugus County,,﻿Allegany,,﻿NY,,42.08763,-78.489337,,,,﻿fel_da-cannobio_002,﻿Rev.,﻿Felix da Cannobio,﻿O.S.F.,,,﻿religious,"﻿15 other members, including Brothers and Novices",,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0122,"﻿college, convent",﻿Franciscan College and Convent,English,"﻿on the New York and Erie R. R., inaugurated October 4th, 1858","﻿Postulants wishing to be recieved into the Order must apply to Superior, Very Rev. Pamfilo de Magliano.",,﻿Cattaraugus County,,﻿Allegany,,﻿NY,,42.08763,-78.489337,,,,﻿celsus_001,﻿Rev. F.,﻿Celsus,﻿O.S.F.,,,﻿religious,"﻿15 other members, including Brothers and Novices",,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093_02,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿ant_schmid_001,﻿Rev.,﻿Anthony Schmid,﻿C.SS.R.,﻿Superior,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093_02,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿fra_klaholz_003,﻿Rev.,﻿Francis Klaholz,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0093_02,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿pet_frischbier_003,﻿Rev.,﻿Peter Frischbier,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_04,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿ant_schmid_001,﻿Rev.,﻿Anthony Schmid,﻿C.SS.R.,﻿Superior,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_04,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿fra_klaholz_003,﻿Rev.,﻿Francis Klaholz,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_04,"﻿convent, college",﻿St. Mary's College of the Redemptorist,English,,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,﻿pet_frischbier_003,﻿Rev.,﻿Peter Frischbier,﻿C.SS.R.,,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0063,﻿convent,﻿St. Joseph's Convent and Redemptorist,English,,,,,,﻿Rochester,,﻿NY,,43.159328,-77.606426,,,,﻿f_m_leimgruber_001,﻿Rev.,﻿F. M. Leimgraber,﻿C.SS.R.,﻿Superior,,,,,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿rudolphus_roc.ny_001,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿student,"﻿pupils, 200",﻿Under the charge of the Brothers of the Christian Schools,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,﻿brennan_buf.ny_001,﻿Madame,﻿Brennan,,﻿Superior,,﻿student,﻿60 Pupils,,,1860,﻿,﻿,﻿Buffalo,Buffalo
@@ -199,8 +199,8 @@
 ﻿buf.ny.0136,﻿free school,[Unnamed Institution],English,﻿for boys,﻿St. Joseph's Cathedral,,,,﻿Buffalo,,﻿NY,,42.895681,-78.872186,,,,,,,,,,﻿student,"﻿pupils, 300",,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0137,﻿free school,[Unnamed Institution],English,﻿for girls,﻿St. Joseph's Cathedral,,,,﻿Buffalo,,﻿NY,,42.895681,-78.872186,,,,﻿robertina_lenahan_buf.ny_001,﻿Sister,﻿Robertina Lenahan,,﻿Sister-Servant,,﻿student,"﻿pupils, 250",﻿Under the Sisters of Charity,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0006_02,﻿free school,﻿St. Louis,﻿German,,,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,﻿300 pupils,﻿under a secular teacher,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008_02,﻿free school,﻿St. Mary's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,﻿300 pupils,﻿Under secular teachers,,1860,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008_03,﻿free school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Under the Sisters of Notre Dame,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_02,﻿free school,﻿St. Mary's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,,,,,,,﻿student,﻿300 pupils,﻿Under secular teachers,,1860,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_03,﻿free school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,,,,,,,﻿student,"﻿pupils, 400",﻿Under the Sisters of Notre Dame,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194_02,﻿free school,﻿Immaculate Conception,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,﻿100 pupils,﻿Under the Sisters of St. Joseph,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194_03,﻿free school,﻿Immaculate Conception,English,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,"﻿pupils, 110",﻿Under a secular teacher,,1860,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0007_02,﻿free school,﻿St. Boniface's,﻿German,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.915436,-78.769903,,,,,,,,,,﻿student,﻿120 pupils,﻿under a secular teacher,,1860,﻿,﻿,﻿Buffalo,Buffalo
