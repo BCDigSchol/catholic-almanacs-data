@@ -1,24 +1,24 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,,﻿Right Rev.,﻿Mathias Loras,﻿D.D.,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,,﻿Very Rev.,﻿Joseph Crétin,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,,﻿Rev.,﻿James Causse,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,﻿mat_loras_901,﻿Right Rev.,﻿Mathias Loras,﻿D.D.,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,﻿jos_crétin_901,﻿Very Rev.,﻿Joseph Crétin,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9000,﻿church,﻿Cathedral of St. Raphael,﻿Sermon and Catechism every Sunday in English and French.,﻿Dubuque Catholic Society - formed in 1837 - for the purpose of aiding the funds of the cathedral.,,,,,﻿Dubuque,,﻿IA,,,,,,,﻿jam_causse_901,﻿Rev.,﻿James Causse,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9003,﻿church,﻿St. Patrick's,﻿Sermon in English,,,,,,﻿Makoquata,,﻿IA,,,,﻿dub.ia.9000,"﻿visited by a clergyman from Dubuque, every second Sunday of the month",,,,,,,,﻿religious,﻿260 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9003,﻿station,﻿St. Patrick's,﻿Sermon in English,,,,﻿Jackson County,,﻿Charleston,,﻿IA,,,,﻿dub.ia.9000,﻿visited by a clergyman from Dubuque,,,,,,,,﻿religious,﻿260 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0041,﻿church,﻿St. Anthony's,English,﻿Sermon in English,,,﻿Scott County,,﻿Davenport,,﻿IA,,,,,,,,﻿Rev.,﻿A. Pélamourgues,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿chi.il.9022,﻿station,[Unnamed Institution],English,,,,﻿Rock Island County,,,,﻿IL,,,,,,﻿visited by Rev. A. Pélamourgues,,﻿Rev.,﻿A. Pélamourgues,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0041,﻿church,﻿St. Anthony's,English,﻿Sermon in English,,,﻿Scott County,,﻿Davenport,,﻿IA,,,,,,,﻿a_pélamourgues_901,﻿Rev.,﻿A. Pélamourgues,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿chi.il.9022,﻿station,[Unnamed Institution],English,,,,﻿Rock Island County,,,,﻿IL,,,,,,﻿visited by Rev. A. Pélamourgues,﻿a_pélamourgues_901,﻿Rev.,﻿A. Pélamourgues,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9004,﻿church,﻿St. Mathias,English,,,,﻿Muscatine County,,﻿Bloomington,,﻿IA,,,,,,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0088,﻿station,[Unnamed Institution],English,"﻿a good brick church with a basement for a school, is now in progress and will be opened for a service in the spring of this year",,﻿capital of Iowa Territory,﻿Johnson County,,﻿Iowa City,,,,,,﻿dub.ia.0012,﻿now visited by the clergyman from Burlington,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.0012,﻿church,﻿St. Paul's,﻿Sermon in English,,,,﻿Des Moines County,,﻿Burlington,,﻿IA,,,,,,,,﻿Very Rev.,﻿S. Mazzuchelli,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.0012,﻿church,﻿St. Paul's,﻿Sermon in English,,,,﻿Des Moines County,,﻿Burlington,,﻿IA,,,,,,,﻿s_mazzuchelli_904,﻿Very Rev.,﻿S. Mazzuchelli,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0243,﻿church,[Unnamed Institution],﻿Sermon in English,,,,﻿Lee County,,﻿Fort Madison,,﻿IA,,,,﻿dub.ia.0012,﻿now visited by the clergyman from Burlington,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.0243,﻿church,﻿St. James,﻿Sermon in English,,,,﻿Lee County,,﻿West Point,,﻿IA,,,,,﻿this congregation is visited by a German clergyman from Illinois,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9005,﻿station,[Unnamed Institution],English,,,,﻿Lee County,,﻿Keokuk,,﻿IA,,,,﻿dub.ia.0012,﻿visited by the clergyman from Burlington,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9005,﻿church,﻿St. Peter's,English,,﻿at the Falls of St. Anthony,,﻿Lee County,,﻿Keokuk,,﻿IA,,,,,,,,﻿Rev.,﻿P. Galtier,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9005,﻿station,﻿St. Peter's,English,﻿a church will this year be erected at that place,﻿lake of St. Croix,,﻿Lee County,,﻿Keokuk,,﻿WI,,,,,,﻿visited by Rev. P. Galtier,,﻿Rev.,﻿P. Galtier,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9005,﻿church,﻿St. Peter's,English,,﻿at the Falls of St. Anthony,,﻿Lee County,,﻿Keokuk,,﻿IA,,,,,,,﻿p_galtier_901,﻿Rev.,﻿P. Galtier,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9005,﻿station,﻿St. Peter's,English,﻿a church will this year be erected at that place,﻿lake of St. Croix,,﻿Lee County,,﻿Keokuk,,﻿WI,,,,,,﻿visited by Rev. P. Galtier,﻿p_galtier_901,﻿Rev.,﻿P. Galtier,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9005,﻿station,﻿St. Peter's,English,﻿a church will this year be erected at that place,﻿lake of St. Croix,,﻿Jackson County,,﻿Bellevue,,﻿IA,,,,﻿dub.ia.9000,﻿visited by the clergyman from Dubuque,,,,,,,,﻿religious,﻿300 catholics,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9007,﻿academy,﻿Academy for boys,English,,,,,,﻿Dubuque,,﻿IA,,,,,,,,,﻿S. G. Horman,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9006,﻿female academy,﻿Academy for young ladies,English,,,,,,﻿Dubuque,,﻿IA,,,,,,,,﻿Mrs.,﻿O'Reilly,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9006,﻿female academy,﻿Academy for young ladies,English,,,,,,﻿Burlington,,﻿IA,,,,,,,,﻿Mrs.,﻿Exley,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
-﻿dub.ia.9006,﻿academy,﻿Academy for young ladies,English,,,,,,﻿Davenport,,﻿IA,,,,,,,,﻿Rev.,﻿A. Pélamourgues,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9007,﻿academy,﻿Academy for boys,English,,,,,,﻿Dubuque,,﻿IA,,,,,,,﻿s_g_horman_dub.ia_901,,﻿S. G. Horman,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9006,﻿female academy,﻿Academy for young ladies,English,,,,,,﻿Dubuque,,﻿IA,,,,,,,﻿oreilly_903,﻿Mrs.,﻿O'Reilly,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9006,﻿female academy,﻿Academy for young ladies,English,,,,,,﻿Burlington,,﻿IA,,,,,,,﻿exley_901,﻿Mrs.,﻿Exley,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
+﻿dub.ia.9006,﻿academy,﻿Academy for young ladies,English,,,,,,﻿Davenport,,﻿IA,,,,,,,﻿a_pélamourgues_901,﻿Rev.,﻿A. Pélamourgues,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9008,﻿school,﻿Sunday School,English,,,,,,﻿Dubuque,,﻿IA,,,,,,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9009,﻿school,﻿Sunday School,English,,,,,,﻿Makoquata,,﻿IA,,,,,,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
 ﻿dub.ia.9010,﻿school,﻿Sunday School,English,,,,,,﻿Davenport,,﻿IA,,,,,,,,,,,,,,,,,1842,﻿,﻿,﻿Dubuque,Dubuque
