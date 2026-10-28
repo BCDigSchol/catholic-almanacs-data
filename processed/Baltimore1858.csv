@@ -35,7 +35,7 @@
 ﻿wil.de.0012,﻿church,﻿St. Francis Xavier,English,,,,﻿Cecil County,,﻿Bohemia,﻿Chesapeake City,﻿MD,,﻿39.530946,﻿-75.807437,,,﻿second and fourth Sundays,﻿geo_villiger_001,﻿Rev.,﻿George Villiger,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0063,﻿church,﻿St. Mary's,English,,,,﻿Charles County,,﻿Bryantown,﻿Bryantown,﻿MD,,﻿38.555529,﻿-76.842158,﻿bal.md.0058,﻿attended from St. Thomas Manor,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0257,﻿chapel,[Unnamed Institution],English,,﻿Carrolton Hall,,﻿Howard County,,,,﻿MD,,﻿39.256321,﻿-76.937635,﻿bal.md.0129,,,﻿b_s_piot_001,﻿Rev.,﻿B. S. Piot,,,﻿of St. Charles College,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0257,﻿church,[Unnamed Institution],English,,﻿Carrolton Hall,,﻿Howard County,,﻿Chestertown,,﻿MD,,﻿39.256321,﻿-76.937635,﻿wil.de.0012,﻿Attended from Bohemia,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿wil.de.0021,﻿church,[Unnamed Institution],English,,,,,,﻿Chestertown,,﻿MD,,,,﻿wil.de.0012,﻿Attended from Bohemia,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0084,﻿church,﻿St. Louis,English,"﻿instruction on Sunday evening, mass next morning",,,,﻿Howard County,﻿Clarksville,﻿Clarksville,﻿MD,,﻿39.206196,﻿-76.945566,,﻿Attended from St. Louis,,,﻿Rev.,﻿A. Vérot,,,﻿of Ellicott's Mills,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0072,﻿church,﻿St. Joseph's,English,,,,﻿Frederick County,,﻿Carrolton Manor,﻿Severna Park,﻿MD,,﻿39.330858,﻿-77.464672,﻿bal.md.0070,,,﻿mic_tuffer_001,﻿Rev.,﻿M. Tuffer,,,﻿of Frederick,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0041,﻿church,﻿St. Agnes,English,,,,﻿Baltimore County,,﻿Catonsville,﻿Catonsville,﻿MD,,﻿39.272051,﻿-76.731916,,,,﻿e_caton_001,﻿Rev.,﻿E. Caton,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -48,8 +48,8 @@
 ﻿bal.md.0081,﻿church,﻿St. Mary's,English,,,,﻿Harford County,,﻿Deer Creek,,﻿MD,,﻿39.639956,﻿-76.421109,,,,,﻿Rev.,﻿J. Walter,,,﻿residing near Hickory,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0022,﻿church,﻿St. Elizabeth's,English,,,,﻿Caroline County,,﻿Denton,﻿Denton,﻿MD,,﻿38.885288,﻿-75.834971,﻿bal.md.0256,﻿Attended from Wye Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0024,﻿church,﻿St. Mary's,English,,,,﻿St. Mary's County,,﻿Dorchester,﻿Golden Hill,﻿MD,,﻿38.385621,﻿-76.249233,﻿bal.md.0256,﻿Attended from Wye Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0085,﻿church,[Unnamed Institution],English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,﻿39.276729,﻿-76.893093,,﻿Attended from Ellicott's Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0085,﻿church,[Unnamed Institution],English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,﻿39.276729,﻿-76.893093,,﻿and from St. Charles College,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0085,﻿church,[Unnamed Institution],English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,﻿39.276729,﻿-76.893093,﻿bal.md.0083,﻿Attended from Ellicott's Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0085,﻿church,[Unnamed Institution],English,,,,﻿Howard County,,﻿Doughoregan Manor,,﻿MD,,﻿39.276729,﻿-76.893093,﻿bal.md.0129,﻿and from St. Charles College,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿wil.de.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Cecil County,,﻿Elkton,﻿Elkton,﻿MD,,﻿39.614805,﻿-75.831481,﻿wil.de.0012,﻿Attended from Bohemia,﻿1st and 3d Sundays,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0086,﻿church,﻿St. Augustine's,English,,,,﻿Howard County,,﻿Elkridge Landing,﻿Elkridge,﻿MD,,﻿39.211406,﻿-76.715705,﻿bal.md.0010,"﻿Attended from St. Alphonsus Ch., Baltimore",﻿1st Sunday,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0083,﻿church,﻿St. Paul's,English,,,,﻿Howard County,,﻿Ellicott's Mills,﻿Ellicott City,﻿MD,,﻿39.267328,﻿-76.798307,,,,,﻿Rev.,﻿A. Vérot,,,"﻿who also attends Sykeville, a station",,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -66,13 +66,13 @@
 ﻿bal.md.0108,﻿church,﻿St. Mary's,English,,,,﻿Washington County,,﻿Hagerstown,﻿Hagerstown,﻿MD,,﻿39.641763,﻿-77.719993,,,,,﻿Rev.,﻿Geo. Flautt,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0109,﻿church,﻿St. Peter's,English,,,,﻿Washington County,,﻿Hancock,﻿Hancock,﻿MD,,﻿39.700002,﻿-78.186379,﻿bal.md.0108,﻿Attended from Hagerstown,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0079,﻿church,﻿St. Ignatius,English,,﻿Hickory P.O.,,﻿Harford County,,,﻿Hickory,﻿MD,,﻿39.583896,﻿-76.363728,,,﻿1st and 3rd Sundays,,﻿Rev.,﻿Jacob Walter,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0080,﻿church,﻿St. Patrick's,English,,,,﻿Harford County,,﻿Havre de Grace,﻿Havre de Grace,﻿MD,,﻿39.549279,﻿-76.091617,,,﻿2nd Sunday,,﻿Rev.,﻿J. Foley,,,﻿of Baltimore,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0080,﻿church,﻿St. Patrick's,English,,,,﻿Harford County,,﻿Havre de Grace,﻿Havre de Grace,﻿MD,,﻿39.549279,﻿-76.091617,﻿bal.md.0014,,﻿2nd Sunday,,﻿Rev.,﻿J. Foley,,,﻿of Baltimore,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0099,﻿chapel,﻿Lady's Chapel,English,,,,﻿St. Mary's County,,,,﻿MD,,﻿38.442165,﻿-76.743977,﻿bal.md.0098,﻿Attended from Newtown by Rev. C. Bague S.J.,,,﻿Rev.,﻿C. Bague,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0097,﻿church,﻿St. Aloysius,English,,,,﻿St. Mary's County,,﻿Leonardtown,﻿Leonardtown,﻿MD,,﻿38.291238,﻿-76.635794,﻿bal.md.0098,﻿Attended from Newtown by Rev. James Moore S.J.,,,﻿Rev.,﻿James Moore,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0105,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Laurel Factory,﻿Laurel,﻿MD,,﻿39.099275,﻿-76.848306,,﻿Attended from Whitemarsh,﻿twice a month,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0105,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Laurel Factory,﻿Laurel,﻿MD,,﻿39.099275,﻿-76.848306,﻿bal.md.0107,﻿Attended from Whitemarsh,﻿twice a month,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0052,﻿church,﻿St. Joseph's,English,,,,﻿Baltimore County,,﻿Little Texas,,﻿MD,,﻿39.463717,﻿-76.643582,,,,﻿p_dalton_003,﻿Rev.,﻿P. Dalton,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0048,﻿church,﻿St. John Evangelist,English,,,,﻿Baltimore County,,﻿Long Green,﻿Long Green,﻿MD,,﻿39.472885,﻿-76.523021,,﻿Attended from Hickory,﻿2nd and 4th Sundays,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0075,﻿church,﻿St. Peter's,English,,,,﻿Frederick County,,﻿Liberty,﻿Libertytown,﻿MD,,﻿39.384451,﻿-77.470197,,﻿Attended from Frederick by Rev. Michael Tuffer,﻿4th Sunday,﻿m_tuffer_001,﻿Rev.,﻿M. Tuffer,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0048,﻿church,﻿St. John Evangelist,English,,,,﻿Baltimore County,,﻿Long Green,﻿Long Green,﻿MD,,﻿39.472885,﻿-76.523021,﻿bal.md.0079,﻿Attended from Hickory,﻿2nd and 4th Sundays,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0075,﻿church,﻿St. Peter's,English,,,,﻿Frederick County,,﻿Liberty,﻿Libertytown,﻿MD,,﻿39.384451,﻿-77.470197,﻿bal.md.0070,﻿Attended from Frederick by Rev. Michael Tuffer,﻿4th Sunday,﻿m_tuffer_001,﻿Rev.,﻿M. Tuffer,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0104,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Marlboro,﻿Upper Marlboro,﻿MD,,﻿38.8179,﻿-76.7497,﻿bal.md.0121,"﻿Attended from St. Dominic's, Washington City",,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0031,﻿church,﻿St. Ignatius,English,,,,﻿Alleghany County,,﻿Mount Savage or Arnold's Settlement,﻿Mount Savage,﻿MD,,﻿39.695642,﻿-78.879744,,,,﻿jam_carney_001,﻿Rev.,﻿James Carney,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0074,﻿church,﻿Mount St. Mary's,English,,,,﻿Frederick County,,,﻿Emmittsburg,﻿MD,,﻿39.704542,﻿-77.326931,,,,﻿joh_h_mccaffrey_001,﻿Rev.,﻿John M'Caffrey,﻿D.D.,﻿Pastor,﻿and other clergymen of the Mount,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -82,16 +82,16 @@
 ﻿bal.md.0098,﻿church,﻿St. Francis Xavier's,English,,,,﻿St. Mary's County,,﻿Newtown,,﻿MD,,﻿38.255651,﻿-76.700097,,,,,﻿Rev.,﻿Charles Bague,﻿S.J.,,﻿who attend Medley's Neck,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0098,﻿church,﻿St. Francis Xavier's,English,,,,﻿St. Mary's County,,﻿Newtown,,﻿MD,,﻿38.255651,﻿-76.700097,,,,﻿jam_cotting_001,﻿Rev.,﻿James Cotting,﻿S.J.,,﻿who attend Medley's Neck,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0032,﻿church,﻿St. Peter's,English,,,,﻿Alleghany County,﻿Garrett County,﻿Oakland,﻿Oakland,﻿MD,,﻿39.662911,﻿-78.748611,﻿bal.md.0026,﻿Attended from Frostburg,﻿3rd Sunday,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0076,﻿church,﻿St. Mary's,English,,,,﻿Fred'k County,,﻿Petersville,﻿Petersville,﻿MD,,﻿39.34649,﻿-77.610823,,﻿Attended from Frederick by Rev. M. Tuffer,﻿1st Sunday,,﻿Rev.,﻿M. Tuffer,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0076,﻿church,﻿St. Mary's,English,,,,﻿Fred'k County,,﻿Petersville,﻿Petersville,﻿MD,,﻿39.34649,﻿-77.610823,﻿bal.md.0070,﻿Attended from Frederick by Rev. M. Tuffer,﻿1st Sunday,,﻿Rev.,﻿M. Tuffer,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0103,﻿church,﻿St. Mary's,English,,,,﻿Prince George's County,,﻿Piscataway,﻿Piscataway,﻿MD,,﻿38.700556,﻿-76.9725,,,,﻿p_lineghan_001,﻿Rev.,﻿P. Lineghan,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0051,﻿church,﻿St. Charles Borromeo,English,,,,﻿Baltimore County,,﻿Pikesville,﻿Pikesville,﻿MD,,﻿39.374273,﻿-76.722473,,,,﻿hen_myers_001,﻿Rev.,﻿H. Myers,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0068,﻿church,﻿St. Joseph's,English,,,,﻿Charles County,,﻿Pomfret,﻿Pomfret,﻿MD,,﻿38.573582,﻿-77.030632,﻿bal.md.0058,﻿Attended from St. Thomas' Manor,﻿twice a month,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0068,﻿chapel,﻿St. Joseph's,English,,﻿Queen's Chapel,,﻿Prince George's County,,﻿Pomfret,﻿Pomfret,﻿MD,,﻿38.573582,﻿-77.030632,,﻿Attended from Washington Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0253,﻿church,﻿St. Peter's,English,,,,﻿Queen Ann's County,,﻿Queenstown,,﻿MD,,﻿38.9768,﻿-76.1645,,﻿Attended from Wye Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0269,﻿chapel,[Unnamed Institution],English,,﻿Queen's Chapel,,﻿Prince George's County,,,,﻿MD,,,,﻿bal.md.0273,﻿Attended from Washington Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0253,﻿church,﻿St. Peter's,English,,,,﻿Queen Ann's County,,﻿Queenstown,,﻿MD,,﻿38.9768,﻿-76.1645,﻿bal.md.0256,﻿Attended from Wye Mills,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0088,﻿church,﻿St. Mary's,English,,,,﻿Montgomery County,,﻿Rockville,﻿Rockville,﻿MD,,﻿39.083997,﻿-77.152758,,,,﻿j_j_dougherty_001,﻿Rev.,﻿J. J. Dougherty,,,﻿who visits Hollin's River,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0089,﻿church,﻿St. John's,English,,,,﻿Montgomery County,,﻿Rock Creek,,﻿MD,,﻿39.124038,﻿-77.133828,,﻿Attended from Rockville,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0090,﻿church,﻿St. Rose's,English,,﻿near Seneca River,,﻿Montgomery County,,,﻿Seneca,﻿MD,,﻿39.078611,﻿-77.339444,,﻿Attended from Rockville,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0106,﻿church,﻿St. Ignatius,English,,,,﻿Prince George's County,,,,﻿MD,,﻿38.784921,﻿-76.872096,,﻿Attended from Alexandria,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0089,﻿church,﻿St. John's,English,,,,﻿Montgomery County,,﻿Rock Creek,,﻿MD,,﻿39.124038,﻿-77.133828,﻿bal.md.0088,﻿Attended from Rockville,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0090,﻿church,﻿St. Rose's,English,,﻿near Seneca River,,﻿Montgomery County,,,﻿Seneca,﻿MD,,﻿39.078611,﻿-77.339444,﻿bal.md.0088,﻿Attended from Rockville,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0106,﻿church,﻿St. Ignatius,English,,,,﻿Prince George's County,,,,﻿MD,,﻿38.784921,﻿-76.872096,﻿ric.va.0005,﻿Attended from Alexandria,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0102,﻿church,﻿Sacred Heart,English,,,,﻿St. Mary's County,,,,﻿MD,,﻿38.302318,﻿-76.792088,﻿bal.md.0098,"﻿Attended by Rev. C. Bague, of Newtown",,,﻿Rev.,﻿C. Bague,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0100,﻿church,﻿St. John's,English,,,,﻿St. Mary's County,,,,﻿MD,,﻿38.442165,﻿-76.743977,﻿bal.md.0098,"﻿Attended from Newtown by Rev. James Cotting, S.J.",,,﻿Rev.,﻿James Cotting,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0101,﻿church,﻿St. Joseph's,English,,,,﻿St. Mary's County,,,,﻿MD,,﻿38.442165,﻿-76.743977,﻿bal.md.0098,"﻿Attended from Newtown by Rev. James Cotting, S.J.",,,﻿Rev.,﻿James Cotting,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -117,12 +117,12 @@
 ﻿bal.md.0120,﻿church,﻿Mother of God,﻿German,,,,,,﻿Washington City,﻿Washington,﻿DC,,﻿38.899458,﻿-77.018643,,,,﻿m_alig_001,﻿Rev.,﻿M. Alig,,﻿Pastor,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0121,﻿church,﻿St. Dominic,English,,﻿on the Island,,,,﻿Washington City,﻿Washington,﻿DC,,﻿38.882991,﻿-77.020222,,,,﻿n_d_young_001,﻿Rev.,﻿N. D. Young,﻿O.P.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0121,﻿church,﻿St. Dominic,English,,﻿on the Island,,,,﻿Washington City,﻿Washington,﻿DC,,﻿38.882991,﻿-77.020222,,,,﻿n_r_young_002,﻿Rev.,﻿N. R. Young,﻿O.P.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0121,﻿chapel,﻿Seminary Chapel,English,,﻿on the Island,,,,﻿Washington City,﻿Washington,﻿DC,,﻿38.882991,﻿-77.020222,,﻿Attended by the Clergymen of the Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0270,﻿chapel,﻿Seminary Chapel,English,,,,,,,﻿Washington,﻿DC,,,,,﻿Attended by the Clergymen of the Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124,﻿church,﻿Holy Trinity,English,,,,,,﻿Georgetown,﻿Georgetown,﻿DC,,﻿38.907168,﻿-77.069969,,,,,﻿Rev.,﻿Thomas Mulledy,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124,﻿church,﻿Holy Trinity,English,,,,,,﻿Georgetown,﻿Georgetown,﻿DC,,﻿38.907168,﻿-77.069969,,,,﻿joh_aiken_001,﻿Rev.,﻿John Aiken,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0124,﻿convent,﻿Visitation Convent,English,,,,,,﻿Georgetown,﻿Georgetown,﻿DC,,﻿38.907168,﻿-77.069969,,,,,﻿Rev.,﻿James Clark,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0124,﻿church,﻿St. Mary's,English,,,,,,﻿Alexandria,﻿Georgetown,﻿VA,,﻿38.907168,﻿-77.069969,,,,,﻿Rev.,﻿P. P. Kroes,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0124,﻿church,﻿St. Mary's,English,,,,,,﻿Alexandria,﻿Georgetown,﻿VA,,﻿38.907168,﻿-77.069969,,,,,﻿Rev.,﻿James Ryder,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0271,﻿convent,﻿Visitation Convent,English,,,,,,,﻿Georgetown,﻿DC,,,,,,,,﻿Rev.,﻿James Clark,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿ric.va.0005,﻿church,﻿St. Mary's,English,,,,,,﻿Alexandria,,﻿VA,,,,,,,,﻿Rev.,﻿P. P. Kroes,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿ric.va.0005,﻿church,﻿St. Mary's,English,,,,,,﻿Alexandria,,﻿VA,,,,,,,,﻿Rev.,﻿James Ryder,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,﻿39.36054,﻿-76.639792,,,,﻿fra_lhomme_001,﻿Very Rev.,﻿Francis Lhomme,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,﻿39.36054,﻿-76.639792,,,,﻿sta_ferté_001,﻿Rev.,﻿Stanislaus Fertè,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0127_02&0127_03,"﻿seminary, university",﻿Seminary of St. Sulpice,English,,,,,,﻿Baltimore,,﻿MD,,﻿39.36054,﻿-76.639792,,,,﻿alp_flammant_001,﻿Rev.,﻿Alphonsus J. Flamman,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -153,7 +153,7 @@
 ﻿bal.md.0010_04,﻿convent,﻿Redemptorist Convent,English,,﻿Park and Saratoga street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,﻿Rev.,﻿Francis A. Baker,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0010_04,﻿convent,﻿Redemptorist Convent,English,,﻿Park and Saratoga street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,﻿Rev.,﻿John Baptist Vogier,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0010_04,﻿convent,﻿Redemptorist Convent,English,,﻿Park and Saratoga street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,﻿Rev.,﻿Nicholas Van Emstede,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0010_04,﻿convent,﻿Redemptorist Convent,English,,﻿Park and Saratoga street,,,,﻿Annapolis,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,﻿Rev.,﻿Maximilian Leimgruber,﻿C.SS.R.,﻿Master of Novices,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0272,﻿convent,﻿Redemptorist Convent,English,,,,,,﻿Annapolis,,﻿MD,,,,,,,,﻿Rev.,﻿Maximilian Leimgruber,﻿C.SS.R.,﻿Master of Novices,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0134,﻿house,﻿Redemptorist House of Studies,English,,,,,,﻿Cumberland,﻿Annapolis,﻿MD,,﻿38.974811,﻿-76.487098,,,,,﻿Rev.,﻿Anthony Urbanzek,﻿C.SS.R.,﻿Superior,,﻿student,"﻿Average number of students, 60",,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0134,﻿house,﻿Redemptorist House of Studies,English,,,,,,﻿Cumberland,﻿Annapolis,﻿MD,,﻿38.974811,﻿-76.487098,,,,,﻿Rev.,﻿Michael Muller,﻿C.SS.R.,,,﻿student,"﻿Average number of students, 60",,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0134,﻿house,﻿Redemptorist House of Studies,English,,,,,,﻿Cumberland,﻿Annapolis,﻿MD,,﻿38.974811,﻿-76.487098,,,,﻿adr_v_braak_001,﻿Rev.,﻿Adrian Van de Brack,﻿C.SS.R.,,,﻿student,"﻿Average number of students, 60",,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -176,11 +176,38 @@
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,﻿h_de-neckere_001,﻿Rev.,﻿Hippolyte de Neckere,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,,﻿Rev.,﻿George Haller,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,,﻿Rev.,﻿Michael Tuffer,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0261,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,,﻿Rev.,﻿Burchard Villiger,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0261,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,,﻿Rev.,﻿Benedict Sestini,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿wil_f_clarke_001,﻿Rev.,﻿W. F. Clarke,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿e_j_sourin_001,﻿Rev.,﻿E. J. Sourin,﻿S.J.,﻿Vice President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿j_ardia_001,﻿Rev.,﻿J. Ardia,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿hen_hoban_001,﻿Rev.,﻿H. Hoban,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿c_king_001,﻿Rev.,﻿C. King,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿p_miller_001,﻿Rev.,﻿P. Miller,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0273,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,,﻿Rev.,﻿Burchard Villiger,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0273,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,,﻿Rev.,﻿Benedict Sestini,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿hen_hoban_001,﻿Rev.,﻿Henry Hoban,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿e_j_sourin_001,﻿Rev.,﻿Edward J. Sourin,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿j_ardia_001,﻿Rev.,﻿Joseph Ardia,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,,﻿Rev.,﻿Anthony Van den Heuvel,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,﻿c_king_001,﻿Rev.,﻿Charles King,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.347674,﻿-76.617237,,,,,﻿Rev.,﻿James Tehan,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0262,﻿school,﻿St. Joseph's Academy,English,,﻿Saratoga and Sharp streets,,,,﻿Baltimore,﻿Baltimore,﻿MD,,,,,,,﻿aphrates_bal.md_001,﻿Brother,﻿Aphraates,,﻿Director,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0139,﻿convent,﻿Carmelite Convent,English,,﻿62 Aisquith street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.305333,﻿-76.602235,,,,﻿theresa_j_sewall_bal.md_001,﻿Mother,﻿Theresa J. Sewall,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0140,﻿convent,﻿Convent of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,﻿38.9089,﻿-77.069401,,,,,﻿Mother,﻿Mary Perpetua Mitchell,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0140_02,﻿academy,﻿Academy of the Visitation,English,,﻿Fayette street,,,,﻿Georgetown,﻿Georgetown,﻿DC,,﻿38.9089,﻿-77.069401,,,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0141&0162,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿Park and Centre str.,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.29627,﻿-76.618323,,,,﻿m-leonard_neale_bal.md_001,﻿Mother,﻿M. Paulina Millard,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0142&0142_03,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿near Catonsville,,,,﻿Mt. De Sales,﻿Mt. de Sales,﻿MD,,﻿39.272051,﻿-76.731916,,,,﻿m-regina_neale_bal.md_001,﻿Mother,﻿M. Cecilia Brooks,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0143&0143_02,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿Second Str.,,,,﻿Frederick,﻿Frederick,﻿MD,,﻿39.414269,﻿-77.410541,,,,﻿m-loretto_hunter_bal.md_001,﻿Mother,﻿M. Loretto Hunter,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0144&0165,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿10th Street,,,,﻿Washington,﻿Washington,﻿DC,,﻿38.89837,﻿-77.025998,,,,﻿m-paulina_millard_bal.md_001,﻿Mother,﻿M. de C. Cummings,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0149,﻿mother house,﻿St. Joseph's Sisterhood,English,,,,,,﻿Emmitsburgh,﻿Emmittsburg,﻿MD,,﻿39.704542,﻿-77.326931,,,,﻿regina_smith_bal.md_001,﻿Mother,﻿Regina Smith,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0166,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿Emmitsburgh,,﻿MD,,﻿39.705496,﻿-77.326184,,,,﻿regina_smith_bal.md_001,﻿Mother,﻿Regina Smith,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0274,﻿academy,[Unnamed Institution],English,,﻿St. James Church,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.301579,﻿-76.602041,,,,,﻿Sister,﻿Mary Serephina,,﻿Superior,,,,﻿School Sisters of Notre Dame,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_04,﻿convent,﻿Convent of the Immaculate Conception of the Sisters of Mercy,English,,﻿Poppleton street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.288036,﻿-76.631907,,,,﻿m-catharine_wynne_bal.md_001,﻿Sister,﻿Mary Catharina Wynne,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0153,﻿convent,[Unnamed Institution],English,,﻿Richmond street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,﻿39.325921,﻿-76.576665,,,,﻿m-g_thomas_bal.md_001,﻿Sister,﻿Mary Gertrude Thomas,,﻿Superior,,,,﻿Oblate Sisters of Providence,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0275,﻿school,[Unnamed Institution],English,,﻿St. Frances School,,,,,,﻿MD,,,,,,,,,,,,,,,﻿Sisters of Providence,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0001_03,﻿academy,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿Cathedral,,,,,﻿Baltimore,﻿MD,,﻿39.294065,﻿-76.616807,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0001_02,﻿school,[Unnamed Institution],English,﻿Girls by Daughters of Charity,﻿Cathedral,,,,,﻿Baltimore,﻿MD,,﻿39.294065,﻿-76.616807,,,,,,,,,,,,﻿Daughters of Charity,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0010_02,﻿school,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿St. Alphonsus,,,,,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0010_03,﻿school,[Unnamed Institution],English,﻿Girls by School Sisters of Notre Dame,﻿St. Alphonsus,,,,,﻿Baltimore,﻿MD,,﻿39.293259,﻿-76.617952,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_02,﻿school,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿St. Peter's,,,,,﻿Baltimore,﻿MD,,﻿39.288036,﻿-76.631907,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0004_03,﻿school,[Unnamed Institution],English,﻿Girls by Sisters of Mercy,﻿St. Peter's,,,,,﻿Baltimore,﻿MD,,﻿39.288036,﻿-76.631907,,,,,,,,,,,,﻿Sisters of Mercy,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0003_02,﻿school,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿St. Vincent's,,,,,﻿Baltimore,﻿MD,,﻿39.291418,﻿-76.60611,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0003_03,﻿school,[Unnamed Institution],English,﻿Girls by Secular teachers for girls,﻿St. Vincent's,,,,,﻿Baltimore,﻿MD,,﻿39.291418,﻿-76.60611,,,,,,,,,,﻿teacher,﻿Secular teachers,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0002_02,﻿school,[Unnamed Institution],English,﻿Boys by Secular teachers,﻿St. Patrick's,,,,,﻿Baltimore,﻿MD,,﻿39.284964,﻿-76.56734,,,,,,,,,,﻿teacher,﻿Secular teachers,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0007_02,﻿school,[Unnamed Institution],English,﻿Boys by Secular teachers,﻿St. Joseph's,,,,,﻿Baltimore,﻿MD,,﻿39.283171,﻿-76.617769,,,,,,,,,,﻿teacher,﻿Secular teachers,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0007_03,﻿school,[Unnamed Institution],English,﻿Girls by Daughters of Charity,﻿St. Joseph's,,,,,﻿Baltimore,﻿MD,,﻿39.283171,﻿-76.617769,,,,,,,,,,,,﻿Sisters of Charity,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0011_02,﻿school,[Unnamed Institution],English,﻿Boys by Secular teachers,﻿St. Michael's,,,,,﻿Baltimore,﻿MD,,﻿39.29068,﻿-76.590066,,,,,,,,,,﻿teacher,﻿Secular teachers,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0011_03,﻿school,[Unnamed Institution],English,﻿Girls by School Sisters of Notre Dame,﻿St. Michael's,,,,,﻿Baltimore,﻿MD,,﻿39.29068,﻿-76.590066,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1858,﻿,﻿,﻿Baltimore,Baltimore
