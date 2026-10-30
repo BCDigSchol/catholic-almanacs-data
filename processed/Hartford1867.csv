@@ -27,7 +27,7 @@
 ﻿har.ct.0026,﻿church,﻿Immaculate Conception,English,,,,,﻿Providence County,﻿Pawtucket,﻿Pawtucket,﻿RI,,41.878711,-71.382556,,,,﻿p_g_delaney_001,﻿Rev.,﻿Patrick G. Delany,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0027,﻿church,﻿SS. Peter and Paul,English,,,,,﻿Kent County,﻿Phoenixville,﻿West Warwick,﻿RI,,41.721302,-71.529526,,,,﻿joh_a_couch_001,﻿Rev.,﻿John A. Couch,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0028,﻿church,[Unnamed Institution],English,,,,,﻿Kent County,﻿Pontiac,﻿Pontiac,﻿RI,,41.657915,-71.714795,﻿har.ct.0027,﻿attended from Phoenixville,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0028,﻿church,[Unnamed Institution],English,,﻿Military Hospital,,,﻿Kent County,﻿Portsmouth Grove,﻿Pontiac,﻿RI,,41.657915,-71.714795,﻿har.ct.0025,﻿attended from Newport,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0192,﻿church,[Unnamed Institution],English,,﻿Military Hospital,,,,﻿Portsmouth Grove,,﻿RI,,,,﻿har.ct.0025,﻿attended from Newport,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0029,﻿church,[Unnamed Institution],English,,,,,﻿Washington County,﻿Shady Lea,﻿Shady Lea Historic District,﻿RI,,41.538739,-71.467969,﻿har.ct.0027,﻿attended from Phoenixville,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0030,﻿church,[Unnamed Institution],English,,,,,﻿Providence County,﻿Slatersville,﻿Slatersville,﻿RI,,42.00057,-71.580172,﻿har.ct.0022,﻿attended from Harrisville,﻿Mass once a month,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0031,﻿church,﻿St. Patrick's,English,,,,,﻿Providence County,﻿Valley Falls,﻿Valley Falls,﻿RI,,41.906766,-71.390612,,,,﻿dan_mullen_001,﻿Rev.,﻿Daniel Mullen,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
@@ -88,7 +88,7 @@
 ﻿har.ct.0084,﻿church,[Unnamed Institution],English,,,,,﻿Tolland County,﻿Mansfield,﻿Mansfield,﻿CT,,41.788489,-72.229291,﻿har.ct.0143,﻿attended from Willimantic,﻿Mass once a month,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿tho_walsh_002,﻿Rev.,﻿Thomas Walsh,,﻿Pastor,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿New Haven County,﻿Meriden,﻿Meriden,﻿CT,,41.534956,-72.793037,,,,﻿jno_smith_001,﻿Rev.,﻿John Smith,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0086,﻿church,﻿St. Rose of Lima,English,,,,,﻿Middlesex County,﻿Middle-Haddam,﻿Middletown,﻿CT,,41.534956,-72.793037,﻿har.ct.0050,﻿attended from Colchester,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0193,﻿church,[Unnamed Institution],English,,,,,﻿Middlesex County,﻿Middle-Haddam,﻿Middletown,﻿CT,,,,﻿har.ct.0050,﻿attended from Colchester,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0087,﻿church,﻿St. John's,English,,,,,﻿Middlesex County,﻿Middletown,﻿Middletown,﻿CT,,41.567417,-72.652892,,,,﻿jam_lynch_001,﻿Rev.,﻿James Lynch,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0088,﻿church,﻿St. Mary's,English,,,,,﻿New Haven County,﻿Milford,﻿Milford,﻿CT,,41.326215,-72.922908,﻿har.ct.0040,﻿attended from East-Bridgeport,,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0089,﻿church,[Unnamed Institution],English,,,,,﻿Middlesex County,﻿Moodus,﻿Moodus,﻿CT,,41.502877,-72.450087,﻿har.ct.0050,﻿attended from Colchester,﻿Mass once a month,,,,,,,,,,,1867,﻿,﻿,﻿Hartford,Hartford
@@ -183,10 +183,10 @@
 ﻿har.ct.0163,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿New Haven,﻿New Haven,﻿CT,,41.29695,-72.945014,,,,,,,,,,﻿teacher,"﻿number of scholars, 200",﻿directed by the Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0166,﻿convent,﻿Convent of St. Margaret of Cortona,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92377,-73.060012,,,,﻿m-joseph_todd_har.ct_001,﻿Sister,﻿Mary Joseph Todd,,﻿Superior,,﻿religious,"﻿professed sisters, 3",﻿Sisters of the Third Order of St. Francis,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0166,﻿convent,﻿Convent of St. Margaret of Cortona,English,,,,,,﻿Winsted,﻿Winsted,﻿CT,,41.92377,-73.060012,,,,,,,,,,﻿religious,"﻿postulant, 1",﻿Sisters of the Third Order of St. Francis,,1867,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0166,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿New Haven,﻿Winsted,﻿CT,,41.92377,-73.060012,,,,﻿m-ulrica_har.ct_001,﻿Sister,﻿M. Ulrica,,﻿Sister-Servant,,﻿child,"﻿orphans, 80",﻿directed by the Sisters of Charity,,1867,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0191,﻿asylum,﻿Orphan Asylum,English,,,,,,﻿New Haven,,﻿CT,,,,,,,﻿m-ulrica_har.ct_001,﻿Sister,﻿M. Ulrica,,﻿Sister-Servant,,﻿child,"﻿orphans, 80",﻿directed by the Sisters of Charity,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0158,﻿convent,﻿Convent of the Sisters of Mercy,English,,,,,,﻿Hartford,﻿Hartford,﻿CT,,41.769265,-72.678812,,,,,,,,,,﻿religious,"﻿professed sisters, 12",,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0158,﻿convent,﻿Convent of the Sisters of Mercy,English,,,,,,﻿Hartford,﻿Hartford,﻿CT,,41.769265,-72.678812,,,,,,,,,,﻿religious,"﻿novices, 6",,,1867,﻿,﻿,﻿Hartford,Hartford
-﻿har.ct.0158,﻿academy,﻿Academy of the Immaculate Conception,English,,,,,,﻿Hartford,﻿Hartford,﻿CT,,41.769265,-72.678812,,,,,,,,,,﻿student,"﻿number of pupils, 80",﻿under the direction of the Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford
+﻿har.ct.0026_02,﻿academy,﻿Academy of the Immaculate Conception,English,,,,,,﻿Hartford,﻿Hartford,﻿CT,,41.878711,-71.382556,,,,,,,,,,﻿student,"﻿number of pupils, 80",﻿under the direction of the Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0001_02,﻿school,[Unnamed Institution],English,,﻿Cathedral,,,,﻿Providence,﻿Providence,﻿RI,,41.819311,-71.416583,,,,,,,,,,﻿child,"﻿boys, 400",﻿Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0001_02,﻿school,[Unnamed Institution],English,,﻿Cathedral,,,,﻿Providence,﻿Providence,﻿RI,,41.819311,-71.416583,,,,,,,,,,﻿child,"﻿girls, 420",﻿Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford
 ﻿har.ct.0169,﻿school,﻿School of the Holy Angels,English,,,,,,,﻿Providence,,﻿RI,41.822698,-71.412279,,,,,,,,,,﻿child,"﻿boys, 120",﻿in charge of the Sisters of Mercy,,1867,﻿,﻿,﻿Hartford,Hartford

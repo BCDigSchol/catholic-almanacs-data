@@ -5,7 +5,7 @@
 ﻿por.me.0002,﻿church,﻿St. Dominick's Church,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.650314,-70.262673,,,,﻿eug_müller_001,﻿Very Rev.,﻿Eugene Müller,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,44.309149,-69.780256,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0007,﻿church,﻿St. John's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80388,-68.76105,,,,﻿hen_gillen_001,﻿Rev.,﻿Henry Gillen,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0007,﻿church,﻿St. Michael's,English,,,,,,﻿Bangor,﻿Bangor,﻿ME,,44.80388,-68.76105,,,,,﻿Rev.,﻿-------,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0082,﻿church,﻿St. Michael's,English,,,,,,﻿Bangor,,﻿ME,,,,,,,,﻿Rev.,﻿-------,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0008,﻿church,﻿St. Mary's,English,,,,,,﻿Bath,﻿Bath,﻿ME,,43.915948,-69.824825,,,,﻿c_j_ocallaghan_001,﻿Rev.,﻿C. J. O'Callaghan,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0009,﻿church,﻿St. Benedict,English,,,,,,﻿Benedicta,﻿Benedicta,﻿ME,,45.803282,-68.412063,,,,﻿dan_murphy_001,﻿Rev.,﻿Daniel W. Murphy,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Belfast,﻿Belfast,﻿ME,,44.425909,-69.006423,﻿por.me.0034,﻿attended from Rockland,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
@@ -20,23 +20,23 @@
 ﻿por.me.0019,﻿church,[Unnamed Institution],English,,,,,,﻿Ellsworth,﻿Ellsworth,﻿ME,,44.54341,-68.419464,,,,﻿joh_madden_001,﻿Rev.,﻿John Madden,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0020,﻿church,[Unnamed Institution],English,,,,,,﻿Frankford,﻿Frankfort,﻿ME,,44.608673,-68.874463,﻿por.me.0019,﻿attended from Ellsworth,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0021,﻿church,[Unnamed Institution],English,﻿new church,,,,,﻿Gardner,﻿Gardiner,﻿ME,,44.23007,-69.775322,,,,﻿cha_egan_001,﻿Rev.,﻿C. Egan,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0021,﻿church,[Unnamed Institution],English,﻿new church,,,,,﻿Hallowell,﻿Gardiner,﻿ME,,44.23007,-69.775322,﻿por.me.0006,﻿attended from Augusta,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Hallowell,,﻿ME,,,,﻿por.me.0006,﻿attended from Augusta,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0022,﻿church,﻿St. Mary's,English,,,,,,﻿Houlton,﻿Houlton,﻿ME,,46.125272,-67.826493,,,,﻿dan_murphy_001,﻿Rev.,﻿Daniel W. Murphy,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0023,﻿church,﻿St. Ann's,English,,,,,,﻿Indiantown,﻿Indian Island,﻿ME,,44.94272,-68.652268,﻿por.me.0019,﻿attended from Ellsworth,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0024,﻿church,[Unnamed Institution],English,,,,,,﻿Kennebunk,﻿Kennebunk,﻿ME,,43.384531,-70.54399,﻿por.me.0012,﻿attended from Biddeford,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0025,﻿church,﻿St. John's,English,,,,,,﻿Lewiston,﻿Lewiston,﻿ME,,44.100351,-70.214776,,,,﻿mic_lucey_001,﻿Rev.,﻿Michael Lucey,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0026,﻿church,[Unnamed Institution],English,,,,,,﻿Lubec,﻿Lubec,﻿ME,,44.858586,-66.983591,﻿por.me.0018,﻿attended from Eastport,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0027,﻿church,[Unnamed Institution],English,,,,,,﻿Machias,﻿Machias,﻿ME,,44.715079,-67.461376,,,,,﻿Rev.,﻿-----,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0027,﻿church,﻿St. Patrick's,English,,,,,,﻿New Castle,﻿Machias,﻿ME,,44.715079,-67.461376,﻿por.me.0080,﻿attended from Whitefield,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0028,﻿church,﻿St. Mary's and St. Ann's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.934235,-68.645309,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0084,﻿church,﻿St. Patrick's,English,,,,,,﻿New Castle,,,,,,﻿por.me.0080,﻿attended from Whitefield,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0093&por.me.0028,﻿church,﻿St. Mary's and St. Ann's,English,,,,,,﻿Oldtown,﻿Old Town,﻿ME,,44.934235,-68.645309,,,,﻿j_b_nycolin_001,﻿Rev.,﻿J. B. Nycolin,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0031,﻿church,[Unnamed Institution],English,﻿new church,,,,,﻿Pembroke,﻿Pembroke,﻿ME,,44.953689,-67.161929,,,,﻿f_imasso_001,﻿Rev.,﻿F. Imasso,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Pleasant Point,﻿Pleasant Point,﻿ME,,44.957301,-67.042202,﻿por.me.0031,﻿attended from Pembroke,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0032,﻿church,[Unnamed Institution],English,,,,,,﻿Richmond,﻿Pleasant Point,﻿ME,,44.957301,-67.042202,﻿por.me.0006,﻿attended from Augusta,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0086,﻿church,[Unnamed Institution],English,,,,,,﻿Richmond,,﻿ME,,,,﻿por.me.0006,﻿attended from Augusta,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0033,﻿church,[Unnamed Institution],English,,,,,,﻿Robinston,﻿Robbinstown,﻿ME,,45.078132,-67.109428,﻿por.me.0031,﻿attended from Pembroke,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Rockland,﻿Rockland,﻿ME,,44.102745,-69.118475,,,,﻿and_barrow_001,﻿Rev.,﻿Andrew Barron,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0034,﻿church,﻿St. David's,English,,,,,,﻿Saco,﻿Rockland,﻿ME,,44.102745,-69.118475,﻿por.me.0012,﻿attended from Biddeford,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0088,﻿church,[Unnamed Institution],English,,,,,,﻿Saco,,﻿ME,,,,﻿por.me.0012,﻿attended from Biddeford,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Skowhegan,﻿Skowhegan,﻿ME,,44.765037,-69.71938,﻿por.me.0006,﻿attended from Augusta,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
-﻿por.me.0035,﻿church,[Unnamed Institution],English,,,,,,﻿Thomaston,﻿Skowhegan,﻿ME,,44.765037,-69.71938,﻿por.me.0034,﻿attended from Rockland,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
+﻿por.me.0089,﻿church,[Unnamed Institution],English,,,,,,﻿Thomaston,,﻿ME,,,,﻿por.me.0034,﻿attended from Rockland,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0037,﻿church,[Unnamed Institution],English,,,,,,﻿Trescott,﻿Trescott,﻿ME,,44.769247,-67.07415,﻿por.me.0031,﻿attended from Pembroke,,,,,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0038,﻿church,﻿St. Francis of Sales,English,,,,,,﻿Waterville,﻿Waterville,﻿ME,,44.549969,-69.634137,,,,﻿cha_egan_001,﻿Rev.,﻿Ch. Egan,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0080,﻿church,﻿St. Dennis',English,,,,,,﻿Whitefield,,﻿ME,,44.228627,-69.613706,,,,,﻿Rev.,﻿------,,,,,,,,1864,﻿,﻿,﻿Portland,Portland
