@@ -7,9 +7,9 @@
 ﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.638977,-85.499419,,,,﻿b_g_soffers_001,﻿Rev.,﻿B. G. Soffers,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.638977,-85.499419,,,,﻿luc_wicart_001,﻿Rev.,﻿Lucian J. Wicart,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.329838,-83.060483,,,,﻿f_h_peters_001,﻿Rev.,﻿F. H. J. Peters,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,﻿f_majerius_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,﻿Superior,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,﻿j_nagel_001,﻿Rev.,﻿J. Nagel,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,﻿l_chaessens_001,﻿Rev.,﻿L. Chaessens,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,﻿f_majerius_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,﻿Superior,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,﻿j_nagel_001,﻿Rev.,﻿J. Nagel,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.327145,-83.135286,,,,﻿l_chaessens_001,﻿Rev.,﻿L. Chaessens,﻿C.SS.R.,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.345359,-83.035653,,,,﻿cha_chambille_001,﻿Rev.,﻿C. A. Chambille,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.345359,-83.035653,,,,﻿a_durst_002,﻿Rev.,﻿A. Durst,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0013,﻿church,﻿St. Anthony's,English,,,,﻿Wayne County,﻿Wayne County,﻿St. Anthony,﻿Detroit,﻿MI,,42.279075,-83.336188,﻿det.mi.0001,﻿attended from Detroit,,,,,,,,,,,,1861,﻿,﻿,﻿Detroit,Detroit
@@ -138,7 +138,7 @@
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.349622,-83.052335,,,,﻿the_myerus_001,﻿Rev.,﻿Theodore Myerus,﻿C.SS.R.,,,﻿layperson,3.0,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.349622,-83.052335,,,,﻿jac_nagel_004,﻿Rev.,﻿Jacob Nagel,﻿C.SS.R.,,,﻿layperson,3.0,,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.349622,-83.052335,,,,﻿lou_claessens_003,﻿Rev.,﻿Louis Claessens,﻿C.SS.R.,,,﻿layperson,3.0,,,1861,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0180,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.916434,-83.39771,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1861,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0180,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,41.793983,-83.496845,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0225,﻿female orphan asylum,[Unnamed Institution],English,﻿for German children,,,,,,,,,,,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0193,"﻿convent, school",﻿St. Mary's Hospital and Insane Asylum,English,,,,,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,41.874788,-84.07216,,,,﻿m-de-sales_det.mi_001,﻿Sister,﻿Mary De Sales,,,,,,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0194_01,"﻿asylum, school",﻿St. Vincent's Select School,English,﻿select and free schools,"﻿on Randolph street, between Congress and Larned streets",,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,42.330972,-83.042868,,,,﻿lucretia_det.mi_001,﻿Sister,﻿Lucretia,,﻿Superior,,,,﻿Under the Sisters of Charity,,1861,﻿,﻿,﻿Detroit,Detroit
