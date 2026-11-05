@@ -1,6 +1,11 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿joh_timon_001,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿f_ofarrell_002,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿mar_kavanagh_001,﻿Rev.,﻿M. Kavanagh,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿p_burns_001,﻿Rev.,﻿P. Burns,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882803,-78.878283,,,,﻿f_payne_001,﻿Rev.,﻿- Payne,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿joh_timon_001,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_ofarrell_002,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿mar_kavanagh_001,﻿Rev.,﻿M. Kavanagh,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿p_burns_001,﻿Rev.,﻿P. Burns,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_payne_001,﻿Rev.,﻿- Payne,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006,﻿church,﻿St. Louis,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,,﻿Rev.,﻿Wm. Dieters,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,,﻿Rev.,﻿M. Smoulders,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,,﻿Rev.,﻿James Nagel,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,﻿hen_giesen_001,﻿Rev.,﻿Henry Gieson,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0194,﻿church,﻿Mary's of the Lake,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo

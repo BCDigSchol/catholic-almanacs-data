@@ -42,11 +42,11 @@
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿jam_fitton_001,﻿Rev.,﻿James Fitton,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿jos_h_cassin_001,﻿Rev.,﻿Joseph H. Cassin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0013,﻿church,﻿Most Holy Redeemer,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3714866,-71.0403364,,,,﻿pet_lamb_001,﻿Rev.,﻿Peter Lamb,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0014,﻿church,﻿Our Lady of the Assumption,English,﻿(church building),﻿(church building),,,,﻿Boston,﻿Boston,﻿MA,,,,﻿bos.ma.0013,﻿Attended by Rev. Jos. H. Cassin,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Beirne,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿joh_p_ryan_001,﻿Rev.,﻿John P. Ryan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
-﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,,,,,,﻿tho_coyle_001,﻿Rev.,﻿Thos. Coyle,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0014,﻿church,﻿Our Lady of the Assumption,English,﻿(church building),﻿(church building),,,,﻿Boston,﻿Boston,﻿MA,,42.36666978,-71.03312858,﻿bos.ma.0013,﻿Attended by Rev. Jos. H. Cassin,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.32413859,-71.08735538,,,,﻿pat_obeirne_001,﻿Rev.,﻿P. O'Beirne,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0015,﻿church,﻿St. Joseph's,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.32413859,-71.08735538,,,,﻿joh_p_ryan_001,﻿Rev.,﻿John P. Ryan,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.38258401,-71.0620736,,,,﻿jam_griffin_001,﻿Rev.,﻿James Griffin,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
+﻿bos.ma.0016,﻿church,﻿St. Francis de Sales,English,,﻿Boston Highlands,,,,﻿Boston,﻿Boston,﻿MA,,42.38258401,-71.0620736,,,,﻿tho_coyle_001,﻿Rev.,﻿Thos. Coyle,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0017,﻿church,﻿St. Gregory,English,,﻿Dorchester,,,,﻿Boston,﻿Boston,﻿MA,,42.2757334,-71.0696102,,,,﻿tho_r_mcnulty_001,﻿Rev.,﻿Thos. R. McNulty,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0018,﻿church,﻿Star of the Sea,English,,﻿East Boston,,,,﻿Boston,﻿Boston,﻿MA,,42.3800079,-71.0254241,﻿bos.ma.0013,﻿Attended from the Church of the Most Holy Redeemer,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
 ﻿bos.ma.0019,﻿chapel,﻿Chapel of the Blessed Virgin,English,,,,,,﻿Boston,﻿Boston,﻿MA,,42.3600825,-71.0588801,﻿bos.ma.0007,﻿Attended from St. Stephen's,,,,,,,,,,,,1870,﻿,﻿,﻿Boston,Boston
