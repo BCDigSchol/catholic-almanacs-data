@@ -6,22 +6,22 @@
 ﻿ore.or.0001,﻿cathedral,﻿Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿mil_oreilly_001,﻿Rev.,﻿Miles O'Reilly,,﻿Assistant,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0001,﻿cathedral,﻿Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿lew_piette_001,﻿Rev.,﻿Lewis Piette,,﻿Chaplain to the Convent,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Astoria,﻿Astoria,,,46.187884,-123.831253,,﻿attended from Portland,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainer,﻿Rainier,,,46.187884,-123.831253,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿St. Helen,﻿St. Helen,,,46.187884,-123.831253,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Columbia Bottom,﻿St. Helen,,,46.187884,-123.831253,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Hillboro',﻿Hillsboro,,,46.187884,-123.831253,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainer,﻿Rainier,,,46.089135,-122.935978,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0011,﻿church,[Unnamed Institution],English,,,,,,﻿St. Helen,﻿St. Helen,,,45.858964,-122.82123,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.ore.0012,﻿church,[Unnamed Institution],English,,,,,,﻿Columbia Bottom,,,,,,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Hillboro',﻿Hillsboro,,,45.520134,-122.989849,,,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0051,﻿church,﻿St. Peter's,English,﻿Wasco Co.,,,,,﻿Dalles City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0054,﻿church,[Unnamed Institution],English,,﻿The Indian Reservation of Warm Springs,,,,,,﻿OR,,43.804133,-120.554201,﻿ore.or.0051,﻿attended from Dalles City,,,,,,,,,"﻿Indians, 2000",,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0054,﻿church,[Unnamed Institution],English,,﻿The Indian Reservation of Warm Springs,,,,,,﻿OR,,43.804133,-120.554201,,,,,,,,,,,"﻿Umatilla, 1100",,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0054,﻿church,[Unnamed Institution],English,,﻿The Indian Reservation of Warm Springs,,,,,,﻿OR,,43.804133,-120.554201,,,,,,,,,,,"﻿Nez Pereés, 4000",,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0015,﻿church,[Unnamed Institution],English,﻿Marion Co.,,﻿French Prairie,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.262342,-122.840374,,,,﻿joh_f_malo_001,﻿Rev.,﻿John F. Malo,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,[Unnamed Institution],English,﻿Marion Co.,,﻿French Prairie,,,﻿Butteville,﻿St. Paul,﻿OR,,45.262342,-122.840374,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,[Unnamed Institution],English,﻿Marion Co.,,﻿French Prairie,,,﻿Champaeg,﻿St. Paul,﻿OR,,45.262342,-122.840374,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,[Unnamed Institution],English,﻿Marion Co.,,﻿French Prairie,,,﻿Dayton,﻿Dayton,﻿OR,,45.262342,-122.840374,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,[Unnamed Institution],English,﻿Marion Co.,,﻿French Prairie,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.262342,-122.840374,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿religious institution,[Unnamed Institution],English,﻿Yam Hill Co.,﻿Grand Ronde Indian Reservation,﻿French Prairie,﻿Yamhill County,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.262342,-122.840374,,﻿under the patronage of St. Michael,,﻿a_s_croquet_001,﻿Rev.,﻿A. J. Croquet,,﻿Pastor,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0083,﻿church,[Unnamed Institution],English,,,,,,﻿Butteville,,,,45.255556,-122.834722,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0016,﻿church,[Unnamed Institution],English,,,,,,﻿Champaeg,,,,45.24873,-122.898153,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0022,﻿church,[Unnamed Institution],English,,,,,,﻿Dayton,﻿Dayton,﻿OR,,45.220824,-123.075579,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0020,﻿church,[Unnamed Institution],English,,,,,,﻿Lafeyette,﻿Lafeyette,﻿OR,,45.243473,-123.112148,,﻿attended from St. Paul,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0018,﻿religious institution,[Unnamed Institution],English,﻿Yam Hill Co.,﻿Grand Ronde Indian Reservation,,﻿Yamhill County,,,,﻿OR,,45.060113,-123.609277,,﻿under the patronage of St. Michael,,﻿a_s_croquet_001,﻿Rev.,﻿A. J. Croquet,,﻿Pastor,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick's,English,﻿(Military Post),﻿Fort Yam Hill,,﻿Yamhill County,,,,﻿OR,,45.177198,-123.23953,﻿ore.or.0018,﻿attended from St. Michael,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0019,﻿church,﻿St. John's,English,﻿(Military Post),﻿Fort Hoskin,,﻿Yamhill County,,﻿Corvallis,,﻿OR,,45.177198,-123.23953,,﻿attended from Oregon City,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0089,﻿church,﻿St. John's,English,﻿(Military Post),﻿Fort Hoskin,,,,﻿Corvallis,,,,,,,﻿attended from Oregon City,,,,,,,,,,,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,"﻿for young ladies; opened in the beginning of November, 1859, at the arrival of three sisters from Canada",,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿religious,﻿12 sisters,﻿By the Sisters of the Holy Names of Jesus and Mary,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,"﻿for young ladies; opened in the beginning of November, 1859, at the arrival of three sisters from Canada",,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿student,﻿10 day scholars,﻿By the Sisters of the Holy Names of Jesus and Mary,,1861,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿female academy,﻿Academy for Young Ladies,English,﻿opened April 1860,,,,,﻿Oregon City,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿child,﻿70 little boys,﻿By the Sisters of the Holy Names of Jesus and Mary,,1861,﻿,﻿,﻿Oregon City,OregonCity
