@@ -203,7 +203,8 @@
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with several clerics and lay brothers,,,,,﻿Dunkirk,,﻿NY,,42.479444,-79.333889,,,,﻿fre_lang_002,﻿Rev.,﻿Frederick Lang,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0198,﻿retreat,﻿St. Mary's Retreat (Passionist),English,﻿with several clerics and lay brothers,,,,,﻿Dunkirk,,﻿NY,,42.479444,-79.333889,,,,﻿wil_geagan_001,﻿Rev.,﻿William Geagan,,,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0200,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,,,,,,﻿rudolphus_buf.ny_001,﻿Brother,﻿Rudolphus,,﻿Superior,,﻿student,﻿300 Pupils,﻿Under the charge of the Brothers of the Christian Schools,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,﻿cornelius_buf.ny_001,﻿Madam,﻿Cornelius,,﻿Superior,﻿assisted by 6 others,﻿student,﻿60 Pupils,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,﻿cornelius_buf.ny_001,﻿Madam,﻿Cornelius,,﻿Superior,,﻿student,﻿60 Pupils,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0066,﻿academy,﻿Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,43.155664,-77.590422,,,,,,,,,,﻿student,﻿assisted by 6 others,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0201,﻿convent,﻿St. Gabriel's Convent,English,,,,﻿Niagara County,,﻿Niagra City,,﻿NY,,,,,,,,,,,,,,,﻿Under the nuns of the visitation,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.15352,-77.606058,,,,﻿m-camillus_kelly_buf.ny_001,﻿Mother,﻿M. Camillus Kelly,,﻿Superior,,﻿religious,﻿7 professed choir sisters,,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.15352,-77.606058,,,,,,,,,,﻿religious,﻿3 professed lay sisters,,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -212,8 +213,8 @@
 ﻿buf.ny.0202,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,42.142401,-77.060888,,,,,,,,,,﻿student,﻿80 pupils,﻿under the charge of the SIsters of Charity,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0223,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Canandaigua,,﻿NY,,,,,,,,,,,,,﻿student,﻿25 pupils,﻿under the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0127,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dunkirk,,﻿NY,,42.101944,-78.9175,,,,,,,,,,﻿student,"﻿Pupils, 35",﻿under the Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0128,﻿convent,﻿Mount St. Joseph's Convent,English,﻿Novitiate for the Sisters of St. Joseph,,,,,﻿Cold Springs,﻿Buffalo,﻿NY,,42.896204,-78.876415,,,,﻿m-magdalen_buf.ny_001,﻿Sister,﻿Mary Magdalen,,﻿Superior,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0203,﻿academy,﻿Academy of St. Vincent,English,,,,,,﻿Buffalo,,﻿NY,,42.89620355,-78.87641519,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Sisteres of Charity,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0128,﻿convent,﻿Mount St. Joseph's Convent,English,﻿Novitiate for the Sisters of St. Joseph,,,,,﻿Cold Springs,﻿Buffalo,﻿NY,,42.89620355,-78.87641519,,,,﻿m-magdalen_buf.ny_001,﻿Sister,﻿Mary Magdalen,,﻿Superior,,,,,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0203,﻿academy,﻿Academy of St. Vincent,English,,,,,,﻿Buffalo,,﻿NY,,42.896204,-78.876415,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Sisteres of Charity,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0204,﻿academy,[Unnamed Institution],English,,,,﻿Erie County,,﻿New-Oregon,,﻿NY,,,,,,,﻿magdalena_buf.ny_001,﻿Mother,﻿Magdalena,,﻿Superior,,﻿religious,"﻿sisters, 3",﻿under the Franciscan Sisters,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0204,﻿academy,[Unnamed Institution],English,,,,﻿Erie County,,﻿New-Oregon,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 55",﻿under the Franciscan Sisters,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0129,"﻿convent, academy",﻿Convent and Academy of the Sisters of St. Francis,English,,,,﻿Erie County,,﻿East Eden,,﻿NY,,42.665051,-78.826928,,,,﻿johanna_buf.ny_001,﻿Mother,﻿Johanna,,﻿Superior,,﻿religious,"﻿religious, 5",,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -224,10 +225,10 @@
 ﻿buf.ny.0135,﻿academy,[Unnamed Institution],English,,,,,,﻿Elmira,,﻿NY,,42.089797,-76.807734,,,,,,,,,,,,﻿under the Sisters of St. Mary,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0136,﻿school,﻿St. Joseph's School for Boys,English,,,,,,,,﻿NY,,42.895681,-78.872186,,,,,,,,,,﻿student,"﻿Pupils, 450",﻿under Christian Brothers,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0137,﻿school,﻿St. Joseph's School for Girls,English,,,,,,﻿Buffalo,,﻿NY,,42.895681,-78.872186,,,,﻿robertina_lenahan_buf.ny_001,﻿Sister,﻿Robertina Lenahan,,﻿Sister-servant,,﻿student,"﻿Pupils, 200",﻿under the Sisters of Charity,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,﻿under a secular teacher,,,,,﻿Buffalo,,﻿NY,,42.887483,-78.864468,,,,,,,,,,﻿student,"﻿Pupils, 600",,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006_02,﻿school,﻿St. Louis',﻿German,﻿under a secular teacher,,,,,﻿Buffalo,,﻿NY,,42.88748313,-78.86446773,,,,,,,,,,﻿student,"﻿Pupils, 600",,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0008_02,﻿school,﻿St. Mary's,﻿German,"﻿Male, under secular teachers",,,,,﻿Buffalo,,﻿NY,,42.88748313,-78.86446773,,,,,,,,,,﻿student,"﻿Pupils, 550",﻿Sisters of St. Francis,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.88748313,-78.86446773,,,,,,,,,,﻿student,"﻿Pupils, 600 girls",﻿under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.88748313,-78.86446773,,,,,,,,,,﻿child,﻿500 boys under secular teachers,﻿under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,,,,,,,﻿student,"﻿Pupils, 600 girls",﻿under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_03,﻿school,﻿St. Mary's,﻿German,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.887425,-78.86424,,,,,,,,,,﻿child,﻿500 boys under secular teachers,﻿under the Sisters of Notre Dame,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194_02,﻿school,﻿Immaculate Conception,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,"﻿Pupils, 100",﻿under Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194_02,﻿school,﻿Immaculate Conception,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿child,"﻿Boys under secular teachers, 150",﻿under Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0194_03,﻿school,﻿Immaculate Conception,English,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1866,﻿,﻿,﻿Buffalo,Buffalo
@@ -241,7 +242,7 @@
 ﻿buf.ny.0003_03,﻿school,﻿St. Patrick's,English,﻿Male,,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,,,,,,,﻿student,"﻿Pupils, 70",﻿under a Franciscan Brother,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0150,﻿school,﻿St. Vincent's,English,,﻿Main Street,,,,﻿Buffalo,,﻿NY,,42.928068,-78.851008,,,,,,,,,,﻿student,"﻿Pupils, 75",﻿under Sisters of St. Joseph,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0213_02,﻿school,﻿St. Francis Xavier's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Blackrock,﻿Buffalo,﻿NY,,42.998611,-78.184167,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1866,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0226,﻿school,[Unnamed Institution],English,,,,,,﻿Batavia,,﻿NY,,,,,,,,,,,,,﻿student,"﻿Pupils, about 120",,,1866,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0226,﻿school,[Unnamed Institution],English,,,,,,﻿Batavia,,﻿NY,,42.8875,-77.281667,,,,,,,,,,﻿student,"﻿Pupils, about 120",,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0227,﻿school,[Unnamed Institution],English,﻿Male and Female,,,,,﻿Canandaigua,,﻿NY,,42.8875,-77.281667,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Sisters of St. Joseph's,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0153,﻿school,[Unnamed Institution],English,"﻿Male and Female, under secular teachers",,,,,﻿Corning,,﻿NY,,42.142852,-77.05469,,,,,,,,,,﻿student,"﻿Pupils, 400",,,1866,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0085_02,﻿school,﻿St. John's Male and Female,English,﻿under secular teachers,,,,,﻿Lockport,,﻿NY,,43.173731,-78.683745,,,,,,,,,,﻿student,"﻿Pupils, 300",,,1866,﻿,﻿,﻿Buffalo,Buffalo
