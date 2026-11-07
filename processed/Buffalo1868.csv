@@ -19,8 +19,8 @@
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿f_massimo_001,﻿Rev. Fr.,﻿Massimo,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿jer_collins_002,﻿Rev. Father,﻿Jerome Collins,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003,﻿church,﻿St. Patrick's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.87730699,-78.84805984,,,,﻿didacus_buf.ny_001,﻿Brother,﻿Didacus,﻿O.S.F.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.872779,-78.864231,,,,﻿j_blettner_001,﻿Rev.,﻿J. Blettner,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.872779,-78.864231,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿j_blettner_001,﻿Rev.,﻿J. Blettner,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010,﻿church,﻿St. Ann's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.882213,-78.849333,,,,﻿g_foertsch_001,﻿Rev.,﻿G. Foertsch,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0012,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.909104,-78.866851,,,,﻿a_keck_001,﻿Rev.,﻿A. Keck,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿church,﻿Holy Cross Cemetery,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.830412,-78.811363,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0016,﻿chapel,﻿Chapel at the Hospital,English,,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,42.886447,-78.878369,,,,﻿m_hoering_001,﻿Rev.,﻿M. Hoering,﻿S.J.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -116,7 +116,7 @@
 ﻿buf.ny.0184,﻿church,[Unnamed Institution],English,,,,,﻿Cattaraugus County,﻿Little Valley,﻿Little Valley,,,,,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0085,﻿church,﻿St. John the Baptist,English,﻿stone church,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,43.173731,-78.683745,,,,﻿hug_mulholland_001,﻿Rev.,﻿Hugh Mulholland,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0086,﻿church,﻿St. Patrick's,English,﻿stone church,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,42.826667,-78.537222,,,,﻿joh_omara_001,﻿Rev.,﻿John O'Mara,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0087,﻿church,﻿St. Mary's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,43.170613,-78.69031,,,,﻿jos_zoegel_001,﻿Rev.,﻿Jos. Zoegel,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0087,﻿church,﻿St. Mary's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,43.159031,-77.60895,,,,﻿jos_zoegel_001,﻿Rev.,﻿Jos. Zoegel,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0195,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Lockville,,﻿NY,,43.044483,-77.080017,﻿roc.ny.0040,﻿Attended from Palmyra,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0043,﻿church,﻿St. Michael's,English,﻿brick church,,,﻿Wayne County,,﻿Lyons,,﻿NY,,43.064231,-76.990246,﻿roc.ny.0042,﻿Attended from Clyde,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0041,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Macedon,,﻿NY,,43.06923,-77.298875,﻿roc.ny.0040,﻿Attended from Palmyra,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -149,8 +149,8 @@
 ﻿roc.ny.0057,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Port Byron,,﻿NY,,43.03487,-76.62629,﻿roc.ny.0056,﻿Attended from Weedsport,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0062,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Randolph,﻿Randolph,﻿NY,,42.383333,-78.233333,﻿buf.ny.0047,﻿Attended from Allegany,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0188,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Rexville,,﻿NY,,,,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,43.159031,-77.60895,,,,﻿jam_m_early_001,﻿Very Rev.,﻿James M. Early,﻿V.G.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,43.159031,-77.60895,,,,﻿joh_stuart_001,﻿Rev.,﻿John Stuart,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,42.927861,-78.851169,,,,﻿jam_m_early_001,﻿Very Rev.,﻿James M. Early,﻿V.G.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0001,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,42.927861,-78.851169,,,,﻿joh_stuart_001,﻿Rev.,﻿John Stuart,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,43.15325,-77.606071,,,,﻿pet_barker_001,﻿Rev.,﻿Peter Barker,﻿D.D.,,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0003,﻿church,﻿St. Mary's,English,,,,﻿Monroe County,,﻿Rochester,,﻿NY,,43.15325,-77.606071,,,,﻿jam_oconnor_003,﻿Rev.,﻿James O'Connor,,﻿Assistant,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002,﻿church,﻿St. Joseph's,﻿German,﻿There are schools attatched to all the German and most of the other churches in the diocese,,,﻿Monroe County,,﻿Rochester,,﻿NY,,43.159434,-77.60657,,,,﻿geo_ruland_001,﻿Rev.,﻿George Roland,﻿C.SS.R.,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -243,7 +243,7 @@
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction, and are provided with suitable situations. The sisters visit the sick and dying in their homes and in the hospital, also the prison and the poor-house, where they instruct and console the inmates.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.15352,-77.606058,,,,,,,,,,﻿layperson,﻿3 professed lay sisters,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction, and are provided with suitable situations. The sisters visit the sick and dying in their homes and in the hospital, also the prison and the poor-house, where they instruct and console the inmates.",,,﻿Monroe,,﻿Rochester,,﻿NY,,43.1565779,-77.6088465,,,,,,,,,,﻿religious,﻿5 choir and lay novices,,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0067,﻿academy,﻿Academy of the Immaculate Conception of Our Lady of Mercy,English,"﻿Attached to this convent is a house of mercy, where young girls of good character, out of situations, recieve instruction, and are provided with suitable situations. The sisters visit the sick and dying in their homes and in the hospital, also the prison and the poor-house, where they instruct and console the inmates.",,,﻿Monroe,,﻿Rochester,,﻿NY,,42.14240128,-77.06088832,,,,,,,,,,﻿student,﻿70 pupils,,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0202,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,42.142401,-77.060888,,,,,,,,,,﻿student,﻿80 pupils,﻿under the charge of the Sisters of Charity,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0202,﻿academy,﻿Academy of St. Patrick,English,,,,,,﻿Rochester,,﻿NY,,,,,,,,,,,,,﻿student,﻿80 pupils,﻿under the charge of the Sisters of Charity,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0223,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Canandaigua,,﻿NY,,,,,,,,,,,,,﻿student,﻿25 pupils,﻿under the Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0127,﻿academy,﻿St. Mary's Academy,English,,,,,,﻿Dunkirk,,﻿NY,,42.101944,-78.9175,,,,,,,,,,﻿student,"﻿Pupils, 35",﻿under the Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0128,﻿convent,﻿Mount St. Joseph's Convent,English,﻿Novitiate for the Sisters of St. Joseph,,,,,﻿Cold Springs,﻿Buffalo,﻿NY,,42.909043,-78.864828,,,,﻿m-magdalen_buf.ny_001,﻿Sister,﻿Mary Magdalen,,﻿Superior,,,,,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -271,7 +271,7 @@
 ﻿buf.ny.0007_02,﻿school,﻿St. Boniface's,﻿German,"﻿Male, under 3 secular teachers",,,,,﻿Buffalo,,﻿NY,,42.915436,-78.769903,,,,,,,,,,﻿student,"﻿Pupils, 500",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0009_02,﻿school,﻿St. Michael's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿student,"﻿Pupils, 550",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0011_02,﻿school,﻿St. Peter's,﻿French,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.87277928,-78.86423055,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.872779,-78.864231,,,,,,,,,,﻿student,"﻿Pupils, 606",,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0010_02,﻿school,﻿St. Ann's,﻿German,"﻿Male, under a secular teacher",,,,,﻿Buffalo,,﻿NY,,42.882213,-78.849333,,,,,,,,,,﻿student,"﻿Pupils, 606",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0002_02,﻿school,﻿St. Bridget's,English,,,,,,﻿Buffalo,,﻿NY,,42.87730699,-78.84805984,,,,,,,,,,﻿student,"﻿Pupils, 800",﻿under the Sisters of Mercy,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0005_03,﻿school,﻿Holy Angels',English,,,,,,﻿Buffalo,,﻿NY,,42.87730699,-78.84805984,,,,,,,,,,﻿student,"﻿Pupils, 150",﻿under the Gray Sisters,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0003_02,﻿school,﻿St. Patrick's,English,﻿Female,,,,,﻿Buffalo,,﻿NY,,42.877307,-78.84806,,,,,,,,,,﻿student,"﻿Pupils, 60",﻿under the Franciscan Sisters,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -285,7 +285,7 @@
 ﻿buf.ny.0085_02,﻿school,﻿St. John's Male and Female,English,﻿under secular teachers,,,,,﻿Lockport,,﻿NY,,43.173731,-78.683745,,,,,,,,,,﻿student,"﻿Pupils, 300",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0156,﻿school,[Unnamed Institution],English,,,,,,﻿Dunkirk,,﻿NY,,42.479502,-79.333932,,,,,,,,,,﻿student,"﻿Pupils, 120",﻿under Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0087_02,﻿school,﻿Sisters of St. Mary,English,,,,,,﻿Lockport,,﻿NY,,43.1590313,-77.6089505,,,,,,,,,,﻿student,"﻿Pupils, 130",,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Female,English,,,,﻿Rochester County,,,,﻿NY,,43.159031,-77.60895,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the charge of the Sisters of Charity,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0001_02,﻿school,﻿St. Patrick's Female,English,,,,﻿Rochester County,,,,﻿NY,,42.927861,-78.851169,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the charge of the Sisters of Charity,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0207,﻿school,﻿St. Mary's Female,English,﻿parochial school,,,﻿Rochester County,,,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the charge of the Sisters of Mercy,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002_02,﻿school,﻿St. Joseph's Female,English,,,,﻿Rochester County,,,,﻿NY,,43.159434,-77.60657,,,,,,,,,,﻿student,"﻿pupils, 440",﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0002_03,﻿school,﻿St. Joseph's Male,English,,,,,,,,﻿NY,,43.159434,-77.60657,,,,,,,,,,﻿student,"﻿pupils, 473",,,1868,﻿,﻿,﻿Buffalo,Buffalo
@@ -293,7 +293,7 @@
 ﻿buf.ny.0208_02,﻿school,﻿St. Peter's Female,English,,,,,,,,﻿NY,,42.908611,-76.798056,,,,,,,,,,﻿student,"﻿pupils, 200",﻿Under the Sisters of Notre Dame,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0208_03,﻿school,﻿St. Peter's Male,English,﻿under secular teachers,,,,,,,,,42.908611,-76.798056,,,,,,,,,,﻿student,"﻿pupils, 200",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0210,﻿school,[Unnamed Institution],English,﻿under a secular teacher,,,﻿Seneca County,,﻿Seneca Falls,,﻿NY,,42.85,-78.799722,,,,,,,,,,﻿student,"﻿Pupils, 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0158,﻿school,[Unnamed Institution],English,,,,,,﻿Perkinsville,,﻿NY,,42.85,-78.799722,,,,,,,,,,﻿student,"﻿Pupils, 170",﻿under Sisters of Notre Dame,,1868,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0158,﻿school,[Unnamed Institution],English,,,,,,﻿Perkinsville,,﻿NY,,42.53979,-77.628326,,,,,,,,,,﻿student,"﻿Pupils, 170",﻿under Sisters of Notre Dame,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0211,﻿school for boys and girls,[Unnamed Institution],English,,,,,,﻿West-Seneca,,﻿NY,,,,,,,,,,,,,﻿student,"﻿pupils, 75 to 100",,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,﻿tho_hynes_001,﻿Rev.,﻿Thomas Hynes,,﻿Director,,﻿religious,"﻿Sisters of St. Joseph, 8",﻿The Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0160,﻿asylum,﻿St. Joseph's Boys' Orphan Asylum,English,"﻿is situated on a large farm, near the city boundaries, purchaed by the Rt. Rev. Bishop.",,,,,﻿Buffalo,,﻿NY,,42.886447,-78.878369,,,,,,,,,,﻿recieved,"﻿received, 200",﻿The Sisters of St. Joseph,,1868,﻿,﻿,﻿Buffalo,Buffalo
