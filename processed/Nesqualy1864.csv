@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿nes.wa.0001,﻿church,﻿St. Augustin and St. James's Cathedral,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.630699,-122.673328,,,,﻿a_m_blanchet_001,﻿Rt. Rev.,﻿A. M. A. Blanchet,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
+﻿nes.wa.0001,﻿church,﻿St. Augustin and St. James's Cathedral,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.630699,-122.673328,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿A. M. A. Blanchet,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0001,﻿church,﻿St. Augustin and St. James's Cathedral,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.630699,-122.673328,,,,﻿j_b_brouillet_001,﻿Very. Rev.,﻿J. B. A. Brouillet,﻿V.G.,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0001,﻿church,﻿St. Augustin and St. James's Cathedral,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.630699,-122.673328,,,,﻿p_a_mans_001,﻿Rev.,﻿Paul A. Mans,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0001,﻿church,﻿St. Augustin and St. James's Cathedral,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.630699,-122.673328,,,,﻿dav_j_halde_001,﻿Rev.,﻿David Joseph Halde,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
@@ -24,7 +24,7 @@
 ﻿nes.wa.0036,﻿church,[Unnamed Institution],English,,,,,﻿Nez Perce County,﻿Lewiston,﻿Lewiston,﻿WA,﻿ID,46.41,-117.02,﻿nes.wa.0021,﻿attended from Walla Walla,,,,,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0037,﻿church,[Unnamed Institution],English,,,,,﻿Clearwater County,﻿Orofino,﻿Orofino,﻿WA,﻿ID,46.485556,-116.242222,﻿nes.wa.0021,﻿attended from Walla Walla,,﻿ch_a_richard_001,﻿Rev.,﻿Ch. A. Richard,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0018,﻿church,﻿St. Ann's,English,﻿Snokomish Reservation,,,,﻿Snohomish County,﻿Tulalip,﻿Tulalip Bay,﻿WA,,48.061821,-122.277326,,,,﻿e_c_chirouze_001,﻿Rev.,﻿C. Chirouse,,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
-﻿nes.wa.0018,﻿church,﻿St. Ann's,English,﻿Snokomish Reservation,,,,﻿Snohomish County,﻿Tulalip,﻿Tulalip Bay,﻿WA,,48.061821,-122.277326,,,,,﻿Rev.,﻿- Jayol,﻿O.M.J.,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
+﻿nes.wa.0018,﻿church,﻿St. Ann's,English,﻿Snokomish Reservation,,,,﻿Snohomish County,﻿Tulalip,﻿Tulalip Bay,﻿WA,,48.061821,-122.277326,,,,﻿j_tadini_001,﻿Rev.,﻿- Jayol,﻿O.M.J.,,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0026,﻿college,﻿Holy Angels College,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.628028,-122.673865,,,,﻿p_a_mans_001,﻿Rev.,﻿P. A. Mans,,﻿Prefect,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0026,﻿college,﻿Holy Angels College,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.628028,-122.673865,,,,﻿ch_a_richard_001,﻿Rev.,﻿Ch. Aug. Richard,,﻿Assistant,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0026,﻿college,﻿Holy Angels College,English,,,,,﻿Clark County,﻿Vancouver,﻿Vancouver,﻿WA,,45.628028,-122.673865,,,,﻿j_fagan_001,﻿Mr.,﻿J. Fagan,,﻿Assistant,,,,,,1864,﻿,﻿,﻿Nesqualy,Nesqualy

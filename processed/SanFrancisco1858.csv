@@ -12,7 +12,7 @@
 ﻿sanf.ca.0005,﻿church,﻿St. Ignatius,English,,﻿Market st.,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.784929,-122.406863,,,,,﻿Rev.,﻿Benedict Piccardo,﻿S.J.,﻿Assistant,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0006,﻿church,﻿Notre Dame des Victoires,﻿French,﻿Sermon in French,﻿Bush street,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.79059,-122.406449,,,,﻿dom_blaire_001,﻿Very Rev.,﻿Dominic Blaive,,﻿Pastor,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0006,﻿church,﻿Notre Dame des Victoires,﻿French,﻿Sermon in French,﻿Bush street,,,﻿County of San Francisco,﻿San Francisco,﻿San Francisco,﻿CA,,37.79059,-122.406449,,,,﻿lou_a_auger_001,﻿Rev.,﻿L. A. Auger,,﻿Assistant,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0145,﻿church,[Unnamed Institution],English,,,,﻿Mariposa County,,﻿Agua Fria,,﻿CA,,,,﻿sanf.ca.0070,﻿Attended from Stockton,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0006,﻿church,﻿Notre Dame des Victoires,﻿French,﻿Sermon in French,﻿Bush street,,﻿Mariposa County,﻿County of San Francisco,﻿Agua Fria,﻿San Francisco,﻿CA,,37.79059,-122.406449,﻿sanf.ca.0070,﻿Attended from Stockton,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0014,﻿church,﻿St. Michael's,English,,,,﻿Calaveras County,﻿Calaveras County,﻿Angels,﻿City of Angels,﻿CA,,38.067783,-120.53853,﻿sanf.ca.0053,﻿Attended from San Andres,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0016,﻿church,﻿St. Dominic's,English,,,,﻿Solano County,,﻿Benicia,,﻿CA,,38.048267,-122.150216,,,,﻿fra_s_villarrasa_001,﻿V. Rev.,﻿Francis S. Vilarrasa,﻿O.S.D.,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0016,﻿church,﻿St. Dominic's,English,,,,﻿Solano County,,﻿Benicia,,﻿CA,,38.048267,-122.150216,,,,,﻿Rev.,﻿Anthony Langlois,﻿O.S.D.,﻿Assistant,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -23,7 +23,7 @@
 ﻿sanf.ca.0026,﻿church,[Unnamed Institution],English,,,,﻿El Dorado County,﻿El Dorado County,﻿Georgetown,﻿Georgetown,﻿CA,,38.905893,-120.832834,﻿sanf.ca.0049,﻿attended from Placerville,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0130,﻿church,﻿St. Mary's,English,,,,﻿Sierra County,,﻿Goodyear's Bar,,﻿CA,,,,﻿sanf.ca.0126,﻿attended from Downieville,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿gra.ca.0035,﻿church,﻿St. Patrick's,English,,,,﻿Nevada County,,﻿Grass Valley,,﻿CA,,39.213689,-121.073346,,,,﻿tho_j_dalton_002,﻿Rev.,﻿Thomas J. Dalton,,﻿Pastor,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0069,﻿church,﻿Na. Sa. del Pilar,English,,,,﻿San Mateo County,﻿San Mateo County,"﻿Pilaristo, or Half Moon Bay",﻿Half Moon Bay,﻿CA,,37.46447,-122.431407,,﻿attended from San José,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0069,﻿church,﻿Na. Sa. del Pilar,English,,,,﻿San Mateo County,﻿San Mateo County,"﻿Pilaristo, or Half Moon Bay",﻿Half Moon Bay,﻿CA,,37.46447,-122.431407,﻿sanf.ca.0059,﻿attended from San José,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0132,﻿church,[Unnamed Institution],English,,,,﻿Shasta County,,﻿Horsetown,,﻿CA,,,,﻿sanf.ca.0140,﻿Attended from Shasta,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0030,﻿church,[Unnamed Institution],English,,,,﻿Amador County,﻿Amador County,﻿Jackson,﻿Jackson,﻿CA,,38.348802,-120.774102,﻿sanf.ca.0053,﻿Attended from San Andres,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0037,﻿church,[Unnamed Institution],English,,,,﻿Contracosta County,﻿Contra Costa County,﻿Martinez,﻿Martinez,﻿CA,,38.01462,-122.135101,﻿sanf.ca.0016,﻿attended from Benicia,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
@@ -34,7 +34,7 @@
 ﻿gra.ca.0053,﻿church,﻿SS. Peter and Paul,English,,,,﻿Nevada County,,﻿Nevada,,﻿CA,,39.257363,-121.02851,﻿sanf.ca.0131,﻿attended from Grass Valley,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0045,﻿church,﻿St. Mary's,English,,,,﻿Alameda County,﻿Alameda County,﻿Oakland,﻿Oakland,﻿CA,,37.801452,-122.277859,﻿sanf.ca.0058,﻿attended from the Mission of San José,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0045,﻿church,﻿Placerville,English,,,,﻿Alameda County,﻿Alameda County,﻿Oakland,﻿Oakland,﻿CA,,37.801452,-122.277859,,,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
-﻿sanf.ca.0071,﻿church,﻿St. Denis,English,,,,﻿San Manteo County,﻿San Mateo County,﻿Redwoods,﻿Redwood City,﻿CA,,37.420492,-122.218102,,﻿attended from San José,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
+﻿sanf.ca.0071,﻿church,﻿St. Denis,English,,,,﻿San Manteo County,﻿San Mateo County,﻿Redwoods,﻿Redwood City,﻿CA,,37.420492,-122.218102,﻿sanf.ca.0059,﻿attended from San José,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0052,﻿church,﻿St. Rose,English,,,,﻿Sacramento County,﻿Sacramento County,﻿Sacramento,﻿Sacramento,﻿CA,,38.518278,-121.469436,,,,﻿jas_cassin_001,﻿Rev.,﻿James Cassin,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0052,﻿church,﻿St. Rose,English,,,,﻿Sacramento County,﻿Sacramento County,﻿Sacramento,﻿Sacramento,﻿CA,,38.518278,-121.469436,,,,﻿joh_quinn_003,﻿Rev.,﻿John Quinn,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
 ﻿sanf.ca.0148,﻿church,[Unnamed Institution],English,,,,﻿Siskiyou County,,﻿Salmon River,,﻿CA,,,,﻿sanf.ca.0144,﻿attended from Yreka,,,,,,,,,,,,1858,﻿,﻿,﻿San Francisco,SanFrancisco
