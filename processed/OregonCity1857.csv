@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿ore.or.0002,﻿cathedral,﻿Cathedral of the Sacred Heart,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,﻿#REF!,﻿#REF!,,,,﻿f_n_blanchet_001,﻿Mt Rev.,﻿F. N. Blanchet,﻿D.D,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0002,﻿cathedral,﻿Cathedral of the Sacred Heart,English,,,,,,﻿Oregon City,﻿Oregon City,﻿OR,,﻿#REF!,﻿#REF!,,,,﻿pat_meken_001,﻿Rev.,﻿Patrick Meken,,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,﻿St. Paul's,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,﻿St. Paul,﻿OR,,﻿45.262342,﻿-122.840374,,,,,﻿Rev.,﻿Myles O'Reilly,,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0015,﻿church,﻿St. Paul's,English,,,﻿French Prairie,﻿Marion County,,﻿St. Paul,﻿St. Paul,﻿OR,,﻿45.262342,﻿-122.840374,,,,﻿myl_oreilly_001,﻿Rev.,﻿Myles O'Reilly,,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,,,﻿Big French Prairie,,,﻿St. Louis,﻿St. Louis,﻿OR,,﻿45.123267,﻿-122.942632,,,,﻿bar_delorme_001,﻿Very Rev.,﻿Bartholomew Delorme,,﻿V.G.,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,,,﻿Big French Prairie,,,﻿St. Louis,﻿St. Louis,﻿OR,,﻿45.123267,﻿-122.942632,,,,﻿la_lebas_001,﻿Rev.,﻿L.A. Lebas,,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0001,﻿church,﻿Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,﻿45.523698,﻿-122.689059,,,,﻿jam_crooke_001,﻿Rev.,﻿James Croke,,,,,,,,1857,﻿,﻿,﻿Oregon City,OregonCity

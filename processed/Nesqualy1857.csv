@@ -1,19 +1,19 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-,﻿church,,English,,,,,,,,,﻿WA,,,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿Augustin M. A. Blanchet,﻿D.D,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-,﻿church,,English,,,,,,,,,,,,,,,﻿j_b_brouillet_001,﻿Very Rev.,﻿John B. Brouillet,﻿V.G.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-,﻿church,,English,,,,,,,,,,,,,,,﻿l_rossi_001,﻿Rev. Mr.,﻿Rossi,,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0006,﻿church,﻿St. Francis Xavier's,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Cowlitz River,,,,,,,,,,﻿Rev.,﻿Wm. Leclaire,,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0006,﻿mission,﻿Immaculate Conception,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Olympia,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0006,﻿mission,﻿St. Michael's,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Steilacon,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle-Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿jos_joset_001,﻿Rev.,﻿Joseph Joset,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle-Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿alo_vercruysse_001,﻿Rev.,﻿Aloysius Vercruysse,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,﻿MT,,,,,,﻿adr_hoecken_003,﻿Rev.,﻿Adrian Hoecken,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pet_renetry_001,﻿Rev.,﻿Peter Menetry,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev.,﻿J. Tadini,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,﻿near Olympia,,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,﻿Residence of the Oblates M.I.,,,﻿Rev.,﻿Pasc. Ricard,﻿O.M.I.,﻿Superior,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,﻿near Olympia,,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿deherbomez_001,﻿Rev. Father,﻿De'Herbomez,,﻿Vice-Superior,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,﻿near Olympia,,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev. Father,﻿Jayol,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,﻿near Olympia,﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pandory_001,﻿Rev. Father,﻿Pandory,,,﻿O.M.I.,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,﻿near Olympia,﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿e_c_chirouze_001,﻿Rev.,﻿C. Chirouse,,,﻿O.M.I.,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,﻿ID,,,,,,﻿g_gazzoli_001,﻿Rev. Father,﻿Gregory Gazzoli,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,,,,,,,﻿ant_ravally_001,﻿Rev.,﻿Anthony Ravalli,﻿S.J.,,,,,,,1857,﻿,﻿,1858.0,Nesqualy
+,﻿church,,English,,,,,,,,,﻿WA,,,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿Augustin M. A. Blanchet,﻿D.D,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+,﻿church,,English,,,,,,,,,,,,,,,﻿j_b_brouillet_001,﻿Very Rev.,﻿John B. Brouillet,﻿V.G.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+,﻿church,,English,,,,,,,,,,,,,,,﻿l_rossi_001,﻿Rev. Mr.,﻿Rossi,,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0006,﻿church,﻿St. Francis Xavier's,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Cowlitz River,,,,,,,,,﻿wm_leclaire_001,﻿Rev.,﻿Wm. Leclaire,,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0006,﻿mission,﻿Immaculate Conception,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Olympia,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0006,﻿mission,﻿St. Michael's,English,"﻿on the Cowlitz River, French Settlement",,,,,﻿Steilacon,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle-Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿jos_joset_001,﻿Rev.,﻿Joseph Joset,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle-Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿alo_vercruysse_001,﻿Rev.,﻿Aloysius Vercruysse,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,﻿MT,,,,,,﻿adr_hoecken_003,﻿Rev.,﻿Adrian Hoecken,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pet_renetry_001,﻿Rev.,﻿Peter Menetry,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev.,﻿J. Tadini,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿near Olympia,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,﻿Residence of the Oblates M.I.,,﻿pas_ricard_001,﻿Rev.,﻿Pasc. Ricard,﻿O.M.I.,﻿Superior,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿near Olympia,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿deherbomez_001,﻿Rev. Father,﻿De'Herbomez,,﻿Vice-Superior,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿near Olympia,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev. Father,﻿Jayol,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pandory_001,﻿Rev. Father,﻿Pandory,﻿O.M.I.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿e_c_chirouze_001,﻿Rev.,﻿C. Chirouse,﻿O.M.I.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,﻿ID,,,,,,﻿g_gazzoli_001,﻿Rev. Father,﻿Gregory Gazzoli,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
+﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,,,,,,,﻿ant_ravally_001,﻿Rev.,﻿Anthony Ravalli,﻿S.J.,,,,,,,1857,﻿,﻿,1857.0,Nesqualy
