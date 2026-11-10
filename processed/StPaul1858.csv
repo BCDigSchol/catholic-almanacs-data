@@ -1,0 +1,23 @@
+﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
+﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿a_ravoux_001,﻿Very Rev.,﻿Aug. Ravoux,﻿V.G.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,,﻿Rev.,﻿Denis Ledon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,,﻿Rev.,﻿Thomas McManus,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿dem_marogna_001,﻿Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,,﻿Rev.,﻿G. Keller,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0008,﻿church,[Unnamed Institution],English,,,,﻿Ausha County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,﻿stp.mn.0356,﻿Attended from Palestine,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0335,﻿church,﻿St. Andrew's,English,,,,﻿Benton County,,﻿Belle Prairie,﻿Belle Prairie,﻿MN,,46.021944,-94.2825,﻿stp.mn.0031,﻿Visited from Crow Wing,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0367,﻿church,[Unnamed Institution],English,,,,﻿Benton County,,﻿Big Meadow,,﻿MN,,,,,﻿Visited by the Benedictines,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0393,"﻿mission, church",﻿Our Lady of Seven Dolors,English,,﻿Winnebago Mission,,,,﻿Blue Earth,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Maukato,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0084,﻿church,[Unnamed Institution],English,,,,﻿Houston County,﻿Houston County,﻿Brownsville,﻿Brownsville,﻿MN,,43.694055,-91.279815,,﻿Visited from Mendota or St. Paul,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0082,﻿church,[Unnamed Institution],English,,,,,﻿Hennepin County,﻿Cahill Settlement,﻿Edina,﻿MN,,44.910693,-93.349751,,﻿Attended from St. Anthony's Falls,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0083,﻿church,[Unnamed Institution],English,,,,﻿Houston County,﻿Houston County,﻿Caledonia,﻿Caledonia,﻿MN,,43.640156,-91.495225,,"﻿Visited from St. Paul, or Mendota",,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0369,﻿church,[Unnamed Institution],English,,,,,﻿Carver County,﻿Carver City,,﻿MN,,,,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0370,﻿church,[Unnamed Institution],English,,,,﻿Rice County,,﻿Centretown,,﻿MN,,,,,﻿Visited from Mendota or St. Paul,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0325,﻿church,[Unnamed Institution],English,,,,﻿Ramsey County,,﻿Centreville,,﻿MN,,,,﻿stp.mn.0007,﻿Visited from Little Canada,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0020,﻿church,[Unnamed Institution],English,,,,,﻿Carver County,﻿Charka,﻿Chaska,﻿MN,,44.78516,-93.602783,﻿stp.mn.0149,﻿Visited from Shacopee,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0050,﻿church,﻿St. Bridget's,English,,,,﻿Fillmore County,﻿Fillmore County,﻿Chatfield,﻿Chatfield,﻿MN,,43.841645,-92.189244,,﻿Attended from St. Paul or Mendota,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0373,﻿church,﻿St. John the Baptist,English,,,,,﻿Scott County,﻿Credit River,,﻿MN,,,,﻿stp.mn.0033,﻿Visited from Mendota,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0031,﻿church,﻿St. Francis Xavier,English,,,,﻿Morrison County,﻿Crow Wing County,﻿Crow Wing,﻿Crow Wing,﻿MN,,46.279967,-94.2925,,,,﻿fra_x_pierz_001,﻿Rev.,﻿Francis Pierz,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0328,﻿church,[Unnamed Institution],English,,,,﻿Hennepin County,,﻿Dayton,,﻿MN,,45.243889,-93.515,﻿stp.mn.0356,﻿Attended from Palestine,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0129,﻿church,﻿St. Elizabeth,English,,,,﻿Rice County,﻿Rice County,﻿Farribault,﻿Faribault,﻿MN,,44.294964,-93.268827,,﻿Visited from Mendota,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,﻿new church building,,,,﻿Hennepin County,﻿Falls of St. Anthony,﻿St. Anthony,﻿MN,,45.020891,-93.509457,,,,﻿joh_fayolle_001,﻿Rev.,﻿John Fayolle,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
