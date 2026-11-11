@@ -117,7 +117,7 @@
 ﻿bal.md.0120,﻿church,﻿Mother of God,﻿German,,,,,,﻿Washington City,﻿Washington,﻿DC,,38.899458,-77.018643,,,,﻿m_alig_001,﻿Rev.,﻿M. Alig,,﻿Pastor,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0121,﻿church,﻿St. Dominic,English,,﻿on the Island,,,,﻿Washington City,﻿Washington,﻿DC,,38.882991,-77.020222,,,,﻿n_d_young_001,﻿Rev.,﻿N. D. Young,﻿O.P.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0121,﻿church,﻿St. Dominic,English,,﻿on the Island,,,,﻿Washington City,﻿Washington,﻿DC,,38.882991,-77.020222,,,,﻿n_r_young_002,﻿Rev.,﻿N. R. Young,﻿O.P.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0270,﻿chapel,﻿Seminary Chapel,English,,,,,,,﻿Washington,﻿DC,,,,,﻿Attended by the Clergymen of the Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0155_02,﻿chapel,﻿Seminary Chapel,English,,,,,,,﻿Washington,﻿DC,,38.902164,-77.009493,,﻿Attended by the Clergymen of the Seminary,,,,,,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124,﻿church,﻿Holy Trinity,English,,,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.907168,-77.069969,,,,﻿tho_mulledy_002,﻿Rev.,﻿Thomas Mulledy,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0124,﻿church,﻿Holy Trinity,English,,,,,,﻿Georgetown,﻿Georgetown,﻿DC,,38.907168,-77.069969,,,,﻿joh_aiken_001,﻿Rev.,﻿John Aiken,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0271,﻿convent,﻿Visitation Convent,English,,,,,,,﻿Georgetown,﻿DC,,,,,,,﻿jam_clark_001,﻿Rev.,﻿James Clark,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -176,8 +176,8 @@
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,﻿h_de-neckere_001,﻿Rev.,﻿Hippolyte de Neckere,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,﻿geo_haller_002,﻿Rev.,﻿George Haller,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0261,﻿college,﻿St. John's College,English,,,,,,﻿Frederick,,﻿MD,,,,,,,﻿mic_tuffer_002,﻿Rev.,﻿Michael Tuffer,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0273,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,﻿bur_villiger_002,﻿Rev.,﻿Burchard Villiger,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0273,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,,,,,,﻿ben_s_benedict sestini _001,﻿Rev.,﻿Benedict Sestini,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0155,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,38.902164,-77.009493,,,,﻿bur_villiger_002,﻿Rev.,﻿Burchard Villiger,﻿S.J.,﻿President,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0155,"﻿seminary, charitable institution",﻿Washington Seminary,English,,,,,,﻿Washington,,﻿MD,,38.902164,-77.009493,,,,﻿ben_s_benedict sestini _001,﻿Rev.,﻿Benedict Sestini,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.347674,-76.617237,,,,﻿hen_hoban_001,﻿Rev.,﻿Henry Hoban,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.347674,-76.617237,,,,﻿e_j_sourin_001,﻿Rev.,﻿Edward J. Sourin,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0156,﻿college,﻿Loyola College,English,,,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.347674,-76.617237,,,,﻿j_ardia_001,﻿Rev.,﻿Joseph Ardia,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
@@ -194,10 +194,10 @@
 ﻿bal.md.0144&0165,"﻿convent, academy",﻿Convent and Academy of the Visitation,English,,﻿10th Street,,,,﻿Washington,﻿Washington,﻿DC,,38.89837,-77.025998,,,,﻿m-de-c_cummings_bal.md_001,﻿Mother,﻿M. de C. Cummings,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0149,﻿mother house,﻿St. Joseph's Sisterhood,English,,,,,,﻿Emmitsburgh,﻿Emmittsburg,﻿MD,,39.704542,-77.326931,,,,﻿regina_smith_bal.md_001,﻿Mother,﻿Regina Smith,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0166,﻿academy,﻿St. Joseph's Academy,English,,,,,,﻿Emmitsburgh,,﻿MD,,39.705496,-77.326184,,,,﻿regina_smith_bal.md_001,﻿Mother,﻿Regina Smith,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0274,﻿academy,[Unnamed Institution],English,,﻿St. James Church,,,,﻿Baltimore,﻿Baltimore,﻿MD,,,,,,,﻿m-serephina_bal.md_001,﻿Sister,﻿Mary Serephina,,﻿Superior,,,,﻿School Sisters of Notre Dame,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0150,﻿convent,[Unnamed Institution],English,,﻿St. James Church,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.300878,-76.601901,,,,﻿m-serephina_bal.md_001,﻿Sister,﻿Mary Serephina,,﻿Superior,,,,﻿School Sisters of Notre Dame,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0004_04,﻿convent,﻿Convent of the Immaculate Conception of the Sisters of Mercy,English,,﻿Poppleton street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.288036,-76.631907,,,,﻿m-catharine_wynne_bal.md_001,﻿Sister,﻿Mary Catharina Wynne,,﻿Superior,,,,,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0153,﻿convent,[Unnamed Institution],English,,﻿Richmond street,,,,﻿Baltimore,﻿Baltimore,﻿MD,,39.325921,-76.576665,,,,﻿m-g_thomas_bal.md_001,﻿Sister,﻿Mary Gertrude Thomas,,﻿Superior,,,,﻿Oblate Sisters of Providence,,1858,﻿,﻿,﻿Baltimore,Baltimore
-﻿bal.md.0275,﻿school,[Unnamed Institution],English,,﻿St. Frances School,,,,,,﻿MD,,,,,,,,,,,,,,,﻿Sisters of Providence,,1858,﻿,﻿,﻿Baltimore,Baltimore
+﻿bal.md.0153_03,﻿school,[Unnamed Institution],English,,﻿St. Frances School,,,,,,﻿MD,,39.325921,-76.576665,,,,,,,,,,,,﻿Sisters of Providence,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0001_03,﻿academy,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿Cathedral,,,,,﻿Baltimore,﻿MD,,39.294065,-76.616807,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0001_02,﻿school,[Unnamed Institution],English,﻿Girls by Daughters of Charity,﻿Cathedral,,,,,﻿Baltimore,﻿MD,,39.294065,-76.616807,,,,,,,,,,,,﻿Daughters of Charity,,1858,﻿,﻿,﻿Baltimore,Baltimore
 ﻿bal.md.0010_02,﻿school,[Unnamed Institution],English,﻿Boys by Brothers of the Christian Schools,﻿St. Alphonsus,,,,,﻿Baltimore,﻿MD,,39.293259,-76.617952,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1858,﻿,﻿,﻿Baltimore,Baltimore
