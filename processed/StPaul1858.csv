@@ -1,5 +1,5 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿a_ravoux_001,﻿Very Rev.,﻿Aug. Ravoux,﻿V.G.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿a_ravoux_001,﻿Very Rev.,﻿Aug. Ravoux,,﻿V.G.,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,,﻿Rev.,﻿Denis Ledon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,,﻿Rev.,﻿Thomas McManus,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿dem_marogna_001,﻿Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
