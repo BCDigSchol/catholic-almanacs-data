@@ -1,15 +1,15 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿#REF!,﻿#REF!,,,,﻿pet_p_lefevere_001,﻿Rt. Rev.,﻿Peter Paul Lefevere,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿#REF!,﻿#REF!,,,,,﻿Rt. Rev.,﻿Peter Paul Lefevere,﻿D.D.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿#REF!,﻿#REF!,,,,﻿pet_hennaert_001,﻿Very Rev.,﻿P. Hennaert,,﻿V.G.,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0001,﻿cathedral,﻿Cathedral of SS. Peter and Paul,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿#REF!,﻿#REF!,,,,﻿gus_limpens_001,﻿Rev.,﻿G. Limpens,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0009,﻿chapel,[Unnamed Institution],English,﻿for Hollanders and Belgians,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B.G. Soffers,,﻿Chaplain,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿ber_g_soffers_001,﻿Rev.,﻿B. G. Soffers,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿j_frere_002,﻿Rev.,﻿J. Frere,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0002,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,﻿Rev.,﻿J. Frere,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿fra_j_peeters_001,﻿Rev.,﻿F. J. Peters,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0004,﻿church,﻿Most Holy Trinity,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿a_f_bleyenbergh_001,﻿Rev.,﻿F. Blyenbergh,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿F. Van Emstede,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿the_majerus_001,﻿Rev.,﻿F. Majerius,﻿C.SS.R.,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿jul_kuenzer_003,﻿Rev.,﻿Julius Kuenzer,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0003,﻿church,﻿St. Mary's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,﻿Rev.,﻿Julius Kuenzer,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿a_durst_001,﻿Rev.,﻿A. Durst,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005,﻿church,﻿St. Joseph's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿joh_f_friedland_001,﻿Rev.,﻿J. Friedland,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0006,﻿church,﻿St. Patrick's,English,,,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿jam_hennessey_001,﻿Rev.,﻿J. Hennessy,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -17,7 +17,7 @@
 ﻿det.mi.0014,﻿church,﻿Immaculate Conception,English,,,,﻿Lenawee County,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,,,,,,﻿jos_kindekens_001,﻿Very Rev.,﻿P. Kindekens,,﻿V.G.,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0016,﻿church,[Unnamed Institution],English,,,,﻿Calhoun County,﻿Calhoun County,﻿Albion,﻿Albion,﻿MI,,,,﻿det.mi.0109,﻿attended from Marshall,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0017,﻿church,[Unnamed Institution],English,,,,﻿Kent County,﻿Kent County,﻿Alpine,﻿Alpine Township,﻿MI,,,,﻿det.mi.0163,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0018,﻿church,﻿St. Thomas',English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Ann Arbor,﻿Ann Arbor,﻿MI,,,,,,,﻿j_t_stephen_001,﻿Rev.,﻿J. T. Stephen,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0018,﻿church,﻿St. Thomas',English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Ann Arbor,﻿Ann Arbor,﻿MI,,,,,,,,﻿Rev.,﻿J. T. Stephen,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0048,﻿church,﻿Assumption B.V.M.,English,,,,﻿Wayne County,,﻿Assumption,,,,,,,,,﻿ama_van-den-driessche_001,﻿Rev.,﻿A. Van Dendriesche,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0023,﻿church,﻿St. Joseph's,English,,,,﻿Saginaw County,﻿Bay County,﻿Bay City,﻿Bay City,﻿MI,,,,,,,﻿hen_j_schutjes_001,﻿Rev.,﻿H. J. H. Schutjes,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0026,﻿church,[Unnamed Institution],English,,,,﻿Ottawa County,﻿Ottawa County,﻿Berlin,﻿Marne,﻿MI,,,,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -69,7 +69,7 @@
 ﻿det.mi.0079,﻿church,[Unnamed Institution],English,,,,﻿Ottawa County,﻿Ottawa County,﻿Grand Haven,﻿Grand Haven,﻿MI,,,,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0201,﻿church,[Unnamed Institution],English,,,,﻿Kent County,,﻿Grandville,,,,,,﻿det.mi.0077,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0080,﻿church,[Unnamed Institution],English,,,,﻿Jackson County,﻿Jackson County,﻿Grass Lake,﻿Grass Lake,﻿MI,,,,﻿det.mi.0060,﻿attended from Dexter,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0081,﻿church,﻿St. Patrick's,English,,﻿Cannonsburgh P.O.,,﻿Kent County,﻿Kent County,﻿Grattan,﻿Grattan Township,﻿MI,,,,,,,﻿rievers_001,﻿Rev. Mr.,﻿Rievers,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0081,﻿church,﻿St. Patrick's,English,,﻿Cannonsburgh P.O.,,﻿Kent County,﻿Kent County,﻿Grattan,﻿Grattan Township,﻿MI,,,,,,,,﻿Rev. Mr.,﻿Rievers,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0082,﻿church,﻿St. Lawrence,English,,,,﻿Wayne County,,﻿Greenfield,,,,,,,,,﻿cha_chambille_001,﻿Rev.,﻿Ch. Chambille,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0202,﻿church,[Unnamed Institution],English,,,,﻿Livingston County,,﻿Green Oak,,,,,,﻿det.mi.0018,﻿attended from Ann Arbor,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0083,﻿church,﻿St. Paul's,English,,,,﻿Wayne County,﻿Wayne County,﻿Grosse Point,﻿Grosse Pointe Farms,﻿MI,,,,,,,﻿fra_j_de-broux_001,﻿Rev.,﻿F. DeBroux,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -87,7 +87,7 @@
 ﻿det.mi.0104,﻿church,[Unnamed Institution],English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Lodi,﻿Lodi Township,﻿MI,,,,﻿det.mi.0018,﻿attended from Ann Arbor,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0106,﻿church,[Unnamed Institution],English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Manchester,﻿Manchester,﻿MI,,,,﻿det.mi.0045,﻿attended from Clinton,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0107,﻿church,[Unnamed Institution],English,,,,﻿Manistee County,﻿Manistee County,﻿Manistee,﻿Manistee,﻿MI,,,,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0109,﻿church,﻿Immaculate Conception B.M.V.,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Marshall,﻿Marshall,﻿MI,,,,,,,﻿p_koopmans_001,﻿Rev.,﻿P. Koopmans,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0109,﻿church,﻿Immaculate Conception B.M.V.,English,,,,﻿Calhoun County,﻿Calhoun County,﻿Marshall,﻿Marshall,﻿MI,,,,,,,,﻿Rev.,﻿P. Koopmans,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0110,﻿church,[Unnamed Institution],English,,,,﻿Lenawee County,﻿Lenawee County,﻿Medina,﻿Medina Township,﻿MI,,,,﻿det.mi.0014,﻿attended from Adrian,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0111,﻿church,﻿St. Martin's,English,,,,﻿St. Joseph's County,﻿St. Joseph County,﻿Mendon,﻿Mendon,﻿MI,,,,﻿det.mi.0087,﻿attended from Hillsdale,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0113,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Milan,﻿Milan,﻿MI,,,,﻿det.mi.0045,﻿attended from Clinton,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -99,9 +99,9 @@
 ﻿det.mi.0120,﻿church,[Unnamed Institution],English,,,,﻿Muskegon County,﻿Muskegon County,﻿Muskegon Dams,,﻿MI,,,,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0124,﻿church,[Unnamed Institution],English,,,,﻿Muskegon County,﻿Newaygo County,﻿Newaygo,﻿Newaygo,﻿MI,,,,﻿det.mi.0163,﻿attended from Town Wright,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0121,﻿church,[Unnamed Institution],English,,,,﻿Calhoun County,﻿Calhoun County,﻿New-Bedford,﻿Bedford Charter Township,﻿MI,,,,﻿det.mi.0109,﻿attended from Marshall,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0122,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Newport,﻿Newport,﻿MI,,,,,,,﻿gil_gerard_001,﻿Rev.,﻿Gilbert Gerard,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0122,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Newport,﻿Newport,﻿MI,,,,,,,,﻿Rev.,﻿Gilbert Gerard,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0125,﻿church,[Unnamed Institution],English,,,,﻿Cass County,﻿Berrien County,﻿Niles,﻿Niles,﻿MI,,,,,,,﻿joh_cappon_001,﻿Rev.,﻿J. Cappon,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0127,﻿church,﻿St. Bridget's,English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Northfield,﻿Northfield Township,﻿MI,,,,,,,﻿g_wallace_001,﻿Rev.,﻿G. Wallace,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0127,﻿church,﻿St. Bridget's,English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Northfield,﻿Northfield Township,﻿MI,,,,,,,,﻿Rev.,﻿G. Wallace,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0129,﻿church,[Unnamed Institution],English,,,,﻿Ionia County,﻿Ionia County,﻿Otisco,﻿Otisco Township,﻿MI,,,,﻿det.mi.0093,﻿attended from Ionia,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0135,﻿church,[Unnamed Institution],English,,,,﻿Ionia County,﻿Ionia County,﻿Pewamo,﻿Pewamo,﻿MI,,,,﻿det.mi.0093,﻿attended from Ionia,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0130,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,﻿Monroe County,﻿Otter Creek,﻿La Salle Township,﻿MI,,,,﻿det.mi.0114,﻿attended from Monroe,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -127,7 +127,7 @@
 ﻿det.mi.0216,﻿church,[Unnamed Institution],English,,,,﻿Saginaw County,,﻿Saginaw East,,,,,,﻿det.mi.0150,﻿attended from Saginaw,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0152,﻿church,[Unnamed Institution],English,,,,﻿Kent County,﻿Kent County,﻿Sand Creek,,﻿MI,,,,﻿det.mi.0077,﻿attended from Grand Rapids,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0153,﻿church,[Unnamed Institution],English,,,,﻿Ionia County,﻿Ionia County,﻿Saranac,﻿Saranac,﻿MI,,,,﻿det.mi.0093,﻿attended from Ionia,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0217,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Silver Creek,,,,,,,,,﻿j_baroux_001,﻿Rev.,﻿J. Baroux,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0217,﻿church,[Unnamed Institution],English,,,,﻿Cass County,,﻿Silver Creek,,,,,,,,,,﻿Rev.,﻿J. Baroux,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0155,﻿church,﻿St. Clair,English,,,,﻿St. Clair County,﻿St. Clair County,﻿St. Clair,﻿St. Clair,﻿MI,,,,﻿det.mi.0122,﻿attended from Newport,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0156,﻿church,[Unnamed Institution],English,,,,﻿Clinton County,﻿Clinton County,﻿St. John's,﻿St. Johns,﻿MI,,,,﻿det.mi.0049,﻿attended from Corunna,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0167,﻿church,[Unnamed Institution],English,,,,﻿Shiawassee County,﻿Shiawassee County,﻿Vernon,﻿Vernon,﻿MI,,,,﻿det.mi.0049,﻿attended from Corunna,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
@@ -144,26 +144,26 @@
 ﻿det.mi.0169,﻿church,﻿St. Joseph's,English,,,,﻿Monroe County,﻿Monroe County,﻿Vienna,﻿Erie Township,﻿MI,,,,,,,﻿cha_thomas_001,﻿Rev.,﻿Charles Thomas,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0170,﻿church,[Unnamed Institution],English,,,,﻿Allegan County,﻿Allegan County,﻿Watson,﻿Watson Township,﻿MI,,,,﻿det.mi.0096,﻿attended from Kalamazoo,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0171,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,﻿Wayne County,﻿Wayne,﻿Wayne,﻿MI,,,,﻿det.mi.0177,﻿attended from Ypsilanti,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0172,﻿church,﻿St. Peter's,English,,,,﻿Clinton County,﻿Clinton County,﻿Westphalia,﻿Westphalia,﻿MI,,,,,,,﻿geo_godez_001,﻿Rev.,﻿George Godez,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0172,﻿church,﻿St. Peter's,English,,,,﻿Clinton County,﻿Clinton County,﻿Westphalia,﻿Westphalia,﻿MI,,,,,,,,﻿Rev.,﻿George Godez,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0173,﻿church,[Unnamed Institution],English,,,,﻿Oakland County,﻿Oakland County,﻿White Lake,﻿White Lake,﻿MI,,,,﻿det.mi.0141,﻿attended from Pontiac,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0168,﻿church,﻿St. Rosa of Lima,English,,,,﻿St. Clair County,﻿St. Clair County,﻿Williamsburgh,﻿Marysville,﻿MI,,,,﻿det.mi.0143,﻿attended from Port Huron,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0174,﻿church,[Unnamed Institution],English,,,,﻿Shiawassee County,﻿Shiawassee County,﻿Woodhull,﻿Woodhull Township,﻿MI,,,,﻿det.mi.0049,﻿attended from Corunna,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0175,﻿church,﻿St. Charles',English,,,,﻿Wayne County,﻿Wayne County,﻿Wyandotte,﻿Wyandotte,﻿MI,,,,,,,﻿cha_de-preipter_001,﻿Rev.,﻿C. L. de Preiter,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0176,﻿church,[Unnamed Institution],English,,,,﻿Barry County,﻿Barry County,﻿Yankee Springs,﻿Yankee Springs Township,﻿MI,,,,﻿det.mi.0096,﻿attended from Kalamazoo,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0177,﻿church,[Unnamed Institution],English,,,,﻿Washtenaw County,﻿Washtenaw County,﻿Ypsilanti,﻿Ypsilanti,﻿MI,,,,,,,﻿edw_van-paemel_001,﻿Rev.,﻿Ed. Vanpaemel,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0209,﻿community,﻿Brothers of the Christian Schools,English,"﻿Direct the parish schools at Cathedral, St. Ann's, St. Mary's",,,﻿Wayne County,,﻿Detroit,,﻿MI,,,,,,,﻿stephen_det.mi_001,﻿Brother,﻿Stephen,,﻿Superior,,﻿religious,﻿11 brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0209,﻿community,﻿Brothers of the Christian Schools,English,"﻿Direct the parish schools at Cathedral, St. Ann's, St. Mary's",,,﻿Wayne County,,﻿Detroit,,﻿MI,,,,,,,,﻿Brother,﻿Stephen,,﻿Superior,,﻿religious,﻿11 brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0001_02,﻿school,﻿parochial school,English,,﻿At the Cathedral,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿42.214206,﻿-83.149924,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0002_02,﻿school,﻿St. Ann's parochial school,English,,﻿At the St. Ann's Church,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,﻿42.638977,﻿-85.499419,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0003_02,﻿school,[Unnamed Institution],English,,﻿St. Mary's church,,,,,,,,﻿41.793983,﻿-83.496845,,,,,,,,,,,,﻿Brothers of the Christian Schools,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0181,﻿mother house,﻿Servants of the Immaculate Heart of Mary,English,"﻿Mother House in Monroe, Monroe County, Michigan",,,﻿Monroe County,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,,,,,,﻿m-joseph_det.mi_001,﻿Sister,﻿Mary Joseph,,﻿Superior,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0181,﻿mother house,﻿Servants of the Immaculate Heart of Mary,English,"﻿Mother House in Monroe, Monroe County, Michigan",,,﻿Monroe County,﻿Monroe County,﻿Monroe,﻿Monroe,﻿MI,,,,,,,,﻿Sister,﻿Mary Joseph,,﻿Superior,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0181,"﻿academy, select school, parish school",﻿Young Ladies' Academy and Select School and parish school,English,"﻿Mother House in Monroe, Monroe County, Michigan",,,﻿Monroe County,﻿Monroe County,﻿Adrian,﻿Monroe,﻿MI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0005_02,﻿parish school,[Unnamed Institution],English,,﻿St. Joseph's,,,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,,,,,,,,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿fra_n_van-emstede_002,﻿Rev.,﻿Francis N. Van Emstede,﻿C.SS.R.,,,﻿layperson,﻿3 lay brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,﻿Rev.,﻿Francis N. Van Emstede,﻿C.SS.R.,,,﻿layperson,﻿3 lay brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿f_n_van-emstede_001,﻿Rev.,﻿Theodore Majerus,﻿C.SS.R.,,,﻿layperson,﻿3 lay brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0178,﻿convent,﻿Redemptorist Convent,English,,﻿98 Croghan street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿the_majerus_001,﻿Rev.,﻿Julius Kuenzer,﻿C.SS.R.,,,﻿layperson,﻿3 lay brothers,,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0180,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿m-salesia_det.mi_001,﻿Sister,﻿Mary Salesia,,﻿Superior,,﻿religious,﻿4 sisters,﻿School Sisters of Notre Dame,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0180,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,﻿Sister,﻿Mary Salesia,,﻿Superior,,﻿religious,﻿4 sisters,﻿School Sisters of Notre Dame,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0180,﻿convent,﻿School Sisters of Notre Dame,English,﻿They conduct the Female Orphan Asylum for German children.,﻿St. Antoine street,,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,,,,,,﻿religious,﻿2 candidates,﻿School Sisters of Notre Dame,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0225,﻿female orphan asylum,[Unnamed Institution],﻿German,﻿for German children,,,,,,,,,,,,,,,,,,,,,,﻿School Sisters of Notre Dame,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0193,"﻿hospital, asylum",﻿St. Mary's Hospital and Insane Asylum,English,,,,,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,,,,,,﻿m-de-sales_det.mi_001,﻿Sister,﻿Mary De Sales,,,,,,﻿Under the Sisters of Charity,,1864,﻿,﻿,﻿Detroit,Detroit
-﻿det.mi.0194_02&0194_03&0194_04,"﻿asylum, select school, free school",﻿St. Vincent's Select and Free School and Orphan Asylum,English,,"﻿on Randolph street, between Congress and Larned streets",,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,﻿m-alice_det.mi_001,﻿Sister,﻿M. Alice,,﻿Superior,,,,﻿Under the Sisters of Charity,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0193,"﻿hospital, asylum",﻿St. Mary's Hospital and Insane Asylum,English,,,,,﻿Lenawee County,﻿Adrian,﻿Adrian,﻿MI,,,,,,,,﻿Sister,﻿Mary De Sales,,,,,,﻿Under the Sisters of Charity,,1864,﻿,﻿,﻿Detroit,Detroit
+﻿det.mi.0194_02&0194_03&0194_04,"﻿asylum, select school, free school",﻿St. Vincent's Select and Free School and Orphan Asylum,English,,"﻿on Randolph street, between Congress and Larned streets",,﻿Wayne County,﻿Wayne County,﻿Detroit,﻿Detroit,﻿MI,,,,,,,,﻿Sister,﻿M. Alice,,﻿Superior,,,,﻿Under the Sisters of Charity,,1864,﻿,﻿,﻿Detroit,Detroit
 ﻿det.mi.0179,"﻿academy, select school, free school, asylum",﻿Academy for Young Ladies and Select School and Parish Schools,English,,,,,﻿Wayne County,,﻿Detroit,﻿MI,,,,,,,﻿eugeny_desmarquets_det.mi_001,﻿Mad.,﻿Eugenie Desmarquets,,,,,,﻿Conducted by the Ladies of the Sacred Heart,,1864,﻿,﻿,﻿Detroit,Detroit
