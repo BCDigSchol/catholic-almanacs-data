@@ -6,17 +6,17 @@
 ,﻿church,,English,,,,,,,,,,,,,,,﻿j_b_brouillet_001,﻿Very Rev.,﻿John B. Brouillet,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ,﻿church,,English,,,,,,,,,,,,,,,﻿l_rossi_001,﻿Rev. Mr.,﻿Rossi,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0006,﻿church,﻿St. Francis Xavier's,English,,,,,,﻿Cowlitz River,,,,,,,,,﻿l_rossi_001,﻿Rev.,﻿L. Rossi,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0006,﻿mission,﻿Immaculate Conception,English,,,,,,﻿Olympia,,,,,,,,,,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0006,﻿mission,﻿St. Michael's,English,,,,,,﻿Steilacon,,,,,,,,,,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0009,﻿church,﻿St. Michael's,English,,,,,﻿Thurston County,﻿Olympia,﻿Olympia,﻿WA,,,,,,,,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
+﻿nes.wa.0006,﻿mission,﻿Immaculate Conception,English,,,,,,﻿Olympia,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
+﻿nes.wa.0006,﻿mission,﻿St. Michael's,English,,,,,,﻿Steilacon,,,,,,,,,﻿ric_king_001,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
+﻿nes.wa.0009,﻿church,﻿St. Michael's,English,,,,,﻿Thurston County,﻿Olympia,﻿Olympia,﻿WA,,,,,,,﻿ric_king_001,﻿Rev.,﻿Rich. King,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿jos_joset_001,﻿Rev.,﻿Joseph Joseph,﻿S.J.,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0023,﻿mission,﻿St. Paul's,English,"﻿among the Skoyelpies, commonly called Kettle Fall, or Chaudieres Indians",,,,,﻿Colville,,,,,,,,,﻿alo_vercruysse_001,﻿Rev.,﻿Aloysius Vercruysse,﻿S.J.,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,﻿MT,,,,,,﻿adr_hoecken_003,﻿Rev.,﻿Adrian Hoecken,﻿S.J.,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pet_renetry_001,﻿Rev.,﻿Peter Renetry,﻿S.J.,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0041,﻿mission,﻿St. Ignatius,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev. Father,﻿J. Tadini,﻿S.J.,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,﻿Residence of the Oblates M.I.,,,﻿Rev. Father,﻿De'Herbomez,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
+﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,﻿Residence of the Oblates M.I.,,﻿deherbomez_001,﻿Rev. Father,﻿De'Herbomez,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0041,﻿religious institution,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿j_tadini_001,﻿Rev. Father,﻿Jayol.,,,,,,,,1858,﻿,﻿,1858.0,Nesqualy
-﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,,﻿Rev. Father,﻿Pandory,,,﻿O.M.I.,,,,,1858,﻿,﻿,1858.0,Nesqualy
+﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿pandory_001,﻿Rev. Father,﻿Pandory,,,﻿O.M.I.,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0041,﻿mission,﻿St. Joseph's,English,"﻿among the Coutenais, the Flat Heads, and the Pend'Oreilles",﻿On the Yakama River,,﻿Olympia,﻿Lake County,,﻿St. Ignatius,,,,,,,,﻿e_c_chirouze_001,﻿Rev.,﻿C. Chirouse,,,﻿O.M.I.,,,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,﻿ID,,,,,,﻿g_gazzoli_001,﻿Rev. Father,﻿Gregory Gazzoli,﻿S.J.,,,,﻿Pointed Hearts Indians,,,1858,﻿,﻿,1858.0,Nesqualy
 ﻿nes.wa.0039,﻿mission,﻿Sacred Heart Mission,English,﻿among the Pointed Hearts,,,,﻿Kootenai County,﻿Coeur d'Alène,﻿Coeur d'Alène,﻿WA,,,,,,,﻿ant_ravally_001,﻿Rev.,﻿Anthony Ravalli,﻿S.J.,,,,﻿Pointed Hearts Indians,,,1858,﻿,﻿,1858.0,Nesqualy
