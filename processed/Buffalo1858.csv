@@ -1,25 +1,66 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿joh_timon_001,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_ofarrell_002,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿mar_kavanagh_001,﻿Rev.,﻿M. Kavanagh,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿p_burns_001,﻿Rev.,﻿P. Burns,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿f_payne_001,﻿Rev.,﻿- Payne,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0006,﻿church,﻿St. Louis,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,﻿wm_dieters_001,﻿Rev.,﻿Wm. Dieters,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,﻿m_smoulders_001,﻿Rev.,﻿M. Smoulders,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,﻿jam_nagel_002,﻿Rev.,﻿James Nagel,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,﻿hen_giesen_001,﻿Rev.,﻿Henry Gieson,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0194,﻿church,﻿Mary's of the Lake,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,﻿jam_m_early_001,﻿Rev.,﻿James Early,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0007,﻿church,﻿St. John's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.915436,﻿-78.769903,,,,﻿pau_fallering_001,﻿Rev.,﻿Paul Fallering,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,﻿j_p_klein_002,﻿Rev.,﻿J. P. Klein,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,﻿luc_caveng_001,﻿Rev.,﻿Lucas Caveng,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,﻿ber_fritch_001,﻿Rev.,﻿Benjamin Fritsch,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,﻿g_foertsch_001,﻿Rev.,﻿Geo. Foertsch,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,﻿cha_d_mcmullen_001,﻿Rev.,﻿C. D. McMullen,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,﻿b_barker_001,﻿Rev.,﻿Peter Barker,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,﻿edw_chevalier_001,﻿Rev.,﻿Edward Chevalier,﻿O.M.I.,,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,﻿j_naughton_001,﻿Rev.,﻿J. Naughton,﻿O.M.I.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,﻿wil_corbett_001,﻿Rev.,﻿Wm. Corbett,﻿O.M.I.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0005,﻿church,﻿St. Vincent de Paul,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,﻿j_mcclennan_001,﻿Rev.,﻿J. McClennan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0016,﻿chapel,﻿Seven Dolors,English,﻿Hospital Chapel,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,﻿fra_gerry_001,﻿Rev.,﻿F. Gerry,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0015,﻿church,﻿Chapel of the Holy Cross at the Cemetery,English,,﻿Holy Cross Cemetery,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.830412,﻿-78.811363,,,,﻿t_henry_001,﻿Rev.,﻿T. Henry,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,﻿#REF!,﻿Rt. Rev.,﻿John Timon,﻿D.D.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,,﻿Very Rev.,﻿Francis O'Farrell,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿M. Kavanagh,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿P. Burns,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0001,﻿cathedral,﻿St. Joseph's Cathedral,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿#REF!,﻿#REF!,,,,,﻿Rev.,﻿- Payne,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0006,﻿church,﻿St. Louis,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887483,﻿-78.864468,,,,,﻿Rev.,﻿Wm. Dieters,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,,﻿Rev.,﻿M. Smoulders,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,,﻿Rev.,﻿James Nagel,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008,﻿church,﻿St. Mary's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.887425,﻿-78.86424,,,,,﻿Rev.,﻿Henry Gieson,﻿C.SS.R.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0194,﻿church,﻿Mary's of the Lake,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,,,,,,,﻿Rev.,﻿James Early,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0007,﻿church,﻿St. John's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.915436,﻿-78.769903,,,,,﻿Rev.,﻿Paul Fallering,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0011,﻿church,﻿St. Peter's,﻿French,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿J. P. Klein,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Lucas Caveng,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Benjamin Fritsch,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0009,﻿church,﻿St. Michael's,﻿German,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿Geo. Foertsch,﻿S.J.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿C. D. McMullen,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0002,﻿church,﻿St. Bridget's,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.872779,﻿-78.864231,,,,,﻿Rev.,﻿Peter Barker,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿Edward Chevalier,﻿O.M.I.,,,,,,﻿Community of the Missionary Oblates of Mary Immaculate,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿J. Naughton,﻿O.M.I.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿Holy Angels,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿Wm. Corbett,﻿O.M.I.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005,﻿church,﻿St. Vincent de Paul,English,,,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿43.156578,﻿-77.608846,,,,,﻿Rev.,﻿J. McClennan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0016,﻿chapel,﻿Seven Dolors,English,﻿Hospital Chapel,﻿Hospital,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.886447,﻿-78.878369,,,,,﻿Rev.,﻿F. Gerry,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0015,﻿church,﻿Chapel of the Holy Cross at the Cemetery,English,,﻿Holy Cross Cemetery,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.830412,﻿-78.811363,,,,,﻿Rev.,﻿T. Henry,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0015,﻿chapel,﻿Chapel of the Asylum of the Sisters of Charity,English,,﻿Asylum of the Sisters of Charity,,﻿Erie County,,﻿Buffalo,﻿Buffalo,﻿NY,,﻿42.830412,﻿-78.811363,﻿buf.ny.0001,﻿Attended from the Cathedral,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0023,﻿church,[Unnamed Institution],English,,,,﻿Erie County,,﻿Akron,﻿Akron,﻿NY,,﻿42.9,﻿-78.490833,,﻿Attended from Utica,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0096,﻿church,﻿St. Joseph's,English,,,,﻿Orleans County,,﻿Allron,﻿Albion,﻿NY,,﻿43.244277,﻿-78.196859,﻿buf.ny.0098,﻿Attended from Medina,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0024,﻿church,﻿Holy Name,English,,,,﻿Erie County,,﻿Alden,﻿Alden,﻿NY,,﻿42.90006,﻿-78.491967,,,,,﻿Rev.,﻿Patrick Kiehold,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Very Rev.,﻿Pamfilo da Magliano,,﻿Custos Provincial,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Sisto da Gagliano,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Samuel da Prezza,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Emiliano d'Azzano,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Agostino da S. Damiano d'Asti,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Valeriano da Ormea,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Otto Skolla,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Felece da Cannobio,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0048,﻿church,﻿St. John's,English,,,,﻿Steuben County,,﻿Andover,﻿Andover,﻿NY,,﻿42.156458,﻿-77.795551,﻿buf.ny.0122,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0049,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Angelica,﻿Angelica,﻿NY,,﻿42.306735,﻿-78.015839,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0115,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Arcade,﻿Arcade,﻿NY,,﻿42.533951,﻿-78.423074,﻿buf.ny.0116,﻿Attended from Java,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0077,﻿church,﻿St. Vincent's,English,,,,﻿Genesee County,,﻿Attica,﻿Attica,﻿NY,,﻿42.864227,﻿-78.280295,,,,,﻿Rev.,﻿Joseph O'Donaghoe,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0048,﻿church,﻿Holy Family,English,,,,﻿Cayuga County,,﻿Auburn,,﻿NY,,﻿42.935917,﻿-76.566808,,,,,﻿Rev.,﻿Michael Creedon,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0232,﻿church,﻿St. Fr. de Sales,English,,,,﻿Cayuga County,,﻿Auburn,,﻿NY,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0053,﻿church,﻿St. Agnes',English,,,,﻿Cayuga County,,﻿Aurora,,﻿NY,,﻿42.918956,﻿-76.72634,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0230,﻿church,[Unnamed Institution],English,,,,﻿Erie County,,﻿Aurora,,﻿NY,,,,﻿buf.ny.0077,﻿Attended from Attica,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0022,﻿church,﻿St. Agnes',English,,,,﻿Livingston County,,﻿Avon,,﻿NY,,﻿42.91351,﻿-77.745194,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0078,﻿church,﻿St. Joseph's,English,,,,﻿Genesee County,,﻿Batavia,﻿Batavia,﻿NY,,﻿42.983784,﻿-78.156443,,,,,﻿Rev.,﻿James McGlue,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0101,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Bath,﻿Bath,﻿NY,,﻿42.337016,﻿-77.317758,﻿buf.ny.0102,﻿Attended from Corning,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0050,﻿church,[Unnamed Institution],English,,,,﻿Allegheny County,,﻿Belfast,﻿Belfast,﻿NY,,﻿42.342269,﻿-78.112413,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0113,﻿church,﻿St. Joseph's,English,,,,﻿Wyoming County,,﻿Bennington,﻿Bennington,﻿NY,,﻿42.837004,﻿-78.397519,﻿buf.ny.0024,﻿Attended from Alden,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0079,﻿church,﻿St. Bridget's,English,,,,﻿Genesee County,,﻿Bergen,﻿Bergen,﻿NY,,﻿43.085339,﻿-77.942234,﻿roc.ny.0011,﻿Attended from Brockport,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0175,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Birdsall,,﻿NY,,,,﻿buf.ny.0103,﻿Attended from Greenwood,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0213,﻿church,﻿St. Francis Xavier's,English,,﻿Blackrock,,﻿Erie County,,﻿Buffalo,﻿Buffalo,,,﻿42.930653,﻿-78.898295,,,,,﻿Rev.,﻿A. Soger,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0036,﻿church,﻿St. Bridget's,English,,,,﻿Ontario County,,﻿Bloomfield,,﻿NY,,﻿42.888141,﻿-77.447249,,,,,﻿Rev.,﻿P. Lee,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0011,﻿church,﻿Nativity of the B.V.M.,English,,,,﻿Monroe County,,﻿Brockport,,﻿NY,,﻿43.213671,﻿-77.93918,,,,,﻿Rev.,﻿Edward McGowan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0231,﻿church,﻿Nativity of the Blessed Virgin Mary,English,,,,﻿Ontario County,,﻿Bushville,,﻿NY,,,,﻿roc.ny.0031,﻿Attended from Canandaigua,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0031,﻿church,﻿St. Mary's,English,,,,﻿Ontario County,,﻿Canandaigua,,﻿NY,,﻿42.883961,﻿-77.278385,,,,,﻿Rev.,﻿Edward O'Connor,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0114,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Castile,﻿Castile,﻿NY,,﻿42.628952,﻿-78.054451,﻿buf.ny.0118,﻿Attended from Portageville,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0059,﻿church,﻿St. Pacificus,English,,,,﻿Cattaraugus County,,﻿Chapelsburgh,﻿Humphrey,﻿NY,,﻿42.203954,﻿-78.533635,﻿buf.ny.0047,﻿Attended from Alleghany,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0019,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Chili,,﻿NY,,﻿43.11387,﻿-77.755043,﻿roc.ny.0017,﻿Attended from Scottsville,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0221,﻿church,﻿St. Mary's,English,,,,﻿Wyoming County,,﻿China,﻿Arcade,﻿NY,,﻿42.533951,﻿-78.423074,﻿buf.ny.0116,﻿Attended from Java,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0176,﻿church,[Unnamed Institution],English,,,,﻿Cattaraugus County,,﻿Chipmunk,,﻿NY,,,,﻿buf.ny.0047,﻿Attended from Alleghany,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0042,﻿church,﻿St. John's,English,,,,﻿Wayne County,,﻿Clyde,,﻿NY,,﻿43.087094,﻿-76.87045,﻿roc.ny.0043,﻿Attended from Lyons,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0052,﻿church,[Unnamed Institution],English,﻿no church,,,﻿Alleghany County,,﻿Cold Creek,﻿Centerville,﻿NY,,﻿42.479785,﻿-78.249735,﻿buf.ny.0118,﻿Attended from Portageville,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0034,﻿church,﻿St. Martin's,English,,,,﻿Erie County,,﻿Collins,﻿Langford,﻿NY,,﻿42.9775,﻿-77.992222,,,,,﻿Rev.,﻿Nich. Newman,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0102,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Corning,﻿Corning,﻿NY,,﻿42.217778,﻿-78.275278,,,,﻿tho_cunningham_001,﻿Rev.,﻿Th. Cunningham,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0053,﻿church,﻿St. Bridget's,English,,,,﻿Alleghany County,,﻿Cuba,﻿Cuba,﻿NY,,﻿42.215547,﻿-78.275313,﻿buf.ny.0047,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
