@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ,﻿mission,﻿Mission of Columbia City,English,,,,,,,,,﻿WA,,,,,,﻿aug_m_blanchet_001,﻿Rt. Rev.,﻿Augustin M. A. Blanchet,﻿D.D,,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
 ,﻿mission,﻿Mission of Columbia City,English,,,,,,,,,,,,,,,﻿j_b_brouillet_001,﻿Very Rev.,﻿John B. Brouillet,﻿V.G.,,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
-,﻿mission,﻿Mission of Columbia City,English,,,,,,,,,,,,,,,,﻿Rev.,﻿J.O. Bayard,,﻿Secretary,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
+,﻿mission,﻿Mission of Columbia City,English,,,,,,,,,,,,,,,﻿jo_bayard_001,﻿Rev.,﻿J.O. Bayard,,﻿Secretary,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0006,﻿church,﻿St. Francis Xavier's,﻿French,,"﻿on the Cowlitz River, French Settlement",,,,﻿Cowlitz River,,,,﻿46.303639,﻿-122.790635,,,,﻿wm_leclaire_001,﻿Rev.,﻿William Leclaire,,,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0006,﻿mission,﻿Immaculate Conception,﻿French,,"﻿on the Cowlitz River, French Settlement",,,,﻿Olympia,,,,﻿46.303639,﻿-122.790635,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
 ﻿nes.wa.0006,﻿mission,﻿St. Michael,﻿French,,"﻿on the Cowlitz River, French Settlement",,,,﻿Steilacom,,,,﻿46.303639,﻿-122.790635,,,,﻿ric_king_001,﻿Rev.,﻿Mich. King,,,,,,,,1856,﻿,﻿,﻿Nesqualy,Nesqualy
