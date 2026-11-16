@@ -34,7 +34,7 @@
 ﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Valeriano da Ormea,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Otto Skolla,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0047,﻿church,﻿St. Nicholas,English,,,,﻿Allegheny County,,﻿Allegheny,﻿Allegany,﻿NY,,﻿42.1539,﻿-77.7831,,,,,﻿Rev.,﻿Felece da Cannobio,﻿O.S.F.,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0048,﻿church,﻿St. John's,English,,,,﻿Steuben County,,﻿Andover,﻿Andover,﻿NY,,﻿42.156458,﻿-77.795551,﻿buf.ny.0122,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0048,﻿church,﻿St. John's,English,,,,﻿Steuben County,,﻿Andover,﻿Andover,﻿NY,,﻿42.156458,﻿-77.795551,﻿buf.ny.0047,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0049,﻿church,﻿St. James',English,,,,﻿Allegheny County,,﻿Angelica,﻿Angelica,﻿NY,,﻿42.306735,﻿-78.015839,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0115,﻿church,[Unnamed Institution],English,,,,﻿Wyoming County,,﻿Arcade,﻿Arcade,﻿NY,,﻿42.533951,﻿-78.423074,﻿buf.ny.0116,﻿Attended from Java,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0077,﻿church,﻿St. Vincent's,English,,,,﻿Genesee County,,﻿Attica,﻿Attica,﻿NY,,﻿42.864227,﻿-78.280295,,,,,﻿Rev.,﻿Joseph O'Donaghoe,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
@@ -64,3 +64,28 @@
 ﻿buf.ny.0034,﻿church,﻿St. Martin's,English,,,,﻿Erie County,,﻿Collins,﻿Langford,﻿NY,,﻿42.9775,﻿-77.992222,,,,,﻿Rev.,﻿Nich. Newman,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0102,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Corning,﻿Corning,﻿NY,,﻿42.217778,﻿-78.275278,,,,﻿tho_cunningham_001,﻿Rev.,﻿Th. Cunningham,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0053,﻿church,﻿St. Bridget's,English,,,,﻿Alleghany County,,﻿Cuba,﻿Cuba,﻿NY,,﻿42.215547,﻿-78.275313,﻿buf.ny.0047,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0027,﻿church,﻿St. Patrick's,English,,,,﻿Livingston County,,﻿Dansville,,﻿NY,,﻿42.5609,﻿-77.696106,,,,,﻿Rev.,﻿Michael Steiger,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0026,﻿church,﻿St. Michael's,﻿German,,,,﻿Livingston County,,﻿Dansville,,﻿NY,,﻿42.560321,﻿-77.692942,,,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0064,﻿church,﻿St. Mary's,English,,,,﻿Chatauque County,,﻿Dunkirk,﻿Dunkirk,﻿NY,,﻿42.479502,﻿-79.333932,,,,,﻿Rev.,﻿Patrick Colgan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0228,﻿church,﻿St. Mary's and St. Michael's,English,,,,﻿Erie County,,﻿Eden,,﻿NY,,,,,,,,﻿Rev.,﻿J. Nep. Arrant,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0073,﻿church,﻿St. Peter and St. Paul,English,,,,﻿Chemung County,,﻿Elmira,﻿Elmira,﻿NY,,﻿42.089797,﻿-76.807734,,,,,﻿Rev.,﻿T. O'Flaherty,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0061,﻿church,﻿St. Philip Neri's,English,,,,﻿Cattaraugus County,,﻿Ellicottsville,﻿Ellicottville,﻿NY,,﻿42.275064,﻿-78.672807,﻿buf.ny.0047,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0029,﻿church,﻿St. Joseph's,English,,,,﻿Erie County,,﻿Elysville,,﻿NY,,﻿42.01067,﻿-76.52878,,,,,﻿Rev.,﻿J. Zonistowski,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0038&.0025,﻿church,﻿St. Vincent de Paul's,English,,,,﻿Erie County,,﻿Evans,,﻿NY,,﻿42.697119,﻿-78.941368,﻿buf.ny.0077,﻿Attended from Attica,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0178,﻿church,[Unnamed Institution],English,,,,﻿Chemung County,,﻿Factoryville,,﻿NY,,,,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0013,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Fairport,,﻿NY,,﻿43.098674,﻿-77.441938,﻿roc.ny.0040,﻿Attended from Palmyra,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0179,﻿church,[Unnamed Institution],English,,,,﻿Chatauque Country,,﻿Fredonia,﻿Fredonia,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0180,﻿church,﻿St. Mary's,English,,,,﻿Alleghany County,,﻿Genesee,,﻿NY,,﻿42.214444,﻿-78.636389,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0029,﻿church,﻿St. Mary's,English,,,,﻿Livingston County,,﻿Geneseo,,﻿NY,,﻿42.795896,﻿-77.816947,﻿roc.ny.0024,﻿Attended from Lima,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0032,﻿church,﻿St. Francis de Sales',English,,,,﻿Ontario County,,﻿Geneva,,﻿NY,,﻿42.873696,﻿-76.979314,,,,,﻿Rev.,﻿N. Byrne,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0220,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Genoa Hollow,,﻿NY,,﻿42.666667,﻿-76.533333,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0014,﻿church,﻿St. Andrew's,English,,,,﻿Monroe County,,﻿Greece,,﻿NY,,﻿43.252634,﻿-77.658869,,,,,﻿Rev.,﻿J. M. Maurice,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0103,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,﻿42.13507,﻿-77.648324,,,,,﻿Rev.,﻿R. F. Tisto,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0045,﻿church,﻿SS. Peter and Paul's,English,,,,﻿Erie County,,﻿Hamburgh,,﻿NY,,﻿43.225556,﻿-78.027778,﻿buf.ny.0228,﻿Attended from Eden,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0104,﻿church,﻿St. Gabriel's,English,,,,﻿Yates County,,﻿Hammondsport,﻿Hammondsport,﻿NY,,﻿42.40785,﻿-77.223587,﻿roc.ny.0059,﻿Attended from Pennyan,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0097,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,﻿43.226449,﻿-78.026683,﻿roc.ny.0011,﻿Attended from Brockport,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0105,﻿church,﻿St. Anne's,English,,,,﻿Steuben County,,﻿Hornellsville,﻿Hornellsville,﻿NY,,﻿42.322744,﻿-77.65843,,,,,﻿Rev.,﻿Fer. Keenan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0182,﻿church,[Unnamed Institution],English,,,,﻿Orleans County,,﻿Hulberton,,﻿NY,,,,﻿buf.ny.0098,"﻿Attended from Medina, Middleport",,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0060,﻿church,﻿St. Luke's,English,,,,﻿Tompkins County,,﻿Ithaca,,﻿NY,,﻿42.440141,﻿-76.500322,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0067,﻿church,[Unnamed Institution],English,,,,﻿Chatauque County,,﻿Jamestown,﻿Jamestown,﻿NY,,﻿42.097002,﻿-79.235326,﻿buf.ny.0047,﻿Attended by the Franciscans,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0116,﻿church,﻿St. Patrick's,English,,,,﻿Wyoming County,,﻿Java,﻿Java,﻿NY,,﻿42.903821,﻿-78.675563,,,,,﻿Rev.,﻿Bernard McCool,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
