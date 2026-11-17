@@ -1,7 +1,7 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿p_n_lynch_001,﻿Rt. Rev.,﻿P. N. Lynch,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿t_j_sullivan_001,﻿Rev.,﻿T. J. Sullivan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿j_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿jam_a_corcoran_001,﻿Rev.,﻿J. A. Corcoran,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿l_fillion_001,﻿Rev.,﻿L. Fillion,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0001,﻿cathedral,﻿St. Finbar's Cathedral,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.776496,-79.934468,,,,﻿fel_j_carr_001,﻿Rev.,﻿Felix J. Carr,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0002,﻿church,﻿St. Mary's,English,,,,,,﻿Charleston,﻿Charleston,﻿SC,,32.7818,-79.932825,,,,﻿r_s_baker_001,﻿Rev.,﻿R. S. Baker,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
@@ -46,8 +46,8 @@
 ﻿ral.nc.0004,﻿church,﻿St. Paul's,English,,,,﻿Craven County,﻿Craven County,﻿Newbern,﻿New Bern,﻿NC,,35.084562,-77.068022,,,,﻿cha_j_croghan_001,﻿Rev.,﻿Charles J. Croghan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0065,﻿church,[Unnamed Institution],English,,,,,,﻿Plymouth,,﻿NC,,35.86652,-76.74897,﻿cha.sc.0069,﻿attended from Washington.,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0018,﻿church,﻿St. John the Baptist,English,,,,﻿Wake County,﻿Wake County,﻿Raleigh,﻿Raleigh,﻿NC,,35.590716,-78.600607,,,,﻿p_ryan_002,﻿Rev.,﻿P. Ryan,﻿D.D.,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0066,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_neall_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
-﻿cha.sc.0067,﻿church,﻿St. Mary's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_neall_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0066,﻿church,﻿St. Joseph's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
+﻿cha.sc.0067,﻿church,﻿St. Mary's,English,,,,﻿Gaston County,,,,﻿NC,,35.289909,-81.128892,,,,﻿aug_f_mcneal_001,﻿Rev.,﻿Aug. F. Neall,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0068,﻿church,[Unnamed Institution],English,,,,﻿Brunswick County,,﻿Smithville,﻿Smithfield,﻿NC,,35.506521,-78.355983,﻿ral.nc.0001,﻿attended from Wilmington,,,,,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿cha.sc.0069,﻿church,﻿St. John Evangelist,English,,,,﻿Beaufort County,,﻿Washington,,﻿NC,,35.546399,-77.0475,,,,﻿c_j_crogan_001,﻿Rev.,﻿C. J. Crogan,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston
 ﻿ral.nc.0001,﻿church,﻿St. Thomas,English,,,,﻿New-Hanover County,﻿New Hanover County,﻿Wilmington,﻿Wilmington,﻿NC,,34.318265,-77.774334,,,,﻿tho_murphy_001,﻿Rev.,﻿Thomas Murphy,,,,,,,,1860,﻿,﻿,﻿Charleston,Charleston

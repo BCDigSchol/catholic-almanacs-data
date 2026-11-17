@@ -94,3 +94,23 @@
 ﻿buf.ny.0084,﻿church,﻿St. Peter's,English,,,,﻿Niagara County,,﻿Lewistown,﻿Lewiston,﻿NY,,﻿43.172555,﻿-79.035878,,,,,﻿Rev.,﻿W. Hughes,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0080,﻿church,﻿St. Francis',English,,,,﻿Genesee County,,﻿Leroy,﻿Le Roy,﻿NY,,﻿42.978394,﻿-77.984178,﻿buf.ny.0078,﻿Attended from Batavia,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0024,﻿church,﻿St. Rose's,English,,,,﻿Livingston County,,﻿Lima,,﻿NY,,﻿42.904786,﻿-77.611387,,,,,﻿Rev.,﻿Michael McGuire,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0085,﻿church,﻿St. John Baptist,English,,,,﻿Niagara County,,﻿Lockport,﻿Lockport,﻿NY,,﻿43.173731,﻿-78.683745,,,,,﻿Very Rev.,﻿P. Bede,,﻿V.G.,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0195,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Lockville,,﻿NY,,﻿43.044483,﻿-77.080017,﻿roc.ny.0040,﻿Attended from Palmyra,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0043,﻿church,﻿St. Michael's,English,,,,﻿Wayne County,,﻿Lyons,,﻿NY,,﻿43.064231,﻿-76.990246,,,,,﻿Rev.,﻿Michael Purcell,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0041,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Macedon,,﻿NY,,﻿43.06923,﻿-77.298875,﻿roc.ny.0040,﻿Attended from Palmyra,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0061,﻿church,[Unnamed Institution],English,,,,﻿Tompkins County,,﻿McLane,,﻿NY,,﻿42.552016,﻿-76.291044,﻿buf.ny.0225,﻿Attended from Springport,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0098,﻿church,﻿St. Mary's,English,,,,﻿Orleans County,,﻿Medina,﻿Medina,﻿NY,,﻿43.239134,﻿-78.396382,,,,,﻿Rev.,﻿Matt. O'Connor,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0058,﻿church,[Unnamed Institution],English,,,,﻿Cayuga County,,﻿Montezuma,,﻿NY,,﻿42.918956,﻿-76.72634,﻿roc.ny.0048,﻿Attended from Auburn,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0028,﻿church,﻿St. Patrick's,English,,,,﻿Livingston County,,﻿Mount Morris,,﻿NY,,﻿42.725618,﻿-77.874169,,,,,﻿Rev.,﻿J. Ryan,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0018,﻿church,﻿St. Patrick's,English,,,,﻿Monroe County,,﻿Mumfordville,,﻿NY,,﻿42.976653,﻿-77.855771,﻿roc.ny.0017,﻿Attended from Scottsville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0044,﻿church,[Unnamed Institution],English,,,,﻿Wayne County,,﻿Newark,,﻿NY,,﻿43.04326,﻿-77.095967,﻿roc.ny.0043,﻿Attended from Lyons,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0037,﻿church,﻿St. John's,English,,,,﻿Erie County,,﻿Northbush,﻿Tonawanda,﻿NY,,﻿42.988685,﻿-78.872397,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0090,﻿church,﻿St. Mary's of the Cataract,English,,,,﻿Niagara County,,﻿Niagara Falls,﻿Niagara Falls,﻿NY,,﻿43.084917,﻿-79.05729,,,,,﻿Rev.,﻿Wm. Stephens,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0185,﻿church,﻿Holy Angels,English,,,,﻿Alleghany County,,﻿Nunda,,﻿NY,,,,﻿buf.ny.0118,﻿Attended from Portageville,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0186,﻿church,[Unnamed Institution],English,,,,﻿Genesee County,,﻿Oakfield,,﻿NY,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0054,﻿church,﻿St. Mary of the Angels,English,,,,﻿Cattaraugus County,,﻿Olean,﻿Olean,﻿NY,,﻿42.9975,﻿-78.434722,﻿buf.ny.0047,﻿Attended from Alleghany,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0047,﻿church,﻿Holy Cross,English,,,,﻿Seneca County,,﻿Ovid,,﻿NY,,﻿42.673829,﻿-76.823092,,,,,﻿Rev.,﻿Wm. Gleeson,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0111,﻿church,﻿St. Patrick's,English,,,,﻿Tioga County,,﻿Owego,﻿Owego,﻿NY,,﻿43.07823,﻿-78.740031,,,,,﻿Rev.,﻿James McManus,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0040,﻿church,﻿St. Ann's,English,,,,﻿Wayne County,,﻿Palmyra,,﻿NY,,﻿43.063952,﻿-77.233315,,,,,﻿Rev.,﻿Wm. Casey,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0082,﻿church,[Unnamed Institution],English,,,,﻿Genesee County,,﻿Pembroke,﻿Pembroke,﻿NY,,﻿42.997559,﻿-78.434744,﻿buf.ny.0077,﻿Attended from Attica,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0091,﻿church,﻿Good Shepherd,English,,,,﻿Niagara County,,﻿Pendleton,﻿Pendleton,﻿NY,,﻿43.078421,﻿-78.740205,,,,,﻿Rev.,﻿Tim. Heimbacher,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
