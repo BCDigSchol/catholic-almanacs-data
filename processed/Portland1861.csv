@@ -1,6 +1,6 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.661682,-70.254279,,,,﻿d_w_bacon_001,﻿Rt. Rev.,﻿D. W. Bacon,﻿D.D.,,,,,,,1861,﻿,﻿,﻿Portland,Portland
-﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.661682,-70.254279,,,,﻿eug_müller_001,﻿Very Rev.,﻿Eug. Muller,﻿V.G.,,,,,,,1861,﻿,﻿,﻿Portland,Portland
+﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.661682,-70.254279,,,,﻿eug_müller_001,﻿Very Rev.,﻿Eug. Muller,,﻿V.G.,,,,,,1861,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.661682,-70.254279,,,,﻿j_barrett_001,﻿Rev.,﻿J. Barrett,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0001,﻿cathedral,﻿Cathedral Chapel of the Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿ME,,43.661682,-70.254279,,,,﻿e_doyle_001,﻿Rev.,﻿E. Doyle,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
 ﻿por.me.0006,﻿church,﻿St. Mary's,English,,,,,,﻿Augusta,﻿Augusta,﻿ME,,44.309149,-69.780256,,,,﻿cha_egan_001,﻿Rev.,﻿Charles Egan,,,,,,,,1861,﻿,﻿,﻿Portland,Portland
