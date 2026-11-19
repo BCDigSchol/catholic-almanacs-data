@@ -46,7 +46,7 @@
 ﻿cin.oh.0016,﻿church,﻿Holy Angels',English,,,,,,﻿Cincinnati,,﻿OH,,39.118694,-84.491934,,,,﻿o_p_corcoran_001,﻿Rev.,﻿E. P. Corcoran,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0297,﻿church,﻿St. Francis of Sales',English,,,,,,﻿Cincinnati,,﻿OH,,39.127034,-84.475185,,,,﻿j_j_menge_001,﻿Rev.,﻿J. J. Menge,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0042,﻿church,﻿St. Peter's,English,,﻿Lickrun,,﻿Scioto County,,﻿Cincinnati,,﻿OH,,38.711681,-83.172347,﻿cin.oh.0007,"﻿Attended from St. John's, Cincinnati",,﻿lou_j_schreiber_001,﻿Rev.,﻿J. Schreiber,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard,,﻿OH,,39.165988,-84.500267,,,,﻿nic_wachter_002,﻿Rev.,﻿Nicholas Wachter,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0026,﻿church,﻿St. Clement's,English,,,﻿Cincinnati,,,﻿St. Bernard,,﻿OH,,39.165988,-84.500267,,,,﻿nic_wachter_001,﻿Rev.,﻿Nicholas Wachter,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0027,﻿church,﻿St. Aloysius',English,,,﻿Cincinnati,,,﻿Ludlow,﻿Cincinnati,﻿OH,,39.161291,-84.543496,,,,﻿jos_witler_001,﻿Rev.,﻿Joseph Witler,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0029,﻿church,﻿St. James',English,,,﻿Cincinnati,,,﻿Mt. Airy,,﻿OH,,39.205131,-84.601679,,,,﻿j_c_krämer_001,﻿Rev.,﻿J. C. Kraemer,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0030,﻿chapel,﻿St. John Baptist's,English,,,﻿Cincinnati,,,﻿Dry Ridge,,﻿OH,,39.261483,-84.618857,﻿cin.oh.0035,﻿Attended from Mt. Pleasant,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -63,7 +63,7 @@
 ﻿col.oh.0008,﻿church,﻿St. Michael's,English,,﻿Archer's Settlement,,﻿Monroe County,,,,﻿OH,,39.76785,-81.400674,﻿col.oh.0028,﻿Attended from Enoch,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,﻿Brown County,,﻿Arnheim,,﻿OH,,38.933402,-83.827426,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,39.329167,-82.096111,﻿col.oh.0081,﻿Attended from Wilkesville,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0301,﻿church,﻿St. Mary's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.012948,-80.744982,,﻿Attended by Rev. J. H. Jacquet,,﻿j_m_jacquet_002,﻿Rev.,﻿J. H. Jacquet,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0301,﻿church,﻿St. Mary's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.012948,-80.744982,,﻿Attended by Rev. J. H. Jacquet,,﻿j_m_jacquet_001,﻿Rev.,﻿J. H. Jacquet,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0055,﻿church,﻿St. Joseph's,English,,,,﻿Logan County,,﻿Bellefontaine,,﻿OH,,40.361164,-83.759656,,,,,﻿Rev.,﻿— Heime,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056,﻿church,﻿St. Michael's,English,,,,﻿Shelby County,,﻿Berlin,,﻿OH,,40.351437,-84.373839,,,,﻿mar_meyer_001,﻿Rev.,﻿A. M. Meyer,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0012,﻿church,﻿St. Martin's,English,,,,﻿Tuscarawas County,,﻿Bolivar,,﻿OH,,40.397897,-81.427898,﻿col.oh.0015,﻿Attended from Canal Dover,,,,,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -200,7 +200,7 @@
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_n_edelen_001,﻿Rev.,﻿J. N. Edelen,﻿O.S.D.,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheridan_002,﻿Rev.,﻿J. A. Sheridan,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066,﻿church,﻿St. Joseph's,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿d_h_noon_002,﻿Rev.,﻿D. H. Noon,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0335,﻿church,﻿St. Mary's,English,,,,﻿Noble County,,,,﻿OH,,,,,,,﻿i_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0335,﻿church,﻿St. Mary's,English,,,,﻿Noble County,,,,﻿OH,,,,,,,﻿j_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0335,﻿church,﻿St. Mary's,English,,,,﻿Noble County,,,,﻿OH,,,,,,,﻿f_x_dutton_001,﻿Rev.,﻿Francis X. Dutton,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0170,﻿church,﻿St. Martin's,English,,,,﻿Brown County,,,,﻿OH,,39.212409,-83.893162,,,,﻿c_gacon_001,﻿Rev.,﻿C. Gacon,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0170,﻿church,﻿St. Martin's,English,,,,﻿Brown County,,,,﻿OH,,39.212409,-83.893162,,,,﻿wm_cheymol_001,﻿Rev.,﻿W. Cheymol,,,,,,,,1864,﻿,﻿,﻿Cincinnati,Cincinnati

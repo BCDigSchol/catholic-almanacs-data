@@ -52,14 +52,14 @@
 ﻿cin.oh.0054,﻿church,﻿St. Mary's,English,,,,,,﻿Arnheim,,﻿OH,,38.933402,-83.827426,﻿cin.oh.0131,﻿Attended from New Richmond,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0300,﻿church,[Unnamed Institution],English,,,,﻿Athens County,,﻿Athens,,﻿OH,,39.329167,-82.096111,﻿col.oh.0059,﻿Attended from Pomeroy,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0319,﻿church,[Unnamed Institution],English,,,,﻿Clermont County,,﻿Batavia,,﻿OH,,,,﻿cin.oh.0128,﻿Attended from New Boston,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0301,﻿church,﻿St. Peter's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.012948,-80.744982,,﻿Attended by Rev. J. M. Jacquet,,﻿j_m_jacquet_002,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0301,﻿church,﻿St. Peter's,English,,,,﻿Belmont County,,﻿Belair,,﻿OH,,40.012948,-80.744982,,﻿Attended by Rev. J. M. Jacquet,,﻿j_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0055,﻿church,[Unnamed Institution],English,,,,﻿Logan County,,﻿Bellefontaine,,﻿OH,,40.361164,-83.759656,,,,﻿j_f_mcsweeney_001,﻿Rev.,﻿J. F. McSweeney,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056,﻿church,﻿St. Michael's,English,,,,﻿Mercer County,,﻿Berlin,,﻿OH,,40.351437,-84.373839,,,,﻿h_j_mückerheidé_001,﻿Rev.,﻿H. J. Mückerheidé,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0056,﻿church,﻿St. Michael's,English,,,,﻿Mercer County,,﻿Berlin,,﻿OH,,40.351437,-84.373839,,,,﻿p_reuther_001,﻿Rev.,﻿P. Reuther,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0320,﻿church,[Unnamed Institution],English,,,,﻿Fairfield County,,﻿Berne,,﻿OH,,,,﻿col.oh.0040,﻿Attended from Lancaster,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0012,﻿church,﻿St. Martin's,English,,,,﻿Tuscarawas County,,﻿Bolivar,,﻿OH,,40.397897,-81.427898,﻿col.oh.0015,﻿Attended from Canal Dover,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0013,﻿church,﻿Sacred Heart,English,,,,﻿Fairfield County,,﻿Bremen,,﻿OH,,39.701733,-82.426822,﻿col.oh.0040,﻿Attended from Lancaster,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0321,﻿church,﻿St. Peter's,English,,,,﻿Guernzey County,,﻿Cambridge,,﻿OH,,,,,,,﻿j_m_jacquet_002,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0321,﻿church,﻿St. Peter's,English,,,,﻿Guernzey County,,﻿Cambridge,,﻿OH,,,,,,,﻿j_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0015,﻿church,[Unnamed Institution],English,,,,﻿Tuscarawas County,,﻿Canal Dover,,﻿OH,,40.523695,-81.483313,﻿col.oh.0047,﻿Attended from Marges,,,,,,,﻿vacant,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0066,﻿church,[Unnamed Institution],English,,,,﻿Greene County,,﻿Cedearville,﻿Cedarville,﻿OH,,39.744227,-83.808537,﻿cin.oh.0185,﻿Attended from Xenia,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0018,﻿church,﻿Seven Dolors,English,,,,﻿Athens County,,﻿Chauncey,,﻿OH,,39.397849,-82.129312,﻿col.oh.0016,﻿Attended from Chapel Hill,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -168,7 +168,7 @@
 ﻿cin.oh.0333,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,,,,,,﻿j_a_kelly_002,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0333,﻿church,﻿St. Mary's,English,,,,﻿Perry County,,﻿Somerset,,﻿OH,,,,,,,﻿d_a_obrien_002,﻿Rev.,﻿D. A. O'Brien,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0334,﻿church,﻿St. Mary's,English,,,,﻿Mercer County,,﻿St. Mary's,,﻿OH,,,,﻿cin.oh.0121,﻿Attended from Minster,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿cin.oh.0335,﻿church,﻿St. Mary's,English,﻿Temperanceville P. O.,,,﻿Noble County,,﻿St. Mary's,,﻿OH,,,,,,,﻿i_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿cin.oh.0335,﻿church,﻿St. Mary's,English,﻿Temperanceville P. O.,,,﻿Noble County,,﻿St. Mary's,,﻿OH,,,,,,,﻿j_m_jacquet_001,﻿Rev.,﻿J. M. Jacquet,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0310,﻿church,﻿St. Xavier's,English,,,﻿8 miles from Chillicothe,,,,,,,39.229761,-82.984531,,﻿Attended from Chillicothe,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0065,﻿church,﻿St. James,English,,,,,,﻿Stockport,,﻿OH,,39.548406,-81.792912,﻿col.oh.0049,﻿Attended from Marietta,,,,,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0336,﻿church,﻿Sunday Creek,English,,,,,,,,﻿OH,,,,,,,,﻿Rev.,﻿— Phew,,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
@@ -204,7 +204,7 @@
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_kelly_002,﻿Very Rev.,﻿J. A. Kelly,﻿O.S.D.,﻿Provincial,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_v_edelen_002,﻿Rev.,﻿J. V. Edelen,﻿O.S.D.,﻿Prior,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿f_j_dunn_002,﻿Rev.,﻿F. J. Dunn,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
-﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_d_sheehy_002,﻿Rev.,﻿J. D. Sheehy,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
+﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_d_sheehy_001,﻿Rev.,﻿J. D. Sheehy,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_p_heamy_001,﻿Rev.,﻿J. P. Heamy,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿col.oh.0066_02,﻿convent,﻿St. Joseph's Dominican Convent,English,,,,﻿Perry County,,,,﻿OH,,39.764135,-82.25833,,,,﻿j_a_sheuerman_001,﻿Rev.,﻿J. A. Sheuerman,﻿O.S.D.,,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati
 ﻿cin.oh.0341,﻿college,﻿St. Joseph's College,English,,,,﻿Perry County,,,,﻿OH,,,,,,,﻿joh_a_rotchford_001,﻿Rev.,﻿John A. Rotchford,﻿O.S.D.,﻿President,,,,,,1861,﻿,﻿,﻿Cincinnati,Cincinnati

@@ -75,15 +75,15 @@
 ﻿buf.ny.0038,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Erie County,,﻿Evans,﻿North Evans,﻿NY,,42.697119,-78.941368,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0178,﻿church,[Unnamed Institution],English,,,,﻿Chemung County,,﻿Factoryville,,﻿NY,,,,﻿buf.ny.0111,﻿Attended from Owego,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0179,﻿church,[Unnamed Institution],English,,,,﻿Chautauque Country,,﻿Forrestville and Fredonia,﻿Fredonia,﻿NY,,,,﻿buf.ny.0064,﻿Attended from Dunkirk,,﻿chr_wagner_001,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0030,﻿church,﻿Church of the Fourteen Holy Helpers,English,,,,﻿Erie County,,﻿Gardenville,﻿Gardenville,﻿NY,,43.021522,-78.966035,,,,﻿c_wagner_001,﻿Rev.,﻿C. Wagner,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0030,﻿church,﻿Church of the Fourteen Holy Helpers,English,,,,﻿Erie County,,﻿Gardenville,﻿Gardenville,﻿NY,,43.021522,-78.966035,,,,﻿chr_wagner_001,﻿Rev.,﻿C. Wagner,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0180,﻿church,[Unnamed Institution],English,,,,﻿Allegany County,,﻿Genesee,,﻿NY,,42.214444,-78.636389,﻿buf.ny.0105,﻿Attended from Hornellsville,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0031,﻿church,﻿St. Arbogaste's,English,,,,﻿Erie County,,﻿Grand Island,﻿Grand Island,﻿NY,,43.021628,-78.96573,﻿buf.ny.0043,﻿Attended from Tonawanda,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0181,﻿church,[Unnamed Institution],English,,,,,﻿Cattaraugus County,﻿Great Valley,﻿Great Valley,﻿NY,,42.715868,-78.826277,﻿buf.ny.0063,﻿Attended from Salamanca,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0103,﻿church,﻿St. Mary's,English,,,,﻿Steuben County,,﻿Greenwood,﻿Greenwood,﻿NY,,42.13507,-77.648324,,,,﻿jam_h_leddy_001,﻿Rev.,﻿James H. Leddy,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0045,﻿church,﻿SS. Peter and Paul,English,﻿brick church,,,﻿Erie County,,﻿White's Corners or Hamburgh,﻿Hamburg,﻿NY,,43.225556,-78.027778,,,,﻿fra_s_urich_001,﻿Rev.,﻿Francis S. Urich,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0104,﻿church,﻿St. Gabriel's,English,﻿frame church,,,﻿Yates County,,﻿Hammondsport,﻿Hammondsport,﻿NY,,42.40785,-77.223587,﻿buf.ny.0101,﻿Attended from Bath,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0097,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,43.226449,-78.026683,﻿buf.ny.0096,﻿Attended from Albion,,﻿mic_creedon_001,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
-﻿buf.ny.0105,﻿church,﻿St. Ann's,English,﻿brick church,,,﻿Steuben County,,﻿Hornellsville,﻿Hornellsville,﻿NY,,42.322744,-77.65843,,,,﻿m_creedon_001,﻿Rev.,﻿M. Creedon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0097,﻿church,[Unnamed Institution],English,,,,﻿Monroe County,,﻿Holly,﻿Holley,﻿NY,,43.226449,-78.026683,﻿buf.ny.0096,﻿Attended from Albion,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0105,﻿church,﻿St. Ann's,English,﻿brick church,,,﻿Steuben County,,﻿Hornellsville,﻿Hornellsville,﻿NY,,42.322744,-77.65843,,,,﻿mic_creedon_001,﻿Rev.,﻿M. Creedon,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0076,﻿church,[Unnamed Institution],English,,,,﻿Steuben County,,﻿Horseheads,﻿Horseheads,﻿NY,,42.167019,-76.820512,,﻿Attended from Elmira,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0032,﻿church,﻿St. Stanislaus Kotzka,English,,,,﻿Erie County,,﻿Hubock,,﻿NY,,42.887617,-78.839858,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0182,﻿church,[Unnamed Institution],English,,,,﻿Orleans County,,﻿Hulburton,,﻿NY,,,,﻿buf.ny.0098,﻿Attended from Medina,,,,,,,,,,,,1869,﻿,﻿,﻿Buffalo,Buffalo
