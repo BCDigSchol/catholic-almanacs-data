@@ -3,29 +3,28 @@
 ﻿ore.or.0005,﻿religious institution,[Unnamed Institution],English,,,,,,﻿Molala,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0005,﻿religious institution,[Unnamed Institution],English,,,,,,﻿Twalalin,﻿Molalla,﻿OR,,45.147544,-122.577126,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0007,﻿religious institution,[Unnamed Institution],English,,,,,,﻿Hillborough,,,,45.520134,-122.989849,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0007,﻿church,[Unnamed Institution],English,,,,,,﻿Linn City,,,,45.520134,-122.989849,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0092,﻿church,[Unnamed Institution],English,,,,,,﻿Linn City,,,,,,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0001,﻿church,﻿Immaculate Conception,English,,,,,,﻿Portland,﻿Portland,﻿OR,,45.523698,-122.689059,,,,﻿pat_mackin_001,﻿Rev.,﻿Patrick Mackin,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Astoria,,,,46.187884,-123.831253,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainer,,,,46.187884,-123.831253,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿St. Helen's,,,,46.187884,-123.831253,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0004,﻿church,[Unnamed Institution],English,,,,,,﻿Columbia Bottom,,,,46.187884,-123.831253,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0010,﻿church,[Unnamed Institution],English,,,,,,﻿Mount Rainer,,,,46.089135,-122.935978,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0011,﻿church,[Unnamed Institution],English,,,,,,﻿St. Helen's,,,,45.858964,-122.82123,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0012,﻿church,[Unnamed Institution],English,,,,,,﻿Columbia Bottom,,,,45.56986,-122.48664,﻿ore.or.0001,﻿attended from Portland,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0051,﻿church,﻿St. Peter's,English,,,,﻿Wano County,,﻿Dallas City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,,,,﻿t_mesplié_001,﻿Rev.,﻿T. Mesplié,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0051,﻿religious institution,﻿Symcoe,English,"﻿Military post, W.T.",,,﻿Wano County,,﻿Dallas City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0051,﻿religious institution,﻿Symcoe,English,"﻿Military post, W.T.",,,﻿Wano County,,﻿Walla Walla,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0051,﻿religious institution,﻿Symcoe,English,"﻿Military post, W.T.",,﻿Canada,﻿Wano County,,﻿Walla Walla,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0105,﻿religious institution,﻿Symcoe,English,"﻿Military post, W.T.",,,,,,,,,,,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿nes.wa.0021,﻿religious institution,[Unnamed Institution],English,,,,,,﻿Walla Walla,,,,46.063383,-118.344025,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿nes.wa.0021,﻿religious institution,[Unnamed Institution],English,,,﻿Canada,,,﻿Walla Walla,,,,46.063383,-118.344025,﻿ore.or.0051,﻿attended from Dallas,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0015,﻿church,﻿St. Paul's,English,,,﻿French Prairie,,,﻿St. Paul,﻿St. Paul,﻿OR,,45.262342,-122.840374,,,,﻿m_oreilly_004,﻿Rev.,﻿M. O'Reilly,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,﻿St. Paul's,English,,,﻿French Prairie,,,﻿Dayton,﻿Dayton,﻿OR,,45.262342,-122.840374,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0015,﻿church,﻿St. Paul's,English,,,﻿French Prairie,﻿Yam Hil County,,﻿Dayton,﻿Dayton,﻿OR,,45.262342,-122.840374,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0022,﻿church,[Unnamed Institution],English,,,,﻿Yam Hil County,,﻿Dayton,﻿Dayton,﻿OR,,45.220824,-123.075579,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0019,﻿church,﻿St. Patrick,English,"﻿consecreated on the 5th of December, 1858",﻿Fort Yam Hill,,﻿Yam Hil County,,,,﻿OR,,45.177198,-123.23953,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0019,﻿religious institution,﻿St. Patrick,English,﻿On the Indian Reserve,﻿Military Post of Grand Rend,,﻿Yam Hil Co.,,,,﻿OR,,45.177198,-123.23953,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0018,﻿religious institution,[Unnamed Institution],English,﻿On the Indian Reserve,﻿Military Post of Grand Rend,,﻿Yam Hil Co.,,,,﻿OR,,45.060113,-123.609277,﻿ore.or.0015,﻿attended from St. Paul,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,,,﻿French Prairie,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿bar_delorme_001,﻿Very Rev.,﻿B. Delorme,,﻿V.G.,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0013,﻿church,[Unnamed Institution],English,,,﻿French Prairie,,,﻿St. Louis,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,﻿la_lebas_001,﻿Rev.,﻿L.A. Lebas,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿religious institution,[Unnamed Institution],English,,,﻿French Prairie,﻿Marion County,,﻿Parkersville,﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0013,﻿attended from St. Louis,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿religious institution,[Unnamed Institution],English,,,﻿French Prairie,﻿Marion County,,﻿Salem,﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0013,﻿attended from St. Louis,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,"﻿church, station",﻿St. Joseph's,English,﻿consecrated in October 1858,,﻿French Prairie,﻿Marion County,,﻿Jacksonville,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿station,﻿St. Joseph's,English,﻿on the South,,﻿French Prairie,﻿Marion County,,﻿Scottsburg,﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿station,﻿St. Joseph's,English,﻿on the South,,﻿French Prairie,﻿Marion County,,﻿Winchester,﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿station,﻿St. Joseph's,English,﻿on the South,,﻿French Prairie,﻿Marion County,,﻿Eugene City,﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿station,﻿St. Joseph's,English,﻿on the South,,﻿,﻿Marion County,,"﻿Cor Vallis, or Marysville",﻿St. Louis,﻿OR,,45.123267,-122.942632,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿female academy,﻿Academy for Young Ladies,English,﻿to be opened next year,,﻿,﻿Marion County,,﻿Portland,﻿St. Louis,﻿OR,,45.123267,-122.942632,,,,,,,,,,﻿religious,,﻿under the direction of the Sisters,,1859,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0013,﻿female academy,﻿Female Academy,English,"﻿shortly to be opened by the Very Rev. B Delorme, V.G.",,﻿,﻿Marion County,,﻿Portland,﻿Oregon City,﻿OR,,45.123267,-122.942632,,,,,,,,,,﻿religious,,﻿under the direction of the Sisters,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0093,﻿religious institution,[Unnamed Institution],English,,,,﻿Marion County,,﻿Parkersville,,,,,,﻿ore.or.0013,﻿attended from St. Louis,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0094,﻿religious institution,[Unnamed Institution],English,,,,﻿Marion County,,﻿Salem,,,,,,﻿ore.or.0013,﻿attended from St. Louis,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0095,"﻿church, station",﻿St. Joseph's,English,﻿consecrated in October 1858,,,,,﻿Jacksonville,,,,,,,,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0096,﻿station,[Unnamed Institution],English,﻿on the South,,,,,﻿Scottsburg,,,,,,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0097,﻿station,[Unnamed Institution],English,﻿on the South,,,,,﻿Winchester,,,,,,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0098,﻿station,[Unnamed Institution],English,﻿on the South,,,,,﻿Eugene City,,,,,,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0099,﻿station,[Unnamed Institution],English,,,﻿,,,"﻿Cor Vallis, or Marysville",,,,,,﻿ore.or.0002,﻿attended from Oregon City,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0072,﻿female academy,﻿Academy for Young Ladies,English,﻿to be opened next year,,,,,﻿Portland,,,,45.512531,-122.681274,,,,,,,,,,﻿religious,,﻿under the direction of the Sisters,,1859,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0090,﻿female academy,﻿Female Academy,English,"﻿shortly to be opened by the Very Rev. B Delorme, V.G.",,,,,,﻿Oregon City,,,,,,,,,,,,,,,,,,1859,﻿,﻿,﻿Oregon City,OregonCity
