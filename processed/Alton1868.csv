@@ -162,8 +162,8 @@
 ﻿alt.il.0179,﻿station,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Mitchell,﻿Mitchell,﻿IL,,38.764276,-90.080517,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0180,﻿station,[Unnamed Institution],English,,,,﻿Madison County,﻿Madison County,﻿Venice,﻿Venice,﻿IL,,38.672273,-90.169832,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0211,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Coloma,﻿Coloma,﻿IL,,38.332376,-89.380125,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,38.612222,-89.122222,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0331,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Tonti,﻿Tonti,﻿IL,,38.664722,-88.978333,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0306,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Sandoval,﻿Sandoval,﻿IL,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0331,﻿station,[Unnamed Institution],English,,,,﻿Marion County,﻿Marion County,﻿Tonti,﻿Tonti,﻿IL,,,,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0186,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Meredosia,﻿Meredosia,﻿IL,,39.831158,-90.559571,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0332,﻿station,[Unnamed Institution],English,,,,﻿Morgan County,﻿Morgan County,﻿Morgan City,﻿Morgan City,﻿IL,,39.763935,-90.42929112,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0333,﻿station,[Unnamed Institution],English,,,,﻿Perry County,﻿Perry County,﻿Duquoin,﻿Du Quoin,﻿IL,,38.004722,-89.236667,,,,,,,,,,,,,,1868,﻿,﻿,﻿Alton,Alton
@@ -249,7 +249,7 @@
 ﻿alt.il.0278,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher,,,,﻿Randolph County,﻿Red Bud,﻿Red Bud,﻿IL,,38.211717,-89.994274,,,,,,,,,,﻿student,﻿60 pupils,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0279,﻿parochial school,﻿St. Anthony's,English,﻿Conducted by secular teacher,,,,,,,﻿IL,,,,,,,,,,,,,﻿student,﻿30 pupils,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0280,﻿parochial school,﻿St. John's,English,﻿Conducted by secular teacher,,,,,,,﻿IL,,,,,,,,,,,,,﻿student,﻿25 pupils,,,1868,﻿,﻿,﻿Alton,Alton
-﻿alt.il.0282,﻿parochial school,﻿St. Joseph's,English,﻿Conducted by secular teacher,,,,﻿Calhoun County,,,﻿IL,,38.99721,-90.605726,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿Alton,Alton
+﻿alt.il.0282,﻿parochial school,﻿St. Joseph's,English,﻿Conducted by secular teacher,,,,﻿Calhoun County,,,﻿IL,,,,,,,,,,,,,﻿student,﻿40 pupils,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0283,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher,,,,﻿Jasper County,﻿St. Marie,﻿Sainte Marie,﻿IL,,38.932421,-88.023547,,,,,,,,,,﻿student,﻿100 pupils,,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0284,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher and Sisters of Notre Dame,,,,﻿St. Clair County,﻿St. Liborius,﻿St. Libory,﻿IL,,38.36131017,-89.71086731,,,,,,,,,,﻿student,﻿175 pupils,﻿Sisters of Notre Dame,,1868,﻿,﻿,﻿Alton,Alton
 ﻿alt.il.0285,﻿parochial school,[Unnamed Institution],English,﻿Conducted by secular teacher and Sisters of Notre Dame,,,,﻿Clinton County,﻿Shoal Creek Station,﻿Breese,﻿IL,,38.966013,-89.568627,,,,,,,,,,﻿student,﻿160 pupils,﻿Sisters of Notre Dame,,1868,﻿,﻿,﻿Alton,Alton

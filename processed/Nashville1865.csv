@@ -7,7 +7,7 @@
 ﻿nash.tn.0002,﻿church,﻿St. John's,English,,﻿Edgefield,,,,﻿Edgefield,﻿Nashville,﻿TN,,36.1784432,-86.6791636,,,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0007,﻿church,﻿St. Mary's,English,"﻿(P.O., Paradise, Humphreys Co.)",,,﻿Montgomery County,,﻿Clarksville,﻿Clarksville,﻿TN,,36.5297706,-87.3594528,,,,﻿a_orengo_001,﻿Rev.,﻿A. Orengo,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0012,﻿station,[Unnamed Institution],English,,,,﻿Sumner County,,﻿Gallatin,﻿Gallatin,﻿TN,,36.298773,-86.684616,,,,﻿l_hoste_001,﻿Rev.,﻿L. Hoste,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
-﻿nash.tn.0064,﻿station,[Unnamed Institution],English,"﻿(P.O., Gallatin)",,,﻿Sumner County,,﻿Gallatin Tunnel,﻿Gallatin,﻿TN,,36.388381,-86.44666,,,,﻿l_hoste_001,﻿Rev.,﻿L. Hoste,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
+﻿nash.tn.0064,﻿station,[Unnamed Institution],English,"﻿(P.O., Gallatin)",,,﻿Sumner County,,﻿Gallatin Tunnel,﻿Gallatin,﻿TN,,,,,,,﻿l_hoste_001,﻿Rev.,﻿L. Hoste,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0009,﻿station,﻿St. Michael's,English,﻿and several regular stations,,,﻿Robertson County,,﻿Springfield,,﻿TN,,36.549489,-87.000555,,,,﻿l_hoste_001,﻿Rev.,﻿L. Hoste,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0018,﻿church,[Unnamed Institution],English,,,,﻿Humphreys County,﻿Humphreys County,,﻿McEwen,﻿TN,,36.1078375,-87.6330745,,,,﻿a_orengo_001,﻿Rev.,﻿A. Orengo,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0024,﻿church,[Unnamed Institution],English,,,,﻿Giles County,,﻿Pulaski,﻿Pulaski,﻿TN,,35.1998023,-87.0308412,,﻿Attended from Nashville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
@@ -22,7 +22,7 @@
 ﻿nash.tn.0030,﻿station,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Greene County,﻿Greene County,﻿Greenville,﻿Greenville,﻿TN,,36.1631574,-82.8309861,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0031,﻿station,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Washington County,,﻿Jonesborough,﻿Jonesborough,﻿TN,,36.2942722,-82.4734787,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0076,﻿church,[Unnamed Institution],English,,﻿Bull's Gap,﻿East-Tennessee,﻿Greene County,﻿Hawkins County,﻿Bull's Gap,,﻿TN,,36.259094,-83.079507,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
-﻿nash.tn.0063,﻿station,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Jefferson County,,﻿Strawberry Plains,﻿Strawberry Plains,﻿TN,,36.063056,-83.686111,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
+﻿nash.tn.0063,﻿station,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Jefferson County,,﻿Strawberry Plains,﻿Strawberry Plains,﻿TN,,,,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0077,﻿church,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Roane County,﻿Knox County,﻿Concord,,﻿TN,,35.868611,-84.141944,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0078,﻿church,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Blount County,,﻿Louisville,,﻿TN,,35.824722,-84.055278,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0079,﻿church,[Unnamed Institution],English,,,﻿East-Tennessee,﻿Anderson County,,﻿Clinton,,﻿TN,,36.104772,-84.128487,﻿nash.tn.0026,﻿Attended from Knoxville,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
@@ -34,7 +34,7 @@
 ﻿nash.tn.0017,﻿church,[Unnamed Institution],English,﻿and several Stations,,﻿Western Tennessee,﻿Fayette County,﻿Hardeman County,﻿Grand Junction,﻿Grand Junction,﻿TN,,35.048023,-89.190177,,﻿Attended by the Rev. Fathers of Memphis,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0039,﻿academy,﻿St. Cecilia's Female Academy,English,,"﻿Mount Vernon, near Nashville",,,,﻿Mount Vernon,﻿Nashville,﻿TN,,36.1318756,-86.8412955,,,,﻿columba_dittoe_nash.tn_001,﻿Sr.,﻿Columba Dittoe,,﻿Superior,,,,﻿under the charge of Sisters of the Order of St. Dominic,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0040,﻿school,﻿St. Athanasius' School for Boys,English,,﻿71 Cedar Street,,,,,﻿Nashville,﻿TN,,36.152539,-86.832609,,,,,,,,,,,,﻿under the direction of two Brothers,,1865,﻿,﻿,﻿Nashville,Nashville
-﻿nash.tn.0001_02,﻿school,﻿St. Agatha's School for Girls,English,﻿attached to the Cathedral,,,,,,﻿Nashville,﻿TN,,36.15966,-86.783051,,,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
+﻿nash.tn.0001_02,﻿school,﻿St. Agatha's School for Girls,English,﻿attached to the Cathedral,,,,,,﻿Nashville,﻿TN,,36.165751,-86.78171,,,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0003_02,﻿school,﻿Day School for Boys and Girls,English,﻿attached to German Church Nashville,,,,,﻿Nashville,﻿Nashville,﻿TN,,36.175432,-86.791504,,,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0073,﻿hospital,﻿Hospital of the State of Tennessee,English,,,,,,,,,,36.105975,-86.673893,,,,﻿alice_nash.tn_001,﻿Sister,﻿Alice,,﻿Sister-servant,,,,﻿under the charge of the Sisters of Charity,,1865,﻿,﻿,﻿Nashville,Nashville
 ﻿nash.tn.0032_02,﻿school,﻿Day School for Boys and Girls,English,﻿(discontinued.),,,,,﻿Chattanooga,﻿Chattanooga,﻿TN,,35.045798,-85.309399,,,,,,,,,,,,,,1865,﻿,﻿,﻿Nashville,Nashville

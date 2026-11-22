@@ -14,13 +14,13 @@
 ﻿cov.ky.0015,﻿church,﻿St. John the Evangelist,English,"﻿brick church, with residence and school-houses for boys and girls",,,﻿Carroll County,,﻿Carrollton,﻿Carrollton,﻿KY,,38.676344,-85.17919,,,,﻿edw_froelich_001,﻿Rev.,﻿Edward Frohlich,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0017,﻿church,[Unnamed Institution],English,﻿new church,,,﻿Harrison County,,﻿Cynthiana,﻿Cynthania,﻿KY,,38.390353,-84.294101,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0100,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Davis,,,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0101,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Elizaville,,,,38.416667,-83.824167,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0101,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Elizaville,,,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0019,﻿church,[Unnamed Institution],English,﻿brick church,,,﻿Fleming County,,﻿Flemingsburgh,﻿Flemingsburg,﻿KY,,38.4223,-83.733808,,,,﻿joh_mackey_001,﻿Rev.,﻿John Mackey,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0020,﻿church,[Unnamed Institution],English,﻿frame church,,,﻿Boone County,,﻿Florence,﻿Florence,﻿KY,,38.99895,-84.626611,﻿cov.ky.0006,"﻿attended from West-Covington, Rev. A. Egglemeers",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0021,﻿church,[Unnamed Institution],English,,,,,,﻿Foster's Landing,﻿Foster's Landing,﻿KY,,37.839333,-84.270018,,"﻿attended from Twelve Mile, Rev. John Stephany",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0021,﻿church,[Unnamed Institution],English,,,,,,﻿Foster's Landing,﻿Foster's Landing,﻿KY,,,,,"﻿attended from Twelve Mile, Rev. John Stephany",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0022,﻿church,﻿Church of St. Joseph,English,"﻿new brick building, service three Sundays of the month",,,﻿Campbell County,,﻿Four Mile,﻿Four Mile,﻿KY,,38.895189,-84.396253,,,,﻿h_schulte_001,﻿Rev.,﻿Herman Shulte,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0102,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Germantown,,﻿KY,,38.655833,-83.964167,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0102,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Hilsborough,,﻿KY,,38.655833,-83.964167,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0102,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Germantown,,﻿KY,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0102,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Hilsborough,,﻿KY,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0026,﻿church,[Unnamed Institution],English,,,,﻿Kent County,,﻿Independence,﻿Independence,﻿KY,,38.943118,-84.544109,﻿cov.ky.0006,﻿attended from West-Covington,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0028,﻿church,[Unnamed Institution],English,,,,﻿Fayette County,,﻿Lexington,﻿Lexington,﻿KY,,38.046919,-84.494528,,,,﻿i_h_bekkars_001,﻿Rev.,﻿J. H. Bekkers,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0028,﻿church,[Unnamed Institution],English,,,,﻿Fayette County,,﻿Lexington,﻿Lexington,﻿KY,,38.046919,-84.494528,,,,﻿l_d_willie_001,﻿Rev.,﻿Lambert Willie,,﻿assistant,,,,,,1865,﻿,﻿,﻿Covington,Covington
@@ -33,12 +33,12 @@
 ﻿cov.ky.0046,﻿church,[Unnamed Institution],English,,,,﻿Madison County,,﻿Richmond,﻿Richmond,﻿KY,,37.747857,-84.294654,,,,﻿l_d_willie_001,﻿Rev.,﻿L. D. Willie,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0045,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Poplar Plains,﻿Poplar Plains,﻿KY,,38.360911,-83.674361,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0047,﻿church,[Unnamed Institution],English,,,,﻿Madison County,,﻿Rogersville,,﻿KY,,37.684697,-84.258421,,,,﻿l_d_willie_001,﻿Rev.,﻿L. D. Willie,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0104,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Sardis,,﻿KY,,38.534722,-83.957222,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0104,﻿church,[Unnamed Institution],English,,,,﻿Mason County,,﻿Sardis,,﻿KY,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0049,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Sherbourne,﻿Sherburne,﻿KY,,38.281744,-83.802698,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0050,﻿church,[Unnamed Institution],English,,,,﻿Pendleton County,,﻿Stepstone,﻿Stepstone,﻿KY,,38.690089,-84.359802,,﻿attended from Twelve Mile,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0051,﻿church,[Unnamed Institution],English,,,,﻿Estill County,﻿Estill County,﻿Station Camp,﻿Station Camp,﻿KY,,37.839333,-84.270018,﻿cov.ky.0028,"﻿attended from Lexington, Rev. L. D. Willie",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0051,﻿church,[Unnamed Institution],English,,,,﻿Estill County,﻿Estill County,﻿Station Camp,﻿Station Camp,﻿KY,,,,﻿cov.ky.0028,"﻿attended from Lexington, Rev. L. D. Willie",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0052,﻿church,﻿Church of SS. Peter and Paul,English,,,,﻿Campbell County,,﻿Twelve Mile,,﻿KY,,38.895189,-84.396253,,,,﻿joh_stephany_001,﻿Rev.,﻿John Stephany,,﻿Pastor,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0105,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Tilton,,﻿KY,,38.346389,-83.759722,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0105,﻿church,[Unnamed Institution],English,,,,﻿Fleming County,,﻿Tilton,,﻿KY,,,,﻿cov.ky.0019,﻿attended from Flemingsburgh,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0053,﻿church,[Unnamed Institution],English,,,,﻿Boone County,,﻿Verona,﻿Verona,﻿KY,,38.818093,-84.660609,﻿cov.ky.0006,"﻿attended from West-Covington, Rev. A. Egglemeers",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0054,﻿church,[Unnamed Institution],English,,,,﻿Woodford County,,﻿Versailles,﻿Versailles,﻿KY,,38.052576,-84.729946,﻿cov.ky.0028,"﻿attended from Lexington, Rev. L. D. Willie",,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0056,﻿church,﻿St. Pius' Church,English,﻿vacant,,,﻿Scott County,,﻿White Sulphur,﻿White Sulphur,﻿KY,,38.205073,-84.702169,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
@@ -65,7 +65,7 @@
 ﻿cov.ky.0004_04&0004_05,﻿school,﻿Day School,English,﻿for boys and girls,"﻿St. Joseph's Church, Twelfth street",,,,﻿Covington,﻿Covington,﻿KY,,39.076098,-84.51841,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0037_02&0037_03,﻿school,﻿Day School,English,﻿for boys and girls,﻿Corpus Christi Church,,,,﻿Newport,﻿Newport,﻿KY,,39.091449,-84.495776,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0036_03,﻿school,﻿Day School,English,﻿for boys and girls,﻿Immaculate Conception,,,,﻿Newport,﻿Newport,﻿KY,,39.091449,-84.495776,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
-﻿cov.ky.0027_02,﻿school,﻿Day School,English,﻿for boys and girls,﻿St. Francis of Assisium's,,,﻿Russell County,﻿Jamestown,﻿Jamestown,﻿KY,,37.839333,-84.270018,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
+﻿cov.ky.0027_02,﻿school,﻿Day School,English,﻿for boys and girls,﻿St. Francis of Assisium's,,,﻿Russell County,﻿Jamestown,﻿Jamestown,﻿KY,,,,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0034_02,﻿school,﻿Day School,English,﻿for boys and girls,﻿St. John the Baptist's,,,,﻿St. John's Hill,﻿Wilder,﻿KY,,38.895189,-84.396253,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0004_06,﻿school,﻿Classical School,English,﻿for boys,﻿attached to St. Joseph's Church,,,,﻿Covington,﻿Covington,﻿KY,,39.076098,-84.51841,,,,,,,,,,,,﻿Conducted by the Benedictine Fathers,,1865,﻿,﻿,﻿Covington,Covington
 ﻿cov.ky.0030_02,﻿school,﻿Day School,English,﻿for boys and girls,﻿St. Patrick's,,,,﻿Maysville,﻿Maysville,﻿KY,,38.645115,-83.763428,,,,,,,,,,,,,,1865,﻿,﻿,﻿Covington,Covington
