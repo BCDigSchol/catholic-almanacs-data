@@ -160,3 +160,15 @@
 ﻿buf.ny.0072,﻿church,[Unnamed Institution],English,,,,﻿Chatauque County,﻿Chautauque County,﻿Westfield,﻿Westfield,﻿NY,,﻿42.32228,﻿-79.578103,﻿buf.ny.0064,﻿Attended from Dunkirk,,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿roc.ny.0056,﻿church,﻿St. James',English,,,,﻿Cayuga County,,﻿Westport,,﻿NY,,﻿43.044822,﻿-76.564334,﻿roc.ny.0048,﻿Attended from Auburn,﻿occasionally,,,,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
 ﻿buf.ny.0046,﻿church,﻿SS. Peter and Paul,English,,,,﻿Erie County,,﻿Williamsville,﻿Williamsville,﻿NY,,﻿42.963167,﻿-78.748932,,,,,﻿Rev.,﻿Bart. Gruber,,,,,,,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0171,﻿seminary,﻿Eccles. Seminary,English,,﻿at the Episcopal residence,,,,,,﻿NY,,,,,,,,,,,,,﻿student,"﻿4 students, taught by the clergy of the Cathedral",,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0171,﻿seminary,﻿Preparatory Seminary of Mary Queen of Angels,English,,﻿at the Episcopal residence,,﻿Erie County,,﻿Buffalo,,﻿NY,,﻿43.138821,﻿-79.039408,,,,,﻿Rev.,﻿John Lynch,﻿C.M.,﻿Superior,,﻿student,﻿40 pupils,﻿Lazarists,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0122,"﻿college, convent",﻿Franciscan Convent,English,,,,﻿Cattaraugus County,,﻿Alleghany,,﻿NY,,﻿42.08763,﻿-78.489337,,,,,﻿Rev.,﻿Pamfilo de Magliano,﻿O.S.F.,﻿Provincial,,,,﻿Franciscans,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0008_04,﻿convent,﻿Redemptorist Convent of St. Mary's,English,,,,,,﻿Buffalo,,﻿NY,,﻿42.887483,﻿-78.864468,,,,,﻿Rev.,﻿M. Smoulders,﻿C.SS.R.,﻿Superior,,,,﻿Redemptorists,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0063,﻿convent,﻿Convent of St. Joseph's,English,,,,,,﻿Rochester,,﻿NY,,﻿43.159328,﻿-77.606426,,,,,﻿Rev.,﻿John D. Dyker,﻿C.SS.R.,﻿Superior,,,,﻿Redemptorists,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿roc.ny.0066,"﻿academy, convent",﻿Convent and Academy of the Sacred Heart,English,,,,,,﻿Rochester,,﻿NY,,﻿43.155664,﻿-77.590422,,,,,,,,,,,,﻿Ladies S. Heart,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0223,"﻿academy, convent",﻿St. Mary's Convent and Academy,English,,,,,,﻿Canandaigua,,﻿NY,,,,,,,,,,,,,,,﻿Sisters of St. Joseph,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0223,﻿free school,﻿St. Mary's of the Lake Free School,English,,,,,,﻿Buffalo,,﻿NY,,,,,,,,,,,,,,,﻿Sisters of St. Joseph,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0158,"﻿academy, free school",﻿Academy and Free School,English,,,,,,﻿Perkinsville,,﻿NY,,﻿42.53979,﻿-77.628326,,,,,,,,,,,,﻿Grey Sisters,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0005_03,﻿free school,[Unnamed Institution],English,,﻿Church of the Holy Angels,,,,﻿Buffalo,,﻿NY,,﻿42.903442,﻿-78.889303,,,,,,,,,,,,﻿conducted by the Grey Sisters,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0203,﻿academy,﻿St. Vincent's Academy,English,,,,,,﻿Buffalo,,﻿NY,,,,,,,,,,,,,,,﻿Daughters of Charity,,1858,﻿,﻿,﻿Buffalo,Buffalo
+﻿buf.ny.0168,﻿hospital,﻿Buffalo Hospital,English,,,,,,﻿Buffalo,,﻿NY,,﻿42.928451,﻿-78.848261,,,,,,,,,,,,﻿Daughters of Charity,,1858,﻿,﻿,﻿Buffalo,Buffalo
