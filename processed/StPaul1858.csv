@@ -1,8 +1,8 @@
 ﻿instID,church_type,instName,language,instNote,placeName,region,county_orig,county_reg,city_orig,city_reg,state_orig,state_reg,latitude,longitude,attendingInstID,attendingChurch,attendingChurchFrequency,persID,persTitle,persName,persSuffix,persRole,persNote,memberType,member,affiliated,order,year,attendingPersID,attendingChurchNote,diocese,diocese_reg
 ﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿a_ravoux_001,﻿Very Rev.,﻿Aug. Ravoux,,﻿V.G.,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,,﻿Rev.,﻿Denis Ledon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿den_ledon_001,﻿Rev.,﻿Denis Ledon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0001,﻿cathedral,﻿St. Paul's,English,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.945918,-93.096646,,,,﻿tho_mcmannus_001,﻿Rev.,﻿Thomas McManus,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,,﻿Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿dem_marogna_001,﻿Rev.,﻿Demetrius Marogna,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0002,﻿church,﻿Assumption of the B. V. M.,﻿German,,,,﻿Ramsey County,﻿Ramsey County,﻿St. Paul,﻿St. Paul,﻿MN,,44.948525,-93.099707,,,,﻿stp.mn.0002,﻿Rev.,﻿G. Keller,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0008,﻿church,[Unnamed Institution],English,,,,﻿Ausha County,﻿Anoka County,﻿Anoka,﻿Anoka,﻿MN,,45.199199,-93.38274,﻿stp.mn.0356,﻿Attended from Palestine,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0335,﻿church,﻿St. Andrew's,English,,,,﻿Benton County,,﻿Belle Prairie,﻿Belle Prairie,﻿MN,,46.021944,-94.2825,﻿stp.mn.0031,﻿Visited from Crow Wing,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
@@ -20,16 +20,16 @@
 ﻿stp.mn.0050,﻿church,﻿St. Bridget's,English,,,,﻿Fillmore County,﻿Fillmore County,﻿Chatfield,﻿Chatfield,﻿MN,,43.841645,-92.189244,﻿stp.mn.0149,﻿Visited from Shacopee,,﻿fra_x_pierz_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0373,﻿church,﻿St. John the Baptist,English,,,,,﻿Scott County,﻿Credit River,,﻿MN,,,,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0373,﻿church,﻿St. John the Baptist,English,,,,,﻿Scott County,﻿Credit River,,﻿MN,,,,﻿stp.mn.0001,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0031,﻿church,﻿St. Francis Xavier,English,,,,﻿Morrison County,﻿Crow Wing County,﻿Crow Wing,﻿Crow Wing,﻿MN,,46.279967,-94.2925,﻿stp.mn.0033,﻿Visited from Mendota,,,﻿Rev.,﻿Francis Pierz,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0031,﻿church,﻿St. Francis Xavier,English,,,,﻿Morrison County,﻿Crow Wing County,﻿Crow Wing,﻿Crow Wing,﻿MN,,46.279967,-94.2925,﻿stp.mn.0033,﻿Visited from Mendota,,﻿fra_pierz_001,﻿Rev.,﻿Francis Pierz,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0328,﻿church,[Unnamed Institution],English,,,,﻿Hennepin County,,﻿Dayton,,﻿MN,,45.243889,-93.515,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0129,﻿church,﻿St. Elizabeth,English,,,,﻿Rice County,﻿Rice County,﻿Farribault,﻿Faribault,﻿MN,,44.294964,-93.268827,﻿stp.mn.0356,﻿Attended from Palestine,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,﻿new church building,,,,﻿Hennepin County,﻿Falls of St. Anthony,﻿St. Anthony,﻿MN,,45.020891,-93.509457,﻿stp.mn.0033,﻿Visited from Mendota,,,﻿Rev.,﻿John Fayolle,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0070,﻿church,﻿St. Anthony of Padua,English,﻿new church building,,,,﻿Hennepin County,﻿Falls of St. Anthony,﻿St. Anthony,﻿MN,,45.020891,-93.509457,﻿stp.mn.0033,﻿Visited from Mendota,,﻿joh_fayolle_001,﻿Rev.,﻿John Fayolle,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0105,﻿church,[Unnamed Institution],English,,,,﻿Meeker County,﻿Meeker County,﻿Forest City,﻿Forest City,﻿MN,,45.206352,-94.46638,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0399,﻿church,[Unnamed Institution],English,,,,,﻿Crow Wing County,﻿Fort Ridgely,,﻿MN,,,,,﻿Attended by the Benedictines,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0174,﻿church,﻿St. Michael's,English,,,,﻿Wright County,﻿Wright County,﻿Frankfort,﻿Frankfort Township,﻿MN,,45.15382,-94.019094,﻿stp.mn.0012,﻿Visited from Mankato,,﻿joh_mcmahon_002,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0377,﻿church,﻿St. Thomas,English,,,,﻿Blue Earth County,﻿Sibley County,﻿Gessenland,,﻿MN,,,,,﻿Visited by the Benedictines,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0345,﻿church,[Unnamed Institution],English,,,,﻿Hennepin County,,﻿Greenwood,,﻿MN,,44.915,-93.553333,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0032,﻿church,﻿Guardian Angels,English,,,,﻿Dakotah County,﻿Dakota County,﻿Hastings,﻿Hastings,﻿MN,,44.741982,-92.850532,﻿stp.mn.0356,﻿Attended from Palestine,,,﻿Rev.,﻿John McMahon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0032,﻿church,﻿Guardian Angels,English,,,,﻿Dakotah County,﻿Dakota County,﻿Hastings,﻿Hastings,﻿MN,,44.741982,-92.850532,﻿stp.mn.0356,﻿Attended from Palestine,,﻿joh_mcmahon_002,﻿Rev.,﻿John McMahon,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0166,﻿church,[Unnamed Institution],English,,,,,﻿Le Sueur County,﻿Henderson,﻿Henderson,﻿MN,,44.525987,-93.908159,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0349,﻿church,[Unnamed Institution],English,,﻿Holmes' Mills,,,﻿Carver County,,,﻿MN,,44.664722,-93.635278,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0378,﻿church,[Unnamed Institution],English,,,,﻿Scott County,,﻿Kilkenny,,﻿MN,,,,﻿stp.mn.0149,﻿Visited from Shacopee,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
@@ -39,58 +39,58 @@
 ﻿stp.mn.0038,﻿church,[Unnamed Institution],English,,,,﻿Dakotah County,﻿Dakota County,﻿Lakeville,﻿Lakeville,﻿MN,,44.649687,-93.24272,﻿stp.mn.0356,﻿Attended from Palestine,,﻿c_robert_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0380,﻿church,[Unnamed Institution],English,,,,,﻿Le Sueur County,﻿Lake Washington,,﻿MN,,,,﻿stp.mn.0033,﻿Visited from Mendota,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0092,﻿church,[Unnamed Institution],English,,,,,﻿Le Sueur County,﻿Le Sueur,﻿Le Sueur,﻿MN,,44.459852,-93.911363,﻿stp.mn.0012,﻿Visited from Mankato,,﻿v_sommereisen_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0007,﻿church,﻿St. John Evangelist,English,,,,﻿Ramsay County,﻿Ramsey County,﻿Little Canada,﻿Little Canada,﻿MN,,45.020585,-93.085248,﻿stp.mn.0012,﻿Visited from Mankato,,,﻿Rev.,﻿Claude Robert,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0007,﻿church,﻿St. John Evangelist,English,,,,﻿Ramsay County,﻿Ramsey County,﻿Little Canada,﻿Little Canada,﻿MN,,45.020585,-93.085248,﻿stp.mn.0012,﻿Visited from Mankato,,﻿cla_robert_001,﻿Rev.,﻿Claude Robert,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0406,﻿church,[Unnamed Institution],English,,,,,﻿Scott County,﻿Louisville,,﻿MN,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0012,﻿church,﻿St. Philip's,English,,,,﻿Blue Earth County,﻿Blue Earth County,﻿Mankato,﻿Mankato,﻿MN,,44.163578,-93.9994,﻿stp.mn.0149,﻿Attended from Shacopee,,,﻿Rev.,﻿Valentine Sommereisen,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0012,﻿church,﻿St. Philip's,English,,,,﻿Blue Earth County,﻿Blue Earth County,﻿Mankato,﻿Mankato,﻿MN,,44.163578,-93.9994,﻿stp.mn.0149,﻿Attended from Shacopee,,﻿val_sommereisen_001,﻿Rev.,﻿Valentine Sommereisen,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0286,﻿church,[Unnamed Institution],English,,﻿Marine,,﻿Washington County,﻿Washington County,,,﻿MN,,45.198056,-92.768333,,,,﻿a_oster_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0407,﻿church,[Unnamed Institution],English,,,,﻿Sherborn County,,﻿Marseilles,,﻿MN,,,,﻿stp.mn.0203,﻿Attended from Still Water,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0354,﻿church,[Unnamed Institution],English,,,,,﻿Wright County,﻿Marysville,,﻿MN,,45.1,-93.95,,﻿Visited by the Benedictines,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0033,﻿church,﻿St. Peter's,English,,,,﻿Dakotah County,﻿Dakota County,﻿Mendota,﻿Mendota,﻿MN,,44.885716,-93.168317,,,,,﻿Rev.,﻿Anatole Oster,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0033,﻿church,﻿St. Peter's,English,,,,﻿Dakotah County,﻿Dakota County,﻿Mendota,﻿Mendota,﻿MN,,44.885716,-93.168317,,,,﻿ana_oster_001,﻿Rev.,﻿Anatole Oster,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0072,﻿church,[Unnamed Institution],English,,,,﻿Hennepin County,﻿Hennepin County,﻿Minneapolis,﻿Minneapolis,﻿MN,,44.977753,-93.265011,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0035,﻿church,[Unnamed Institution],English,,,,﻿Dakotah County,﻿Dakota County,﻿New Treves,﻿New Trier,﻿MN,,44.601356,-92.934097,﻿stp.mn.0070,﻿Attended from St. Anthony,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0017,﻿church,[Unnamed Institution],English,,,,﻿Blue Earth County,﻿Brown County,﻿New Ulm,﻿New Ulm,﻿MN,,44.314439,-94.459302,﻿stp.mn.0001,﻿Visited from St. Paul,,﻿fra_hurth_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0384,﻿church,[Unnamed Institution],English,,,,﻿Dakotah County,﻿Dakota County,﻿Nininger,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0385,﻿church,[Unnamed Institution],English,,,,﻿Goodhue County,,﻿Oak Spring,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0356,﻿church,﻿St. John the Baptist,English,,,,﻿Hennepin County,,﻿Palestine,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,,,﻿Rev.,﻿Francis Hürth,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0217_02,﻿mission,﻿St. Joseph's,English,,﻿on N. Red River,,﻿Dacotah County,,﻿Pembina,,﻿MN,﻿ND,46.715817,-92.513266,,,,,﻿Rev.,﻿Joseph Bellecourt,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0217_01,﻿church,﻿Church of the Assumption,English,,﻿20 miles from Pembia,,﻿Dacotah County,,﻿Pembina,,﻿MN,﻿ND,46.715817,-92.513266,,,,,﻿Rev.,﻿Joseph Bellecourt,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0356,﻿church,﻿St. John the Baptist,English,,,,﻿Hennepin County,,﻿Palestine,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,,﻿fra_hürth_001,﻿Rev.,﻿Francis Hürth,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0217_02,﻿mission,﻿St. Joseph's,English,,﻿on N. Red River,,﻿Dacotah County,,﻿Pembina,,﻿MN,﻿ND,46.715817,-92.513266,,,,﻿jos_bellecourt_001,﻿Rev.,﻿Joseph Bellecourt,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0217_01,﻿church,﻿Church of the Assumption,English,,﻿20 miles from Pembia,,﻿Dacotah County,,﻿Pembina,,﻿MN,﻿ND,46.715817,-92.513266,,,,﻿jos_bellecourt_001,﻿Rev.,﻿Joseph Bellecourt,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0387,﻿church,[Unnamed Institution],English,,,,﻿Washington County,,﻿Point Douglass,,﻿MN,,,,,,,﻿cle_staub_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0387,﻿church,[Unnamed Institution],English,,,,﻿Goodhue County,,﻿Red Wing,,﻿MN,,,,﻿stp.mn.0032,﻿Attended from Hastings,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0409,﻿church,[Unnamed Institution],English,,,,﻿Wabashaw County,,﻿Reed's Landing,,﻿MN,,,,﻿stp.mn.0032,﻿Visited from Hastings,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0139,﻿church,﻿St. Peter and St. Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond's Prairie,﻿Richmond,﻿MN,,45.455285,-94.518118,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,,﻿Rev.,﻿C. Staub,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0139,﻿church,﻿St. Peter and St. Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond's Prairie,﻿Richmond,﻿MN,,45.455285,-94.518118,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,﻿c_staub_001,﻿Rev.,﻿C. Staub,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0139,﻿church,﻿St. Peter and St. Paul,English,,,,﻿Stearns County,﻿Stearns County,﻿Richmond's Prairie,﻿Richmond,﻿MN,,45.455285,-94.518118,﻿stp.mn.0001,,,﻿cor_wittman_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0120,﻿church,[Unnamed Institution],English,,,,﻿Olmsted County,﻿Olmstead County,﻿Rochester,﻿Rochester,﻿MN,,44.012122,-92.480199,﻿stp.mn.0281,"﻿Visited by C. Staub, O.S.B.",,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0410,﻿church,﻿St. Augustine's,English,,,,﻿Stearns County,,﻿St. Augusta,,﻿MN,,,,,﻿Visited from St. Paul or Mendota,,﻿cle_staub_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0411,﻿church,﻿St. Benedict,English,,,,﻿Fillmore County,,﻿St. Benedict,,﻿MN,,,,﻿stp.mn.0414,﻿Visited from Sauk Rapids,,﻿bru_ries_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0138,﻿church,﻿St. Clotilde,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Claude,﻿St. Cloud,﻿MN,,45.557945,-94.16324,﻿stp.mn.0149,﻿Visited from Shacopee,,,﻿Rev.,﻿Cornelius Wittman,﻿O.S.B.,﻿Prior,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0138,﻿church,﻿St. Clotilde,English,,,,﻿Stearns County,﻿Stearns County,﻿St. Claude,﻿St. Cloud,﻿MN,,45.557945,-94.16324,﻿stp.mn.0149,﻿Visited from Shacopee,,﻿cor_wittman_001,﻿Rev.,﻿Cornelius Wittman,﻿O.S.B.,﻿Prior,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0412,﻿church,﻿St. Francis,English,,,,﻿Carver County,,,,﻿MN,,,,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0281,﻿church,﻿St. James,English,,﻿St. Jacob's Settlement,,﻿Stearns County,﻿Stearns County,,,﻿MN,,,,﻿stp.mn.0149,﻿Visited from Shacopee,,,﻿Rev.,﻿Clement Staub,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0281,﻿church,﻿St. James,English,,﻿St. Jacob's Settlement,,﻿Stearns County,﻿Stearns County,,,﻿MN,,,,﻿stp.mn.0149,﻿Visited from Shacopee,,﻿cle_staub_001,﻿Rev.,﻿Clement Staub,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0140,﻿church,﻿St. Joseph,English,,,,﻿Stearns County,,﻿St. Joseph's Prairie,,﻿MN,,45.563993,-94.318649,,,,﻿a_roetzer_001,﻿Rev.,﻿Bruno Ries,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0156,﻿church,[Unnamed Institution],English,,,,,﻿Scott County,﻿St. Marystown,﻿Marystown,﻿MN,,44.720796,-93.541343,,,,﻿ben_haindl_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0182,﻿church,[Unnamed Institution],English,,,,﻿Waseca County,﻿Waseca County,﻿St. Mary,﻿St. Mary's,﻿MN,,44.058436,-93.601521,﻿stp.mn.0149,﻿Visited from Shakopee,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0116,﻿church,﻿St. Peter's,English,,,,﻿Nicollet County,﻿Nicollet County,﻿St. Peter,﻿St. Peter,﻿MN,,44.332054,-93.976611,﻿stp.mn.0012,﻿Visited from Mankato,,﻿tho_murray_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0414,﻿church,﻿St. Luke's,English,,,,﻿Benton County,,﻿Sauk Rapids,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Mankato,,,﻿Rev.,﻿Alexius Roetzer,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shacopee,,﻿MN,,44.795299,-93.529065,,,,,﻿Rev.,﻿Benedict Haindl,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0414,﻿church,﻿St. Luke's,English,,,,﻿Benton County,,﻿Sauk Rapids,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Mankato,,﻿ale_roetzer_001,﻿Rev.,﻿Alexius Roetzer,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0149,﻿church,﻿St. Mark's,English,﻿stone church,,,﻿Scott County,,﻿Shacopee,,﻿MN,,44.795299,-93.529065,,,,﻿ben_haindl_001,﻿Rev.,﻿Benedict Haindl,﻿O.S.B.,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0337,﻿church,[Unnamed Institution],English,,,,﻿Rice County,,﻿Shieldsville,,﻿MN,,44.363911,-93.412949,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0203,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Still Water,﻿Stillwater,﻿MN,,45.051158,-92.806301,﻿stp.mn.0033,﻿Visited from Mendota,,,﻿Rev.,﻿Thomas Murray,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0203,﻿church,﻿St. Michael's,English,,,,﻿Washington County,﻿Washington County,﻿Still Water,﻿Stillwater,﻿MN,,45.051158,-92.806301,﻿stp.mn.0033,﻿Visited from Mendota,,﻿tho_murray_001,﻿Rev.,﻿Thomas Murray,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0027,﻿church,[Unnamed Institution],English,,,,﻿Chisago County,﻿Chisago County,﻿Taylor's Falls,﻿Taylors Falls,﻿MN,,45.401906,-92.652429,,,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0391,﻿church,[Unnamed Institution],English,,,,﻿Le Sueur County,,﻿Traverse des Sioux,,﻿MN,,,,﻿stp.mn.0203,﻿Attended from Still Water,,﻿cor_wittman_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0391,﻿church,﻿Visitation,English,,,,﻿Le Sueur County,,﻿Traverse des Sioux,,﻿MN,,,,﻿stp.mn.0012,﻿Visited from Mankato,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0186,﻿church,[Unnamed Institution],English,,,,﻿Wabashaw County,﻿Wabasha County,﻿Wabashaw,﻿Wabasha,﻿MN,,44.381067,-92.032476,﻿stp.mn.0149,﻿Visited from Shacopee,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0363,﻿church,﻿St. Thomas,English,,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,,,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0363,﻿church,﻿St. Thomas,English,,,,﻿Winona County,﻿Winona County,﻿Winona,﻿Winona,﻿MN,,,,﻿stp.mn.0001,,,﻿cyril_stp.mn_001,,,,,,,,,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0228_03,﻿convent,﻿Convent of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Claud,,﻿MN,,45.579768,-94.393892,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,,﻿Rev.,﻿Cornelius Wittman,,﻿Prior,,﻿religious,"﻿fathers, 4",﻿Order of St. Benedict,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0228_03,﻿convent,﻿Convent of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Claud,,﻿MN,,45.579768,-94.393892,﻿stp.mn.0033,﻿Visited from Mendota or St. Paul,,﻿cor_wittman_001,﻿Rev.,﻿Cornelius Wittman,,﻿Prior,,﻿religious,"﻿fathers, 4",﻿Order of St. Benedict,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Convent of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Claud,,﻿MN,,45.579768,-94.393892,﻿stp.mn.0001,,,,,,,,,﻿religious,"﻿fathers, 4",﻿Order of St. Benedict,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0228_03,﻿convent,﻿Convent of the Order of St. Benedict,English,,,,﻿Stearns County,,﻿St. Claud,,﻿MN,,45.579768,-94.393892,,,,,,,,,,﻿layperson,"﻿lay brothers, 6",﻿Order of St. Benedict,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0140_02&0140_03,﻿convent,﻿Convent of Benedictine Nuns,English,,,,,﻿Stearns County,,﻿St. Cloud,﻿MN,,45.563993,-94.318649,,,,,,,,,,﻿teacher,"﻿professor, 4",,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0140_02&0140_03,﻿convent,﻿Convent of Benedictine Nuns,English,,,,,﻿Stearns County,,﻿St. Cloud,﻿MN,,45.563993,-94.318649,,,,,,,,,,﻿religious,"﻿nov., 3",,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0423,﻿school,﻿High School,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 20",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0424,﻿school,﻿Primary,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 40",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0417,﻿free school,﻿Free School,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 100",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0423,﻿school,﻿High School,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,﻿cyril_stp.mn_001,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 20",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0424,﻿school,﻿Primary,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,﻿cyril_stp.mn_001,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 40",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0417,﻿free school,﻿Free School,English,,,,,,﻿St. Paul,,﻿MN,,,,,,,﻿cyril_stp.mn_001,﻿Brother,﻿Cyril,,﻿Superior,,﻿student,"﻿pupils, 100",﻿Brothers of the Holy Family,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0421,﻿academy,﻿St. Joseph's Female Academy,English,,,,,﻿Ramsey County,﻿St. Paul,,﻿MN,,,,,,,﻿seraphine_stp.mn_001,﻿Mother,﻿Protase,,﻿Superior,,,,﻿under the Sisters of St. Joseph,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0305,﻿academy,﻿St. Mary's Female Academy,English,,,,,﻿Hennepin County,﻿St. Anthony's Falls,﻿Minneapolis,﻿MN,,44.981667,-93.258611,,,,,﻿Sister,﻿Scholastica,,﻿Superior,,,,﻿under the Sisters of St. Joseph,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0305,﻿academy,﻿St. Mary's Female Academy,English,,,,,﻿Hennepin County,﻿St. Anthony's Falls,﻿Minneapolis,﻿MN,,44.981667,-93.258611,,,,﻿scholastica_stp.mn_001,﻿Sister,﻿Scholastica,,﻿Superior,,,,﻿under the Sisters of St. Joseph,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0419,"﻿academy, convent",﻿Convent and Academy of the Sisters of the Propagration of the Faith,English,,,,,,﻿Pembina,,﻿MN,,,,,,,,,,,,,﻿religious,"﻿sisters, 7",﻿Sister of the Propagation of the Faith,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0419,﻿school for boys,﻿Convent and Academy of the Sisters of the Propagration of the Faith,English,﻿boys' school,﻿Cathedral,,,,﻿St. Paul,,﻿MN,,,,,,,,,,,,,﻿religious,"﻿sisters, 7",﻿Sister of the Propagation of the Faith,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0419,﻿select school,﻿Convent and Academy of the Sisters of the Propagration of the Faith,English,﻿boys' school,﻿Cathedral,,,,﻿Mendota,,﻿MN,,,,,,,,,,,,,﻿religious,"﻿sisters, 7",﻿Sister of the Propagation of the Faith,,1858,﻿,﻿,﻿St. Paul,StPaul
 ﻿stp.mn.0419,﻿select school,﻿Convent and Academy of the Sisters of the Propagration of the Faith,English,﻿boys' school,﻿Cathedral,,,,﻿Still Water,,﻿MN,,,,,,,,,,,,,﻿religious,"﻿sisters, 7",﻿Sister of the Propagation of the Faith,,1858,﻿,﻿,﻿St. Paul,StPaul
-﻿stp.mn.0420,﻿hospital,﻿St. Joseph's Hospital,English,,,,,,﻿St. Paul,,﻿MN,,44.949167,-93.1,,,,,﻿Sister,﻿Seraphine,,﻿Superior,,,,﻿under the charge of the Sisters of St. Joseph,,1858,﻿,﻿,﻿St. Paul,StPaul
+﻿stp.mn.0420,﻿hospital,﻿St. Joseph's Hospital,English,,,,,,﻿St. Paul,,﻿MN,,44.949167,-93.1,,,,﻿seraphine_stp.mn_001,﻿Sister,﻿Seraphine,,﻿Superior,,,,﻿under the charge of the Sisters of St. Joseph,,1858,﻿,﻿,﻿St. Paul,StPaul

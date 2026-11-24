@@ -31,7 +31,7 @@
 ﻿ore.or.0041,﻿church,[Unnamed Institution],English,,,,,,﻿Empire City,﻿Coos Bay,﻿OR,,43.367221,-124.213132,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0043,﻿church,[Unnamed Institution],English,,,,,,﻿Port Oxford,﻿Port Oxford,﻿OR,,43.804133,-120.554201,﻿ore.or.0001,﻿Attended from Portland,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0042,﻿church,[Unnamed Institution],English,,,"﻿on the Pacific Coast, at the mouth of the Rouge River",,,﻿Ellenburgh,,,,43.513874,-123.804062,,,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0045,﻿church,﻿St. Joseph's,English,,,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0045,﻿church,﻿St. Joseph's,English,,,,,,﻿Jacksonville,﻿Jacksonville,﻿OR,,42.313458,-122.966986,,,,﻿f_x_blanchet_001,﻿Rev.,﻿F. X. Blanchet,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0048,﻿church,[Unnamed Institution],English,,,,,,﻿Kerbyville,﻿Kerby,﻿OR,,42.440125,-122.926155,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0047,﻿church,[Unnamed Institution],English,,,,,,﻿Waldo,﻿Waldo,﻿OR,,43.804133,-120.554201,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0046,﻿church,[Unnamed Institution],English,,,,,,﻿Allen Gulch,﻿Allen Gulch,﻿OR,,42.344757,-123.456874,﻿ore.or.0045,﻿attended from Jacksonville,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
@@ -43,7 +43,7 @@
 ﻿ore.or.0023,﻿church,[Unnamed Institution],English,,﻿Siletz Indian Reservation,,,,,,﻿OR,,44.721784,-123.920113,﻿ore.or.0018,﻿attended from St. Michael's,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0051,﻿church,﻿St. Peter's,English,,,,,,﻿Dalles City,﻿City of the Dalles,﻿OR,,45.601772,-121.184843,,,,﻿g_a_vermersch_001,﻿Rev.,﻿Gustave Adolphe Vermeersch,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0054,﻿church,[Unnamed Institution],English,,﻿The Indian Reservation of Warm Springs,,,,,,﻿OR,,43.804133,-120.554201,﻿ore.or.0051,﻿attended from Dalles City,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0062,﻿church,[Unnamed Institution],English,,,,,,﻿Cañon City,﻿Canyon City,﻿OR,,44.3896,-118.950231,,﻿attended from -,,,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0062,﻿church,[Unnamed Institution],English,,,,,,﻿Cañon City,﻿Canyon City,﻿OR,,44.3896,-118.950231,,﻿attended from -,,﻿leo_dieleman_001,﻿Rev.,﻿Leopold Dieleman,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0071,﻿church,[Unnamed Institution],English,,,﻿on the John Day,,,﻿Granite City,﻿Granite City,﻿OR,,43.804133,-120.554201,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0060,﻿church,[Unnamed Institution],English,,,﻿on Powder River,,,﻿Auburn,,﻿OR,,44.693804,-117.931859,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0010,﻿church,[Unnamed Institution],English,,,﻿on Salmon River,,,﻿Florence,﻿Florence,﻿ID,,45.501111,-116.028333,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
@@ -58,7 +58,7 @@
 ﻿boi.id.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,43.615833,-116.201667,,,,﻿z_poulin_001,﻿Rev.,﻿A. Z. Poulin,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿boi.id.0002,﻿church,[Unnamed Institution],English,,,,,,﻿Fort Boise,﻿Boise,﻿ID,,43.615833,-116.201667,,,,﻿t_mesplié_001,﻿Rev.,﻿Toussaint Mesplié,,﻿Pastor,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0058,﻿mission,[Unnamed Institution],English,﻿no chapel,﻿Cayous Indian Reservation,,,,﻿Umalilla,﻿Umatilla,﻿OR,,45.670408,-118.68359,,﻿attended from -,,,,,,,,,,,,1864,﻿,﻿,﻿Oregon City,OregonCity
-﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,﻿Sister,﻿Mary of the Seven Dolors,,﻿Superioress,,﻿religious,﻿12 sisters,﻿By the Sisters of the Holy Names of Jesus and Mary,,1864,﻿,﻿,﻿Oregon City,OregonCity
+﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,﻿m-of-the-seven-dolors_ore.or_001,﻿Sister,﻿Mary of the Seven Dolors,,﻿Superioress,,﻿religious,﻿12 sisters,﻿By the Sisters of the Holy Names of Jesus and Mary,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿boarder,﻿41 boarders,﻿By the Sisters of the Holy Names of Jesus and Mary,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿student,﻿78 day scholars,﻿By the Sisters of the Holy Names of Jesus and Mary,,1864,﻿,﻿,﻿Oregon City,OregonCity
 ﻿ore.or.0072,﻿academy,﻿St. Mary's Academy,English,﻿for young ladies; Opened in November 1859,,,,,﻿Portland,﻿Portland,﻿OR,,45.512531,-122.681274,,,,,,,,,,﻿child,﻿16 little orphan boys,﻿By the Sisters of the Holy Names of Jesus and Mary,,1864,﻿,﻿,﻿Oregon City,OregonCity
